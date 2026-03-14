@@ -685,6 +685,7 @@ SVG_SPEAKER = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" strok
 SVG_CLOCK = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>'
 SVG_FOLDER = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/></svg>'
 SVG_EPISODES = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>'
+SVG_BOOK = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>'
 SVG_DOWNLOAD = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>'
 SVG_HEADPHONES = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 18v-6a9 9 0 0 1 18 0v6"/><path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"/></svg>'
 
@@ -774,6 +775,11 @@ def build_homepage(catalog):
                 if ep.get("duration_seconds", 0) > 0:
                     ep_count += 1
         podcast_url = f"podcast://{FEEDS_BASE_URL.replace('https://', '')}/{slug}.xml"
+        # Liens livres (toujours inclus — générés par build_books.py)
+        book_links = (
+            f'<a href="/books/{slug}.pdf" class="subscribe">{SVG_BOOK} PDF</a>'
+            f'<a href="/books/{slug}.epub" class="subscribe">EPUB</a>'
+        )
         cards.append(f"""
       <div class="feed-card">
         <div class="feed-card-header">
@@ -786,6 +792,7 @@ def build_homepage(catalog):
             <span>{SVG_EPISODES} {ep_count} talks</span>
             <span>{SVG_FOLDER} {fdata.get('season_count', 1)} seasons</span>
             <a href="{podcast_url}" class="subscribe">{SVG_HEADPHONES} Subscribe</a>
+            {book_links}
           </div>
         </div>
       </div>""")
@@ -1098,10 +1105,17 @@ def build_site():
         slug = fdata.get("slug", key.replace("_", "-"))
         catalog[slug] = fdata
 
-    # Nettoyer et créer le répertoire de sortie
+    # Nettoyer et créer le répertoire de sortie (préserver books/)
     if SITE_DIR.exists():
-        shutil.rmtree(SITE_DIR)
-    SITE_DIR.mkdir(parents=True)
+        for item in SITE_DIR.iterdir():
+            if item.name == "books":
+                continue
+            if item.is_dir():
+                shutil.rmtree(item)
+            else:
+                item.unlink()
+    else:
+        SITE_DIR.mkdir(parents=True)
 
     # CSS
     (SITE_DIR / "style.css").write_text(CSS, encoding="utf-8")

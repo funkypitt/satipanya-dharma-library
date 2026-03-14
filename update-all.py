@@ -70,7 +70,11 @@ def main():
     if not quick:
         run("Pass 6: Beautifying transcripts", [PYTHON, "podcastify.py", "beautify"])
 
-    run("Pass 7: Building website + PDFs", [PYTHON, "build_site.py"])
+    NEWSPAPERS_PYTHON = str(
+        Path.home() / "miniconda3" / "envs" / "newspapers" / "bin" / "python"
+    )
+    run("Pass 7: Building books (PDF + EPUB)", [NEWSPAPERS_PYTHON, "build_books.py"])
+    run("Pass 8: Building website + PDFs", [PYTHON, "build_site.py"])
 
     print("\n╔══════════════════════════════════════════════════════════╗")
     print("║                    Update complete                      ║")
