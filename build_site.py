@@ -6,6 +6,7 @@ import re
 import shutil
 from pathlib import Path
 from html import escape as h
+from fpdf import FPDF
 
 # ── Configuration ──────────────────────────────────────────────
 
@@ -108,6 +109,94 @@ def keyword_tags_html(keywords):
         for kw in keywords
     )
     return f'<div class="tags">{tags}</div>'
+
+
+# ── PDF ────────────────────────────────────────────────────────
+
+FONT_DIR = Path("/usr/share/fonts/truetype/noto")
+
+class TranscriptPDF(FPDF):
+    """PDF avec en-tête et pied de page Satipanya."""
+
+    def __init__(self, title, speaker, feed_name):
+        super().__init__()
+        self._title = title
+        self._speaker = speaker
+        self._feed_name = feed_name
+        self.add_font("NotoSerif", "", str(FONT_DIR / "NotoSerif-Regular.ttf"))
+        self.add_font("NotoSerif", "I", str(FONT_DIR / "NotoSerif-Italic.ttf"))
+        self.add_font("NotoSerif", "B", str(FONT_DIR / "NotoSerif-Bold.ttf"))
+        self.set_auto_page_break(auto=True, margin=25)
+
+    def header(self):
+        if self.page_no() == 1:
+            return  # première page a son propre en-tête
+        self.set_font("NotoSerif", "I", 8)
+        self.set_text_color(120, 113, 108)
+        self.cell(0, 8, self._title, align="L")
+        self.ln(12)
+
+    def footer(self):
+        self.set_y(-20)
+        self.set_font("NotoSerif", "I", 8)
+        self.set_text_color(120, 113, 108)
+        self.cell(0, 8, f"Satipanya Buddhist Retreat — {self._feed_name}", align="L")
+        self.cell(0, 8, str(self.page_no()), align="R")
+
+
+def generate_pdf(output_path, title, speaker, feed_name, duration_str, article_text):
+    """Génère un PDF élégant pour un transcript beautifié."""
+    pdf = TranscriptPDF(title, speaker, feed_name)
+    pdf.add_page()
+
+    # ── Page de titre intégrée ──
+    pdf.ln(15)
+    pdf.set_font("NotoSerif", "B", 22)
+    pdf.set_text_color(45, 41, 38)
+    pdf.multi_cell(0, 11, title, align="L")
+    pdf.ln(4)
+    pdf.set_font("NotoSerif", "", 11)
+    pdf.set_text_color(120, 113, 108)
+    pdf.cell(0, 7, f"{speaker}  ·  {feed_name}  ·  {duration_str}", new_x="LMARGIN", new_y="NEXT")
+    pdf.ln(2)
+    # Ligne décorative
+    pdf.set_draw_color(184, 134, 11)  # saffron
+    pdf.set_line_width(0.5)
+    pdf.line(pdf.l_margin, pdf.get_y(), pdf.w - pdf.r_margin, pdf.get_y())
+    pdf.ln(10)
+
+    # ── Corps du texte ──
+    pdf.set_text_color(45, 41, 38)
+    paragraphs = article_text.split("\n\n")
+    for para in paragraphs:
+        para = para.strip()
+        if not para:
+            continue
+        # Découper en segments normal / *italique*
+        parts = re.split(r'(\*[^*]+\*)', para)
+        for part in parts:
+            if part.startswith("*") and part.endswith("*"):
+                pdf.set_font("NotoSerif", "I", 10.5)
+                pdf.write(6.5, part[1:-1])
+            else:
+                pdf.set_font("NotoSerif", "", 10.5)
+                pdf.write(6.5, part)
+        pdf.ln(10)
+
+    # ── Note de fin ──
+    pdf.ln(5)
+    pdf.set_draw_color(184, 134, 11)
+    pdf.set_line_width(0.3)
+    pdf.line(pdf.l_margin, pdf.get_y(), pdf.l_margin + 40, pdf.get_y())
+    pdf.ln(4)
+    pdf.set_font("NotoSerif", "I", 8)
+    pdf.set_text_color(120, 113, 108)
+    pdf.multi_cell(0, 5,
+        "Transcriptions produced locally using Swiss low-carbon electricity. "
+        "Corrections and rewriting by cloud-hosted AI.")
+
+    pdf.output(str(output_path))
+
 
 # ── CSS ────────────────────────────────────────────────────────
 
@@ -457,6 +546,22 @@ a.feed-card { color: inherit; text-decoration: none; }
   background: var(--bg-alt);
   border-radius: var(--radius);
 }
+.transcript-header {
+  display: flex; align-items: center; justify-content: space-between;
+  flex-wrap: wrap; gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+.transcript-header h2 { margin-bottom: 0; }
+.btn-pdf {
+  display: inline-flex; align-items: center; gap: 0.4rem;
+  font-size: 0.8rem; font-weight: 500;
+  color: var(--accent);
+  background: var(--accent-light);
+  padding: 0.35rem 0.85rem;
+  border-radius: 100px;
+  transition: background .15s, color .15s;
+}
+.btn-pdf:hover { background: var(--accent); color: white; }
 
 /* Episode navigation */
 .episode-nav {
@@ -580,6 +685,7 @@ SVG_SPEAKER = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" strok
 SVG_CLOCK = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>'
 SVG_FOLDER = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/></svg>'
 SVG_EPISODES = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>'
+SVG_DOWNLOAD = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>'
 SVG_HEADPHONES = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 18v-6a9 9 0 0 1 18 0v6"/><path d="M21 19a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3zM3 19a2 2 0 0 0 2 2h1a2 2 0 0 0 2-2v-3a2 2 0 0 0-2-2H3z"/></svg>'
 
 
@@ -625,6 +731,8 @@ def html_base(title, body_html, breadcrumbs=None, extra_head="", body_class=""):
   <footer class="site-footer">
     <p>Talks by <a href="https://www.satipanya.org.uk" target="_blank" rel="noopener">Satipanya Buddhist Retreat</a>.
     Site compiled from the original audio archive.</p>
+    <p>Transcriptions produced locally using Swiss low-carbon electricity. Corrections and rewriting by cloud-hosted AI.
+    <br>Source code and full archive on <a href="https://github.com/funkypitt/satipanya-dharma-library">GitHub</a>.</p>
   </footer>
 </body>
 </html>"""
@@ -789,10 +897,16 @@ def build_episode_page(slug, ep, prev_ep, next_ep, feed_name):
 
     # Transcript
     transcript_html = ""
-    if article:
+    pdf_link = ""
+    if article and stem:
+        pdf_name = f"{stem}.pdf"
+        pdf_link = f'<a href="/{slug}/{pdf_name}" class="btn-pdf" download>{SVG_DOWNLOAD} PDF</a>'
         transcript_html = f"""
       <section class="transcript-section">
-        <h2>Transcript</h2>
+        <div class="transcript-header">
+          <h2>Transcript</h2>
+          {pdf_link}
+        </div>
         <div class="transcript-text">
           {article_to_html(article)}
         </div>
@@ -1006,6 +1120,8 @@ def build_site():
 
     # Pages de feeds et épisodes
     total_episodes = 0
+    total_pdfs = 0
+    prev_pdfs = 0
     for slug in FEED_ORDER:
         fdata = catalog.get(slug)
         if not fdata:
@@ -1035,7 +1151,21 @@ def build_site():
             (feed_dir / f"{stem}.html").write_text(page_html, encoding="utf-8")
             total_episodes += 1
 
-        print(f"  ✓ {slug}/ (index + {len(valid_eps)} episodes)")
+            # PDF si un article beautifié existe
+            article = load_article(slug, stem)
+            if article:
+                meta = load_metadata(slug, stem)
+                title = meta.get("title_clean", ep.get("title", ""))
+                dur_str = format_duration(ep.get("duration_seconds", 0))
+                clean_feed = feed_name.replace("Satipanya — ", "")
+                generate_pdf(
+                    feed_dir / f"{stem}.pdf",
+                    title, ep.get("speaker", ""), clean_feed, dur_str, article,
+                )
+                total_pdfs += 1
+
+        print(f"  ✓ {slug}/ (index + {len(valid_eps)} episodes, {total_pdfs - prev_pdfs} PDFs)")
+        prev_pdfs = total_pdfs
 
     # Search index
     search_data = build_search_index(catalog)
@@ -1050,7 +1180,7 @@ def build_site():
     print(f"  ✓ search.html")
 
     print(f"\n{'=' * 60}")
-    print(f"Site built: {total_episodes} episode pages + 6 feed pages")
+    print(f"Site built: {total_episodes} episode pages, {total_pdfs} PDFs, 6 feed pages")
     print(f"Output: {SITE_DIR}/")
     print(f"{'=' * 60}")
 

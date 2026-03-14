@@ -343,6 +343,22 @@ a.feed-card { color: inherit; text-decoration: none; }
   background: var(--bg-alt);
   border-radius: var(--radius);
 }
+.transcript-header {
+  display: flex; align-items: center; justify-content: space-between;
+  flex-wrap: wrap; gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+.transcript-header h2 { margin-bottom: 0; }
+.btn-pdf {
+  display: inline-flex; align-items: center; gap: 0.4rem;
+  font-size: 0.8rem; font-weight: 500;
+  color: var(--accent);
+  background: var(--accent-light);
+  padding: 0.35rem 0.85rem;
+  border-radius: 100px;
+  transition: background .15s, color .15s;
+}
+.btn-pdf:hover { background: var(--accent); color: white; }
 
 /* Episode navigation */
 .episode-nav {
