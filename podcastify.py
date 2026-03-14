@@ -2,8 +2,9 @@
 """
 podcastify.py — Satipanya Buddhist Retreat Audio Archive → Podcast Pipeline
 
-Converts the audio archive at satipanya.org.uk into 6 structured podcast feeds
-with transcripts, AI-generated descriptions, cover art, and RSS feeds.
+Converts the audio archive at satipanya.org.uk and the YouTube channel into 7
+structured podcast feeds with transcripts, AI-generated descriptions, cover art,
+and RSS feeds.
 
 Pass 1: catalog     — Scrape all pages, build catalog.json
 Pass 2: probe       — Get duration/size via ffprobe on remote URLs
@@ -132,7 +133,23 @@ FEEDS = {
         "category": "Religion & Spirituality",
         "subcategory": "Buddhism",
     },
+    "youtube_channel": {
+        "name": "Satipanya — YouTube Talks",
+        "slug": "youtube-talks",
+        "author": "Bhante Bodhidhamma",
+        "description": (
+            "Dharma talks and teachings from the Satipanya Insight YouTube "
+            "channel — short to medium-length talks on Buddhist philosophy, "
+            "meditation practice, the Dhammapada, Satipaṭṭhāna, and daily life."
+        ),
+        "language": "en",
+        "category": "Religion & Spirituality",
+        "subcategory": "Buddhism",
+    },
 }
+
+YOUTUBE_CHANNEL_ID = "UC9VUwz45IDTMak1Qk-pMCVw"
+YOUTUBE_CHANNEL_URL = "https://www.youtube.com/@satipanya-insight/videos"
 
 
 # ============================================================
@@ -535,6 +552,56 @@ def group_into_seasons(entries: List[Dict], parse_mode: str,
 
 
 # ============================================================
+# YouTube channel scraping (yt-dlp)
+# ============================================================
+
+def fetch_youtube_videos():
+    """Récupère les métadonnées de toutes les vidéos du channel YouTube via yt-dlp."""
+    print("\n  Fetching YouTube channel metadata via yt-dlp...")
+    try:
+        result = subprocess.run(
+            ['yt-dlp', '--flat-playlist', '--dump-json',
+             f'https://www.youtube.com/channel/{YOUTUBE_CHANNEL_ID}/videos'],
+            capture_output=True, text=True, timeout=120
+        )
+        if result.returncode != 0:
+            print(f"  ERROR yt-dlp: {result.stderr[:200]}")
+            return []
+    except FileNotFoundError:
+        print("  ERROR: yt-dlp not installed. pip install yt-dlp")
+        return []
+    except subprocess.TimeoutExpired:
+        print("  ERROR: yt-dlp timeout")
+        return []
+
+    entries = []
+    for line in result.stdout.strip().split('\n'):
+        if not line.strip():
+            continue
+        try:
+            data = json.loads(line)
+        except json.JSONDecodeError:
+            continue
+        video_id = data.get('id', '')
+        title = data.get('title', 'Untitled')
+        duration = data.get('duration') or 0
+        entries.append({
+            'url': f'https://www.youtube.com/watch?v={video_id}',
+            'title': title,
+            'file_format': 'mp4',
+            'section': 'YouTube Talks',
+            'youtube_id': video_id,
+            'youtube_duration': duration,
+        })
+
+    # yt-dlp renvoie les vidéos de la plus récente à la plus ancienne ;
+    # on inverse pour avoir l'ordre chronologique
+    entries.reverse()
+    print(f"  Found {len(entries)} YouTube videos")
+    return entries
+
+
+# ============================================================
 # Pass 1: Catalog
 # ============================================================
 
@@ -607,6 +674,16 @@ def pass_catalog():
         # Polite delay
         if i < len(PAGES) - 1:
             time.sleep(REQUEST_DELAY)
+
+    # ── YouTube channel (7th feed) ──
+    yt_entries = fetch_youtube_videos()
+    if yt_entries:
+        for entry in yt_entries:
+            entry['speaker'] = 'Bhante Bodhidhamma'
+            entry['language'] = 'en'
+            entry['page_url'] = YOUTUBE_CHANNEL_URL
+        yt_seasons = group_into_seasons(yt_entries, "flat", "YouTube Talks")
+        feed_seasons["youtube_channel"].extend(yt_seasons)
 
     # ── Post-processing: merge duplicate seasons, absorb "Miscellaneous" ──
     for feed_id, seasons in feed_seasons.items():
@@ -791,6 +868,20 @@ def pass_probe():
                 break
         return size, duration
 
+    def probe_youtube(url):
+        """Probe une URL YouTube via yt-dlp pour obtenir la durée."""
+        try:
+            result = subprocess.run(
+                ['yt-dlp', '--dump-json', '--no-download', url],
+                capture_output=True, text=True, timeout=30
+            )
+            if result.returncode == 0:
+                data = json.loads(result.stdout)
+                return 0, float(data.get('duration', 0))
+        except Exception as e:
+            print(f"    yt-dlp probe failed: {e}")
+        return 0, 0.0
+
     save_every = 50
     for feed_id, feed_data in catalog.items():
         for season in feed_data['seasons']:
@@ -805,7 +896,10 @@ def pass_probe():
                 print(f"  [{probed}/{total-skipped}] {ep['title'][:50]}...",
                       flush=True)
 
-                size, duration = probe_one(url)
+                if 'youtube.com' in url or 'youtu.be' in url:
+                    size, duration = probe_youtube(url)
+                else:
+                    size, duration = probe_one(url)
                 ep['file_size_bytes'] = size
                 ep['duration_seconds'] = duration
                 if duration > 0:
@@ -900,49 +994,74 @@ def pass_transcribe():
 
                 print(f"  [{done}/{total}] {ep['title'][:50]}...")
 
-                # Download to temp file using curl (handles CDN better)
-                tmp_path = PROJECT_DIR / f"_tmp_audio.{ep['file_format']}"
-                # Encode URL path for curl (spaces → %20) while keeping scheme/host
-                dl_url = ep['url']
-                if ' ' in dl_url:
-                    from urllib.parse import urlparse, quote as urlquote
-                    p = urlparse(dl_url)
-                    dl_url = p._replace(path=urlquote(p.path)).geturl()
+                # Download audio
+                is_youtube = 'youtube.com' in ep['url'] or 'youtu.be' in ep['url']
+                tmp_path = PROJECT_DIR / f"_tmp_audio.{'wav' if is_youtube else ep['file_format']}"
                 downloaded = False
-                for attempt in range(4):
+
+                if is_youtube:
+                    # Télécharger l'audio YouTube via yt-dlp
+                    yt_tmp = PROJECT_DIR / "_tmp_yt_audio"
                     result = subprocess.run(
-                        ['curl', '-sS', '-L', '-f', '--http1.1',
-                         '--retry', '2', '--retry-delay', '10',
-                         '--max-time', '600',
-                         '-H', f'User-Agent: {REQUEST_HEADERS["User-Agent"]}',
-                         '-o', str(tmp_path), dl_url],
-                        capture_output=True, text=True, timeout=660
+                        ['yt-dlp', '-f', 'bestaudio/best',
+                         '-x', '--audio-format', 'wav',
+                         '--postprocessor-args', 'ffmpeg:-ar 16000 -ac 1',
+                         '-o', str(yt_tmp) + '.%(ext)s',
+                         '--no-playlist', ep['url']],
+                        capture_output=True, text=True, timeout=600
                     )
-                    if result.returncode == 0 and tmp_path.exists() and tmp_path.stat().st_size > 1000:
+                    # yt-dlp nomme le fichier avec l'extension réelle
+                    yt_wav = yt_tmp.with_suffix('.wav')
+                    if result.returncode == 0 and yt_wav.exists() and yt_wav.stat().st_size > 1000:
+                        yt_wav.rename(tmp_path)
                         downloaded = True
-                        break
                     else:
-                        err = result.stderr.strip()[:120] if result.stderr else f"exit {result.returncode}"
-                        file_size = tmp_path.stat().st_size if tmp_path.exists() else 0
-                        # If curl succeeded but file is tiny → broken server file, don't retry
-                        if result.returncode == 0 and file_size < 1000:
-                            print(f"    Broken file on server ({file_size}B), skipping",
-                                  flush=True)
+                        err = result.stderr.strip()[:200] if result.stderr else f"exit {result.returncode}"
+                        print(f"    yt-dlp download failed: {err}", flush=True)
+                        # Nettoyer les fichiers temporaires yt-dlp
+                        for p in PROJECT_DIR.glob("_tmp_yt_audio*"):
+                            p.unlink(missing_ok=True)
+                else:
+                    # Download direct via curl (CDN files)
+                    tmp_path = PROJECT_DIR / f"_tmp_audio.{ep['file_format']}"
+                    dl_url = ep['url']
+                    if ' ' in dl_url:
+                        from urllib.parse import urlparse, quote as urlquote
+                        p = urlparse(dl_url)
+                        dl_url = p._replace(path=urlquote(p.path)).geturl()
+                    for attempt in range(4):
+                        result = subprocess.run(
+                            ['curl', '-sS', '-L', '-f', '--http1.1',
+                             '--retry', '2', '--retry-delay', '10',
+                             '--max-time', '600',
+                             '-H', f'User-Agent: {REQUEST_HEADERS["User-Agent"]}',
+                             '-o', str(tmp_path), dl_url],
+                            capture_output=True, text=True, timeout=660
+                        )
+                        if result.returncode == 0 and tmp_path.exists() and tmp_path.stat().st_size > 1000:
+                            downloaded = True
                             break
-                        elif result.returncode == 22:
-                            # HTTP error (404, 401, etc.) — don't retry
-                            print(f"    HTTP error, skipping: {err}", flush=True)
-                            break
-                        elif '429' in err or 'rate' in err.lower():
-                            wait = 60 * (2 ** attempt)
-                            print(f"    Rate limited, waiting {wait}s...", flush=True)
-                            time.sleep(wait)
-                        elif attempt < 3:
-                            wait = 15 * (attempt + 1)
-                            print(f"    Download retry {attempt+1}: {err}", flush=True)
-                            time.sleep(wait)
                         else:
-                            print(f"    Download failed: {err}", flush=True)
+                            err = result.stderr.strip()[:120] if result.stderr else f"exit {result.returncode}"
+                            file_size = tmp_path.stat().st_size if tmp_path.exists() else 0
+                            if result.returncode == 0 and file_size < 1000:
+                                print(f"    Broken file on server ({file_size}B), skipping",
+                                      flush=True)
+                                break
+                            elif result.returncode == 22:
+                                print(f"    HTTP error, skipping: {err}", flush=True)
+                                break
+                            elif '429' in err or 'rate' in err.lower():
+                                wait = 60 * (2 ** attempt)
+                                print(f"    Rate limited, waiting {wait}s...", flush=True)
+                                time.sleep(wait)
+                            elif attempt < 3:
+                                wait = 15 * (attempt + 1)
+                                print(f"    Download retry {attempt+1}: {err}", flush=True)
+                                time.sleep(wait)
+                            else:
+                                print(f"    Download failed: {err}", flush=True)
+
                 if not downloaded:
                     tmp_path.unlink(missing_ok=True)
                     continue
@@ -950,7 +1069,10 @@ def pass_transcribe():
 
                 # Convert to WAV if needed (WhisperX prefers WAV/MP3)
                 wav_path = PROJECT_DIR / "_tmp_audio.wav"
-                if ep['file_format'] == 'mp4':
+                if is_youtube:
+                    # YouTube: déjà en WAV 16kHz mono
+                    audio_input = str(tmp_path)
+                elif ep['file_format'] == 'mp4':
                     subprocess.run(
                         ['ffmpeg', '-y', '-i', str(tmp_path),
                          '-vn', '-acodec', 'pcm_s16le', '-ar', '16000',
@@ -1271,6 +1393,10 @@ COVER_CONFIG = {
     "international_talks": {
         "icon": "icon-a-full.png",  # Buddha face
         "subtitle": "Talks with French,\nCzech & Italian Translation",
+    },
+    "youtube_channel": {
+        "icon": "icon-c-full.png",  # garden Bodhisattva
+        "subtitle": "Dharma Talks from the\nSatipanya YouTube Channel",
     },
 }
 

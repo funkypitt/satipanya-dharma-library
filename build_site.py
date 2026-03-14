@@ -29,6 +29,7 @@ FEED_ORDER = [
     "dharma-talks",
     "noirins-teachings",
     "international-talks",
+    "youtube-talks",
 ]
 
 FEED_EMOJI = {
@@ -38,6 +39,7 @@ FEED_EMOJI = {
     "dharma-talks": "🪷",
     "noirins-teachings": "🌿",
     "international-talks": "🌍",
+    "youtube-talks": "🎬",
 }
 
 # ── Utilitaires ────────────────────────────────────────────────
@@ -483,6 +485,19 @@ a.feed-card { color: inherit; text-decoration: none; }
   width: 100%;
   height: 40px;
 }
+.youtube-embed {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  border-radius: 8px;
+}
+.youtube-embed iframe {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  border-radius: 8px;
+}
 .audio-source {
   margin-top: 0.5rem;
   font-size: 0.75rem;
@@ -774,7 +789,13 @@ def build_homepage(catalog):
             for ep in season.get("episodes", []):
                 if ep.get("duration_seconds", 0) > 0:
                     ep_count += 1
-        podcast_url = f"podcast://{FEEDS_BASE_URL.replace('https://', '')}/{slug}.xml"
+        # Subscribe link: YouTube channel or podcast://
+        if slug == "youtube-talks":
+            subscribe_url = "https://www.youtube.com/@satipanya-insight"
+            subscribe_label = f'{SVG_HEADPHONES} YouTube'
+        else:
+            subscribe_url = f"podcast://{FEEDS_BASE_URL.replace('https://', '')}/{slug}.xml"
+            subscribe_label = f'{SVG_HEADPHONES} Subscribe'
         # Liens livres (toujours inclus — générés par build_books.py)
         book_links = (
             f'<a href="/books/{slug}.pdf" class="subscribe">{SVG_BOOK} PDF</a>'
@@ -791,7 +812,7 @@ def build_homepage(catalog):
           <div class="feed-card-meta">
             <span>{SVG_EPISODES} {ep_count} talks</span>
             <span>{SVG_FOLDER} {fdata.get('season_count', 1)} seasons</span>
-            <a href="{podcast_url}" class="subscribe">{SVG_HEADPHONES} Subscribe</a>
+            <a href="{subscribe_url}" class="subscribe">{subscribe_label}</a>
             {book_links}
           </div>
         </div>
@@ -891,10 +912,24 @@ def build_episode_page(slug, ep, prev_ep, next_ep, feed_name):
     elif desc_short:
         desc_html = f'<div class="episode-description"><p>{h(desc_short)}</p></div>'
 
-    # Audio
+    # Audio / Video
     audio_html = ""
     if audio_url:
-        audio_html = f"""
+        # YouTube: embed iframe; otherwise: audio player
+        yt_match = re.search(r'youtube\.com/watch\?v=([A-Za-z0-9_-]+)', audio_url)
+        if yt_match:
+            yt_id = yt_match.group(1)
+            audio_html = f"""
+      <div class="audio-player">
+        <div class="youtube-embed">
+          <iframe src="https://www.youtube.com/embed/{yt_id}" frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen></iframe>
+        </div>
+        <div class="audio-source">Source: <a href="{h(audio_url)}" target="_blank">YouTube</a></div>
+      </div>"""
+        else:
+            audio_html = f"""
       <div class="audio-player">
         <audio controls preload="none" src="{h(audio_url)}">
           Your browser does not support the audio element.

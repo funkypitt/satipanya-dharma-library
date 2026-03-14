@@ -37,6 +37,7 @@ FEED_ORDER = [
     "dharma-talks",
     "noirins-teachings",
     "international-talks",
+    "youtube-talks",
 ]
 
 FEED_SUBTITLE = {
@@ -46,6 +47,7 @@ FEED_SUBTITLE = {
     "dharma-talks": "Retreat talks on meditation, ethics, and the path to liberation",
     "noirins-teachings": "Dharma teachings by Nóirín Ní Riain",
     "international-talks": "Talks by visiting teachers from the Theravāda tradition",
+    "youtube-talks": "Dharma talks and teachings from the Satipanya YouTube channel",
 }
 
 

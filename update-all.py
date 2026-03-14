@@ -3,15 +3,18 @@
 update-all.py — Met à jour la bibliothèque Satipanya avec les nouveaux enregistrements.
 
 Lance le pipeline complet en séquence :
-  1. catalog   — re-scrape le site, fusionne les épisodes existants
-  2. probe     — récupère durée/taille des nouveaux épisodes
+  1. catalog   — re-scrape le site + YouTube channel, fusionne les épisodes existants
+  2. probe     — récupère durée/taille des nouveaux épisodes (ffprobe + yt-dlp)
   3. transcribe — WhisperX sur les nouveaux épisodes (GPU)
   4. describe  — descriptions Claude pour les nouveaux épisodes
-  5. feeds     — régénère les 6 flux RSS
+  5. feeds     — régénère les 7 flux RSS
   6. beautify  — embellissement des transcripts (nouveaux seulement)
-  7. site      — régénère le site statique + PDFs
+  7. books     — régénère les livres PDF + EPUB par collection
+  8. site      — régénère le site statique + PDFs individuels
 
 Chaque passe est incrémentale : elle saute les épisodes déjà traités.
+
+Prérequis : yt-dlp (pour le channel YouTube), ffmpeg, ANTHROPIC_API_KEY
 
 Usage:
     python update-all.py              # tout
@@ -54,7 +57,7 @@ def main():
     print("╚══════════════════════════════════════════════════════════╝")
 
     # Passes toujours exécutées
-    run("Pass 1: Scraping catalog", [PYTHON, "podcastify.py", "catalog"])
+    run("Pass 1: Scraping catalog (site + YouTube)", [PYTHON, "podcastify.py", "catalog"])
     run("Pass 2: Probing new files", [PYTHON, "podcastify.py", "probe"])
 
     if not quick:
