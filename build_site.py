@@ -778,7 +778,7 @@ def build_homepage(catalog):
         # Liens livres (toujours inclus — générés par build_books.py)
         book_links = (
             f'<a href="/books/{slug}.pdf" class="subscribe">{SVG_BOOK} PDF</a>'
-            f'<a href="/books/{slug}.epub" class="subscribe">EPUB</a>'
+            f'<a href="/books/{slug}.epub" class="subscribe">{SVG_BOOK} EPUB</a>'
         )
         cards.append(f"""
       <div class="feed-card">

@@ -269,15 +269,16 @@ h1.book-title-string {
     font-size: 7.5pt;
     color: #999;
     white-space: nowrap;
+    padding-right: 3mm;
 }
-.toc-page-num {
+.toc-entry::after {
+    content: target-counter(attr(href url), page);
     font-family: "Noto Sans", sans-serif;
     font-size: 8pt;
     color: #999;
     white-space: nowrap;
     min-width: 8mm;
     text-align: right;
-    content: target-counter(attr(href), page);
 }
 
 /* ── Chapitres ──────────────────────────────────── */
