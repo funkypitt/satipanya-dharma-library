@@ -1,0 +1,1516 @@
+1
+00:00:00,993 --> 00:00:27,725
+Namo tassa bhagavato arahato samma-sambuddhassa Namo tassa bhagavato arahato samma-sambuddhassa Namo tassa bhagavato arahato samma-sambuddhassa
+
+2
+00:00:29,292 --> 00:00:39,194
+Homage to the blessed, noble, and fully self-enlightened one.
+
+3
+00:00:39,856 --> 00:00:43,182
+This is going to try and talk about Vedana, feeling.
+
+4
+00:00:44,479 --> 00:00:54,871
+I'm going to try and make a distinction between what are known as the Mahabhuta, the four elements, and the Sankara, which we would translate as mental, emotional states.
+
+5
+00:00:56,512 --> 00:01:12,310
+I'm going to see where it fits into the schema of the wheel of dependent origination, and then try and understand the way the Buddha actually wanted us to experience these through the discourse on how to establish mindfulness and become enlightened very quickly.
+
+6
+00:01:15,141 --> 00:01:36,254
+One thing that I think we all suffer from is a sort of confusion, perhaps that's too strong a word, between the way that the West understands psychology and the way the Buddha understood it.
+
+7
+00:01:37,989 --> 00:01:53,936
+Just in my own little life story, there was a time when I read a lot about this stuff, Western psychology, and I came to the conclusion that I had truly sorted myself out.
+
+8
+00:01:55,237 --> 00:01:58,343
+Only to find in a couple of years myself in this pit.
+
+9
+00:01:59,926 --> 00:02:01,347
+And when I got into this pit...
+
+10
+00:02:02,441 --> 00:02:06,009
+The only thing that came to mind was to do Zen meditation.
+
+11
+00:02:06,028 --> 00:02:07,131
+I don't have a clue why.
+
+12
+00:02:07,671 --> 00:02:10,195
+I mean it was in the air and I'd read a book and all that.
+
+13
+00:02:11,799 --> 00:02:16,367
+So I wrote to the Buddhist Society and said I need to go to Japan to do meditation.
+
+14
+00:02:16,829 --> 00:02:20,855
+And they wrote back with a letter with 21 points as to why I shouldn't go.
+
+15
+00:02:22,169 --> 00:02:39,245
+So I gave that up, and I ended up in a very exotic town of Birmingham and started practicing Zen according to the tradition of Throstle Hole Abbey, which some of you may know up in Northumberland.
+
+16
+00:02:39,504 --> 00:02:42,268
+And I was still doing a little bit of my own therapy.
+
+17
+00:02:42,587 --> 00:02:44,550
+I think I beat the hell out of this mattress.
+
+18
+00:02:46,012 --> 00:02:48,514
+And I found that that got me so far
+
+19
+00:02:49,793 --> 00:02:51,373
+I've got rid of this whole surface stuff.
+
+20
+00:02:52,074 --> 00:02:56,459
+But then the more I got into meditation, the more I found a way of dealing with it.
+
+21
+00:02:57,580 --> 00:03:08,750
+And I was lucky in this sense that by the time I came to meditation, I'd actually given up hope, both on the Christian path and psychotherapy and all that.
+
+22
+00:03:09,230 --> 00:03:16,456
+So when I entered Zen, and they just told me to sit and watch, just sit and observe, I took it at face value.
+
+23
+00:03:16,896 --> 00:03:19,800
+I don't remember asking any questions as to why.
+
+24
+00:03:19,983 --> 00:03:24,044
+And Zen, of course, doesn't offer you many answers for it.
+
+25
+00:03:24,486 --> 00:03:26,296
+Just presumes you'll discover why.
+
+26
+00:03:28,487 --> 00:03:48,939
+But it was only when I came to Theravada Buddhism with its sort of psychological basis, the way that it goes to great lengths to describe how and why we end up in certain places, that things began to fall into place for me intellectually.
+
+27
+00:03:49,441 --> 00:03:56,352
+I began to understand what had been happening to me, especially through Zen and later through this meditation.
+
+28
+00:03:56,331 --> 00:04:05,182
+And again, when I went to practice with these Eastern teachers, you weren't given any reasons.
+
+29
+00:04:05,562 --> 00:04:10,169
+You were just told to watch the breath and whatever comes up.
+
+30
+00:04:10,188 --> 00:04:17,276
+And if you asked a question, they sort of looked at you, sort of mystified, wondering why the hell you wanted to know anyway.
+
+31
+00:04:17,999 --> 00:04:20,603
+It's a strange thing to have to go through.
+
+32
+00:04:21,745 --> 00:04:26,250
+And normally the reply was just something like, watch the breath.
+
+33
+00:04:29,896 --> 00:04:35,485
+Slowly, through the experience of meditation, of course, these things do become clear.
+
+34
+00:04:36,375 --> 00:04:49,434
+And what became very clear to me as I began to progress was that unless you actually see what you're doing through the eyes of the Buddha, you can waste a lot of time.
+
+35
+00:04:50,735 --> 00:04:51,637
+Waste a lot of time.
+
+36
+00:04:52,458 --> 00:04:58,446
+And waste a lot of time trying to psychoanalyze yourself or psychotherapeutize yourself.
+
+37
+00:04:58,505 --> 00:05:00,548
+It's a sort of wrong view.
+
+38
+00:05:00,588 --> 00:05:02,411
+And we get caught up in it.
+
+39
+00:05:02,432 --> 00:05:04,915
+It's very easy because it's just part of our culture.
+
+40
+00:05:05,569 --> 00:05:24,649
+But when you actually position yourself right and you get this way of looking at it, the way the Buddha asked us to, then you'll see there's a clarity comes about as to what the practice is doing, both at the psychotherapeutic level and at that deeper level of spirituality.
+
+41
+00:05:26,831 --> 00:05:34,699
+So the first thing I would like to explain is the way the Buddha explained how we experience things, how we come to know something.
+
+42
+00:05:37,766 --> 00:05:51,461
+In terms of the first contact that we have with the outside world, he actually called it contact, translates the word pasta for those of you who know.
+
+43
+00:05:51,480 --> 00:05:59,930
+And this contact produces in the body a very simple sensation, extraordinarily simple sensation.
+
+44
+00:06:01,851 --> 00:06:06,677
+At the eardrum, it's simply the tapping of the airwave on the eardrum.
+
+45
+00:06:07,281 --> 00:06:09,204
+There's no sound to it at all.
+
+46
+00:06:09,425 --> 00:06:11,146
+That's how basic it is.
+
+47
+00:06:12,709 --> 00:06:14,031
+And the eye, what is it?
+
+48
+00:06:14,331 --> 00:06:15,713
+What is it that we actually see?
+
+49
+00:06:16,595 --> 00:06:21,221
+We know through our psychology tests that we hardly see anything.
+
+50
+00:06:21,781 --> 00:06:25,127
+Everything that we think we see is manufactured by the mind.
+
+51
+00:06:25,567 --> 00:06:34,959
+And in a most mysterious way, the mind takes in the information, makes it up, throws it back on the retina to give us the impression that we're actually seeing it.
+
+52
+00:06:37,959 --> 00:06:41,843
+In terms of the tongue, what is it that the tongue actually experiences?
+
+53
+00:06:41,923 --> 00:06:48,411
+But very small changes in chemical touchings and pressures and heat.
+
+54
+00:06:49,172 --> 00:06:50,973
+Very, very, very, very basic.
+
+55
+00:06:52,355 --> 00:07:02,406
+Now, on that, the mind takes it in and begins to perceive it as a specific feeling.
+
+56
+00:07:02,747 --> 00:07:04,930
+And that's what the Buddha means by Vedana.
+
+57
+00:07:05,855 --> 00:07:13,446
+And when that perception is made, there's always a judgment made about it.
+
+58
+00:07:13,887 --> 00:07:15,228
+And the judgment is very simple.
+
+59
+00:07:15,769 --> 00:07:17,271
+Pleasant, unpleasant.
+
+60
+00:07:18,553 --> 00:07:19,375
+Full stop, that's it.
+
+61
+00:07:19,896 --> 00:07:28,369
+So you get this sensation come in, the mind takes it in, perceives it, and decides pleasant or unpleasant.
+
+62
+00:07:29,259 --> 00:07:35,769
+There are some pleasant, unpleasant feelings that are so fine that the Buddha then also talks about neutral feelings.
+
+63
+00:07:36,309 --> 00:07:43,718
+But even when you get close to them, you'll find that they shade off either into pleasant or unpleasant.
+
+64
+00:07:43,738 --> 00:07:46,423
+So there's your first distinction when it comes to feelings.
+
+65
+00:07:47,283 --> 00:07:50,749
+Feelings are something manufactured by the mind out of data.
+
+66
+00:07:52,911 --> 00:07:54,574
+This is coming from the outside world.
+
+67
+00:07:55,375 --> 00:07:57,057
+It's coming from the outside world to us.
+
+68
+00:08:00,783 --> 00:08:08,814
+In the same way, when the mind moves in the body, the first thing that we feel are sensations.
+
+69
+00:08:10,415 --> 00:08:12,959
+The heaviness of depression, the wobbliness of fear.
+
+70
+00:08:13,620 --> 00:08:22,452
+We can be aware of the sensation, we can be aware of the emotion, but at base it's causing similar sensations on the physical structure.
+
+71
+00:08:24,052 --> 00:08:32,260
+These are also relayed to the mind and in Buddhist understanding are determined, judged as pleasant or unpleasant.
+
+72
+00:08:33,962 --> 00:08:34,964
+Now that's Vedana.
+
+73
+00:08:35,163 --> 00:08:39,749
+And the Vedana is a conditioned thing.
+
+74
+00:08:39,769 --> 00:08:42,912
+We can't do anything about it.
+
+75
+00:08:42,951 --> 00:08:44,452
+It's just part of our conditioning.
+
+76
+00:08:45,433 --> 00:08:52,221
+We're conditioned to experience pleasant or unpleasant things with that little bit in the middle which is neutral.
+
+77
+00:08:58,394 --> 00:09:06,486
+Now, at that base where it's first of all experienced, the Buddha calls that this contact.
+
+78
+00:09:06,966 --> 00:09:17,182
+And he says that at that very deep level, that very first level of physical contact, either with mind, where the mind and the body meet.
+
+79
+00:09:18,125 --> 00:09:22,831
+So when that light comes into the eye, there's that sense base.
+
+80
+00:09:23,317 --> 00:09:47,587
+and at that point you get a meeting of the physical sensation with consciousness and at that level he says that there are only four distinctive feelings and they're put in a metaphorical way as fire, earth, water and air but they represent heat
+
+81
+00:09:48,192 --> 00:10:13,778
+hot and cold pressure that's the earth element hardness, softness movement and cohesion elasticity so when you're watching the breath this is of course more obvious if you're watching it down here sometimes you can sense just the movement pure movement as it were and then you can be aware of a sort of elasticity
+
+82
+00:10:14,821 --> 00:10:20,048
+When you put your foot on the ground and press into it, what you're primarily feeling is that earth pressure.
+
+83
+00:10:21,571 --> 00:10:23,472
+Heat, of course, is pretty obvious.
+
+84
+00:10:26,336 --> 00:10:33,447
+Now, from these four basic things, and every sensation, according to the Buddha, has some percentage of each of these.
+
+85
+00:10:34,769 --> 00:10:37,452
+It's not as though the one appears purely by itself.
+
+86
+00:10:37,736 --> 00:10:45,470
+Each sensation has some sort of combination, and out of that, the mind has a perception of a feeling.
+
+87
+00:10:45,870 --> 00:10:53,484
+Of course, this stuff's coming in at pretty fast speed, and the mind sort of gathers it into a percept, a perception.
+
+88
+00:10:54,105 --> 00:10:58,091
+And from that, it makes this judgment about being pleasant and unpleasant.
+
+89
+00:11:03,235 --> 00:11:09,640
+Now, the next thing that happens is our reaction to those things.
+
+90
+00:11:10,601 --> 00:11:13,104
+So here we have the wheel of dependent origination.
+
+91
+00:11:13,745 --> 00:11:18,688
+We have the contact of the feeling that arises and then we have the reaction.
+
+92
+00:11:19,409 --> 00:11:23,813
+The reaction, the tanha, is rather unfortunately translated as craving.
+
+93
+00:11:24,615 --> 00:11:32,162
+But it's a desire for not wanting what is painful and a desire for wanting what is beautiful, what is pleasant.
+
+94
+00:11:33,543 --> 00:11:40,812
+That is a movement, again, in our psychology, in our mind, of going towards the object in a particular way.
+
+95
+00:11:41,614 --> 00:11:47,322
+Either to get stuck in it and really enjoy it, or to try and push it away aggressively.
+
+96
+00:11:47,863 --> 00:11:49,504
+And if that doesn't work, you run for it.
+
+97
+00:11:51,107 --> 00:11:52,769
+It's a form of aversion.
+
+98
+00:11:53,892 --> 00:11:59,919
+Now, once that has come up, you see, the next position is a form of identity.
+
+99
+00:12:00,139 --> 00:12:01,322
+The I comes in.
+
+100
+00:12:01,893 --> 00:12:09,322
+According to the Buddha, there's no I, there's no sense of me in all that process until that very point.
+
+101
+00:12:10,344 --> 00:12:14,028
+When the I want comes up, I don't want.
+
+102
+00:12:14,048 --> 00:12:22,740
+And as soon as there's that association, as soon as there's that identity, very difficult to catch the moment, this wanting and not wanting is empowered.
+
+103
+00:12:24,003 --> 00:12:25,163
+And that's the act of will.
+
+104
+00:12:25,884 --> 00:12:30,110
+Will is the power that takes something out of potential into the actual.
+
+105
+00:12:30,479 --> 00:12:37,368
+So, for instance, in your walking meditation, you can stand there for a year and a day saying intending to walk.
+
+106
+00:12:38,589 --> 00:12:39,971
+And then something magical happens.
+
+107
+00:12:40,110 --> 00:12:41,852
+The foot moves.
+
+108
+00:12:41,873 --> 00:12:42,774
+See if you can catch it.
+
+109
+00:12:43,095 --> 00:12:48,701
+See if you can find out what's the difference between intending a footstep and the footsteps moving.
+
+110
+00:12:48,721 --> 00:13:00,216
+And what we catch in that moment is the differentiation between this grasping by the eye, the upadana, to the actual empowerment of it through will, which is the bhava.
+
+111
+00:13:00,500 --> 00:13:02,442
+Now, Baba translates as becoming.
+
+112
+00:13:02,822 --> 00:13:03,585
+That's your karma.
+
+113
+00:13:06,048 --> 00:13:11,756
+Now, the importance of this line is to see exactly where our power actually resides.
+
+114
+00:13:12,477 --> 00:13:22,052
+Because if we can see that, we can let go of old conditioning and restart new, more skillful one.
+
+115
+00:13:22,072 --> 00:13:25,056
+Now, that whole business afterwards...
+
+116
+00:13:25,778 --> 00:13:34,330
+the desire, the craving and all that, is a mental reaction to a given and constitutes the beginning of our emotional life.
+
+117
+00:13:34,970 --> 00:13:37,433
+These are what's known as the sankara, the conditionings.
+
+118
+00:13:39,616 --> 00:13:40,658
+That's the mental life.
+
+119
+00:13:40,817 --> 00:13:45,024
+And this is all our mentation and all our emotions.
+
+120
+00:13:45,043 --> 00:13:54,537
+So even in the five heaps that the Buddha calls, that he deconstructs the human being into, the five khandhas, first of all there's the body.
+
+121
+00:13:55,124 --> 00:13:56,326
+Then there's feelings.
+
+122
+00:13:56,666 --> 00:13:57,908
+Then there's perception.
+
+123
+00:13:58,568 --> 00:13:59,951
+This whole mentation business.
+
+124
+00:14:00,272 --> 00:14:02,716
+Then there's the sankara, the conditioning.
+
+125
+00:14:03,336 --> 00:14:06,280
+And finally, the act of consciousness that knows it.
+
+126
+00:14:08,124 --> 00:14:10,727
+So he's constantly deconstructing an event.
+
+127
+00:14:11,249 --> 00:14:14,653
+And the purpose of it is to take this sense of I out of it.
+
+128
+00:14:16,697 --> 00:14:20,202
+So here we have three distinctions that we feel in our meditation.
+
+129
+00:14:21,212 --> 00:14:26,640
+We feel at base some sort of basic sensation.
+
+130
+00:14:27,361 --> 00:14:35,674
+Even now as you're sitting there, like just the pressure of sitting on the floor there, you see, at that base there, you're getting in contact.
+
+131
+00:14:35,754 --> 00:14:39,721
+If you center in just on those feelings, you're getting in contact with the earth element.
+
+132
+00:14:41,163 --> 00:14:46,191
+And because it's neither painful nor unpleasant, the mind can ignore it.
+
+133
+00:14:46,677 --> 00:14:48,580
+So we're hardly aware of those things.
+
+134
+00:14:48,740 --> 00:14:51,365
+That's our reaction to what we don't really feel.
+
+135
+00:14:52,527 --> 00:14:58,998
+If the posture then moves into a bit of pain, suddenly, you see, there's pain.
+
+136
+00:14:59,057 --> 00:15:01,481
+Then you get this reaction, got to move, got to do this, got to do that.
+
+137
+00:15:04,005 --> 00:15:06,971
+So what we have is this base of sensation.
+
+138
+00:15:08,452 --> 00:15:10,677
+Then we have a feeling come up.
+
+139
+00:15:11,062 --> 00:15:33,964
+which is a perception of that as pleasant and unpleasant so now it's as it were clouded with a or should we say surrounded with a mental a mental quality of being pleasant unpleasant and this immediately begins for the mind to start shaking and it shakes in the sense of do i want it or don't want it and that's where we're catching it now
+
+140
+00:15:34,635 --> 00:15:39,520
+Normally speaking, in our own little deluded ways, we just run the gamut.
+
+141
+00:15:40,241 --> 00:15:47,249
+And without knowing it, we're just recreating the old sensations, the old pleasures, the old ways of acting.
+
+142
+00:15:47,269 --> 00:15:58,681
+But in our meditation, what we ought to be doing is putting our mind right there at the feeling and seeing that movement of wanting to indulge, wanting not to indulge.
+
+143
+00:16:00,702 --> 00:16:04,407
+And what we're catching there is how we create suffering for ourselves.
+
+144
+00:16:08,976 --> 00:16:21,611
+So if we have those three things quite distinct in our minds, then when we begin to meditate, we can actually go through this stage of actually perceiving the way things really are.
+
+145
+00:16:22,793 --> 00:16:24,534
+It's an intellectual thing at first.
+
+146
+00:16:24,655 --> 00:16:31,744
+It's an actual, although we feel these things, although we experience these things, there is a thought process going around it.
+
+147
+00:16:31,960 --> 00:16:40,735
+Now do remember that that thought process is this very consciousness which is to be enlightened, mirroring back to itself what it's come to experience.
+
+148
+00:16:43,019 --> 00:16:47,386
+So it's not to be sort of pushed out of the way, but to just be acknowledged.
+
+149
+00:16:47,636 --> 00:16:59,991
+So, for instance, in the Mahasi technique that I teach, you see, that is actually brought to the fore, where a word actually encapsulates, tries to encapsulate in some way, the experience that's being had.
+
+150
+00:17:00,432 --> 00:17:02,554
+So it's an acknowledgement of it.
+
+151
+00:17:03,056 --> 00:17:05,038
+And acknowledge means to know you know.
+
+152
+00:17:10,944 --> 00:17:13,407
+So, by...
+
+153
+00:17:13,809 --> 00:17:27,931
+by deconstructing an event, by seeing that there's the primary sensations, there I'm beginning to experience it as pleasant, unpleasant, and here's my relationship to it.
+
+154
+00:17:27,951 --> 00:17:31,576
+Wanting, not wanting.
+
+155
+00:17:31,596 --> 00:17:40,088
+Now, when it comes to the discourse on how to establish mindfulness, you can see that the Buddha, he actually wants us to do this.
+
+156
+00:17:42,011 --> 00:17:43,294
+The first thing he says is,
+
+157
+00:17:45,416 --> 00:17:46,178
+Meditators.
+
+158
+00:17:46,557 --> 00:17:50,821
+How does a meditator abide contemplating feelings as feelings?
+
+159
+00:17:51,442 --> 00:17:55,727
+Now, here, the word he uses is vedana vedanupasiti.
+
+160
+00:17:56,708 --> 00:18:03,414
+It translates literally as a location to see feelings in feelings, which doesn't particularly make sense in English.
+
+161
+00:18:03,855 --> 00:18:07,920
+But it's just saying that when you feel a feeling, just feel the feeling.
+
+162
+00:18:08,780 --> 00:18:09,701
+Don't think about it.
+
+163
+00:18:09,761 --> 00:18:11,022
+Actually, feel the feeling.
+
+164
+00:18:11,063 --> 00:18:15,086
+It means that you've got to go into the feeling and feel the feeling.
+
+165
+00:18:17,529 --> 00:18:18,530
+I'm sure you all know what I mean.
+
+166
+00:18:19,413 --> 00:18:22,297
+Thank you.
+
+167
+00:18:22,317 --> 00:18:30,188
+And he says, and here, when a pleasant feeling arises, the meditator understands, I feel a pleasant feeling.
+
+168
+00:18:30,868 --> 00:18:36,195
+When an unpleasant feeling arises, the meditator understands, I feel an unpleasant feeling.
+
+169
+00:18:36,215 --> 00:18:42,645
+And when a neither pleasant nor unpleasant feeling arises, the meditator understands, I feel a neither pleasant nor unpleasant feeling.
+
+170
+00:18:43,006 --> 00:18:44,347
+It's extraordinarily simple.
+
+171
+00:18:45,711 --> 00:18:48,836
+And you say, oh, that is an unpleasant feeling.
+
+172
+00:18:49,958 --> 00:18:52,000
+You actually have to make it conscious, you see.
+
+173
+00:18:52,421 --> 00:19:02,054
+Now, although he's actually putting it in a phrase, I feel an unpleasant feeling, it's simply pointing to a direct experience of it.
+
+174
+00:19:02,074 --> 00:19:05,378
+Because the word he uses here for to know is paginati.
+
+175
+00:19:05,959 --> 00:19:09,284
+And paginati is the same word as panya, it's the same word as buddho.
+
+176
+00:19:09,664 --> 00:19:15,211
+It's intuitive intelligence, a direct perception.
+
+177
+00:19:16,406 --> 00:19:22,237
+So then he goes on to say, when a pleasant worldly feeling arises, the meditator understands it.
+
+178
+00:19:22,277 --> 00:19:24,480
+And then he goes through this bit of unpleasant and pleasant.
+
+179
+00:19:24,882 --> 00:19:26,965
+And when a pleasant unworldly feeling.
+
+180
+00:19:27,346 --> 00:19:39,748
+So now he's asking us to distinguish those feelings that arise out of the old ways that we are and the new feelings that are arising out of our meditation.
+
+181
+00:19:41,247 --> 00:19:56,884
+So when, for instance, some of the seven factors of enlightenment arise, such as interest in what we're doing, which is the piti, such as the sense of tranquility, the pasidi, the sense of equanimity, we should recognize that this isn't just an ordinary worldly feeling.
+
+182
+00:19:57,144 --> 00:19:58,227
+These are spiritual feelings.
+
+183
+00:19:58,207 --> 00:20:12,529
+These are feelings which are supporting our meditation, which means that they can be, as it were, not, shall we say, too consciously developed, but definitely not pushed away because they're part of the process of enlightenment.
+
+184
+00:20:12,910 --> 00:20:15,334
+After all, the end product is to be happy.
+
+185
+00:20:16,635 --> 00:20:17,237
+Don't forget that.
+
+186
+00:20:17,998 --> 00:20:20,501
+I mean, we want to try and get happy.
+
+187
+00:20:22,692 --> 00:20:34,666
+And when we find that we're getting happy because we're having wonderful thoughts about cream cakes and sex drugs and rock and roll, then we have to notice how now this happiness is based on.
+
+188
+00:20:35,828 --> 00:20:37,471
+And we don't indulge those things.
+
+189
+00:20:37,490 --> 00:20:38,751
+We don't get into those things.
+
+190
+00:20:39,292 --> 00:20:41,174
+So he's asking us to make that distinction.
+
+191
+00:20:42,876 --> 00:20:48,884
+Not only pleasant and unpleasant and neutral, but the fact that some feelings of meditation, even negative ones like boredom,
+
+192
+00:20:49,809 --> 00:20:56,079
+You have to notice this boredom is because I'm doing something wrong in my meditation.
+
+193
+00:20:56,601 --> 00:20:58,022
+It's coming out of expectancy.
+
+194
+00:20:58,503 --> 00:21:01,608
+It's coming because I expect something wonderful to happen and it's not happening.
+
+195
+00:21:01,628 --> 00:21:02,430
+I'm getting really bored.
+
+196
+00:21:04,452 --> 00:21:11,344
+So by making that distinction you are helping yourself to hone the skills of meditation.
+
+197
+00:21:12,184 --> 00:21:15,951
+If you don't make these distinctions then it's just you're wandering.
+
+198
+00:21:16,531 --> 00:21:17,673
+You're just wandering in a wood.
+
+199
+00:21:19,560 --> 00:21:24,468
+So having made that statement he then goes on to say how to do it.
+
+200
+00:21:28,634 --> 00:21:35,044
+First of all he says in this way the meditator abides contemplating feelings as feelings.
+
+201
+00:21:38,469 --> 00:21:41,473
+He abides contemplating feelings internally.
+
+202
+00:21:44,878 --> 00:21:48,825
+He abides contemplating feelings as feelings externally.
+
+203
+00:21:50,881 --> 00:21:53,242
+And then both internally and externally.
+
+204
+00:21:53,683 --> 00:22:12,502
+Now, the way the commenters explain this is that if you have a feeling in you, suppose you've got a headache, when you see somebody else and they say to you, you've got a headache, or they feel you've got a headache, you see, it's a form of inference that you're inferring.
+
+205
+00:22:12,522 --> 00:22:14,223
+You're making some sort of connection.
+
+206
+00:22:14,984 --> 00:22:17,968
+In his own experience, remember,
+
+207
+00:22:19,315 --> 00:22:23,221
+The Buddha is said to have seen at the point of enlightenment all his past lives.
+
+208
+00:22:24,182 --> 00:22:29,911
+And he saw through the train of his past lives how he came to be a self-enlightened Buddha.
+
+209
+00:22:30,231 --> 00:22:32,955
+He showed the progression.
+
+210
+00:22:32,976 --> 00:22:43,991
+And what he discovered was that there were such things as skillful and unskillful behavior, moral and immoral behavior, and that these were the kernel problems of anybody trying to become enlightened.
+
+211
+00:22:44,532 --> 00:22:46,977
+But the next thing he saw was other beings
+
+212
+00:22:47,429 --> 00:23:17,384
+arising and passing away from this world to that according to their skillful and unskillful behavior so what was a personal law became a cosmic law so it's the same for us whatever we discover in ourselves we also have to relate it to the fact that everybody else is having the same the same experience so this allows us to grow in empathy to grow in compassion etc etc see at fundament we're just variations on a theme
+
+213
+00:23:19,103 --> 00:23:43,018
+that's all very boring then he says he abides contemplating feelings in their arising factors he abides contemplating feelings in their vanishing factors and he abides contemplating feelings in their arising and vanishing factors he always does this splits them up into bits so
+
+214
+00:23:43,555 --> 00:23:54,307
+Now he's asking us to change our view of things and to actually see that all these things that we are observing and feeling are actually arising and passing away.
+
+215
+00:23:54,607 --> 00:23:56,711
+So he's asking us to change our perspective.
+
+216
+00:23:58,732 --> 00:24:07,344
+When you change your perspective for seeing things arising and passing away what you're abstracting out of the equation is any sense of solidity.
+
+217
+00:24:08,404 --> 00:24:12,329
+Because we believe in continuity things solidify for us.
+
+218
+00:24:13,525 --> 00:24:37,778
+we all of us even though we intellectually know we're changing all of us have a feeling of you know there's something in us which is steady which hasn't moved which is always there but I but supposing one morning you got up and you looked in the mirror and it was somebody else's face you're shocked see
+
+219
+00:24:38,112 --> 00:24:44,402
+It's only because we get up in the morning and we see a similar face to the one we went to bed with that we think it's the same one.
+
+220
+00:24:45,884 --> 00:24:50,730
+It's only when you see your photographs since you were two years old that you realize something has changed.
+
+221
+00:24:51,712 --> 00:24:58,663
+But from the moment, as we pass through, shall we say, the life that we experience, we don't get this feeling of great change.
+
+222
+00:24:58,683 --> 00:25:00,946
+We don't get our feelings of going through life
+
+223
+00:25:01,146 --> 00:25:30,039
+in this stroboscopic way because that's the Buddha's teaching everything is arising radically and passing away radically it's coming out of potential out of, shall we say, non-manifest into the manifest it's not as though you're taking a piece of clay screwing it up into making a cup out of it and then screwing it up and making a saucer and it's the same piece of clay everything collapses only to arise again
+
+224
+00:25:30,863 --> 00:25:56,482
+now that's what he's asking us to do but even at this level there is as it were still some sort of understanding going on some sort of mentation some sort of thought pattern going on so the first is rather gross you're feeling feelings as they are inside yourself in a very general way contacting them getting getting used to being just at the feeling basis right this is not emotion
+
+225
+00:25:57,188 --> 00:26:20,866
+the emotion might be buried in the feeling but you're not looking at it as emotion just looking at it as feeling a physical sensation and every so often when you walk around you see somebody there may be some sort of connection you don't have to go berserk on that and then he asks you to go more inward and to leave feelings as objects
+
+226
+00:26:21,454 --> 00:26:50,787
+as something that somehow has solidity and to begin to see them in their characteristic of feelings of little things arising and passing away so that sometimes for instance you wake up and you feel depressed see and it feels just like a lump on your chest now normally speaking that's what it is it's just a lump on the chest but if you actually go into it you'll see it's not a lump at all it's all little bits and pieces see so you're breaking it up you're breaking up the concept remember
+
+227
+00:26:51,307 --> 00:26:53,329
+we guide our lives through these concepts.
+
+228
+00:26:54,030 --> 00:26:56,694
+If we undermine our concepts, we undermine our view of life.
+
+229
+00:26:58,156 --> 00:27:03,965
+So, at this level, he's asking us to go slightly deeper and to see their arising and changing nature.
+
+230
+00:27:05,768 --> 00:27:17,105
+Finally, he says, Next page.
+
+231
+00:27:17,125 --> 00:27:19,127
+I must get out that operation you can get on your eyes.
+
+232
+00:27:19,949 --> 00:27:21,111
+Cut a bit off and...
+
+233
+00:27:22,828 --> 00:27:34,844
+Or else, mindfulness, that there is feeling, is simply established in the meditator to the extent necessary for bare knowledge and mindfulness.
+
+234
+00:27:36,767 --> 00:27:43,335
+Now, although he says there is a feeling, there is feeling, at this point there's no words.
+
+235
+00:27:44,394 --> 00:27:49,961
+So the concentration on feeling is taking you to a point where mentation is supposed to stop.
+
+236
+00:27:50,280 --> 00:27:57,788
+And there arises just that mindfulness necessary for bare knowledge to arise.
+
+237
+00:27:59,810 --> 00:28:11,162
+It's not until we get to that level that we can expect a deep enough grasp of the way things are which is actually going to move us at the base of consciousness and change us.
+
+238
+00:28:12,626 --> 00:28:41,097
+and these moments in the Vipassana tradition are known as Kanika Samadhi momentary concentration they don't last it's nothing to do with time, it's a seeing and often a meditator doesn't really know they've seen because they're so momentary they're so immediate in your meditation if you keep working those moments where there's no eye watching where the observer collapses
+
+239
+00:28:41,702 --> 00:28:47,509
+Where the distinction or the separation between the observer and the observed seems to disappear.
+
+240
+00:28:47,990 --> 00:28:49,310
+And one becomes the object.
+
+241
+00:28:50,092 --> 00:28:50,972
+We've all experienced that.
+
+242
+00:28:51,473 --> 00:28:54,537
+That's the moment when there's true vipassana.
+
+243
+00:28:56,199 --> 00:28:58,701
+And that's the state where he wants you to get to, the Buddha.
+
+244
+00:29:00,844 --> 00:29:04,807
+And at that level, there is a possibility of
+
+245
+00:29:05,175 --> 00:29:34,103
+well you have to see it even though it may not be such a conscious thing even though that wisdom within us is not able to fully grasp the implications of it but there is a seeing of it so if we just go through that again what we have is just the sensations of the physical base
+
+246
+00:29:34,656 --> 00:30:03,127
+caused either by an outside stimulus light, heat, whatever or caused by an emotion arising in the body to create pressure, heat, whatever we experience that then as something we like or we don't like and that's your Vedana if you stay there you can see the reaction that you have to that given experience wanting and not wanting
+
+247
+00:30:03,884 --> 00:30:12,417
+And if you stay at that level, you're also able to discern that if you leave it alone, this wanting and not wanting disappears.
+
+248
+00:30:13,618 --> 00:30:15,563
+You have to observe the wanting and not wanting.
+
+249
+00:30:16,584 --> 00:30:25,317
+As you observe the wanting and not wanting and that reaction begins to decrease, the Vedana then becomes more obvious to you.
+
+250
+00:30:25,805 --> 00:30:30,354
+And it's then that you begin to see it in its arising and passing quality.
+
+251
+00:30:30,733 --> 00:30:45,281
+It's then that you can really absorb into it, as it were, and begin to see this quality of anicca, of arising and passing away, of not-self, at a level which is actually going to change the way we see things, permanently.
+
+252
+00:30:51,656 --> 00:31:03,567
+Now, these sankha that we talked about, which translate as mental states, which are emotional states, given what we would call emotions and moods.
+
+253
+00:31:06,128 --> 00:31:11,554
+The ideation which comes up, all these images, all these thoughts, are manufactured from this base.
+
+254
+00:31:12,334 --> 00:31:15,537
+Nothing moves without some motive from the heart.
+
+255
+00:31:16,137 --> 00:31:21,461
+Even the driest of philosophers, the logicians, must have interest in it
+
+256
+00:31:22,521 --> 00:31:24,064
+Must have a wonder.
+
+257
+00:31:24,183 --> 00:31:27,729
+There must be a wanting to work it out, a wanting to know.
+
+258
+00:31:29,871 --> 00:31:40,025
+Now, this base here, you see, because of our own Western thing about being stuck in the head, we've separated thought from feeling.
+
+259
+00:31:40,125 --> 00:31:41,506
+We don't have a word anymore.
+
+260
+00:31:41,747 --> 00:31:42,468
+We used to have.
+
+261
+00:31:43,107 --> 00:31:44,309
+The word was soul.
+
+262
+00:31:45,067 --> 00:31:47,249
+Soul, there were three words.
+
+263
+00:31:47,288 --> 00:31:49,451
+There was body, soul, and spirit.
+
+264
+00:31:49,991 --> 00:31:58,641
+And if you look at the ancient, the more early Christian texts, which took this, of course, from the Greeks, you'll see that the body was what the Buddha means by the body.
+
+265
+00:31:59,162 --> 00:32:05,387
+The soul is what the Buddha means by the citta, the mind, both thought and feeling.
+
+266
+00:32:06,108 --> 00:32:13,115
+And spirit meant that other thing, what we euphemistically call the nirvanic element.
+
+267
+00:32:13,653 --> 00:32:31,576
+that which is to be enlightened unfortunately in our language now we split these two things so we've now got thought and emotion and it's very difficult for us to see the connection so if we now see what an emotion is
+
+268
+00:32:32,012 --> 00:33:00,585
+and we can actually go into an emotion and we just in the same way as we do vedana and what we're feeling is a very much more subtle state than a physical feeling now how does the psychotherapy then work you see how does the psychotherapy of vipassana work this turbulence which is in the mind anger depression excitement
+
+269
+00:33:01,325 --> 00:33:01,825
+Whatever.
+
+270
+00:33:02,185 --> 00:33:03,507
+This turbulence is in the mind.
+
+271
+00:33:03,948 --> 00:33:04,909
+It's in the body.
+
+272
+00:33:06,049 --> 00:33:08,872
+The Buddha says the mind is in the body like milk in water.
+
+273
+00:33:09,593 --> 00:33:10,834
+It's an intimate connection.
+
+274
+00:33:11,154 --> 00:33:17,921
+That's why in our modern biology they can prod the brain and get you to do these different things.
+
+275
+00:33:18,382 --> 00:33:22,346
+And why in a materialistic science the distinction isn't made.
+
+276
+00:33:22,385 --> 00:33:23,386
+It can't be made.
+
+277
+00:33:23,866 --> 00:33:28,951
+In a sense they don't need to make it to understand how the brain works and how certain things will work.
+
+278
+00:33:29,319 --> 00:33:36,792
+But I don't think ever they would ever be able to work out what an image is or a thought.
+
+279
+00:33:37,074 --> 00:33:37,914
+Maybe, I don't know.
+
+280
+00:33:37,974 --> 00:33:42,041
+But in Buddhist understanding, that's a finer energy.
+
+281
+00:33:42,383 --> 00:33:44,185
+It's not the same as the physical energy.
+
+282
+00:33:44,787 --> 00:33:47,551
+To talk of it as utterly distinct, I don't think would be true.
+
+283
+00:33:47,632 --> 00:33:48,814
+It's more of a continuum.
+
+284
+00:33:49,351 --> 00:33:59,221
+So those of you who practice qigong and things like that will know that there's a qi, an energy there, which is, I'm not so sure it's recordable, but it's definitely there.
+
+285
+00:33:59,623 --> 00:34:02,566
+And it's the same thing that people use for healing and stuff like that.
+
+286
+00:34:03,507 --> 00:34:04,067
+Levitation.
+
+287
+00:34:04,288 --> 00:34:05,209
+It's a mental energy.
+
+288
+00:34:05,690 --> 00:34:06,971
+I haven't seen anybody levitate, mind.
+
+289
+00:34:09,634 --> 00:34:10,936
+I'm going to put an advert in the paper.
+
+290
+00:34:14,039 --> 00:34:15,561
+Somebody turn up who can levitate.
+
+291
+00:34:18,427 --> 00:34:22,992
+So this turbulence, where can it go?
+
+292
+00:34:23,012 --> 00:34:25,815
+Where can that turbulence go?
+
+293
+00:34:25,855 --> 00:34:28,918
+It's only got one place to go.
+
+294
+00:34:28,978 --> 00:34:30,599
+It's got to go into the body.
+
+295
+00:34:36,246 --> 00:34:44,215
+And there are turbulences that we know have been so suppressed into the body, so repressed into the body, that we're not even aware of them.
+
+296
+00:34:44,717 --> 00:34:53,510
+And it's only through, often through, certain psychotherapeutic techniques and meditation that we actually begin to lift these up back into consciousness.
+
+297
+00:34:54,030 --> 00:34:57,635
+But when they're lifted up back into consciousness, what are they coming through, you see?
+
+298
+00:34:58,076 --> 00:34:59,056
+They're coming through the body.
+
+299
+00:35:02,882 --> 00:35:11,434
+So, when we're at the feeling base, which is caused by an emotion, if we stay at the feeling base...
+
+300
+00:35:11,784 --> 00:35:18,817
+we're actually allowing this turbulence an avenue to express its turbulence and to finally expend its energy.
+
+301
+00:35:19,878 --> 00:35:21,322
+That's how the psychotherapy works.
+
+302
+00:35:23,405 --> 00:35:33,603
+And the reason why it's expending its energy is because the meditator is no longer empowering it through indulgence or suppressing it.
+
+303
+00:35:36,547 --> 00:35:36,628
+See?
+
+304
+00:35:38,362 --> 00:35:52,259
+So, most of our meditation, 99, I'm talking personally, 0.9% is burning at the stake.
+
+305
+00:35:52,278 --> 00:35:53,621
+This stuff has to be suffered.
+
+306
+00:35:53,721 --> 00:35:54,943
+It's got nowhere else to go.
+
+307
+00:35:55,804 --> 00:35:58,726
+If it doesn't come up into consciousness, it's stuck in the body.
+
+308
+00:35:58,987 --> 00:36:00,829
+If it's stuck in the body, it's going to cause illness.
+
+309
+00:36:06,195 --> 00:36:07,257
+There's no option.
+
+310
+00:36:07,387 --> 00:36:11,132
+You have to suffer to become enlightened.
+
+311
+00:36:11,152 --> 00:36:12,592
+You have to go to hell before you can get to heaven.
+
+312
+00:36:15,096 --> 00:36:23,304
+Very unfortunate.
+
+313
+00:36:23,324 --> 00:36:28,748
+So when you understand that you see a search for origins is pathetic.
+
+314
+00:36:30,590 --> 00:36:36,096
+It's absolutely irrelevant that my mother hit me across the head with a banana when I was three years old.
+
+315
+00:36:38,135 --> 00:36:39,538
+Pathetic.
+
+316
+00:36:39,557 --> 00:36:40,679
+It has nothing to do with anything.
+
+317
+00:36:43,925 --> 00:36:47,673
+What I have now is a turbulence called anger or hatred or whatever.
+
+318
+00:36:48,074 --> 00:36:48,375
+This is it.
+
+319
+00:36:48,394 --> 00:36:49,376
+This is what I'm going to work with.
+
+320
+00:36:50,659 --> 00:36:52,903
+This connection in the past is immaterial.
+
+321
+00:36:53,445 --> 00:36:55,088
+It's now just like a weather system.
+
+322
+00:36:55,108 --> 00:36:55,708
+It's a storm.
+
+323
+00:36:56,590 --> 00:36:58,675
+All I've got to do is sit there and bear it.
+
+324
+00:36:59,447 --> 00:37:23,952
+patience a willingness to suffer it but if i then do a psychotherapy on it that i'm i'm just sitting here bearing it and it will die out i'm not going to get the gift of the meditation it's only when i turn my perspective around to see it as something arising and passing away that i'm beginning to lift that consciousness out of this embeddedness with what it experiences
+
+325
+00:37:25,773 --> 00:37:30,780
+Lifting that consciousness out of its identity with, possession of, an emotion.
+
+326
+00:37:32,003 --> 00:37:32,764
+I'm unhappy.
+
+327
+00:37:34,306 --> 00:37:34,527
+See?
+
+328
+00:37:35,047 --> 00:37:40,436
+By looking at unhappiness, depression, anxiety as other, as an object, where's the I?
+
+329
+00:37:43,039 --> 00:37:46,666
+So there's two things always going on if we're meditating correctly.
+
+330
+00:37:47,186 --> 00:37:50,431
+The psychotherapy is happening quite normally, quite naturally.
+
+331
+00:37:51,193 --> 00:37:53,315
+And consciousness is liberating itself.
+
+332
+00:37:54,679 --> 00:37:58,025
+The definition of nibbana is unshackled.
+
+333
+00:37:59,106 --> 00:38:00,168
+It's an unshackling.
+
+334
+00:38:01,429 --> 00:38:03,472
+There are ten fetters, they're unshackled.
+
+335
+00:38:04,835 --> 00:38:07,259
+It's consciousness itself which is shackled.
+
+336
+00:38:09,862 --> 00:38:17,514
+As soon as you make it an object and allow it to burn in consciousness, you're unshackling yourself from it because you're no longer identifying with it.
+
+337
+00:38:34,302 --> 00:38:56,829
+So, in the wheel of dependent origination, which is the psychological paradigm as to how we create suffering for ourselves, the Buddha points us to get right there with Vedana and to see what arises in our relationship to that feeling.
+
+338
+00:38:56,849 --> 00:39:03,077
+By keeping our mind right there, we'll liberate consciousness from its attachments
+
+339
+00:39:03,461 --> 00:39:09,570
+And we will allow the turbulence to expend its energy and we'll be cured of it.
+
+340
+00:39:13,574 --> 00:39:14,496
+It's very interesting.
+
+341
+00:39:15,938 --> 00:39:23,947
+Nowhere, as far as I can see, on that wheel of dependent origination, does he ask us to look at an emotion as a given.
+
+342
+00:39:24,869 --> 00:39:31,157
+In other words, if I get up in the morning and I feel depressed, I never decide to get up and feel depressed, by the way,
+
+343
+00:39:32,065 --> 00:39:37,213
+When I feel depressed, if I say I am depressed, I'm already a goner.
+
+344
+00:39:39,916 --> 00:39:42,541
+If I say this is depression, I'm into psychotherapy.
+
+345
+00:39:42,561 --> 00:39:44,443
+I'm trying to find out why I'm depressed.
+
+346
+00:39:46,065 --> 00:39:54,559
+If I'm into feeling, all I feel is just a heaviness, a dullness, a stodginess of mind, an inability to do this and that.
+
+347
+00:39:55,079 --> 00:39:55,561
+That's fine.
+
+348
+00:39:56,242 --> 00:39:57,043
+What's the problem?
+
+349
+00:39:59,385 --> 00:40:05,273
+You know that book that's a bit of a bestseller, Feel the Fear and Do It Anyway.
+
+350
+00:40:05,293 --> 00:40:06,213
+Well, that's it.
+
+351
+00:40:06,233 --> 00:40:08,617
+Feel the depression and do it anyway.
+
+352
+00:40:08,637 --> 00:40:13,382
+Feel the hatred and do it anyway.
+
+353
+00:40:13,561 --> 00:40:16,965
+In order to do that, you have to have distanced yourself from these feelings.
+
+354
+00:40:16,985 --> 00:40:19,389
+You have to have distanced yourself from it as an emotion.
+
+355
+00:40:20,130 --> 00:40:25,114
+And it's very easy to do that if you just drop down a level and see it just as feeling.
+
+356
+00:40:25,936 --> 00:40:26,456
+Feeling.
+
+357
+00:40:41,961 --> 00:40:44,748
+I think that's it.
+
+358
+00:40:44,768 --> 00:40:59,076
+May you be enlightened this very lifetime.
+
+359
+00:41:04,793 --> 00:41:16,969
+I'd like to start before I answer the question by trying to clarify some of the stuff I said the other night about Vedana, especially this business of psychotherapy.
+
+360
+00:41:16,989 --> 00:41:18,672
+A few spears hit me as I left the room.
+
+361
+00:41:22,557 --> 00:41:27,405
+What I was on about was coming to Vipassana with a psychodynamic model.
+
+362
+00:41:28,405 --> 00:41:31,610
+It wasn't a criticism at all of psychotherapy as such.
+
+363
+00:41:33,159 --> 00:41:57,126
+things like just simple therapy like behavioral therapy is extremely good at getting rid of phobias isn't it things like that it's just that if you come to the meditation with a particular model in your mind then you may very well succeed in getting what that model tells you you might get but you may not succeed in becoming enlightened that's all
+
+364
+00:41:58,034 --> 00:42:23,434
+so if you come with the meditation with the Freudian idea that there's a subconscious that there's a super ego and a need then you'll be looking for that and thinking that it's somewhere around and you may find it you might not become enlightened that's the problem that's the first thing and secondly that of course
+
+365
+00:42:24,257 --> 00:42:49,387
+the whole genius you might say of the Buddha's teaching is that he left a psychological blueprint he actually left a psychological paradigm so that when you work with that psychology then you not only get the benefit of therapy because you couldn't possibly have a neurotic Buddha you also get the enlightenment you see
+
+366
+00:42:49,773 --> 00:42:54,460
+Now, when you get to be enlightened, then you can say, well, is this it, or is there more than this?
+
+367
+00:42:57,005 --> 00:43:04,577
+He's not putting it to us, remember, as a belief factor, something that we have to experiment with and try out for ourselves.
+
+368
+00:43:05,018 --> 00:43:07,762
+The doctrine is ehi passico, come and try it, you see.
+
+369
+00:43:08,364 --> 00:43:09,545
+Come and try it, come and see.
+
+370
+00:43:12,210 --> 00:43:13,231
+So...
+
+371
+00:43:13,768 --> 00:43:21,376
+My criticism is of people coming to do Vipassana meditation with the wrong model in their minds.
+
+372
+00:43:21,737 --> 00:43:23,579
+And that's what I get when I do interviews, you see.
+
+373
+00:43:24,280 --> 00:43:25,300
+That's what I find.
+
+374
+00:43:25,340 --> 00:43:29,164
+I find the person hasn't got the Buddhist model in their mind.
+
+375
+00:43:29,244 --> 00:43:32,309
+So, you know, it creates a certain confusion.
+
+376
+00:43:32,329 --> 00:43:33,449
+It doesn't create the results.
+
+377
+00:43:35,731 --> 00:43:38,275
+The main confusion is concerned with
+
+378
+00:43:38,726 --> 00:43:45,168
+This business of the relationship we have to our emotional life, our thought life.
+
+379
+00:43:46,974 --> 00:43:51,690
+And that's really what you've got to catch to stop this round of reconditioning ourselves.
+
