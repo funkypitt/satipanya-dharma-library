@@ -1863,11 +1863,14 @@ def pass_beautify():
         for season in feed_data['seasons']:
             for ep in season['episodes']:
                 done += 1
-                ep_slug = re.sub(r'[^\w\s-]', '', ep['title'])[:80].strip()
-                ep_slug = re.sub(r'[\s]+', '_', ep_slug)
-                article_path = feed_article_dir / (
-                    f"S{ep['season_number']:02d}E{ep['episode_number']:02d}_{ep_slug}.txt"
-                )
+                # Utiliser le stem du transcript (cohérent avec build_site.py)
+                if ep.get('transcript_path'):
+                    stem = Path(ep['transcript_path']).stem
+                else:
+                    ep_slug = re.sub(r'[^\w\s-]', '', ep['title'])[:80].strip()
+                    ep_slug = re.sub(r'[\s]+', '_', ep_slug)
+                    stem = f"S{ep['season_number']:02d}E{ep['episode_number']:02d}_{ep_slug}"
+                article_path = feed_article_dir / f"{stem}.txt"
 
                 if article_path.exists():
                     print(f"  [{done}/{total}] SKIP (exists): {ep['title'][:50]}")
