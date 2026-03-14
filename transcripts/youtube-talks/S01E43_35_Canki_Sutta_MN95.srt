@@ -1,0 +1,704 @@
+1
+00:00:18,525 --> 00:00:20,588
+Got to move the camera around.
+
+2
+00:00:20,629 --> 00:00:23,391
+Good evening all.
+
+3
+00:00:23,913 --> 00:00:25,535
+I trust you had a fruitful day.
+
+4
+00:00:25,554 --> 00:00:29,280
+I don't say happy, but I hope it has been happy.
+
+5
+00:00:29,320 --> 00:00:36,609
+Namo tassa bhagavato harahato sambha sambodasa.
+
+6
+00:00:37,469 --> 00:00:45,039
+Namo tassa bhagavato harahato sambha sambodasa.
+
+7
+00:00:45,576 --> 00:00:53,289
+Namo dasa bhagavato arahato sambha sambuddhasa.
+
+8
+00:00:53,789 --> 00:00:59,219
+Homage to the Buddha, the blessed, noble and fully self-awakened one.
+
+9
+00:00:59,238 --> 00:01:02,645
+I've gone and brought a floodlight, but it seems to be casting shadows.
+
+10
+00:01:03,426 --> 00:01:06,150
+That's a bit of a drag, isn't it?
+
+11
+00:01:07,513 --> 00:01:10,858
+Oh well, so long as you can see my amazing head.
+
+12
+00:01:12,745 --> 00:01:22,543
+I hope some of you were able to, I think a lot of you were able to join the Buddha celebrations this evening, which I thought were really fantastic.
+
+13
+00:01:22,703 --> 00:01:29,454
+So I want to move on to another discourse over the next two or three days.
+
+14
+00:01:30,516 --> 00:01:36,507
+And then on Monday, I'm starting a course, a Vipassana course with the
+
+15
+00:01:37,365 --> 00:01:38,968
+with the Gaia group.
+
+16
+00:01:39,528 --> 00:01:41,272
+So it's Monday, Tuesday, Wednesday.
+
+17
+00:01:41,331 --> 00:01:43,596
+You're welcome to join it.
+
+18
+00:01:44,236 --> 00:01:55,313
+I'm just thinking, I'll email the connections later on, I think, or I'll send it out with a news bite.
+
+19
+00:01:56,215 --> 00:02:00,841
+And I'll be doing the usual thing of, I think I'm meditating at eight o'clock in the morning.
+
+20
+00:02:01,649 --> 00:02:02,450
+Something like that.
+
+21
+00:02:02,629 --> 00:02:17,867
+Anyway, I shall send details or better still, if you think you might want to practice, even if it's only one of the sessions during the day, send me an email and I'll send you the details.
+
+22
+00:02:17,927 --> 00:02:19,310
+Perhaps that's the best way to do it.
+
+23
+00:02:19,330 --> 00:02:21,712
+Yeah.
+
+24
+00:02:21,772 --> 00:02:27,780
+And on those days, I'll probably be doing the just going through very quickly the Satipa Tana discourse.
+
+25
+00:02:27,800 --> 00:02:30,323
+So it's just the next three days that we're looking at.
+
+26
+00:02:30,691 --> 00:02:34,917
+And I've chosen to do a Sutta called Kanki, the Kanki Sutta.
+
+27
+00:02:38,002 --> 00:02:46,294
+And I want to read the first part, not because it's so much Dharma, but because it gives you some idea of the society that was in.
+
+28
+00:02:46,816 --> 00:02:57,491
+So it would seem that in the old days, of course, the Kshatriyas, the warrior caste, the aristocracy, were, of course, the rulers, were at the top of the ladder.
+
+29
+00:02:57,995 --> 00:03:03,903
+This would have been a time when they were conquering, when they were settling into North India.
+
+30
+00:03:04,705 --> 00:03:15,600
+And of course, going really back, they would have been chieftains and the Brahmins would have been their shamans, their witch doctors, as we used to call them.
+
+31
+00:03:15,621 --> 00:03:16,763
+They'd be the shamans.
+
+32
+00:03:17,231 --> 00:03:24,984
+As time progressed, of course, the shamans gathered or began to develop these verses.
+
+33
+00:03:25,444 --> 00:03:32,436
+A lot of them were just spells or ways of doing certain rituals to get the better of the gods.
+
+34
+00:03:33,217 --> 00:03:42,872
+And of course, as they began to settle on the Gangetic plain, by the time the Buddha was there, there was no need for this, you know, warrior caste so much.
+
+35
+00:03:42,893 --> 00:03:44,235
+They were fighting with each other.
+
+36
+00:03:44,687 --> 00:03:48,954
+And the Brahmins began to establish themselves as the superior caste.
+
+37
+00:03:48,973 --> 00:04:03,796
+And I think we joined that time that the idea was that they came from the mouth of Brahma, the warriors came from the shoulders of Brahma, the workers and the trades people and all that came from the body of Brahma.
+
+38
+00:04:03,817 --> 00:04:07,322
+And of course the Sudras, the ones right at the bottom came from the feet.
+
+39
+00:04:08,723 --> 00:04:14,171
+And it would seem that in the East of India, present day Bengal,
+
+40
+00:04:14,506 --> 00:04:19,372
+the Brahmins had established themselves as the top caste.
+
+41
+00:04:19,773 --> 00:04:22,877
+But it hadn't really established itself where the Buddha was.
+
+42
+00:04:23,678 --> 00:04:25,942
+And so there was a bit of argy-bargy going on.
+
+43
+00:04:27,324 --> 00:04:29,968
+And I think we catch this in this particular discourse.
+
+44
+00:04:31,149 --> 00:04:39,500
+So on one occasion, the Blessed One was wandering in the Kosalan country with a large sangha of bhikkhus, and eventually he arrived at the Kosalan Brahmin village.
+
+45
+00:04:40,004 --> 00:04:42,427
+I think you still get that in India.
+
+46
+00:04:42,668 --> 00:04:48,956
+I'm almost, well, I'm not absolutely sure, but villages will be Brahmin or Kshatriyas or whatever.
+
+47
+00:04:49,357 --> 00:04:50,358
+They'll be quite separate.
+
+48
+00:04:52,880 --> 00:04:58,309
+And he arrives at a village called, the Brahmin village called Upasada.
+
+49
+00:04:58,329 --> 00:05:06,079
+And there the Blessed One's staying at the God's grove, that's the Deva grove, the Salah tree grove to the north of Upasada.
+
+50
+00:05:06,716 --> 00:05:23,598
+Now on that occasion, the Brahmin Kanki, who was ruling over Upasada, a crown property abounding in living beings, rich in grasslands, woodlands, waterways and grain, a royal endowment, a sacred grant given to him by King Pasenadi of Kosala.
+
+51
+00:05:25,038 --> 00:05:32,168
+And then on that occasion, so the householders now decided to go and see the Buddha.
+
+52
+00:05:32,822 --> 00:05:38,490
+And he had retired, Kanki had retired to the upper story of his palace for the midday rest.
+
+53
+00:05:39,132 --> 00:05:45,500
+And then he saw the Brahmin householders of Upasada setting forth towards the God's Grove.
+
+54
+00:05:45,940 --> 00:05:57,177
+When he saw them, he asked his minister, good minister, why are these Brahmin householders of Upasada setting forth from Upasada in groups and bands heading northwards to the God's Grove?
+
+55
+00:05:57,949 --> 00:06:13,430
+Sir, and then he tells him that the recluse, the Samanap Gautama, that's how he would be referred to, the son of the Sakians who's gone forth from the Sakian clan, has been wandering in the Kosaland country.
+
+56
+00:06:15,733 --> 00:06:19,098
+So then he sends his minister, he says, tell them to wait.
+
+57
+00:06:19,497 --> 00:06:22,882
+The Brahmin Kanki will also go to see the recluse Gautama.
+
+58
+00:06:24,124 --> 00:06:24,884
+And off he goes.
+
+59
+00:06:25,372 --> 00:06:31,880
+Now, on that occasion, 500 Brahmins from various states were staying in Upasara for some business or other.
+
+60
+00:06:32,502 --> 00:06:36,767
+And they heard this Brahmin Kanki was going to see the recluse, so they went to see him.
+
+61
+00:06:36,788 --> 00:06:40,632
+Sir, do not go to see the recluse Gama.
+
+62
+00:06:40,673 --> 00:06:45,420
+It's not proper for Master Kanki to go and see the recluse Gautama.
+
+63
+00:06:45,459 --> 00:06:50,045
+Rather, it is proper for the recluse Gautama to come and see you.
+
+64
+00:06:50,937 --> 00:07:01,951
+For you, sir, are well born on both sides of pure maternal and paternal descent seven generations back, unassailable, impeccable in respect of birth.
+
+65
+00:07:02,733 --> 00:07:11,343
+Since that is so, Master Kanke, it's not proper for you to go to see Master Gautama, Recluse Gautama, rather Recluse Gautama has come to see you.
+
+66
+00:07:11,944 --> 00:07:14,548
+You are rich, great wealth, great possessions.
+
+67
+00:07:14,882 --> 00:07:18,187
+Master of the three Vedas and the vocabularies.
+
+68
+00:07:18,307 --> 00:07:21,110
+That's the Vedas of the liturgical texts.
+
+69
+00:07:21,709 --> 00:07:26,115
+Liturgy, phonology, etymology, and the histories as a fifth.
+
+70
+00:07:26,636 --> 00:07:28,557
+Skilled in philology and grammar.
+
+71
+00:07:28,637 --> 00:07:30,098
+I did have to look up philology.
+
+72
+00:07:30,920 --> 00:07:33,242
+It means interpretation of the texts.
+
+73
+00:07:34,865 --> 00:07:38,869
+And you are fully versed in natural philosophy and the marks of the great man.
+
+74
+00:07:39,769 --> 00:07:44,535
+You are handsome, comely, graceful, possessing supreme beauty of completion.
+
+75
+00:07:44,836 --> 00:07:48,982
+with sublime beauty and sublime presence remarkable to behold.
+
+76
+00:07:49,884 --> 00:07:54,730
+You are virtuous, mature in virtue, possessing mature virtue.
+
+77
+00:07:55,211 --> 00:07:57,035
+You're a good speaker with good delivery.
+
+78
+00:07:57,314 --> 00:08:01,781
+You speak words that are courteous, distinct, flawless, and communicate the meaning.
+
+79
+00:08:02,199 --> 00:08:08,511
+You teach teachers of many and you teach the recitation of the hymns to the 300 Brahmin students.
+
+80
+00:08:09,132 --> 00:08:18,788
+You, sir, are honoured, respected, revered, venerated and esteemed by the King Pasenadi of Kosala.
+
+81
+00:08:19,228 --> 00:08:24,377
+You, sir, are honoured, respected, revered and esteemed by the Brahmin Pokharasati.
+
+82
+00:08:24,896 --> 00:08:50,652
+you sir rule over oppasada a crown property abounding in living beings a sacred grant given to you by the king since this is so master camp is not proper for you to go to the recluse gotama rather it is proper for the recluse gotama to come to you now the brahmin says no now hear me he says right and he says virtually the same about the buddha
+
+83
+00:08:51,812 --> 00:08:59,923
+Saying that, you know, he came from a homeless nurse to live the life of a recluse, noble in virtue, wholesome, etc., etc.
+
+84
+00:09:01,365 --> 00:09:07,533
+But then he says, Sirs, the recluse Gautama is free from sensual lust and without personal vanity.
+
+85
+00:09:08,515 --> 00:09:17,287
+Sirs, the recluse Gautama holds the doctrine of moral efficacy of action, karma, the doctrine of moral efficacy of deeds.
+
+86
+00:09:17,807 --> 00:09:20,030
+He does not seek any harm
+
+87
+00:09:20,264 --> 00:09:22,006
+for the line of Brahmins.
+
+88
+00:09:23,808 --> 00:09:30,879
+The recluse gama has gone forth from an aristocratic family, one of the original noble families.
+
+89
+00:09:31,600 --> 00:09:35,267
+So here we see the caste system in bright colors.
+
+90
+00:09:36,749 --> 00:09:44,921
+Of course, our class can also be much the same and how they measure themselves as opposed to the other castes.
+
+91
+00:09:45,461 --> 00:09:47,384
+But in this particular case,
+
+92
+00:09:47,668 --> 00:09:51,614
+He seems to honor the Buddha with the same sort of accomplishments.
+
+93
+00:09:52,735 --> 00:09:57,360
+And at the end, there's a repetition of what has become the morning chanting.
+
+94
+00:09:58,142 --> 00:10:04,568
+Now the Blessed One is accomplished, fully enlightened, perfect in true knowledge and conduct, what he says he does.
+
+95
+00:10:05,591 --> 00:10:10,557
+Sublime, knower of the worlds, that's the cosmology of Buddhism.
+
+96
+00:10:11,336 --> 00:10:17,625
+Incomparable leader of persons to be tamed, teacher of gods and humans, enlightened and blessed.
+
+97
+00:10:18,820 --> 00:10:20,601
+So he goes off.
+
+98
+00:10:21,724 --> 00:10:23,085
+Now they're all there with them.
+
+99
+00:10:26,269 --> 00:10:28,272
+So they all go down there.
+
+100
+00:10:28,312 --> 00:10:34,980
+And then the Brahmin Kanki, together with a large company of Brahmins, went to the Blessed One, exchanged greetings, etc.
+
+101
+00:10:36,181 --> 00:10:40,886
+And after courteous and amiable talk was finished, he sat down to one side.
+
+102
+00:10:42,128 --> 00:10:47,595
+Now on that occasion, the Blessed One was seated, finishing some amiable talk with some senior Brahmins.
+
+103
+00:10:47,947 --> 00:10:52,552
+At the time, sitting in the assembly was a Brahmin student named Karpatika.
+
+104
+00:10:53,433 --> 00:11:05,471
+Young, head-shaven, 16 years old, he was the master of the three Vedas with their vocabulary, liturgy, phonology and etymology and the histories as a fifth.
+
+105
+00:11:05,490 --> 00:11:12,240
+Skilled in philology and grammar, he was fully versed in natural philosophy and in the marks of the great man.
+
+106
+00:11:13,160 --> 00:11:16,164
+While the senior Brahmins were conversing with the Blessed One,
+
+107
+00:11:16,634 --> 00:11:19,115
+he often broke in and interrupted their talk.
+
+108
+00:11:19,297 --> 00:11:30,047
+Then the Blessed One rebuked the Brahmin students thus, let not the Venerable Bharavadja break in and interrupt the talk of the very senior Brahmins while they are conversing.
+
+109
+00:11:30,687 --> 00:11:34,431
+Let the Venerable One wait until the talk is finished.
+
+110
+00:11:35,511 --> 00:11:42,678
+And when this was said, the Brahmin Kanki said to the Blessed One, let not Master Gautama rebuke the Brahmin student.
+
+111
+00:11:43,860 --> 00:11:45,020
+The Brahmin student
+
+112
+00:11:45,423 --> 00:11:47,105
+Kapatika is a clansman.
+
+113
+00:11:47,385 --> 00:11:48,287
+He is very learned.
+
+114
+00:11:48,706 --> 00:11:50,089
+He is very good delivery.
+
+115
+00:11:50,229 --> 00:11:50,909
+He is wise.
+
+116
+00:11:50,950 --> 00:11:56,337
+He is capable of taking part in the discussion with Master Gautama.
+
+117
+00:11:56,717 --> 00:12:05,190
+Then the Blessed One thought to himself, surely since the Brahmins honour him, thus the Brahmin student must be accomplished in the scriptures of the three Vedas.
+
+118
+00:12:05,850 --> 00:12:11,498
+Then the Brahmin student thought, when the recluse Gautama catches my eye, I shall ask him a question.
+
+119
+00:12:13,081 --> 00:12:19,591
+Then knowing with his mind the thought of the Brahmin student, the Blessed One turned his eye towards him.
+
+120
+00:12:19,650 --> 00:12:25,539
+And the Brahmin student thought, the recluse Gautama turned towards me, suppose I ask him a question.
+
+121
+00:12:26,280 --> 00:12:41,062
+Then he said to the Blessed One, Master Gautama, in regard to the ancient Brahminic hymns that have come down through oral transmission and in the scriptural collections, the Brahmins come to a definite conclusion.
+
+122
+00:12:41,363 --> 00:12:42,585
+Only this is true.
+
+123
+00:12:43,085 --> 00:12:44,506
+Anything else is wrong.
+
+124
+00:12:45,649 --> 00:12:47,410
+What does Master Gautama say about this?
+
+125
+00:12:49,774 --> 00:12:58,886
+Now then, Brahmaji, among the Brahmins, is there even a single Brahmin now who says, I know this, I see this by my own personal experience?
+
+126
+00:12:58,907 --> 00:12:59,888
+I'm paraphrasing there.
+
+127
+00:13:00,789 --> 00:13:03,013
+Only this is true and anything else is wrong?
+
+128
+00:13:03,854 --> 00:13:04,754
+No, Master Gautama.
+
+129
+00:13:05,815 --> 00:13:19,520
+Well, then Brahmins, the ancient Brahmin seers, the creators of the hymns, the composers of the hymns, whose ancient hymns have been formally chanted, uttered and compiled by Brahmins nowadays, that the Brahmins nowadays still chant and repeat.
+
+130
+00:13:20,057 --> 00:13:27,304
+repeating what was spoken and recited, and then there's a whole load of names of the ancient rishis, the ancient teachers.
+
+131
+00:13:27,846 --> 00:13:39,136
+Did even these ancient, did even these Brahmin seers say thus, we know this, we see this for ourselves, only this is true, anything else is wrong, everything else is wrong.
+
+132
+00:13:39,577 --> 00:13:40,578
+No, Master Gautama.
+
+133
+00:13:41,440 --> 00:13:46,605
+So, Bharadwaja, it seems that among the Brahmins, there is not even a single Brahmin
+
+134
+00:13:47,176 --> 00:13:52,048
+Who can say, I know this, I see this for myself.
+
+135
+00:13:52,067 --> 00:13:56,799
+And among the Brahmins, there's not even a single teacher or a single teacher's teacher.
+
+136
+00:13:56,879 --> 00:14:04,357
+Going back to the seventh generation of teachers who say, I know this, I see this by my own personal experience.
+
+137
+00:14:04,979 --> 00:14:08,323
+The ancient Brahmin seers, the creators of the hymns and so on.
+
+138
+00:14:08,924 --> 00:14:18,258
+Even these cannot say, we know this, we see this by our own personal experience and that only this is true and everything else is wrong.
+
+139
+00:14:19,539 --> 00:14:24,927
+Supposing there's a file of blind men, each in touch with the next.
+
+140
+00:14:25,886 --> 00:14:30,230
+The first one does not see, the middle one does not see, and the last one does not see.
+
+141
+00:14:30,652 --> 00:14:36,297
+So, Bharadwaja, in regard to their statement, the Brahmins seem to be like a file of blind men.
+
+142
+00:14:37,077 --> 00:14:41,182
+The first one does not see, the middle one does not see, and the last one does not see.
+
+143
+00:14:41,682 --> 00:14:43,062
+What do you think, Bharadwaja?
+
+144
+00:14:43,423 --> 00:14:48,048
+That being so, does not the faith of Brahmins turn out to be groundless?
+
+145
+00:14:49,970 --> 00:14:51,291
+The Brahmins honour that.
+
+146
+00:14:51,831 --> 00:14:55,134
+The Brahmins honour this not only out of faith, Master Gautama,
+
+147
+00:14:55,503 --> 00:14:57,826
+but also out of oral tradition.
+
+148
+00:14:58,447 --> 00:15:04,455
+Ah, Bharadwaja, first you took your stand on faith, now you speak of the oral tradition.
+
+149
+00:15:05,176 --> 00:15:10,263
+There are five ways, Bharadwaja, that may turn out in two different ways here and now.
+
+150
+00:15:10,803 --> 00:15:11,784
+What are these five?
+
+151
+00:15:12,426 --> 00:15:15,309
+Now, this goes back to the Kalama discourse, right?
+
+152
+00:15:15,870 --> 00:15:24,581
+How we can use various ways of knowing things in order to prove, inverted commas, what we think is true.
+
+153
+00:15:25,236 --> 00:15:28,023
+Faith, oral, faith approval.
+
+154
+00:15:28,442 --> 00:15:30,027
+So that's more to do with the heart.
+
+155
+00:15:30,167 --> 00:15:33,693
+You have a sort of a heart connection with the teacher, with the tradition.
+
+156
+00:15:33,995 --> 00:15:37,761
+This is often true of people who are brought up in religious traditions.
+
+157
+00:15:38,283 --> 00:15:39,445
+They don't question anything.
+
+158
+00:15:39,505 --> 00:15:41,710
+It's just part and parcel of the way they see the world.
+
+159
+00:15:43,174 --> 00:15:44,556
+Oral tradition, right?
+
+160
+00:15:44,615 --> 00:15:46,258
+Just because it's come from the past.
+
+161
+00:15:46,278 --> 00:15:49,900
+So this is the traditionalists or the fundamentalists.
+
+162
+00:15:49,921 --> 00:15:54,664
+Reasoned cogitation and reflective acceptance of view.
+
+163
+00:15:55,225 --> 00:16:02,331
+Now the problem with reason and reflecting, you're always, all this reasoning and reflecting is based on a premise.
+
+164
+00:16:03,033 --> 00:16:06,155
+If the premise is false, the whole thing comes crashing down.
+
+165
+00:16:09,538 --> 00:16:12,961
+So these five things may turn out in two different ways.
+
+166
+00:16:13,820 --> 00:16:43,624
+uh now something may be fully accepted by faith and yet may be empty hollow and false but something else may be fully accepted by faith and yet may be factual true and unmistaken and so he goes through the other types of misunderstood ways of thinking about things or coming to believe in things it is not proper that a wise man who preserves truth to come to a definite conclusion only this is true
+
+167
+00:16:43,822 --> 00:17:09,949
+anything else is false so i love this thing about definite conclusion um and i want to uh i shall end here with um because it goes on then as to how do we know the truth that's what the uh the discourse is about uh some of you might have heard me tell you this little tale i was on the way last year down to uh down to uh brighton and uh when i got to the edge
+
+168
+00:17:10,469 --> 00:17:39,378
+of london somewhere uh some rugby fans came on and they sat opposite me and uh i don't think they were tips they were just high and uh one of them said to me are you a buddhist monk and i said yes i am and he said well i don't believe in reincarnation and i said to him uh do you know i mean by your personal experience you know have you died and remembered i mean do you know about your are you do you know by your personal experience whether there's
+
+169
+00:17:39,696 --> 00:18:08,673
+reincarnation or not and he said no so i said to him well then why come to a conclusion and his mate said yeah why do you come to a conclusion so that was it was a just a lovely moment there so uh even we ourselves you know it's good to question what conclusions have i come to and on what grounds have i come to those conclusions and um i know we shouldn't be surprised when we find that actually a lot of our conclusions are groundless
+
+170
+00:18:09,852 --> 00:18:12,114
+Or some of them are, or maybe just one is.
+
+171
+00:18:12,914 --> 00:18:18,520
+But it's worth questioning ourselves about what are our conclusions?
+
+172
+00:18:18,580 --> 00:18:19,862
+What do we actually believe?
+
+173
+00:18:20,462 --> 00:18:28,530
+Remember, in the Buddhist teaching, beliefs can be a real barrier because often when you believe something, you want to manifest that belief.
+
+174
+00:18:29,070 --> 00:18:31,413
+And as he says, it might be completely wrong.
+
+175
+00:18:32,173 --> 00:18:39,842
+So it's a case of dropping all beliefs and just opening up to the Dharma when we're practicing, especially when we're practicing the passage.
+
+176
+00:18:41,711 --> 00:18:54,185
+very good so i hope my words have been of some assistance not caused any confusion may you be fully liberated in this very lifetime we can begin our meditation
+

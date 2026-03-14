@@ -1,0 +1,892 @@
+1
+00:00:18,745 --> 00:00:19,405
+Greetings.
+
+2
+00:00:20,146 --> 00:00:21,748
+I hope you've had a fruitful day.
+
+3
+00:00:21,789 --> 00:00:25,013
+I do not say happy, though I wish it has been happy.
+
+4
+00:00:26,135 --> 00:00:42,340
+Namo Tassa Bhagavato Harahato Sambha Sambhodassa Namo Tassa Bhagavato Harahato Sambha Sambhodassa
+
+5
+00:00:43,281 --> 00:00:51,353
+Namo tassa bhagavato harahato samma sambuddhasa.
+
+6
+00:00:52,293 --> 00:00:59,362
+Homage to the Buddha, the blessed, noble and fully self-awakened one.
+
+7
+00:00:59,383 --> 00:01:09,036
+So, I want to go back to the original discourse
+
+8
+00:01:10,012 --> 00:01:12,275
+which we started with 10 days ago.
+
+9
+00:01:12,296 --> 00:01:14,040
+I'm still making my way through it.
+
+10
+00:01:14,480 --> 00:01:17,986
+And it's called the Samaditi Sutta.
+
+11
+00:01:18,007 --> 00:01:19,549
+It's the Discourse on Right View.
+
+12
+00:01:20,371 --> 00:01:23,817
+And we've discussed some of these things.
+
+13
+00:01:24,811 --> 00:01:31,301
+The core question that Sariputta, remember this is Sariputta, not the Buddha, answering.
+
+14
+00:01:31,762 --> 00:01:37,712
+Sariputta, remember, was considered by the Buddha to really have a grip on the Dharma.
+
+15
+00:01:37,932 --> 00:01:38,552
+He trusted him.
+
+16
+00:01:39,674 --> 00:01:41,236
+So this is the basic question.
+
+17
+00:01:41,737 --> 00:01:52,454
+In what way is a noble disciple, one of right view, whose view is straight, who has perfect confidence in the Dharma, and has arrived at the true Dharma?
+
+18
+00:01:53,126 --> 00:01:54,368
+Right.
+
+19
+00:01:54,388 --> 00:02:02,703
+I've just forgotten I've got my little industry microphone has arrived.
+
+20
+00:02:02,722 --> 00:02:05,528
+So I'm hoping that you can hear me more clearly.
+
+21
+00:02:07,191 --> 00:02:09,794
+Am I correct in saying that you can hear me more clearly?
+
+22
+00:02:13,260 --> 00:02:13,882
+No response.
+
+23
+00:02:14,002 --> 00:02:14,443
+Not yet.
+
+24
+00:02:19,418 --> 00:02:23,122
+Can you hear me more clearly or can you hear me at all?
+
+25
+00:02:25,704 --> 00:02:26,564
+Ah, thank you very much.
+
+26
+00:02:26,806 --> 00:02:27,126
+Yes.
+
+27
+00:02:27,385 --> 00:02:27,806
+Well done.
+
+28
+00:02:27,866 --> 00:02:28,546
+Thank you so much.
+
+29
+00:02:30,068 --> 00:02:33,772
+I'm still waiting for the, um, the video thing to come.
+
+30
+00:02:34,413 --> 00:02:35,615
+Uh, I gave up on Amazon.
+
+31
+00:02:36,235 --> 00:02:39,217
+Uh, I'm now trying to get it from eBay with a bit of luck.
+
+32
+00:02:39,799 --> 00:02:40,419
+No different.
+
+33
+00:02:40,479 --> 00:02:41,139
+That's interesting.
+
+34
+00:02:45,364 --> 00:02:46,365
+Definitely more clearly.
+
+35
+00:02:46,506 --> 00:02:46,985
+Ah, okay.
+
+36
+00:02:47,265 --> 00:02:47,926
+Thank you very much.
+
+37
+00:02:48,146 --> 00:02:48,867
+It'll have to do.
+
+38
+00:02:51,346 --> 00:02:58,455
+So in this discourse on right view, the first thing he talks about is, if you remember, wholesome, unwholesome.
+
+39
+00:03:01,020 --> 00:03:08,751
+Unwholesome, to know the distinction between those two is of vital importance, or else we end up in a nasty place.
+
+40
+00:03:09,491 --> 00:03:11,776
+And the next one is nutriments.
+
+41
+00:03:11,795 --> 00:03:17,403
+And I would think that most people haven't come across the nutriments.
+
+42
+00:03:17,383 --> 00:03:27,997
+So this is the Buddha always deconstructing something, deconstructing our experience and then putting it together again, showing us how it all fits.
+
+43
+00:03:29,018 --> 00:03:35,284
+And the four nutriments, I'm going to read the actual before that.
+
+44
+00:03:35,786 --> 00:03:38,329
+I just want to give an introduction to them.
+
+45
+00:03:38,495 --> 00:03:41,278
+So first of all, there's food for the body.
+
+46
+00:03:41,338 --> 00:03:42,561
+That's pretty straightforward.
+
+47
+00:03:42,842 --> 00:03:45,466
+The nutriment for the body itself is food.
+
+48
+00:03:46,467 --> 00:03:48,689
+And then there's contact.
+
+49
+00:03:49,070 --> 00:03:55,280
+That's the contact of the senses with the world from which we get our feelings.
+
+50
+00:03:56,442 --> 00:04:03,772
+Those of you who know dependent origination know that that's the point where we contact the physical world.
+
+51
+00:04:04,775 --> 00:04:05,616
+Five senses.
+
+52
+00:04:07,080 --> 00:04:10,109
+That's what he's talking about in the present moment, not the mental sense.
+
+53
+00:04:11,110 --> 00:04:18,850
+And then there is the contact of volition.
+
+54
+00:04:19,331 --> 00:04:23,502
+Now, volition is the point where we bring something out of...
+
+55
+00:04:24,057 --> 00:04:41,644
+the potential a desire and through empowering it it manifests so that's that's pretty important we'll come back to it and then consciousness is driven by feeds that desire for constant rebirth so if we go back to the business of food
+
+56
+00:04:42,079 --> 00:04:54,495
+When you think about food, why you're eating, then you recognize that underneath it, there's a great fear.
+
+57
+00:04:54,536 --> 00:04:56,918
+So this is going back to our old friend death.
+
+58
+00:04:58,221 --> 00:05:03,867
+And I wanted to quote from Ernest Becker here.
+
+59
+00:05:04,338 --> 00:05:08,829
+who won the Pulitzer Prize in 73 for his book called The Denial of Death.
+
+60
+00:05:09,269 --> 00:05:12,257
+And he says, the real world is simply too terrible to admit.
+
+61
+00:05:13,000 --> 00:05:21,942
+We hide the real constant threat of death by fantasies where we survive the idea of death, the illusion of human supremacy.
+
+62
+00:05:21,922 --> 00:05:26,565
+male supremacy, class supremacy, race supremacy, age supremacy.
+
+63
+00:05:26,846 --> 00:05:29,228
+See, it's always trying to make us special.
+
+64
+00:05:30,430 --> 00:05:36,834
+And what he's saying is, of course, is that underneath it all, we're just these little animals.
+
+65
+00:05:38,216 --> 00:05:39,778
+We're human animals.
+
+66
+00:05:40,098 --> 00:05:48,545
+At a physical level, there's no distinction to be made between us, between me and the sheep in the field here.
+
+67
+00:05:49,387 --> 00:05:50,848
+We both of us need food.
+
+68
+00:05:51,757 --> 00:05:56,865
+And we both of us need protection from the weather, although me more than them.
+
+69
+00:05:59,649 --> 00:06:05,418
+So this protection makes us quite irrational sometimes.
+
+70
+00:06:05,999 --> 00:06:14,151
+It's interesting to note, this is from a website I picked up on, thearrowjournal.com.
+
+71
+00:06:14,172 --> 00:06:15,975
+It's about terror management.
+
+72
+00:06:18,470 --> 00:06:40,579
+and he's uh he points out this is uh and this has also happened here why in the midst of this genuine panic so this is coronavirus did north american consumers turn first this is perfectly true for us too not to rice nuts and oranges it wasn't that that people snapped up first it was toilet paper
+
+73
+00:06:41,841 --> 00:06:50,098
+And I might have mentioned this the other day, but I met a neighbor who had been at the local co-op supermarket in Churchstow.
+
+74
+00:06:50,639 --> 00:06:55,730
+And a woman wheeled out two trolleys, two trolleys full of toilet paper.
+
+75
+00:06:58,355 --> 00:07:01,841
+Seemingly, he made some wry comment, which probably upset her.
+
+76
+00:07:04,149 --> 00:07:10,627
+And the whole thing is that we're just trying to hide from ourselves this animal nature.
+
+77
+00:07:11,389 --> 00:07:19,492
+So we've got to go back to food to recognize that it is a nutriment for this body.
+
+78
+00:07:19,473 --> 00:07:25,120
+and that this body is part of our nature and it's part of the natural world.
+
+79
+00:07:26,744 --> 00:07:40,384
+The Buddha, we'll come to it at some future date, the Buddha is very anxious for us to actually get in touch with the foulness of the body, to become equanimous with it, to be happy in our skin, as I think it's said.
+
+80
+00:07:43,857 --> 00:07:45,418
+Now the next is contact.
+
+81
+00:07:47,360 --> 00:07:53,745
+Just consider from the moment we wake up, the senses are constantly bombarded by information.
+
+82
+00:07:53,766 --> 00:07:58,490
+As soon as you open your eyes, you can see around the room, your ears are hearing.
+
+83
+00:07:59,411 --> 00:08:11,923
+You might be able to, when you walk out, like I do in the morning out into nature, very fortunate, there's that lovely smell of humus in the air, the earth.
+
+84
+00:08:11,903 --> 00:08:15,754
+coming up from the ground is really, really quite beautiful.
+
+85
+00:08:16,175 --> 00:08:17,821
+And of course, I can hear the birds.
+
+86
+00:08:17,841 --> 00:08:19,245
+The birds are all coming out.
+
+87
+00:08:19,264 --> 00:08:23,398
+We've got a very lovely blackbird who sings to us every morning.
+
+88
+00:08:25,285 --> 00:08:31,574
+And there's, of course, the taste, you know, breakfast, you have that fullness of taste.
+
+89
+00:08:31,795 --> 00:08:44,394
+And there's just feeling, feeling things, you know, like just brushing your teeth, holding something, so that there's a constant input of information coming in at contact.
+
+90
+00:08:44,913 --> 00:08:54,128
+And these create sensations, which we then translate into either pleasant or unpleasant.
+
+91
+00:08:54,580 --> 00:09:19,169
+and of course there's a whole area of neutral feelings uh but if you if you really go down into a neutral feeling you'll see it shades off it shades off very quietly into either something we don't want or something we don't like something we do like so that's the dual world that we live in the dualistic world of feeling um some of it's pleasant some of it's unpleasant
+
+92
+00:09:19,149 --> 00:09:35,623
+and this of course takes us on to the next position on the dependent origination where we react to it but because of contact the feeling arises so contact is a nutriment it's feeding us in order to experience feelings
+
+93
+00:09:40,548 --> 00:10:05,509
+and what we want to get to is of course a disinterest which doesn't mean say a boredom it just means not to be attached to pleasant or unpleasant sensations the third one is volition so this is the point where a desire is activated it's our power it's the power that we have to do things in the world
+
+94
+00:10:05,489 --> 00:10:11,840
+And it's driven by a curiosity of the world, but also a will to become, a will to live.
+
+95
+00:10:12,721 --> 00:10:21,496
+And that's produced all this science, all the art, all the doing that we do, the huge financial system and all that.
+
+96
+00:10:21,798 --> 00:10:27,226
+It's all driven by this lust for life, this bhavatana, the desire to become.
+
+97
+00:10:27,847 --> 00:10:31,895
+And what empowers that is this volition.
+
+98
+00:10:32,437 --> 00:10:41,114
+And remember that every time you act, there's a field of energy goes out which has an effect and which comes back to you in some way.
+
+99
+00:10:41,674 --> 00:10:47,004
+As you know, if you're angry with somebody, you get a response, you get a reaction.
+
+100
+00:10:46,985 --> 00:11:10,173
+and if you're kind to somebody generous to somebody that something happens right so remember that that passage between an act of will produces an action a set of similar actions produces a habit a set of habits produces a personality person personhood should we say
+
+101
+00:11:10,153 --> 00:11:12,235
+And that, of course, determines your destiny.
+
+102
+00:11:12,897 --> 00:11:22,826
+And it's only when we turn round upon it to question the validity of our attitudes, this goes back to the Eightfold Path, that we begin to change ourselves.
+
+103
+00:11:22,947 --> 00:11:25,950
+And it always comes right back down again to volition.
+
+104
+00:11:26,890 --> 00:11:35,960
+That's why here, you know, when people come and retreat here, the Mahasi was so keen to actually note intentions, note intentions.
+
+105
+00:11:36,740 --> 00:11:40,144
+It's crucial in terms of our development, spiritual development.
+
+106
+00:11:40,259 --> 00:11:46,508
+And then finally there's consciousness, which is this constant rebirthing now.
+
+107
+00:11:47,028 --> 00:11:51,956
+Consciousness arises and passes away, and we're experiencing rebirthing now.
+
+108
+00:11:51,975 --> 00:11:55,880
+The only difference with death is that the body drops off.
+
+109
+00:11:55,900 --> 00:11:58,024
+That's the Buddhist understanding.
+
+110
+00:11:58,905 --> 00:12:02,269
+Some of you I know are scientific materialists, so forget that bit.
+
+111
+00:12:02,711 --> 00:12:07,717
+It's just recognizing that here and now we're actually rebirthing.
+
+112
+00:12:08,490 --> 00:12:11,217
+And that's done through consciousness.
+
+113
+00:12:11,538 --> 00:12:21,724
+So consciousness is the mirror, or should we say the window,
+
+114
+00:12:21,822 --> 00:12:27,087
+which manifests the world, both the inner world and the outer world.
+
+115
+00:12:27,528 --> 00:12:33,514
+And it's through this screen of consciousness that we experience the world.
+
+116
+00:12:33,995 --> 00:12:44,706
+And it's on the screen of consciousness that all this hidden stuff that we don't know is inside us, the old subconscious, call it what you want, begins to manifest.
+
+117
+00:12:44,726 --> 00:12:47,931
+And that's often what we're experiencing when we sit in meditation.
+
+118
+00:12:48,703 --> 00:12:54,871
+So consciousness feeds experience.
+
+119
+00:12:58,277 --> 00:13:10,293
+And just as an aside, the real spiritual insight is for this satipanya, this intuitive awareness, to realize it is not this consciousness.
+
+120
+00:13:11,354 --> 00:13:14,778
+And it's on the screen of consciousness that you get that sense of self.
+
+121
+00:13:15,350 --> 00:13:18,349
+the observer, the feeler, and so on.
+
+122
+00:13:18,369 --> 00:13:21,528
+So time's running on.
+
+123
+00:13:22,690 --> 00:13:23,431
+816.
+
+124
+00:13:23,671 --> 00:13:25,192
+Oh, it's got it right.
+
+125
+00:13:25,212 --> 00:13:29,476
+So I actually want to read this discourse, which I think you'll find somewhat amusing.
+
+126
+00:13:29,636 --> 00:13:38,086
+So it's on the nutriments, and it's in the book, The Connected Discourse, the Sanyuta Nikaya, and there's two of these, for heaven's sake.
+
+127
+00:13:38,105 --> 00:13:40,869
+I have to confess, I've never read the whole scriptures through.
+
+128
+00:13:41,369 --> 00:13:50,097
+I've always centered on the longer discourses and the middle discourses and some of the others, but I've never had the will
+
+129
+00:13:51,664 --> 00:13:57,289
+to get through all the other tomes, not being a particular academic of mind.
+
+130
+00:13:57,910 --> 00:13:58,552
+So here we are.
+
+131
+00:13:58,591 --> 00:14:00,452
+This is called the Son's Flesh.
+
+132
+00:14:02,696 --> 00:14:15,327
+At Sarvati, the Buddha's talking at Sarvati, one of his main monasteries, there are four kinds of nutriments, the maintenance of beings that have already come to be and for the assistance of those who are about to come to be.
+
+133
+00:14:15,347 --> 00:14:15,847
+What for?
+
+134
+00:14:15,988 --> 00:14:17,789
+Nutriment, edible food,
+
+135
+00:14:18,107 --> 00:14:45,297
+contact volition and consciousness now he says should the should the nutriment edible food how should the nutriment edible food be seen suppose a couple husband and wife had taken limited provisions and were traveling through the desert they have been they have with them their dear son beloved then in the middle of the desert their limited provisions would be used up and exhausted
+
+136
+00:14:46,508 --> 00:15:13,730
+while the rest of the desert remains to be crossed the husband and wife would think oh our limited provisions have been used up and exhausted while the rest of the desert remains to be crossed let us kill our only son dear and beloved as he is and prepare dried and spiced meat by eating our son's flesh we can cross the rest of the desert let not all three of us perish
+
+137
+00:15:16,158 --> 00:15:19,924
+Then the husband and wife carry on doing this.
+
+138
+00:15:19,985 --> 00:15:21,287
+They kill the son and all that.
+
+139
+00:15:21,947 --> 00:15:25,394
+And they lament, where are you, our only son?
+
+140
+00:15:25,433 --> 00:15:26,095
+Well, they should know.
+
+141
+00:15:26,115 --> 00:15:29,059
+It's in their bellies, aren't they?
+
+142
+00:15:29,080 --> 00:15:30,221
+So now what do you think?
+
+143
+00:15:31,364 --> 00:15:39,018
+Would they eat that food for amusement or for enjoyment or for the sake of physical beauty and attractiveness?
+
+144
+00:15:39,798 --> 00:15:41,000
+No, venerable sir.
+
+145
+00:15:41,538 --> 00:15:45,182
+Wouldn't they eat the food only for the sake of crossing the desert?
+
+146
+00:15:45,803 --> 00:15:51,851
+Yes, Venerable Sir, in such a way, I say, nutrimental edible food should be seen.
+
+147
+00:15:52,413 --> 00:16:00,964
+When nutrimental edible food is fully understood, then the lust of the five senses is fully understood.
+
+148
+00:16:00,943 --> 00:16:12,635
+And when lust for the five chords of sensual pleasure is fully understood, there is no fetter bound by which a noble disciple might come back into this world.
+
+149
+00:16:12,995 --> 00:16:19,682
+In other words, eat for the purpose of becoming fully spiritually enlightened and not for any other.
+
+150
+00:16:20,062 --> 00:16:21,224
+That takes you off the path.
+
+151
+00:16:22,004 --> 00:16:24,086
+But what a wonderful metaphor.
+
+152
+00:16:25,948 --> 00:16:27,389
+So now he goes on to say,
+
+153
+00:16:27,758 --> 00:16:49,902
+the nutriment uh the contact so this is contact yeah the the sensual contact the eyes the ears etc vision vision hearing that's more precise supposing there is a flayed cow right all the skin's taken off if if she stands exposed to a wall the creatures dwelling in the wall would nibble at her
+
+154
+00:16:50,118 --> 00:16:54,404
+If she stands exposed to a tree, the creatures dwelling in the tree would nibble at her.
+
+155
+00:16:54,884 --> 00:16:59,451
+If she stands exposed to water, the creatures dwelling in the water would nibble at her.
+
+156
+00:16:59,952 --> 00:17:05,561
+And if she stands exposed to the open air, the creatures dwelling in the open air would nibble at her.
+
+157
+00:17:06,824 --> 00:17:12,952
+Whatever that flayed crows stands exposed to, the creatures dwelling there would nibble at her, right?
+
+158
+00:17:14,653 --> 00:17:17,959
+In such a way, I say the nutriment contact should be seen.
+
+159
+00:17:18,480 --> 00:17:25,431
+When nutriment contact is fully understood, the three kinds of feeling are fully understood, pleasant, unpleasant, neutral.
+
+160
+00:17:26,031 --> 00:17:42,837
+And when the three kinds of feelings are fully understood, that is, they are just feelings, not to be indulged, not to be seeking some sort of permanent happiness there, not to be dependent on them for happiness, I say there is nothing further for a disciple to do.
+
+161
+00:17:45,535 --> 00:17:48,818
+How should the nutriment mental volition be seen?
+
+162
+00:17:49,220 --> 00:17:50,201
+This is the will.
+
+163
+00:17:50,942 --> 00:17:58,250
+Suppose there's a charcoal pit deeper than a man's height filled with glowing coals without flame or smoke.
+
+164
+00:17:59,212 --> 00:18:05,641
+And a man would come along wanting to live, not wanting to die, desiring happiness and averse to suffering.
+
+165
+00:18:06,521 --> 00:18:12,690
+Then two strong men would grab him by both arms and drag him towards the charcoal pit.
+
+166
+00:18:13,767 --> 00:18:16,153
+The man's volition would be to get far away.
+
+167
+00:18:16,212 --> 00:18:18,858
+His longing would be to get far away.
+
+168
+00:18:18,959 --> 00:18:22,207
+His wish would be to get far away from that charcoal pit.
+
+169
+00:18:23,309 --> 00:18:24,092
+For what reason?
+
+170
+00:18:24,553 --> 00:18:30,847
+Because he knows, I will fall into the charcoal pit and on that account I will meet death and deadly suffering.
+
+171
+00:18:32,059 --> 00:19:00,665
+it is in such a way that I say the nutriment mental deletion should be seen right so in other words not to not to get into the fire of wrong will unwholesome unwholesome will and the three kinds of craving are fully understood a craving to for sensual pleasure craving to become and craving not to become okay
+
+172
+00:19:02,839 --> 00:19:29,251
+when these three kinds of cravings are fully understood i say there is nothing further for a noble disciple to do because should the nutriment consciousness be how should that be seen supposing they were to arrest a bandit a criminal and bring him before the king saying sire this man is a bandit a criminal impose on him whatever punishment you wish
+
+173
+00:19:29,569 --> 00:19:31,213
+And the king says, go men.
+
+174
+00:19:31,453 --> 00:19:34,621
+And in the morning, strike the man with a hundred spears.
+
+175
+00:19:35,502 --> 00:19:37,748
+In the morning, they strike him with a hundred spears.
+
+176
+00:19:37,949 --> 00:19:41,056
+And then at noon, the king asks, men, how's that man?
+
+177
+00:19:41,856 --> 00:19:42,920
+Still alive, sire.
+
+178
+00:19:43,842 --> 00:19:47,088
+Then go and at noon, strike him with a hundred spears.
+
+179
+00:19:48,217 --> 00:19:51,099
+At noon they strike him with a hundred spears.
+
+180
+00:19:51,339 --> 00:19:54,384
+And then in the evening the king asks, Men, how's that man?
+
+181
+00:19:55,125 --> 00:19:56,726
+Still alive, sire.
+
+182
+00:19:56,746 --> 00:19:59,910
+Then go and in the evening strike him with a hundred spears.
+
+183
+00:20:00,830 --> 00:20:03,614
+And in the evening they strike him with a hundred spears.
+
+184
+00:20:04,734 --> 00:20:13,785
+What do you think, Bhikkhus, would that man being struck by 300 spears experience pain and displeasure on that account?
+
+185
+00:20:14,557 --> 00:20:23,672
+Venerable sir, even if it was struck with one spear, he would experience pain and displeasure on that account, not to speak of three hundred spears.
+
+186
+00:20:23,692 --> 00:20:27,738
+It is in such a way, bhikkhus, that I say the nutriment of consciousness should be seen.
+
+187
+00:20:28,459 --> 00:20:34,288
+When the nutriment of consciousness is fully understood, body and mind are understood.
+
+188
+00:20:34,791 --> 00:20:43,744
+When body and mind is fully understood, I say there is nothing further for a noble disciple needs to do.
+
+189
+00:20:44,226 --> 00:20:49,553
+So it is through consciousness that we become aware of this psychophysical organism.
+
+190
+00:20:50,355 --> 00:20:56,804
+And the image of them is two sheaves of wheat leaning against each other.
+
+191
+00:20:57,023 --> 00:21:02,352
+One is dependent on the other without consciousness, as in deep sleep, you're not aware of your body and mind.
+
+192
+00:21:02,332 --> 00:21:05,355
+But as soon as consciousness arises, you're aware of it.
+
+193
+00:21:06,798 --> 00:21:14,630
+Now, of course, what he's pointing to is that this consciousness is the way into delusion, right?
+
+194
+00:21:14,650 --> 00:21:16,172
+And it's recognizing that.
+
+195
+00:21:16,372 --> 00:21:20,898
+It's recognizing that we have to be very careful where we put our attention.
+
+196
+00:21:21,460 --> 00:21:24,604
+Every time you attend to something, it's an act of intention.
+
+197
+00:21:25,025 --> 00:21:28,710
+It is conditioning us, okay?
+
+198
+00:21:30,074 --> 00:21:32,361
+So time moves on, as always.
+
+199
+00:21:33,786 --> 00:21:36,755
+So let me finish with another little paragraph.
+
+200
+00:21:36,875 --> 00:21:39,442
+This is a slightly different way of looking at it.
+
+201
+00:21:42,055 --> 00:22:02,696
+if there is lust for nutriment edible food if there is delight if there is sorry if there is lust for neutral nutriment edible food if there is delight if there is craving consciousness becomes established there and comes to grow
+
+202
+00:22:02,676 --> 00:22:03,617
+Okay?
+
+203
+00:22:03,637 --> 00:22:05,500
+So, I mean, that's what we experience, isn't it?
+
+204
+00:22:05,901 --> 00:22:14,232
+The more we feed our greed, et cetera, et cetera, the more we want of it, no matter what the greed is of.
+
+205
+00:22:16,015 --> 00:22:18,818
+These days, people just want more.
+
+206
+00:22:19,118 --> 00:22:21,261
+It doesn't matter what it is, it's just more.
+
+207
+00:22:21,461 --> 00:22:26,388
+I mean, that's what we've come to want, you see, just more of anything.
+
+208
+00:22:27,684 --> 00:22:34,834
+Wherever consciousness becomes established and comes to grow, there is a descent into name and form, body and mind.
+
+209
+00:22:35,234 --> 00:22:36,457
+Notice that the descent.
+
+210
+00:22:37,377 --> 00:22:50,734
+I don't quite understand the image there as to why he says descent, but I presume it's a case of that it's something which is not to be desired.
+
+211
+00:22:50,955 --> 00:22:54,661
+So remember, nibbana is something beyond all this, right?
+
+212
+00:22:54,681 --> 00:22:56,442
+That's difficult for us to accept.
+
+213
+00:22:59,748 --> 00:23:24,894
+where there is a descent into name of name and form body and mind there is a growth of volitional formation so as soon as we have this psychophysical organism then we want to we want to do we want to we want to act and that's our volitions where there is a growth of volitional formations there's the production of future renewed existence moment after moment and if you will life after life
+
+214
+00:23:25,297 --> 00:23:31,247
+And where there is a production of future renewed existence, there is future birth, aging, and death.
+
+215
+00:23:31,788 --> 00:23:39,461
+Where there is future birth, aging, and death, I say, that is accompanied by sorrow, anguish, and despair.
+
+216
+00:23:40,323 --> 00:23:48,856
+So he's actually asking us to contemplate our lives from these four nutriment points of view to become aware
+
+217
+00:23:49,259 --> 00:24:08,871
+of what we're actually eating for the body's sake that we're eating for that we're not getting attached to food that we're aware of of the feelings that arise when we make contact with anything that we're aware of the of the process of attention and intention which creates uh karma for us
+
+218
+00:24:08,851 --> 00:24:17,525
+and that we're aware of how consciousness is the window or the mirror in which we enter into the world.
+
+219
+00:24:17,585 --> 00:24:22,393
+So it's very important to recognize where we put our attention.
+
+220
+00:24:24,737 --> 00:24:25,297
+Very good.
+
+221
+00:24:25,498 --> 00:24:28,041
+So I hope my words have been of some assistance there.
+
+222
+00:24:28,082 --> 00:24:30,144
+They've not caused even greater confusion.
+
+223
+00:24:31,688 --> 00:24:34,352
+And it's time to do a bit of meditation, I think.
+
