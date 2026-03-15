@@ -263,6 +263,101 @@ def generate_pdf(output_path, title, speaker, feed_name, duration_str, article_t
     pdf.output(str(output_path))
 
 
+EPUB_CSS = """\
+body {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1em;
+    line-height: 1.7;
+    color: #1a1a1a;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-size: 1.6em;
+    font-weight: 700;
+    line-height: 1.25;
+    margin: 0 0 0.3em;
+    color: #1a1a1a;
+}
+.chapter-meta {
+    font-size: 0.8em;
+    color: #999;
+    margin-bottom: 1em;
+}
+.chapter-lead {
+    font-style: italic;
+    color: #555;
+    border-left: 3px solid #e0d8cf;
+    padding-left: 1em;
+    margin-bottom: 1.5em;
+    line-height: 1.7;
+}
+.chapter-lead p { margin-bottom: 0.5em; }
+.chapter-body p {
+    margin-bottom: 0.8em;
+    text-align: justify;
+}
+.chapter-body em { font-style: italic; }
+.colophon {
+    text-align: center;
+    margin-top: 3em;
+    color: #999;
+    font-size: 0.85em;
+    line-height: 1.8;
+}
+"""
+
+
+def generate_epub(output_path, title, speaker, feed_name, duration_str, article_text,
+                  description=""):
+    """Génère un EPUB pour un transcript individuel."""
+    from ebooklib import epub
+    book = epub.EpubBook()
+    slug = Path(output_path).stem
+    book.set_identifier(f"satipanya-{slug}")
+    book.set_title(title)
+    book.set_language("en")
+    if speaker:
+        book.add_author(speaker)
+    book.add_metadata("DC", "publisher", "Satipanya Buddhist Retreat")
+
+    style = epub.EpubItem(uid="style", file_name="style/default.css",
+                          media_type="text/css", content=EPUB_CSS.encode())
+    book.add_item(style)
+
+    # Description en accroche
+    lead_html = ""
+    if description:
+        desc_paras = "".join(
+            f"<p>{h(p.strip())}</p>" for p in description.split("\n\n") if p.strip()
+        )
+        lead_html = f'<div class="chapter-lead">{desc_paras}</div>'
+
+    body_html = article_to_html(article_text)
+
+    ch = epub.EpubHtml(title=title, file_name="content.xhtml", lang="en")
+    ch.content = f"""<html><head></head><body>
+<h1>{h(title)}</h1>
+<div class="chapter-meta">{h(speaker)} · {h(feed_name)} · {duration_str}</div>
+{lead_html}
+<div class="chapter-body">{body_html}</div>
+<div class="colophon">
+<p>Transcriptions produced locally using Swiss low-carbon electricity.
+Corrections and rewriting by cloud-hosted AI.</p>
+<p><a href="https://www.satipanya.org.uk">satipanya.org.uk</a></p>
+</div>
+</body></html>"""
+    ch.add_item(style)
+    book.add_item(ch)
+
+    book.toc = [ch]
+    book.add_item(epub.EpubNcx())
+    book.add_item(epub.EpubNav())
+    book.spine = ["nav", ch]
+
+    epub.write_epub(str(output_path), book, {})
+
+
 # ── CSS ────────────────────────────────────────────────────────
 
 CSS = """\
@@ -640,6 +735,7 @@ a.feed-card { color: inherit; text-decoration: none; }
   transition: background .15s, color .15s;
 }
 .btn-pdf:hover { background: var(--accent); color: white; }
+.transcript-downloads { display: flex; gap: 0.5rem; }
 
 /* Episode navigation */
 .episode-nav {
@@ -1012,15 +1108,21 @@ def build_episode_page(slug, ep, prev_ep, next_ep, feed_name):
 
     # Transcript
     transcript_html = ""
-    pdf_link = ""
+    download_links = ""
     if article and stem:
         pdf_name = f"{stem}.pdf"
-        pdf_link = f'<a href="{base(f"/{slug}/{pdf_name}")}" class="btn-pdf" download>{SVG_DOWNLOAD} PDF</a>'
+        epub_name = f"{stem}.epub"
+        download_links = (
+            f'<div class="transcript-downloads">'
+            f'<a href="{base(f"/{slug}/{pdf_name}")}" class="btn-pdf" download>{SVG_DOWNLOAD} PDF</a>'
+            f'<a href="{base(f"/{slug}/{epub_name}")}" class="btn-pdf" download>{SVG_BOOK} EPUB</a>'
+            f'</div>'
+        )
         transcript_html = f"""
       <section class="transcript-section">
         <div class="transcript-header">
           <h2>Transcript</h2>
-          {pdf_link}
+          {download_links}
         </div>
         <div class="transcript-text">
           {article_to_html(article)}
@@ -1301,20 +1403,29 @@ def build_site():
             (feed_dir / f"{stem}.html").write_text(page_html, encoding="utf-8")
             total_episodes += 1
 
-            # PDF si un article beautifié existe
+            # PDF + EPUB si un article beautifié existe
             article = load_article(slug, stem)
             if article:
                 meta = load_metadata(slug, stem)
                 title = meta.get("title_clean", ep.get("title", ""))
                 dur_str = format_duration(ep.get("duration_seconds", 0))
                 clean_feed = feed_name.replace("Satipanya — ", "")
+                desc = meta.get("description_long") or ep.get("description_long", "")
+                desc = desc.replace(
+                    "(This description was generated automatically, inaccuracies may happen in the process.)", ""
+                ).strip()
                 generate_pdf(
                     feed_dir / f"{stem}.pdf",
                     title, ep.get("speaker", ""), clean_feed, dur_str, article,
                 )
+                generate_epub(
+                    feed_dir / f"{stem}.epub",
+                    title, ep.get("speaker", ""), clean_feed, dur_str, article,
+                    description=desc,
+                )
                 total_pdfs += 1
 
-        print(f"  ✓ {slug}/ (index + {len(valid_eps)} episodes, {total_pdfs - prev_pdfs} PDFs)")
+        print(f"  ✓ {slug}/ (index + {len(valid_eps)} episodes, {total_pdfs - prev_pdfs} PDFs + EPUBs)")
         prev_pdfs = total_pdfs
 
     # Search index
