@@ -1196,6 +1196,16 @@ def build_site():
                         str(SITE_DIR / "apple-touch-icon.png")], check=True)
         print(f"  ✓ favicon.png + apple-touch-icon.png")
 
+    # RSS feeds (copiés depuis feeds/ pour tout avoir dans site/)
+    feeds_src = PROJECT_DIR / "feeds"
+    if feeds_src.is_dir():
+        n_feeds = 0
+        for xml in feeds_src.glob("*.xml"):
+            shutil.copy2(xml, SITE_DIR / xml.name)
+            n_feeds += 1
+        if n_feeds:
+            print(f"  ✓ {n_feeds} RSS feeds (*.xml)")
+
     # Homepage
     (SITE_DIR / "index.html").write_text(build_homepage(catalog), encoding="utf-8")
     print(f"  ✓ index.html")
