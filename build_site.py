@@ -76,6 +76,53 @@ def base(path):
     return f"{SITE_BASE_PATH}{path}"
 
 
+# Mois anglais → numéro (pour parser les dates dans les titres d'épisodes)
+_MONTHS = {
+    "jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6,
+    "jul": 7, "aug": 8, "sep": 9, "oct": 10, "nov": 11, "dec": 12,
+    "january": 1, "february": 2, "march": 3, "april": 4, "june": 6,
+    "july": 7, "august": 8, "september": 9, "october": 10, "november": 11, "december": 12,
+}
+
+
+def _season_sort_key(season):
+    """Clé de tri pour ordonner les saisons par date la plus récente.
+
+    Analyse les noms de saisons et titres d'épisodes pour extraire des dates.
+    Retourne (max_year, max_month, max_day) — les saisons sans date donnent (0,0,0).
+
+    Si le nom de la saison contient une année explicite (ex: "Gaia House 2011"),
+    celle-ci est utilisée directement — les titres d'épisodes ne sont pas consultés
+    (ils contiennent parfois des chiffres parasites comme des tailles de fichier).
+    """
+    name = season.get("name", "")
+
+    # Si le nom de la saison contient une année, l'utiliser directement
+    name_years = [int(y) for y in re.findall(r'20[0-2]\d', name)]
+    if name_years:
+        return (max(name_years), 0, 0)
+
+    # Sinon, chercher des dates dans les titres d'épisodes
+    best = (0, 0, 0)
+    for ep in season.get("episodes", []):
+        text = ep.get("title", "")
+        # Pattern: "2024 April.24", "2025 Jan 12", "2022 Dec 11"
+        for m in re.finditer(r'(20[0-2]\d)\s+(\w+)\.?\s+(\d{1,2})', text):
+            y = int(m.group(1))
+            mon = _MONTHS.get(m.group(2).lower().rstrip('.'), 0)
+            if mon == 0:
+                continue  # Le mot après l'année n'est pas un mois → ignorer
+            d = int(m.group(3))
+            best = max(best, (y, mon, d))
+        # Pattern: "2024 April" ou "2025 Jan" (sans jour)
+        for m in re.finditer(r'(20[0-2]\d)\s+(\w+)', text):
+            y = int(m.group(1))
+            mon = _MONTHS.get(m.group(2).lower().rstrip('.'), 0)
+            if mon:
+                best = max(best, (y, mon, 0))
+    return best
+
+
 def ep_url(feed_slug, stem):
     """URL relative vers la page d'un épisode."""
     return base(f"/{feed_slug}/{stem}.html")
@@ -864,7 +911,7 @@ def build_feed_page(slug, fdata, catalog):
     newest_first = slug in FEEDS_NEWEST_FIRST
     seasons_list = list(fdata.get("seasons", []))
     if newest_first:
-        seasons_list = list(reversed(seasons_list))
+        seasons_list = sorted(seasons_list, key=_season_sort_key, reverse=True)
 
     seasons_html = []
     for season in seasons_list:
@@ -1231,7 +1278,7 @@ def build_site():
         newest_first = slug in FEEDS_NEWEST_FIRST
         seasons_iter = list(fdata.get("seasons", []))
         if newest_first:
-            seasons_iter = list(reversed(seasons_iter))
+            seasons_iter = sorted(seasons_iter, key=_season_sort_key, reverse=True)
         valid_eps = []
         for season in seasons_iter:
             episodes = list(season.get("episodes", []))
