@@ -97,6 +97,10 @@ def _season_sort_key(season):
     """
     name = season.get("name", "")
 
+    # "Most Recent" = contenu le plus récent, toujours en tête
+    if "most recent" in name.lower():
+        return (9999, 12, 31)
+
     # Si le nom de la saison contient une année, l'utiliser directement
     name_years = [int(y) for y in re.findall(r'20[0-2]\d', name)]
     if name_years:

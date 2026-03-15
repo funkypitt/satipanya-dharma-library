@@ -1610,6 +1610,8 @@ _MONTHS = {
 def _season_sort_key(season):
     """Clé de tri : date la plus récente d'une saison (année du nom > titres d'épisodes)."""
     name = season.get("name", "")
+    if "most recent" in name.lower():
+        return (9999, 12, 31)
     name_years = [int(y) for y in re.findall(r'20[0-2]\d', name)]
     if name_years:
         return (max(name_years), 0, 0)
