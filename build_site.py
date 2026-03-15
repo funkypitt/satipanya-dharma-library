@@ -21,16 +21,23 @@ SITE_TITLE = "Satipanya Dharma Library"
 SITE_TAGLINE = "Dharma talks, guided meditations and teachings from Satipanya Buddhist Retreat"
 FEEDS_BASE_URL = "https://www.enpleineconscience.ch/satipanya"
 
-# Ordre d'affichage des feeds
+# Préfixe URL pour héberger le site dans un sous-dossier (ex: "/satipanya")
+# Laisser vide "" pour un hébergement à la racine
+SITE_BASE_PATH = "/satipanya"
+
+# Ordre d'affichage des feeds sur la page d'accueil
 FEED_ORDER = [
+    "dharma-talks",
+    "youtube-talks",
+    "noirins-teachings",
+    "dhammabytes",
     "guided-meditations",
     "foundation-course",
-    "dhammabytes",
-    "dharma-talks",
-    "noirins-teachings",
     "international-talks",
-    "youtube-talks",
 ]
+
+# Feeds affichés du plus récent au plus ancien (comme un blog/fil d'actualité)
+FEEDS_NEWEST_FIRST = {"dharma-talks", "youtube-talks", "noirins-teachings"}
 
 FEED_EMOJI = {
     "guided-meditations": "🧘",
@@ -64,9 +71,14 @@ def ep_stem(ep):
     return None
 
 
+def base(path):
+    """Préfixe un chemin absolu avec SITE_BASE_PATH (ex: /satipanya/style.css)."""
+    return f"{SITE_BASE_PATH}{path}"
+
+
 def ep_url(feed_slug, stem):
     """URL relative vers la page d'un épisode."""
-    return f"/{feed_slug}/{stem}.html"
+    return base(f"/{feed_slug}/{stem}.html")
 
 
 def load_metadata(feed_slug, stem):
@@ -107,7 +119,7 @@ def keyword_tags_html(keywords):
     if not keywords:
         return ""
     tags = "".join(
-        f'<a href="/search.html?q={h(kw)}" class="tag">{h(kw)}</a>'
+        f'<a href="{base("/search.html")}?q={h(kw)}" class="tag">{h(kw)}</a>'
         for kw in keywords
     )
     return f'<div class="tags">{tags}</div>'
@@ -723,17 +735,17 @@ def html_base(title, body_html, breadcrumbs=None, extra_head="", body_class=""):
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/style.css">
+  <link rel="stylesheet" href="{base('/style.css')}">
   {extra_head}
 </head>
 <body class="{body_class}">
   <header class="site-header">
     <div class="header-inner">
-      <a href="/" class="site-logo">Satipanya</a>
+      <a href="{base('/')}" class="site-logo">Satipanya</a>
       <nav class="header-nav">
-        <a href="/">Collections</a>
-        <a href="/search.html">Search</a>
-        <form class="header-search" action="/search.html" method="get">
+        <a href="{base('/')}">Collections</a>
+        <a href="{base('/search.html')}">Search</a>
+        <form class="header-search" action="{base('/search.html')}" method="get">
           {SVG_SEARCH}
           <input type="search" name="q" placeholder="Search talks…" autocomplete="off">
         </form>
@@ -798,14 +810,14 @@ def build_homepage(catalog):
             subscribe_label = f'{SVG_HEADPHONES} Subscribe'
         # Liens livres (toujours inclus — générés par build_books.py)
         book_links = (
-            f'<a href="/books/{slug}.pdf" class="subscribe">{SVG_BOOK} PDF</a>'
-            f'<a href="/books/{slug}.epub" class="subscribe">{SVG_BOOK} EPUB</a>'
+            f'<a href="{base(f"/books/{slug}.pdf")}" class="subscribe">{SVG_BOOK} PDF</a>'
+            f'<a href="{base(f"/books/{slug}.epub")}" class="subscribe">{SVG_BOOK} EPUB</a>'
         )
         cards.append(f"""
       <div class="feed-card">
         <div class="feed-card-header">
           <div class="feed-card-emoji">{emoji}</div>
-          <h3><a href="/{slug}/">{h(fdata['name'].replace('Satipanya — ', ''))}</a></h3>
+          <h3><a href="{base(f"/{slug}/")}">{h(fdata['name'].replace('Satipanya — ', ''))}</a></h3>
         </div>
         <div class="feed-card-body">
           <p>{h(fdata.get('description', ''))}</p>
@@ -847,10 +859,18 @@ def build_feed_page(slug, fdata, catalog):
     name = fdata["name"].replace("Satipanya — ", "")
     desc = fdata.get("description", "")
 
+    newest_first = slug in FEEDS_NEWEST_FIRST
+    seasons_list = list(fdata.get("seasons", []))
+    if newest_first:
+        seasons_list = list(reversed(seasons_list))
+
     seasons_html = []
-    for season in fdata.get("seasons", []):
+    for season in seasons_list:
+        episodes = list(season.get("episodes", []))
+        if newest_first:
+            episodes = list(reversed(episodes))
         items = []
-        for ep in season.get("episodes", []):
+        for ep in episodes:
             dur = ep.get("duration_seconds", 0)
             stem = ep_stem(ep)
             if dur == 0 or not stem:
@@ -883,7 +903,7 @@ def build_feed_page(slug, fdata, catalog):
       {"".join(seasons_html)}
     </div>"""
 
-    breadcrumbs = [("Home", "/"), (name, f"/{slug}/")]
+    breadcrumbs = [("Home", base("/")), (name, base(f"/{slug}/"))]
     return html_base(f"{name} — {SITE_TITLE}", body, breadcrumbs=breadcrumbs)
 
 
@@ -942,7 +962,7 @@ def build_episode_page(slug, ep, prev_ep, next_ep, feed_name):
     pdf_link = ""
     if article and stem:
         pdf_name = f"{stem}.pdf"
-        pdf_link = f'<a href="/{slug}/{pdf_name}" class="btn-pdf" download>{SVG_DOWNLOAD} PDF</a>'
+        pdf_link = f'<a href="{base(f"/{slug}/{pdf_name}")}" class="btn-pdf" download>{SVG_DOWNLOAD} PDF</a>'
         transcript_html = f"""
       <section class="transcript-section">
         <div class="transcript-header">
@@ -985,7 +1005,7 @@ def build_episode_page(slug, ep, prev_ep, next_ep, feed_name):
         <div class="episode-meta">
           <span>{SVG_SPEAKER} {h(speaker)}</span>
           <span>{SVG_CLOCK} {format_duration(dur)}</span>
-          <span>{SVG_FOLDER} <a href="/{slug}/">{h(clean_feed)}</a></span>
+          <span>{SVG_FOLDER} <a href="{base(f"/{slug}/")}">{h(clean_feed)}</a></span>
         </div>
       </div>
       {audio_html}
@@ -995,7 +1015,7 @@ def build_episode_page(slug, ep, prev_ep, next_ep, feed_name):
       {nav_html}
     </div>"""
 
-    breadcrumbs = [("Home", "/"), (clean_feed, f"/{slug}/"), (title, f"/{slug}/{stem}.html")]
+    breadcrumbs = [("Home", base("/")), (clean_feed, base(f"/{slug}/")), (title, base(f"/{slug}/{stem}.html"))]
     return html_base(f"{title} — {SITE_TITLE}", body, breadcrumbs=breadcrumbs)
 
 
@@ -1020,7 +1040,7 @@ def build_search_page():
   const infoEl = document.getElementById('search-info');
 
   // Charger l'index
-  fetch('/search-index.json')
+  fetch('__BASE__/search-index.json')
     .then(r => r.json())
     .then(data => {
       docs = data;
@@ -1068,8 +1088,9 @@ def build_search_page():
 })();
 </script>"""
 
-    return html_base("Search — " + SITE_TITLE, body, extra_head="", body_class="page-search") \
-        .replace("</body>", search_js + "\n</body>")
+    page = html_base("Search — " + SITE_TITLE, body, extra_head="", body_class="page-search")
+    search_js_resolved = search_js.replace("__BASE__", SITE_BASE_PATH)
+    return page.replace("</body>", search_js_resolved + "\n</body>")
 
 
 def build_search_index(catalog):
@@ -1185,9 +1206,16 @@ def build_site():
         )
 
         # Collecter tous les épisodes valides (pour navigation prev/next)
+        newest_first = slug in FEEDS_NEWEST_FIRST
+        seasons_iter = list(fdata.get("seasons", []))
+        if newest_first:
+            seasons_iter = list(reversed(seasons_iter))
         valid_eps = []
-        for season in fdata.get("seasons", []):
-            for ep in season.get("episodes", []):
+        for season in seasons_iter:
+            episodes = list(season.get("episodes", []))
+            if newest_first:
+                episodes = list(reversed(episodes))
+            for ep in episodes:
                 if ep.get("duration_seconds", 0) > 0 and ep_stem(ep):
                     valid_eps.append(ep)
 
