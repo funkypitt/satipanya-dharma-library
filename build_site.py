@@ -735,6 +735,8 @@ def html_base(title, body_html, breadcrumbs=None, extra_head="", body_class=""):
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/png" href="{base('/favicon.png')}">
+  <link rel="apple-touch-icon" href="{base('/apple-touch-icon.png')}">
   <link rel="stylesheet" href="{base('/style.css')}">
   {extra_head}
 </head>
@@ -1183,6 +1185,16 @@ def build_site():
     for png in COVERS_DIR.glob("*.png"):
         shutil.copy2(png, covers_out / png.name)
     print(f"  ✓ covers/ ({len(list(covers_out.glob('*.png')))} images)")
+
+    # Favicon (depuis le logo Satipanya)
+    favicon_src = COVERS_DIR / "favicon-source.png"
+    if favicon_src.exists():
+        import subprocess
+        subprocess.run(["convert", str(favicon_src), "-resize", "32x32",
+                        str(SITE_DIR / "favicon.png")], check=True)
+        subprocess.run(["convert", str(favicon_src), "-resize", "180x180",
+                        str(SITE_DIR / "apple-touch-icon.png")], check=True)
+        print(f"  ✓ favicon.png + apple-touch-icon.png")
 
     # Homepage
     (SITE_DIR / "index.html").write_text(build_homepage(catalog), encoding="utf-8")
