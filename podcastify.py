@@ -1595,6 +1595,38 @@ def _wrap_text(draw, text, font, max_width):
 # Pass 6: RSS Feed Generation
 # ============================================================
 
+# Feeds dont les saisons doivent être triées chronologiquement (plus récent d'abord)
+_FEEDS_CHRONOLOGICAL = {"dharma-talks", "noirins-teachings"}
+
+# Mois anglais → numéro (pour parser les dates dans les titres d'épisodes)
+_MONTHS = {
+    "jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6,
+    "jul": 7, "aug": 8, "sep": 9, "oct": 10, "nov": 11, "dec": 12,
+    "january": 1, "february": 2, "march": 3, "april": 4, "june": 6,
+    "july": 7, "august": 8, "september": 9, "october": 10, "november": 11, "december": 12,
+}
+
+
+def _season_sort_key(season):
+    """Clé de tri : date la plus récente d'une saison (année du nom > titres d'épisodes)."""
+    name = season.get("name", "")
+    name_years = [int(y) for y in re.findall(r'20[0-2]\d', name)]
+    if name_years:
+        return (max(name_years), 0, 0)
+    best = (0, 0, 0)
+    for ep in season.get("episodes", []):
+        text = ep.get("title", "")
+        for m in re.finditer(r'(20[0-2]\d)\s+(\w+)\.?\s+(\d{1,2})', text):
+            y, mon = int(m.group(1)), _MONTHS.get(m.group(2).lower().rstrip('.'), 0)
+            if mon:
+                best = max(best, (y, mon, int(m.group(3))))
+        for m in re.finditer(r'(20[0-2]\d)\s+(\w+)', text):
+            y, mon = int(m.group(1)), _MONTHS.get(m.group(2).lower().rstrip('.'), 0)
+            if mon:
+                best = max(best, (y, mon, 0))
+    return best
+
+
 def pass_feeds():
     """Generate RSS 2.0 podcast feeds with iTunes extensions."""
     print("=" * 60)
@@ -1671,7 +1703,10 @@ def pass_feeds():
         ep_global_idx = 0
 
         skipped_dead = 0
-        for season in feed_data['seasons']:
+        seasons = feed_data['seasons']
+        if feed_data['slug'] in _FEEDS_CHRONOLOGICAL:
+            seasons = sorted(seasons, key=_season_sort_key)  # oldest first for serial feeds
+        for season in seasons:
             for ep in season['episodes']:
                 # Exclure les liens morts (0 durée = fichier absent ou cassé sur le serveur)
                 if ep.get('duration_seconds', 0) == 0:
