@@ -670,11 +670,213 @@ Corrections and rewriting by cloud-hosted AI.</p>
     return len(epub_chapters)
 
 
+# ── Génération DOCX ───────────────────────────────────────────
+
+def _add_article_paragraphs(doc, text):
+    """Ajoute les paragraphes d'un article au document DOCX avec support *italique*."""
+    paragraphs = text.split("\n\n")
+    for p_text in paragraphs:
+        p_text = p_text.strip()
+        if not p_text:
+            continue
+        p = doc.add_paragraph()
+        parts = re.split(r'(\*[^*]+\*)', p_text)
+        for part in parts:
+            if part.startswith('*') and part.endswith('*'):
+                run = p.add_run(part[1:-1])
+                run.italic = True
+            else:
+                p.add_run(part.replace("\n", " "))
+
+
+def build_docx_book(slug, fdata, output_path):
+    """Génère un livre DOCX pour une collection."""
+    from docx import Document
+    from docx.shared import Pt, Cm, RGBColor
+    from docx.enum.text import WD_ALIGN_PARAGRAPH
+
+    name = fdata["name"].replace("Satipanya — ", "")
+    subtitle = FEED_SUBTITLE.get(slug, "")
+
+    authors = set()
+    for season in fdata.get("seasons", []):
+        for ep in season.get("episodes", []):
+            if ep.get("speaker"):
+                authors.add(ep["speaker"])
+    author_str = ", ".join(sorted(authors))
+
+    doc = Document()
+    for section in doc.sections:
+        section.top_margin = Cm(2.8)
+        section.bottom_margin = Cm(3.0)
+        section.left_margin = Cm(3.0)
+        section.right_margin = Cm(2.5)
+
+    # ── Couverture ──
+    for _ in range(6):
+        doc.add_paragraph()
+
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run("SATIPANYA BUDDHIST RETREAT")
+    run.font.size = Pt(9)
+    run.font.color.rgb = RGBColor(0xB8, 0x86, 0x0B)
+    run.font.bold = True
+
+    doc.add_paragraph()
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run(name)
+    run.font.size = Pt(28)
+    run.font.bold = True
+
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run(subtitle)
+    run.font.size = Pt(11)
+    run.font.italic = True
+    run.font.color.rgb = RGBColor(0x66, 0x66, 0x66)
+
+    doc.add_paragraph()
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run(author_str)
+    run.font.size = Pt(11)
+    run.font.bold = True
+
+    doc.add_page_break()
+
+    # ── Collecter les chapitres ──
+    chapters = []
+    for season in fdata.get("seasons", []):
+        for ep in season.get("episodes", []):
+            dur = ep.get("duration_seconds", 0)
+            stem = ep_stem(ep)
+            if dur == 0 or not stem:
+                continue
+            article = load_article(slug, stem)
+            if not article:
+                continue
+            meta = load_metadata(slug, stem)
+            title = meta.get("title_clean", ep.get("title", "Untitled"))
+            desc = clean_description(
+                meta.get("description_long") or ep.get("description_long", "")
+            )
+            chapters.append({
+                "title": title,
+                "speaker": ep.get("speaker", ""),
+                "duration": format_duration(dur),
+                "description": desc,
+                "article": article,
+                "season_name": season.get("name", ""),
+            })
+
+    if not chapters:
+        return 0
+
+    # ── Table des matières ──
+    p = doc.add_paragraph()
+    run = p.add_run("Contents")
+    run.font.size = Pt(18)
+    run.font.bold = True
+    p.paragraph_format.space_after = Pt(12)
+
+    current_season = None
+    for ch in chapters:
+        if ch["season_name"] != current_season:
+            current_season = ch["season_name"]
+            p = doc.add_paragraph()
+            p.paragraph_format.space_before = Pt(8)
+            p.paragraph_format.space_after = Pt(2)
+            run = p.add_run(current_season.upper())
+            run.font.size = Pt(8)
+            run.font.bold = True
+            run.font.color.rgb = RGBColor(0xB8, 0x86, 0x0B)
+        p = doc.add_paragraph()
+        p.paragraph_format.space_after = Pt(1)
+        run = p.add_run(ch["title"])
+        run.font.size = Pt(9.5)
+        if ch["duration"]:
+            run = p.add_run(f"   {ch['duration']}")
+            run.font.size = Pt(7.5)
+            run.font.color.rgb = RGBColor(0x99, 0x99, 0x99)
+
+    doc.add_page_break()
+
+    # ── Chapitres ──
+    for i, ch in enumerate(chapters):
+        if i > 0:
+            doc.add_page_break()
+
+        p = doc.add_paragraph()
+        run = p.add_run(f"CHAPTER {i + 1}")
+        run.font.size = Pt(8)
+        run.font.bold = True
+        run.font.color.rgb = RGBColor(0xB8, 0x86, 0x0B)
+
+        p = doc.add_paragraph()
+        run = p.add_run(ch["title"])
+        run.font.size = Pt(18)
+        run.font.bold = True
+
+        p = doc.add_paragraph()
+        run = p.add_run(f"{ch['speaker']} · {ch['duration']}")
+        run.font.size = Pt(8)
+        run.font.color.rgb = RGBColor(0x99, 0x99, 0x99)
+        p.paragraph_format.space_after = Pt(10)
+
+        if ch["description"]:
+            for desc_para in ch["description"].split("\n\n"):
+                desc_para = desc_para.strip()
+                if desc_para:
+                    p = doc.add_paragraph()
+                    run = p.add_run(desc_para)
+                    run.font.italic = True
+                    run.font.color.rgb = RGBColor(0x55, 0x55, 0x55)
+
+        _add_article_paragraphs(doc, ch["article"])
+
+    # ── Colophon ──
+    doc.add_page_break()
+    for _ in range(8):
+        doc.add_paragraph()
+
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run("Satipanya Buddhist Retreat")
+    run.font.size = Pt(12)
+    run.font.bold = True
+
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run(f"{name}\n{subtitle}")
+    run.font.size = Pt(8)
+    run.font.color.rgb = RGBColor(0x99, 0x99, 0x99)
+
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run(f"{len(chapters)} talks · {author_str}")
+    run.font.size = Pt(8)
+    run.font.color.rgb = RGBColor(0x99, 0x99, 0x99)
+
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run(
+        "Transcriptions produced locally using Swiss low-carbon electricity.\n"
+        "Corrections and rewriting by cloud-hosted AI."
+    )
+    run.font.size = Pt(8)
+    run.font.color.rgb = RGBColor(0x99, 0x99, 0x99)
+
+    doc.save(str(output_path))
+    return len(chapters)
+
+
 # ── Main ───────────────────────────────────────────────────────
 
 def main():
     print("=" * 60)
-    print("Building Satipanya book collection (PDF + EPUB)")
+    print("Building Satipanya book collection (PDF + EPUB + DOCX)")
     print("=" * 60)
 
     with open(CATALOG_PATH) as f:
@@ -713,6 +915,17 @@ def main():
             if epub_path.exists():
                 epub_path.unlink()
             print(f"    ⏭ EPUB: no beautified transcripts yet")
+
+        # DOCX
+        docx_path = BOOKS_DIR / f"{slug}.docx"
+        n_docx = build_docx_book(slug, fdata, docx_path)
+        if n_docx:
+            size_mb = docx_path.stat().st_size / (1024 * 1024)
+            print(f"    ✓ DOCX: {n_docx} chapters, {size_mb:.1f} MB")
+        else:
+            if docx_path.exists():
+                docx_path.unlink()
+            print(f"    ⏭ DOCX: no beautified transcripts yet")
 
     print(f"\n{'=' * 60}")
     print(f"Books output: {BOOKS_DIR}/")

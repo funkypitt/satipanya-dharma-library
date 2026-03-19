@@ -1569,6 +1569,14 @@ def pass_generate():
         size_mb = epub_path.stat().st_size / (1024 * 1024)
         print(f"  ✓ EPUB : {n_epub} chapitres, {size_mb:.1f} MB → {epub_path}")
 
+    # ── Générer le DOCX ──
+    print("\n  Génération du DOCX...")
+    docx_path = BOOKS_DIR / "bhante-bodhidhamma.docx"
+    n_docx = _build_docx(structure, ep_index, sel_index, analysis, docx_path)
+    if n_docx:
+        size_mb = docx_path.stat().st_size / (1024 * 1024)
+        print(f"  ✓ DOCX : {n_docx} chapitres, {size_mb:.1f} MB → {docx_path}")
+
     print(f"\n{'=' * 60}")
     print(f"  ✓ GÉNÉRATION TERMINÉE")
     print(f"{'=' * 60}")
@@ -1947,6 +1955,260 @@ Analysis and curation by AI. Editing and review by cloud-hosted AI.</p>
     book.spine = spine
 
     epub.write_epub(str(output_path), book, {})
+    return total_chapters
+
+
+# ── Génération DOCX ───────────────────────────────────────
+
+def _add_article_paragraphs(doc, text):
+    """Ajoute les paragraphes d'un article au document DOCX avec support *italique*."""
+    paragraphs = text.split("\n\n")
+    for p_text in paragraphs:
+        p_text = p_text.strip()
+        if not p_text:
+            continue
+        p = doc.add_paragraph()
+        parts = re.split(r'(\*[^*]+\*)', p_text)
+        for part in parts:
+            if part.startswith('*') and part.endswith('*'):
+                run = p.add_run(part[1:-1])
+                run.italic = True
+            else:
+                p.add_run(part.replace("\n", " "))
+
+
+def _build_docx(structure, ep_index, sel_index, analysis, output_path):
+    """Construit le DOCX du livre."""
+    from docx import Document
+    from docx.shared import Pt, Cm, RGBColor
+    from docx.enum.text import WD_ALIGN_PARAGRAPH
+
+    book_title = "The Teachings of Bhante Bodhidhamma"
+    book_subtitle = "Selected Talks on Vipassana, the Noble Eightfold Path, and the Way to Liberation"
+
+    doc = Document()
+    for section in doc.sections:
+        section.top_margin = Cm(2.8)
+        section.bottom_margin = Cm(3.0)
+        section.left_margin = Cm(3.0)
+        section.right_margin = Cm(2.5)
+
+    # ── Couverture ──
+    for _ in range(6):
+        doc.add_paragraph()
+
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run("SATIPANYA BUDDHIST RETREAT")
+    run.font.size = Pt(9)
+    run.font.color.rgb = RGBColor(0xB8, 0x86, 0x0B)
+    run.font.bold = True
+
+    doc.add_paragraph()
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run(book_title)
+    run.font.size = Pt(28)
+    run.font.bold = True
+
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run(book_subtitle)
+    run.font.size = Pt(11)
+    run.font.italic = True
+    run.font.color.rgb = RGBColor(0x66, 0x66, 0x66)
+
+    doc.add_paragraph()
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run("Bhante Bodhidhamma")
+    run.font.size = Pt(11)
+    run.font.bold = True
+
+    doc.add_page_break()
+
+    # ── About the Teacher ──
+    p = doc.add_paragraph()
+    run = p.add_run("About the Teacher")
+    run.font.size = Pt(18)
+    run.font.bold = True
+    p.paragraph_format.space_after = Pt(10)
+
+    for about_para in [
+        "Bhante Bodhidhamma is a Theravāda Buddhist monk and the founder of Satipanya "
+        "Buddhist Retreat in Shropshire, United Kingdom. Ordained in the Burmese tradition, "
+        "he trained extensively in the Mahasi Sayadaw method of vipassanā meditation.",
+        "For over three decades, Bhante has taught insight meditation, offering retreats, "
+        "courses, and weekly talks at Satipanya and internationally. His teaching style "
+        "combines rigorous adherence to the classical Theravāda framework with warmth, "
+        "humour, and a deep understanding of the challenges facing modern practitioners.",
+        "The talks collected in this volume span his entire teaching career, from "
+        "foundational explanations of the Noble Eightfold Path to subtle explorations "
+        "of advanced insight practice. They represent his commitment to making the "
+        "Buddha's path of liberation accessible to all sincere seekers.",
+    ]:
+        doc.add_paragraph(about_para)
+
+    doc.add_page_break()
+
+    # ── Table des matières ──
+    p = doc.add_paragraph()
+    run = p.add_run("Contents")
+    run.font.size = Pt(18)
+    run.font.bold = True
+    p.paragraph_format.space_after = Pt(12)
+
+    for part in structure["parts"]:
+        p = doc.add_paragraph()
+        p.paragraph_format.space_before = Pt(8)
+        p.paragraph_format.space_after = Pt(2)
+        run = p.add_run(f"PART {part['number']} — {part['title']}".upper())
+        run.font.size = Pt(8)
+        run.font.bold = True
+        run.font.color.rgb = RGBColor(0xB8, 0x86, 0x0B)
+        for ch_data in part["chapters"]:
+            title = ch_data.get("title", ch_data["stem"])
+            p = doc.add_paragraph()
+            p.paragraph_format.space_after = Pt(1)
+            run = p.add_run(title)
+            run.font.size = Pt(9.5)
+
+    doc.add_page_break()
+
+    # ── Parties et chapitres ──
+    total_chapters = 0
+    global_ch = 0
+
+    for part in structure["parts"]:
+        # Page de titre de partie
+        doc.add_page_break()
+        for _ in range(6):
+            doc.add_paragraph()
+
+        p = doc.add_paragraph()
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        run = p.add_run(f"PART {part['number']}")
+        run.font.size = Pt(9)
+        run.font.bold = True
+        run.font.color.rgb = RGBColor(0xB8, 0x86, 0x0B)
+
+        p = doc.add_paragraph()
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        run = p.add_run(part["title"])
+        run.font.size = Pt(22)
+        run.font.bold = True
+
+        p = doc.add_paragraph()
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        run = p.add_run("◆ ◆ ◆")
+        run.font.color.rgb = RGBColor(0xB8, 0x86, 0x0B)
+
+        if part.get("epigraph"):
+            p = doc.add_paragraph()
+            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            run = p.add_run(part["epigraph"])
+            run.font.italic = True
+            run.font.color.rgb = RGBColor(0x88, 0x88, 0x88)
+
+        for ch_data in part["chapters"]:
+            stem = ch_data["stem"]
+            ep = ep_index.get(stem, {})
+            slug = ep.get("feed_slug", "")
+
+            title = ch_data.get("title", ep.get("title", stem))
+            speaker = ep.get("speaker", "Bhante Bodhidhamma")
+            dur = format_duration(ep.get("duration_seconds", 0))
+
+            article = load_article(slug, stem) if slug else None
+            if not article:
+                continue
+
+            meta = load_metadata(slug, stem) if slug else {}
+            desc = clean_description(
+                meta.get("description_long") or ep.get("description_long", "")
+            )
+
+            doc.add_page_break()
+
+            p = doc.add_paragraph()
+            run = p.add_run(f"CHAPTER {global_ch + 1}")
+            run.font.size = Pt(8)
+            run.font.bold = True
+            run.font.color.rgb = RGBColor(0xB8, 0x86, 0x0B)
+
+            p = doc.add_paragraph()
+            run = p.add_run(title)
+            run.font.size = Pt(18)
+            run.font.bold = True
+
+            p = doc.add_paragraph()
+            run = p.add_run(f"{speaker} · {dur}")
+            run.font.size = Pt(8)
+            run.font.color.rgb = RGBColor(0x99, 0x99, 0x99)
+            p.paragraph_format.space_after = Pt(10)
+
+            if desc:
+                for desc_para in desc.split("\n\n"):
+                    desc_para = desc_para.strip()
+                    if desc_para:
+                        p = doc.add_paragraph()
+                        run = p.add_run(desc_para)
+                        run.font.italic = True
+                        run.font.color.rgb = RGBColor(0x55, 0x55, 0x55)
+
+            _add_article_paragraphs(doc, article)
+            global_ch += 1
+            total_chapters += 1
+
+    # ── Glossaire ──
+    doc.add_page_break()
+    p = doc.add_paragraph()
+    run = p.add_run("Glossary of Pāli Terms")
+    run.font.size = Pt(18)
+    run.font.bold = True
+    p.paragraph_format.space_after = Pt(10)
+
+    glossary = build_glossary_from_keywords(SELECTION_PATH, ANALYSIS_PATH)
+    for term, definition in glossary.items():
+        p = doc.add_paragraph()
+        run = p.add_run(term)
+        run.font.bold = True
+        run.font.italic = True
+        p.add_run(f" — {definition}")
+
+    # ── Colophon ──
+    doc.add_page_break()
+    for _ in range(8):
+        doc.add_paragraph()
+
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run("Satipanya Buddhist Retreat")
+    run.font.size = Pt(12)
+    run.font.bold = True
+
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run(f"{book_title}\n{book_subtitle}")
+    run.font.size = Pt(8)
+    run.font.color.rgb = RGBColor(0x99, 0x99, 0x99)
+
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run(f"{total_chapters} selected talks · Bhante Bodhidhamma")
+    run.font.size = Pt(8)
+    run.font.color.rgb = RGBColor(0x99, 0x99, 0x99)
+
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run(
+        "Transcriptions produced locally using Swiss low-carbon electricity.\n"
+        "Analysis and curation by AI. Editing and review by cloud-hosted AI."
+    )
+    run.font.size = Pt(8)
+    run.font.color.rgb = RGBColor(0x99, 0x99, 0x99)
+
+    doc.save(str(output_path))
     return total_chapters
 
 
