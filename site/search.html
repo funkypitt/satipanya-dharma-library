@@ -7,17 +7,19 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/style.css">
+  <link rel="icon" type="image/png" href="/satipanya/favicon.png">
+  <link rel="apple-touch-icon" href="/satipanya/apple-touch-icon.png">
+  <link rel="stylesheet" href="/satipanya/style.css">
   
 </head>
 <body class="page-search">
   <header class="site-header">
     <div class="header-inner">
-      <a href="/" class="site-logo">Satipanya</a>
+      <a href="/satipanya/" class="site-logo">Satipanya</a>
       <nav class="header-nav">
-        <a href="/">Collections</a>
-        <a href="/search.html">Search</a>
-        <form class="header-search" action="/search.html" method="get">
+        <a href="/satipanya/">Collections</a>
+        <a href="/satipanya/search.html">Search</a>
+        <form class="header-search" action="/satipanya/search.html" method="get">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
           <input type="search" name="q" placeholder="Search talks…" autocomplete="off">
         </form>
@@ -51,7 +53,7 @@
   const infoEl = document.getElementById('search-info');
 
   // Charger l'index
-  fetch('/search-index.json')
+  fetch('/satipanya/search-index.json')
     .then(r => r.json())
     .then(data => {
       docs = data;

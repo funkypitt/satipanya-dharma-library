@@ -372,6 +372,7 @@ a.feed-card { color: inherit; text-decoration: none; }
   transition: background .15s, color .15s;
 }
 .btn-pdf:hover { background: var(--accent); color: white; }
+.transcript-downloads { display: flex; gap: 0.5rem; }
 
 /* Episode navigation */
 .episode-nav {

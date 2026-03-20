@@ -961,6 +961,7 @@ def build_homepage(catalog):
         book_links = (
             f'<a href="{base(f"/books/{slug}.pdf")}" class="subscribe">{SVG_BOOK} PDF</a>'
             f'<a href="{base(f"/books/{slug}.epub")}" class="subscribe">{SVG_BOOK} EPUB</a>'
+            f'<a href="{base(f"/books/{slug}.docx")}" class="subscribe">{SVG_BOOK} DOCX</a>'
         )
         cards.append(f"""
       <div class="feed-card">
