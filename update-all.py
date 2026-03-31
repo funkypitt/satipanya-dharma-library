@@ -73,6 +73,16 @@ def main():
     if not quick:
         run("Pass 6: Beautifying transcripts", [PYTHON, "podcastify.py", "beautify"])
 
+    # Essay scraping (always runs — incremental and fast)
+    run("Pass 6a: Scraping essays", [PYTHON, "scrape_essays.py", "scrape"])
+
+    if not quick:
+        run("Pass 6b: Describing essays", [PYTHON, "scrape_essays.py", "describe"])
+        run("Pass 6c: Scoring literary quality", [PYTHON, "score_literary.py"])
+
+    # Merge text collections into catalog
+    run("Pass 6d: Merging text catalog", [PYTHON, "scrape_essays.py", "merge"])
+
     NEWSPAPERS_PYTHON = str(
         Path.home() / "miniconda3" / "envs" / "newspapers" / "bin" / "python"
     )

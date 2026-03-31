@@ -1,0 +1,709 @@
+Ethical Maxims for a
+Marginally Inhabitable Planet
+David Schenck* and Larry R. Churchill†
+ABSTRACT Bioethics has largely neglected the Anthropocene and its ethical
+challenges. This essay asks which ethical norms will serve us well in the face of the
+coming climate catastrophe. It sketches the climate changes likely for the year 2031 and
+offers six adaptive maxims, drawn from bioethics work in ICUs and hospices, to guide
+us through the devastation and transition following environmental and social collapse.
+These six maxims are: work hard to grasp the immensity of the change; cultivate rad-
+ical hope; have a line in the sand; appreciate the astonishing opportunity of life at this
+time; train your body and mind; and act for the future generations of all species. Be-
+cause we are already in an environmental collapse and the beginnings of social collapse,
+these maxims are relevant today as well as for the future.
+The new solidarity of fate is as yet nowhere matched by the solidarity of our
+feelings, let alone our actions.
+—Z. Bauman (2009)
+E
+very person living on the planet now, and all who will be born, will be
+impacted by the climate emergency of the Anthropocene. In this essay we
+challenge bioethicists specifically to think about what resources our field may
+have to offer for addressing the moral crisis this development represents, as well
+*Former Director of Ethics, Medical University of South Carolina, Charleston.
+†Emeritus Professor of Medical Ethics, Vanderbilt University Medical Center, Nashville, TN.
+Email: larry.churchill@vanderbilt.edu.
+Perspectives in Biology and Medicine, volume 64, number 4 (autumn 2021): 494–510.
+© 2021 by Johns Hopkins University Press
+494
+
+Ethical Maxims for a Marginally Inhabitable Planet
+as the new moral challenges and dilemmas it will generate. In particular, we ad-
+dress this essay and its thought experiments to our junior colleagues and former
+students, who will be the ones among us who will confront the moral, social, and
+environmental crises most directly.
+We are both now in our 70s. Like almost all working in bioethics, we have
+been asleep at the wheel for more than three decades. None of us has paid nearly
+enough attention to the fact that bioethics ought primarily to be framed as ethics
+for the bios, not merely for biomedicine. Van Rensselaer Potter’s Bioethics: Bridge
+to the Future (1971), deserved far greater attention than it received. And there
+have been others seeking to awaken us. In 1999, in his book The Great Work:
+Our Way into the Future, the geologian Thomas Berry argued for a larger scope
+for medicine, and concomitantly, for bioethics:
+The profession of medicine must now consider its role, not only within the
+context of human society, but in the context of the Earth process. A healing of
+the Earth is a prerequisite for the healing of the human. Adjustment of the hu-
+man to the conditions and restraints of the natural world constitutes the primary
+medical prescription for human well-being. The medical profession needs to
+establish a way of sustaining the species as well as the individual if the human is
+to be viable as a species within the community of species. (69)
+But these voices went almost completely unheeded. With a few exceptions scat-
+tered over the last 15 years (Brody 2009; Johnson 2016; Lee 2017; Moreno 2005;
+Pierce and Jameton 2004; Richie 2019), the field has remained steadfastly focused
+on biomedicine and its issues. But now the larger viewpoint—what Berry (1999)
+called “macrophase ethics”—is being forced upon us. The role of tipping points
+and cascade effects is now much clearer and more terrifying. The higher qual-
+ity of data has shown how much faster things are moving than was previously
+thought, and the new amounts of historical data have shown us how quickly
+change can happen. On top of that, better modeling shows us more clearly just
+how impossible things will get on an Earth at an increase of 3° Celsius (C)—or
+even 2 or 2.5.
+A Barely Conceivable Challenge
+The specific aim of this essay is to explore what ethical maxims might guide us
+in the year 2031. Our assumption is that the current devastating trajectory for
+global warming will continue, or deviate only slightly. We wish we could be
+more optimistic, but there is little reason to think that technological remedies of
+sufficient scale are achievable any time soon, or that needed lifestyle adjustments
+in energy consumption are feasible—especially for American culture. Hence, a
+2.5° C rise in global temperature over preindustrial levels is a strong possibility,
+possibly as early as 2041. If this is the case, humanity will be facing social, finan-
+autumn 2021 • volume 64, number 4 495
+
+David Schenck and Larry R. Churchill
+cial, and political collapse on a global scale. There will be death and suffering
+from immediate climate events of unprecedented magnitude, such as frequent
+and severe storms, flooding, heat waves, and fires, resulting in famine, food and
+water shortages, pandemics, wars large and small, and economic and social in-
+securities on a level only the poorest of nations have ever experienced. We can
+always hope for less devastation, but typical American optimism at this juncture
+bespeaks either ignorance or denial. Had we responded 30 years ago, when the
+science was already clear enough to motivate different policies, we might hope
+for more, but now, in 2021, the task is increasingly difficult, and the timeframe
+for adjustment is radically shortened. Given these assumptions, it becomes im-
+portant to ask what kind of ethics—what kind of moral guidance for living in this
+severely depleted environment—will be needed. The challenge of getting our
+bodies as well as our minds around the hyper-complex phenomenon of the An-
+thropocene is staggering enough. But when combined with the projected ethical
+challenges and existential agonies these environmental transformations will entail,
+the prospect becomes almost unthinkable. Yet we must face these issues, for the
+alternative is moral nihilism.
+It is important to grasp that our situation constitutes a singularity. There is no
+previous extinction event in recorded history to reflect on and learn from. As
+Mark Lynas (2020) has observed, one would have to “wind the geological clock
+back about 3 million years, to an epic called the Pliocene, to encounter a world
+where global temperatures averaged 2–3 degrees higher than at the start of the
+20th century.” We do have five other mass extinction events to bring to our
+consideration of this sixth mass extinction event, and we also have the extinction
+of other species who reached an evolutionary dead end, all of which we could
+use to model the possible eventual end of Homo sapiens. But just as knowing that
+other people have died is not the same as realizing that we ourselves will die, so
+too knowing that other species go extinct is not the same as fully grasping the
+possibility of the extinction of our own species. And, of course, making the leap
+from our own personal death—hard as that may be to grasp—to the possible end
+of human life itself will hardly be easy. Human extinction is not currently on the
+horizon, but as the planet becomes less and less hospitable to other species, we
+can no longer assume that it will always be hospitable to us. How to cancel the
+assumption that human life will go on indefinitely after our individual death? To
+even pose this possibility is to generate, for most of us, a degree of anxiety and
+distress that makes it difficult even to continue the inquiry.
+But that precisely is the point; that precisely is why it is important to push on.
+And what we suggest is that we would be well served to look in new directions
+for resources. So far, we have relied on scientists and investigative journalists to
+keep us informed and to rally us to action. But their work has induced a curious,
+counter-intuitive phenomenon: the domestication of horror. Scientists study and
+measure; journalists interpret and report. The better job scientists and journalists
+496 Perspectives in Biology and Medicine
+
+Ethical Maxims for a Marginally Inhabitable Planet
+do in analyzing and explaining things, the more they tame the horror of what is
+coming. Furthermore, they teach us to approach the Anthropocene as observers,
+but this is problematic: no one will be an observer at an increase of 3° C.
+We must move from a cognitive, observer understanding of our situation to a
+felt embodiment of our predicament, from intellectual knowledge to bodily ac-
+knowledgment. Resources for reflection may possibly be found in practical disci-
+plines developed for dealing with human extremes, such as refugee communities,
+famines, and end-of-life scenarios. Resources may also be found in communities
+that have faced immense suffering: indigenous peoples, survivors of concentra-
+tion camps and solitary confinement, and oppressed or enslaved communities of
+color. We are recommending, in short, that we consult people who have dealt
+with situations where one set of hopes, and all fantastical thinking, have to be
+abandoned, and new radical hope has to be found. Our own contribution to this
+discussion will draw on our decades of experience in clinical bioethics consulta-
+tion, which has focused on care and decision making in catastrophic, life-threat-
+ening, and end-of-life situations.
+We make no claim to finality or completeness for the ethical maxims we will
+highlight below. Our intention is to contribute to the nascent conceptualization
+and discussion of the barely conceivable and yet largely undiscussed catastrophe
+of global warming. We encourage other bioethicists, as well as those with expe-
+rience with endangered communities, to join this discussion. All of us as human
+beings are finally being forced to confront this climate emergency: it is not off in
+the future. The recent Australian and European flooding is climate flooding, just
+as the California fires of 2020 and 2021 are climate fires. Confronting our predic-
+ament means facing head-on the oft-avoided and grim fact that our children and
+grandchildren, and their descendants on down the line, will be dealing with the
+ramifications of the Anthropocene for decades and centuries to come.
+The World in 2031
+So what will the world be like in 2031? Start here: we are carbonizing the at-
+mosphere at an alarming rate. Half of the total carbon pollution on Earth has
+been emitted in the last 30 years, notably after there was scientific consensus that
+greenhouse gases (GHGs)—carbon dioxide, methane, and nitrous oxide—are a
+grave threat. Temperature accelerations are causing polar ice to melt, permafrost
+regions to shrink, and oceans to warm and rise. Hurricanes and other severe
+weather events are increasing in number and severity. Houston has had a so-
+called “once every 500-year storm” in each of the past three years. The fires in
+California and Oregon are unprecedented and promise to worsen in frequen-
+cy and devastation. Meanwhile, tropical rain forests in places like Brazil, which
+store and thus help control carbon emissions, are being systematically cleared for
+farming and ranching. Changing consumption habits have also fueled the rise of
+autumn 2021 • volume 64, number 4 497
+
+David Schenck and Larry R. Churchill
+GHGs. The increase in meat eating in developing countries like China is a no-
+table example. It is estimated that the GHGs emitted from all livestock globally
+accounts for 14.5 % of all GHGs (FAO 2020).
+What will be the effects of global warming? The Paris Agreement of 2015,
+signed by 196 nations, is an aspiration to keep global warming to below 1.5° C
+above preindustrial levels. We are currently at 1.1, and a rise to 2.3° is already
+locked into the atmosphere from the carbon we have emitted in the past 30 years,
+even if we went to zero emissions today. Just how soon we will reach the 2.3°
+level is uncertain, but every day of continued emissions brings it sooner. If we
+link temperature change to sea level rise, 1.5° C in global warming translates into
+a rise of 1–2.5 feet. If this goal is not met, a 2° C rise in temperatures means a sea
+level rise of 3–6 feet, affecting everyone on the globe. Perhaps most notably, the
+number of climate refugees from flooding, fires, and drought would enlarge, to as
+many as 245 million people. If global warming reaches 3.5–4° C over preindus-
+trial levels, sea level rise will be 22–25 feet, with devastation of almost unimag-
+inable magnitude (Maslin 2014; Wallace-Wells 2019). Massive deaths, especially
+among the world’s poorest populations, will occur as a result of uninhabitable
+land, food and water shortages, and the subsequent breakdown of economies and
+national governments. To use potable water as just one index, currently a quarter
+of Earth’s population is water stressed. This means that 1.95 billion people cur-
+rently struggle to meet their daily needs for clean water. By 2030, the increased
+salination of irrigated farmland, the evaporation caused by increased heat, and
+frequent flooding of coastal areas will mean that an additional billion people will
+be without a safe source of drinkable water (Maslin 2014).
+Another index is infectious diseases. Vector organisms, such as mosquitoes, are
+sensitive to changes like water-surface temperature, humidity, moisture, and de-
+forestation. Climate warming would affect both the scope, intensity, and season-
+ality of infectious diseases such as malaria and cholera. In general, global warming
+will mean a substantial increase in transmission of disease worldwide (Maslin
+2014). This is to say nothing of health events such as heat emergencies, mental
+health disorders, and broader health problems caused by declining food supply,
+food safety, and its consequences (Jameton 2016).
+How fast will all this happen? If a business-as-usual pattern prevails and warn-
+ing signs are ignored, a 2.5–3° C rise could occur as early as the early 2030s,
+3–4° by mid-century, and a 5–6° rise by 2100 (Lynas 2020). Much depends on
+which scientific modeling of climate change turns out to be the correct one.
+For example, it is still unknown whether temperature will rise at a predictably
+steady pace with the rise of GHGs, or whether there is a tipping point, caused
+by a complex of feedback loops, beyond which devastating changes cascade and
+accelerate (Bendell 2020). What we know about past climate changes is that they
+appear to have been abrupt, and climate models for these sudden changes are
+hard to simulate. Nonlinear, cascading changes in the severity of global warming
+498 Perspectives in Biology and Medicine
+
+Ethical Maxims for a Marginally Inhabitable Planet
+and its accompanying catastrophes is a high probability. Much depends as well
+on how quickly the world can move to green technologies like solar and wind
+power, electric cars, and built structures with zero GHG emissions (Miller 2020).
+Yet scaling up technologies such as these usually requires decades. And even if
+massive technological changes in how energy is produced all work perfectly, all
+over the globe, they will be insufficient if the cultural patterns of consumptive
+capitalism, economies based on growth, and habits of increasing—rather than
+curtailing—energy use persist.
+Mitigation and Adaptation, Collapse and Transition
+Mitigation and adaptation represent two prominent ways to talk about surviving
+global warming. Mitigation means lessening the degrading effects of the Anthro-
+pocene, usually through technological ingenuity. Adaptation means accommo-
+dating to a new human experience through moral, social, economic, and political
+adjustments. These are not, of course, mutually exclusive, since any mitigating
+strategies will also involve adaptations, and successful adaptations both require
+some degree of mitigation and may also uncover novels strategies for lessening
+the rate of environmental degradation.
+There are numerous reports of the promise of mitigating geotechnologies for
+carbon capture, such as vacuuming carbon dioxide out of the air and sending it
+into space or turning it into rock, reforestation, shooting particles into space to
+block sunlight, and quick conversions to solar and wind energy to replace coal
+and other fossil fuels (Kolbert 2021). Yet a true turnaround of our carbon-based
+economy will not come easily or quickly. Even in the US and Europe, where
+global warming is perhaps most widely understood, the political obstacles are
+daunting. The fossil fuel industry has hidden its own decades-long research show-
+ing the degrading effects for the Earth resulting from rapacious coal, gas, and oil
+production. Their legislative lobbies are well entrenched and powerful, and these
+companies—much like the tobacco companies in the mid-20th century—have
+shown clearly that they are willing to tolerate a great deal of human suffering in
+order to pursue profits. In addition, it is highly unlikely that the growing carbon
+footprints of China, India, and other rising industrial giants will be sufficiently
+curtailed. Reliance on mitigation through technological innovation looks more
+like fantasy and folly than prudence. While we believe that an all-out effort to
+engineer and adopt cleaner technologies should be mounted, counting on these
+as the solution grossly underestimates the magnitude of the task and amount of
+social and political change required. Thus, we are focused in this essay on moral
+and social adaptation.
+If, as is likely, mitigation is too late, or if it fails completely, adaptation will
+be the task. And thinking seriously about adaptation means thinking about col-
+lapse—for some forms of collapse seem inevitable and part of what adaptation
+autumn 2021 • volume 64, number 4 499
+
+David Schenck and Larry R. Churchill
+will have to take into account. “Collapsology” is a nascent field (Servigne and
+Stevens 2020), and thinking in this way is not a matter of counseling people to
+give up. It is suggesting the cultural equivalent of “advance directives.” If you
+find yourself in a spot where mitigation has failed, and adaptation is what must
+be done, what will you be focused on? Will it be anger, regret, competition, sur-
+vival? Or will it be living what life is available with as much quality as possible?
+We think it likely that by 2031 mitigation will be seen to have largely failed,
+and that adaptation to social and environmental collapse will be the task that is
+left. We assume that this means major portions of the planet will be facing the
+kinds of major transitions that people face in hospitals, ICUs, and hospices every
+day.
+It is impossible to know with any certainty how severe the environmental and
+social collapse will be—in most places, it will probably not be as bad as the total
+lawlessness of “Mad Max” scenarios. Yet radical shifts will be required every-
+where to manage a future more altered in living conditions and expectations that
+anything in human memory.
+The second pairing, collapse and transition, is needed because both environ-
+mental and social “collapse” have to be part of any realistic assessment. And while
+neither kind of collapse is likely to be total, we must talk also of “transition.” If
+a total collapse (of either kind) occurs, it is more likely to come from engineer-
+ing misadventures in the efforts at mitigation, not from global warming per se.
+(Shooting particles into space to block the sun’s rays seems a likely candidate for
+this kind of blundering hubris.) Good adaptation methods figure heavily into
+whatever transition may be possible, making for a softer landing and shorter
+horror, with more resources surviving to power recovery on other side. But to
+be clear, some environmental and social collapse seems unavoidable, meaning
+suffering and death on a scale no one alive has ever seen. Hence, a caveat: the use
+of these pairs of stark terms—mitigation and adaptation, collapse and transition—
+when used as a shorthand, as we are now doing, can become an intellectualized,
+distancing force shielding us from the horrid realities under discussion. We must
+move with care so as not to leave the distress behind, stewing in our bodies
+and psyches, while we talk abstractions. Any hope of mitigation or adaptation,
+or transiting out of social collapse, will require all the cognitive and emotional
+resources we have—minds and bodies all working with knowledge and in ac-
+knowledgment, and in concert.
+Six Ethical Maxims for a Time of Collapse
+Unlike principles, which are guides for how to think, pointing out moral values
+which could guide our cognitive processes, maxims are short guides for how to
+act, and they suggest practices to which we should become habituated. They of-
+ten take the form of wisdom sayings and draw less from modern philosophy than
+500 Perspectives in Biology and Medicine
+
+Ethical Maxims for a Marginally Inhabitable Planet
+from ancient philosophy and wisdom literature. Maxims are less how to analyze
+and choose and more how to be. They constitute ideas that must be practiced
+to be fully understood. In this way they resemble more the moral virtues than
+principled decision guides so familiar to bioethicists.
+When describing the need for striking and memorable maxims, Pierre Hadot
+(1995) puts it this way:
+when the time comes, they can help us accept such [catastrophic] events, which
+are, after all, part of the course of nature; we will thus have these maxims and
+sentences “at hand.” What we need are persuasive formulae . . . which we can
+repeat to ourselves in difficult circumstances, so as to check movements of fear,
+anger, or sadness. The exercise of meditation [on maxims] is an attempt to con-
+trol inner discourse, in an effort to render it coherent.
+Thus, in the sense we employ here, maxims are slogans, mnemonic reminders,
+and ultimately spiritual exercises. In a crisis, shorthand reminders of core values
+work better than principles that require reflective interpretation and application.
+In addition, the basic principles we now use most often in bioethics were crafted
+for an age of relative abundance, stability, and progress. Meditating on maxims
+ahead of time helps to shapes a more realistic view of the world and habituates
+us, so that when the time comes, we are more likely to behave in a way ethically
+appropriate to the reality before us. In short, maxims can be especially useful
+in times of moral crisis and major cultural change. They help establish condi-
+tions that will preserve moral creativity and resourcefulness. They can be essential
+moral components for surviving the inevitable transitions before us.
+Maxims present means of living one’s life in a coherent and honorable way in
+the midst of great trouble. This is in significant part why we are proposing max-
+ims, and not principles or theories. An autonomy-driven ethic, pictured as enact-
+ed by rational, independent agents—whether deontological or utilitarian—fits all
+too well with the neoliberal world order, under which regime the Anthropocene
+has accelerated. Both the dominance of the hyper-individualistic autonomy ethic
+characteristic of neoliberalism and the attendant ubiquity of the utilitarian calcu-
+lus—and indeed the neoliberal order itself—are inconceivable without the abun-
+dance, even superfluity, sponsored by fossil fuels. We thus endorse the critique of
+principlism and utilitarianism found in the ethics of care. But we are here looking
+deeper—we are looking for how the very idea of ethical behavior can survive in
+extreme conditions. Because we know that often it does not.
+And this is where maxims and bioethics comes together. The maxims have
+ancient origins. Variants of them have been followed when dealing with human
+catastrophes in the past, mostly in periods in which there was far less optimism,
+reliance on rational analysis, or faith in technical ingenuity. But, equally as deci-
+sive, we have seen these maxims at work in hospitals and hospices. Much of what
+we know about them has been learned from patients and families while doing
+autumn 2021 • volume 64, number 4 501
+
+David Schenck and Larry R. Churchill
+ethics consultation or working in ICUs and hospices. And while it is true that
+collapse will involve a collection of large-scale events, all impacts will be individ-
+ual and personal as well. What we have observed in the field confirms, we would
+argue, teachings of the world’s wisdom traditions that have stood the test of times
+of scarcity and hardship, of social disruption, of natural catastrophe.
+To be clear, we are not arguing that these maxims are the total ethics needed
+for the Anthropocene. To begin with, the complicity of our ethical traditions in
+creating the Anthropocene must be acknowledged, and this ought to prompt a
+revolution in approach to the foundations of bioethics. Perhaps an ethics of care
+should come to the fore, and an ethic of biophilia, as expounded by Eric Fromm
+(1973) and especially by Edward O. Wilson (1984)—developed in Bioethics: A
+Path Forward (forthcoming) by Nancy King, Gail Henderson, and Larry Chur-
+chill—should be carefully examined for its value as a foundational norm. And
+then there will be the many specific activities aimed at mitigation of the ongoing
+crisis that will certainly be needed. What we offer here is but a bare beginning.
+Our intention is to provoke discussion and to provide a fruitful place for that
+discussion to begin.
+For each of the six maxims that follow we provide:
+• Maxim: a formulation cast as an injunction, as is common in wisdom tradi-
+tions;
+• Basis: vignettes and examples from ethics consultation and bioethics that illus-
+trate or clarify the injunctions, and texts from the 20th and 21st centuries that
+have been helpful to us in our reflections on the Anthropocene;
+• Extrapolation: suggestions of how the maxim and basis will be useful in a time
+of climate emergency.
+Maxim 1: Work Hard to Grasp the Immensity.
+Realize how fiendishly difficult it is to grasp the scope of climate devastation
+oneself. Realize how hard it is for others. Effective strategy, as well as compas-
+sion, require carefully assessing the capacity of one’s listeners. In keeping with
+this, these maxims suggest a progression. One step at a time. Begin small. Asking
+people to go beyond their capacity can be cruel and is generally counterproduc-
+tive.
+Basis. As every clinical ethics consultant knows, it is always difficult to accept
+bad news that has a finality to it, like a terminal or crippling diagnosis. But some
+things are even more difficult than that. Some turns of events demand a change
+in one’s whole view of the world. We are thinking here in particular of cases in
+neonatal units where young, often first-time parents face their newly born chil-
+dren who have startlingly awful diagnoses and conditions. One of the very worst
+we have ever worked with is a severe case of Osteogenesis imperfecta, a condition
+502 Perspectives in Biology and Medicine
+
+Ethical Maxims for a Marginally Inhabitable Planet
+where the bones in the newborn’s body break incredibly easily. Bone formation
+is flawed. There is essentially no reliable skeleton, and nurses changing diapers
+know they are breaking bones every time they move the child. This is not only a
+tragedy; it is something that goes beyond the bounds of the conceivable for many
+young parents. The world simply cannot be the kind of place where this can
+happen. And yet it is. And so the parents must reconstitute their world simply to
+be able to acknowledge what is in front of them.
+Likewise, working with end-of-life scenarios, ethicists become acquainted
+with all manner of premature and tragic deaths. We can all think of cases of this
+kind that stretched our moral sensibilities: the young mother dying of unde-
+tectable cancer, leaving three kids behind; the star athlete dying of heat stroke
+through the neglect of his coaches; the healthy middle-aged man born with a
+Berry aneurysm that suddenly ruptures and kills him. Senseless events. How can
+the world be like this?
+But to move beyond them, as we know from working with patients and
+families, it is essential to grasp just exactly what has happened. We also know
+that when that is done, new possibilities can be found on the other side of what
+looked like the endgame.
+Extrapolation. The very possibility of environmental and subsequent social col-
+lapse is similarly inconceivable for most of us. How can humans have had this
+much impact on the natural order itself? Can we possibly unknowingly have per-
+petrated the extinction of thousands upon thousands of other species, and untold
+suffering of our own species?
+The tragedies of bioethics work can give us insight into the moral nihilism
+senseless suffering can open onto. By moral nihilism we mean not only that past
+norms seem to lose their validity, but that ‘right and wrong’ as ways of inter-
+preting our world are no longer anchored anywhere. And yet this sense of moral
+vacuity can in turn help us appreciate how difficult it is to face the Anthropocene
+directly. Moments of moral paralysis seem, in fact, to be a common experience
+for those coming to grips with the climate emergency and all that it implies. A
+dose of moral nihilism may actually be essential for getting to the end of ordinary
+hope and allowing us to come truly into radical hope—to tap the resources that
+lie on the other side of ordinary hope, optimism, and reasonableness.
+Maxim 2: Cultivate Radical Hope.
+The kind of hope that reappears after optimism has died is hope that can be
+relied on. It is generally a hope that doesn’t talk about or think of itself as hope.
+This means realizing the dangers of optimistic hope, of fantasyland and magical
+thinking. First, we must own our grief and anger. Second comes the realization
+that blaming ourselves and others doesn’t help. Only when one reaches a certain
+level of despair can new resources of hope emerge, in oneself and in the new
+world in which one finds oneself. What is called for is a faith in a possible future,
+autumn 2021 • volume 64, number 4 503
+
+David Schenck and Larry R. Churchill
+however improbable, embedded in action totally oriented to the situation (Lear
+2006).
+Basis. All of us who have worked in ICUs and with palliative care and hospice
+teams have watched patients and families adjust to what had seemed a hopeless
+situation. We recall one formerly homeless patient saying to us, “Well, Doc, if it
+weren’t for AIDS, I’d be dead”—meaning that in coming to terms with AIDS,
+he had gotten himself off the street and had broken his addictions. We are also
+familiar with studies showing that survival rates for certain kinds of cancers are
+better for patients in hospice than out. By accepting a terminal diagnosis and re-
+defining what counts as healing, an unexpected path for extended life opens up.
+Confirming this, the bioethicist Judith Andre (2015) talks about “open hope”;
+Joanna Macy speaks of “active hope” (Macy and Johnstone 2012); and Gabriel
+Marcel (1978) speaks of the hope that can arise when “hope-for” is released.
+Likewise, Albert Camus’s 1947 novel The Plague and his 1946 essay Neither Victim
+nor Executioners are essential resources.
+Extrapolation. How will you behave when there is no ordinary hope? What
+are the kinds of things you will always want to do—the way you want always to
+be, whether there is hope or not? For example, consider the central virtues of the
+hope that emerges beyond optimism: being kind, not abandoning people, behav-
+ing with integrity. The key is knowing that there is almost always room for some-
+thing positive to be done. There are always openings, always gaps in the gloom.
+Practice for how you will behave when there is no more left to do—that is,
+when no telos-action or results-oriented action of any kind is possible.
+Maxim 3: Have a Line in the Sand.
+Know that there are some things you will not do, some modes of living you
+will not embrace. Know that there are lives worse than death. Be prepared to die.
+Basis. This maxim is the core insight behind the practice of formulating ad-
+vance directives. At what point is it time to stop? We are thinking of hospice pa-
+tients who asked that their tube feedings be stopped, and the candidate for a brain
+surgery to de-bulk a benign tumor who declined the procedure, because life in
+the hospital and rehab was simply unpalatable to him. (Interestingly enough, he
+lived far longer than his projected life expectancy had he had the surgery.)
+For those of us in health care, there are the sobering lessons from the horrific
+situation that developed at Memorial Hospital in New Orleans after Hurricane
+Katrina, as recounted in Sheri Fink’s outstanding book, Five Days at Memorial:
+Life and Death in a Storm-Ravaged Hospital (2013). As floodwaters rose in the days
+after the storm, the hospital lost power when the grid failed, and then lost backup
+power when their generators were swamped. With no power, the ventilators
+and other life-supporting machines stopped working. There were no functioning
+monitors. Without air conditioning, temperatures in the sealed units rose rapidly.
+As the days went by, shortages of food and medicine developed. Gunfire was
+504 Perspectives in Biology and Medicine
+
+Ethical Maxims for a Marginally Inhabitable Planet
+heard in the streets; police withdrew from the area because of the danger. Under
+these conditions, impossible triage decisions were made, and finally, over a dozen
+critically ill patients were injected with lethal doses of morphine and sedatives.
+Extrapolation. Post-Katrina New Orleans presents us with the kinds of scenar-
+ios that can be expected to be a regular occurrence as natural and social collapse
+unfold. Useful reflections on how to behave in such extreme situations come
+from the concentration camp writings of Victor Frankl and Etty Hillesum. There
+is also the example of Ludwig Wittgenstein, who urged his student Drury, who
+was preparing to go into combat in World War II, to decide ahead of time not
+to engage in hand-to-hand combat, but to be willing to be killed instead (Monk
+1990).
+Know what you will do, and what you will not. Max Weber formulated it this
+way in his classic lecture “Politics as a Vocation” (1919):
+it is immensely moving when a mature man—no matter whether old or young
+in years—is aware of a responsibility for the consequences of his conduct and
+really feels such responsibility with heart and soul. He then acts by following
+an ethic of responsibility and somewhere he reaches the point where he says:
+“Here I stand; I can do no other.” That is something genuinely human and
+moving. And every one of us who is not spiritually dead must realize the possi-
+bility of finding himself at some time in that position.
+Considering the likely realities of collapse and transition, it seems probable that
+many people will find themselves facing these kinds of decisions, and something
+like an internal, ethical “advance directive” could prove beneficial. This is why,
+for example, emergency responders run through practice scenarios. The body
+and the imagination need to be encouraged to engage directly that which lies
+outside the normal. True, drawing lines in sands that are constantly shifting in a
+tricky business. One must be prepared, as well, to pivot and go in unexpected
+directions. But these pivots are more likely to be done well if one has prepared
+by imagining the worst and drawing practice lines in the sand.
+Maxim 4: Appreciate the Astonishing and Unique Opportunity.
+Appreciate the opportunity you have to accompany humanity in this extraor-
+dinary transition and to be present to the earth and the biosphere at this time.
+Appreciate how amazing our bodies are, as a perceiving sensorium, as movement
+and in activity, sponsoring emotion and thought. Be amazed at the intercon-
+nectedness of things and their astonishing complexity. Think small, alongside
+thinking very big.
+Basis. One of the privileges of doing ethics consultation and research in clinical
+bioethics is the opportunity to meet remarkable people who handle their physical
+challenges with courage and grace. All of us who have done this work can think
+autumn 2021 • volume 64, number 4 505
+
+David Schenck and Larry R. Churchill
+of examples. We cite here one from our book What Patients Teach (2013). The
+patient has abdominal cancer and is in the last weeks of her life:
+There is no blessing like friends. I’ve had friends who came out of the wood-
+work, friends I hadn’t seen in a long time or who I only saw infrequently. I
+have been treated so lovingly; it’s just been overwhelming to me. I’m so very
+grateful that I had this year to spend this time with these people. It’s interest-
+ing. The two friends who have helped me the most have both said to me that
+they consider it a privilege to be able to do this. Which goes to show that many
+times the people in your life are willing to do more to help you out than one
+might have guessed. (109)
+There are also well-known accounts of illness that confirm the blessings that
+can come in extremity if one is prepared to receive them. At the end of his ac-
+count of his long dying of AIDS, Harold Brodkey (1996) says: “Peace? There was
+never any in the world. But in the pliable water, under the sky, unmoored, I am
+traveling now and hearing myself laugh, at first with nerves and then with genu-
+ine amazement. It is all around me” (177). And Arthur Frank (2002) summarizes
+his reflections on his own illnesses, and illness in general, this way: “The ultimate
+value of illness is that it teaches us the value of being alive; this is why the ill are
+not just charity cases, but a presence to be valued . . . . Illness restores the sense of
+proportion that is lost when we take life for granted” (120). Cultivating gratitude:
+What could be more important? This is the message—from our patients, from the
+dying, from our great teachers.
+Extrapolation. Our patients, and many people who have faced ethical extremi-
+ty, teach the importance of the “little things.” We are thinking of Masha Gessen’s
+interview with the former Gulag prisoner talking about his old camp:
+You should see it [Site Perm-36] in the summer. Some evenings there—the
+light is special, and the air—sometimes you’d be going behind the outhouse,
+because inside it was rather unpleasant and inconvenient and you avoided it if
+you could, so there you’d be, taking a piss behind the outhouse, and the air was
+like you could touch it, and the smell of those linden trees, and the sound of
+the birds singing. (Gessen and Friedman 2018)
+This marvelous passage brings to mind the woman we interviewed years ago who
+had lost fingers in a textile mill, but whose main memory of work, the memory
+she stressed in her account, was of how beautiful the afternoon sunlight was as it
+shone on and through the running threads in the very spinning looms that had
+claimed her fingers.
+Learn then to appreciate how amazing nature is, even in (or especially) the
+face of loss and change. Think of the amazing greens one finds when walking in
+landscapes after intense wildfire, or of the astonishing color photographs of Rich-
+506 Perspectives in Biology and Medicine
+
+Ethical Maxims for a Marginally Inhabitable Planet
+ard Mosse capturing the (admittedly unearthly) beauty of the devastation of the
+Amazon (Maher 2021). Joanna Macy’s teaching work is especially helpful in its
+insistence on the blessing of our being alive during this amazing time: appreciate
+that there is anything at all, and that we have witnessed it (Macy and Johnstone
+2012).
+Maxim 5: Train Your Body and Your Mind.
+Learn breathing exercises. Develop the physiological capacity to deal with
+despair. Despair isn’t just psychological, it’s physiological.
+Learn skills for getting beyond ego—not just the cognitive limits of ego, which
+many are at least familiar with pondering, but the emotional and physiological
+limits of ego.
+Basis. Those of us who have worked with colleagues in health care on issues
+related to moral distress and burnout are familiar with the power of bodily prac-
+tices to mitigate and eventually assimilate trauma of all kinds. Included in such
+practices would be mindfulness, yoga, cognitive-behavioral therapy, trauma re-
+lease exercises, and wellness programs (nutrition, exercise, sleep patterns).
+A useful advanced skill is the capacity to shift timeframes. In imagination,
+go out to geological, evolutionary, planetary, cosmic scales to get a different
+view of the Anthropocene. Consider, for instance, that the merger/“collision”
+of the Milky Way and Andromeda galaxies, which will take place over a period
+of 5 billion years, has already begun. Next, practice returning to the timescale
+of the human life cycle. From there, descend into an examination of the mo-
+ment-by-moment construction of experience. At that level, as well as at the level
+of the galaxies, the Anthropocene, which looms so large for us, is invisible. Final-
+ly, come back once more to the human cycles of days, weeks, years, generations.
+If one doesn’t return to the human cycles, one becomes a monster. But staying
+always here in the human ego timeframe, one will likely die of grief or rage (both
+of which have their own specific fast and slow tracks).
+Extrapolation. As we have seen with the COVID-19 pandemic, in time of
+severe social stress, moral distress and burnout can spread quite widely. They
+impact not just health-care workers and emergency responders, but also food
+workers, teachers, and mass transit personnel. Physical, psychological, and spir-
+itual trauma are likely to become widespread as the climate collapses. Training
+body and mind to cope will be essential to survival and to whatever sort of human
+flourishing is possible on a vastly depleted planet.
+Maxim 6: Act for the Future Generations of All Species.
+Speak for those without voice: the poor, the future generations, other species.
+Speak for the forests, the seas, the mountains.
+autumn 2021 • volume 64, number 4 507
+
+David Schenck and Larry R. Churchill
+Act, personally and politically, to limit the damage being done to the bio-
+sphere. Every 0.5° C increase avoided is a major victory and achievement.
+Basis. For the bioethicist, the COVID-19 pandemic has been a clinic in the
+interconnectedness of ethical problems, as well as the intertwining of the fates
+of nations and species. Think here of the interconnections between and among
+fresh meat markets in China, violated natural habitats, global trade patterns, and
+their economics; the disparities in health care and vulnerability among nations,
+and among populations within nations; the multiple failures of the health-care
+system in protecting its workers and its patients; the catastrophic failures of polit-
+ical leadership and the undermining of confidence in science and medicine. And
+then boil all this down to triage policies, and staffing decisions, and the allocation
+of PPE. All connected, all one giant web.
+Extrapolation. It is essential to find creative ways to cultivate an in-depth, emo-
+tional as well as intellectual understanding of interconnection, so that when we
+act for a species or a group, we are acting for everything in the global web. We
+are all in this together, all tied together, all forming a multiplex unity. Acting
+with a sense of solidarity, involving mutuality and reciprocity, the development
+and maintenance of trust, is essential for decent survival. This understanding is
+the only intelligent basis for strategy and research. This insight is the foundation
+for the basic compassion involved in the stress on equity, distributive justice, and
+the acknowledgment of the gross unfairness of the basic fact that those who have
+contributed the least to the carbon catastrophe will bear the brunt of the chain of
+disasters it is initiating.
+The Process Has Begun
+What in many ways is hardest to realize—yet must be realized—is that the col-
+lapse is already here. The following is a list of symptoms of systems already badly
+out of kilter: the COVID-19 pandemic; the recent Houston storms; the wildfires
+in California and Australia; and the grid collapses in Texas and California. It is
+clearly too late to avoid the climate crisis or mitigate it in any definitive way.
+Adaptation and collapse have begun, albeit in slow motion.
+Unfortunately, the numbing has begun as well. We are already far too toler-
+ant of massive amounts of suffering. We are currently moving toward 600,000
+COVID-19 deaths in the US. This is more deaths than in all our 20th- and
+21st-century wars combined. There have been over 3 million deaths worldwide,
+and yet life moves along in a quasi-normal state for most of us.
+Alongside this process, the temptations and provocations to ruthlessness, com-
+petition, and violence will be constant. But our greatest moral threat will likely
+remain the creeping normalization of catastrophe.
+Which brings us back to the fundamental questions addressed by the maxims:
+what kind of person will you be, and what will you teach and model for your
+colleagues, your students, your families?
+508 Perspectives in Biology and Medicine
+
+Ethical Maxims for a Marginally Inhabitable Planet
+We ourselves find this list of maxims daunting. But this is how maxims work.
+Maxims have to do with how we do everything we do—a tone and style of
+living—as well as with the implementation of certain practices. Maxims are, in
+significant part, about keeping morality itself alive in a catastrophe. They demand
+of us that which we have difficulty demanding from ourselves. This is why we
+put forward for discussion this list of six maxims: precisely because they are so
+difficult, but also—in our view—so necessary.
+References
+Andre, J. 2015. Worldly Virtue: Moral Ideals and Contemporary Life. Lanham, MD: Lexing-
+ton Books.
+Bauman, Z. 2009. Does Ethics Have a Chance in a World of Consumers? Cambridge: Harvard
+University Press.
+Bendell, J. 2020. “Deep Adaptation: A Map for Navigating Climate Tragedy.” IFLAS
+Occas Pap 2: 1–35.
+Berry, T. 1999. The Great Work: Our Way into the Future. New York: Bell Tower.
+Brodkey, H. 1996. This Wild Darkness: The Story of My Death. New York: Holt.
+Brody, H. 2009. The Future of Bioethics. New York: Oxford University Press.
+Camus, A. 1946. Neither Victims nor Executioners: An Ethic Superior to Murder. Eugene, OR:
+Wipf and Stock, 1986.
+Camus, A. 1947. The Plague. Trans. S. Gilbert. New York: Random House, 1991.
+Churchill, L., J. Fanning, and D. Schenck. 2013. What Patients Teach: The Everyday Ethics
+of Healthcare. New York: Oxford University Press.
+Fink, S. 2013. Five Days at Memorial: Life and Death in a Storm-Ravaged Hospital. New
+York: Crown.
+Food and Agriculture Organization (FAO) of the United Nations. 2020. “Key Facts and
+Findings.” http://www.fao.org/news/story/en/item/197623/icode/.
+Frank, A. 2002. At the Will of the Body: Reflections on Illness. Boston: Houghton Mifflin.
+Fromm, E. 1973. The Anatomy of Human Destructiveness. New York: Holt, Rinehart and
+Winston.
+Gessen, M., and M. Friedman. 2018. Never Remember: Searching for Stalin’s Gulags in Pu-
+tin’s Russia. New York: Columbia Global Reports.
+Hadot, P. 1995. Philosophy as a Way of Life: Spiritual Exercises from Socrates to Foucault, ed.
+A. Davidson, trans M. Chase. Oxford: Blackwell.
+Jameton, A. 2016. “Time Frames for Saving the Planet.” Ethics Policy Environ 19 (2):
+136–40.
+Johnson, J. 2016. “Bioethics as a Way of Life: The Radical Bioethos of Van Rensselaer
+Potter.” Lit Med 34 (1): 7–24.
+Kolbert, E. 2021. Under a White Sky: The Nature of the Future. New York: Penguin Ran-
+dom House.
+Lear, J. 2006. Radical Hope: Ethics in the Face of Cultural Devastation. Cambridge: Harvard
+University Press.
+Lee, L. 2017. “‘A Bridge Back to the Future’: Public Health, Bioethics and Environmen-
+tal Ethics.” Am J Bioethics 17 (9): 5–12.
+autumn 2021 • volume 64, number 4 509
+
+David Schenck and Larry R. Churchill
+Lynas, M. 2020. Our Final Warning: Six Degrees of Climate Emergency. London: Fourth
+Estate.
+Macy, J., and C. Johnstone. 2012. Active Hope: How to Face the Mess We’re in Without
+Going Crazy. Novato, CA: New World Library.
+Maher, D. M. 2021. “‘They Are Living Maps’: How Richard Mosse Captured Environ-
+mental Damage in the Amazon.” Guardian, April 6. https://www.theguardian.com/
+artanddesign/2021/apr/06/richard-mosse-irish-photographer-amazon-environmen-
+tal-damage.
+Marcel, G. 1978. Homo Viator: Introduction to a Metaphysic of Hope. Trans E. Craufurd.
+Gloucester, MA: Peter Smith.
+Maslin, M. 2014. Climate Change: A Very Short Introduction. 3rd ed. Oxford: Oxford
+University Press.
+Miller, D. 2020. Solved: How the World’s Great Cities are Fixing the Climate Crisis. Toronto:
+University of Toronto Press.
+Monk, R. 1990. Ludwig Wittgenstein: The Duty of Genius. New York: Penguin.
+Moreno, J. 2005. “In the Wake of Katrina: Has Bioethics Failed?” Am J Bioethics 5 (5):
+18–19.
+Pierce, J., and A. Jameton. 2004. The Ethics of Environmentally Responsible Health Care.
+New York: Oxford University Press.
+Potter, V. 1971. Bioethics: Bridge to the Future. Englewood Cliffs: Prentice Hall.
+Richie, C. 2019. Principles of Green Bioethics: Sustainability in Health Care. East Lansing:
+Michigan State University Press.
+Servigne, P., and R. Stevens. 2020. How Everything Can Collapse. Trans. A. Brown. Med-
+ford, MA: Polity Press.
+Wallace-Wells, D. 2019. The Uninhabitable Earth: Life After Warming. New York: Tim
+Duggan.
+Weber, M. 1919. “Politics as a Vocation.” In From Max Weber: Essays in Sociology, ed. H.
+Gerth and C. Mills, 77–128. New York: Oxford University Press, 1946.
+Wilson, E. 1984. Biophilia. Cambridge: Harvard University Press.
+510 Perspectives in Biology and Medicine

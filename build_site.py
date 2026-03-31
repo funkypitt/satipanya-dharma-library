@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Génère le site statique pour la bibliothèque de talks Satipanya."""
 
+import hashlib
 import json
 import re
 import shutil
@@ -18,7 +19,7 @@ COVERS_DIR  = PROJECT_DIR / "covers"
 SITE_DIR    = PROJECT_DIR / "site"
 
 SITE_TITLE = "Satipanya Dharma Library"
-SITE_TAGLINE = "Dharma talks, guided meditations and teachings from Satipanya Buddhist Retreat"
+SITE_TAGLINE = "Dharma talks, guided meditations, essays and teachings from Satipanya Buddhist Retreat"
 FEEDS_BASE_URL = "https://www.enpleineconscience.ch/satipanya"
 
 # Préfixe URL pour héberger le site dans un sous-dossier (ex: "/satipanya")
@@ -26,7 +27,7 @@ FEEDS_BASE_URL = "https://www.enpleineconscience.ch/satipanya"
 SITE_BASE_PATH = "/satipanya"
 
 # Ordre d'affichage des feeds sur la page d'accueil
-FEED_ORDER = [
+AUDIO_FEED_ORDER = [
     "dharma-talks",
     "youtube-talks",
     "noirins-teachings",
@@ -35,6 +36,14 @@ FEED_ORDER = [
     "foundation-course",
     "international-talks",
 ]
+
+TEXT_FEED_ORDER = [
+    "bhante-essays",
+    "noirin-essays",
+    "tips-of-the-day",
+]
+
+FEED_ORDER = AUDIO_FEED_ORDER + TEXT_FEED_ORDER
 
 # Feeds affichés du plus récent au plus ancien (comme un blog/fil d'actualité)
 FEEDS_NEWEST_FIRST = {"dharma-talks", "youtube-talks", "noirins-teachings"}
@@ -47,6 +56,9 @@ FEED_EMOJI = {
     "noirins-teachings": "🌿",
     "international-talks": "🌍",
     "youtube-talks": "🎬",
+    "bhante-essays": "✍️",
+    "noirin-essays": "📝",
+    "tips-of-the-day": "💡",
 }
 
 # ── Utilitaires ────────────────────────────────────────────────
@@ -64,11 +76,30 @@ def format_duration(seconds):
 
 
 def ep_stem(ep):
-    """Extrait le nom de fichier (sans extension) du transcript_path."""
+    """Extrait le nom de fichier (sans extension) du transcript_path ou du champ stem."""
+    if ep.get("stem"):
+        return ep["stem"]
     tp = ep.get("transcript_path")
     if tp:
         return Path(tp).stem
     return None
+
+
+def is_text_episode(ep):
+    """True si l'épisode est du contenu écrit (pas audio)."""
+    return ep.get("content_type") == "text"
+
+
+def is_text_feed(fdata):
+    """True si la collection est du contenu écrit."""
+    return fdata.get("content_type") == "text"
+
+
+def format_reading_time(minutes):
+    """Formate un temps de lecture en 'N min read'."""
+    if not minutes:
+        return ""
+    return f"{int(minutes)} min read"
 
 
 def base(path):
@@ -261,6 +292,69 @@ def generate_pdf(output_path, title, speaker, feed_name, duration_str, article_t
         "Corrections and rewriting by cloud-hosted AI.")
 
     pdf.output(str(output_path))
+
+
+def generate_docx(output_path, title, speaker, feed_name, duration_str, article_text):
+    """Génère un DOCX pour un transcript individuel."""
+    from docx import Document
+    from docx.shared import Pt, Cm, RGBColor
+    from docx.enum.text import WD_ALIGN_PARAGRAPH
+
+    doc = Document()
+    for section in doc.sections:
+        section.top_margin = Cm(2.8)
+        section.bottom_margin = Cm(3.0)
+        section.left_margin = Cm(3.0)
+        section.right_margin = Cm(2.5)
+
+    # ── Titre ──
+    doc.add_paragraph()
+    p = doc.add_paragraph()
+    run = p.add_run(title)
+    run.font.size = Pt(22)
+    run.font.bold = True
+
+    p = doc.add_paragraph()
+    run = p.add_run(f"{speaker}  ·  {feed_name}  ·  {duration_str}")
+    run.font.size = Pt(9)
+    run.font.color.rgb = RGBColor(0x78, 0x71, 0x6C)
+    p.paragraph_format.space_after = Pt(10)
+
+    # ── Ligne décorative ──
+    p = doc.add_paragraph()
+    run = p.add_run("─" * 30)
+    run.font.size = Pt(8)
+    run.font.color.rgb = RGBColor(0xB8, 0x86, 0x0B)
+    p.paragraph_format.space_after = Pt(12)
+
+    # ── Corps du texte ──
+    paragraphs = article_text.split("\n\n")
+    for p_text in paragraphs:
+        p_text = p_text.strip()
+        if not p_text:
+            continue
+        p = doc.add_paragraph()
+        parts = re.split(r'(\*[^*]+\*)', p_text)
+        for part in parts:
+            if part.startswith('*') and part.endswith('*'):
+                run = p.add_run(part[1:-1])
+                run.italic = True
+            else:
+                p.add_run(part.replace("\n", " "))
+
+    # ── Note de fin ──
+    doc.add_paragraph()
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    run = p.add_run(
+        "Transcriptions produced locally using Swiss low-carbon electricity.\n"
+        "Corrections and rewriting by cloud-hosted AI."
+    )
+    run.font.size = Pt(7)
+    run.font.italic = True
+    run.font.color.rgb = RGBColor(0x99, 0x99, 0x99)
+
+    doc.save(str(output_path))
 
 
 EPUB_CSS = """\
@@ -537,15 +631,18 @@ a.feed-card { color: inherit; text-decoration: none; }
 .feed-card-meta {
   font-size: 0.8rem;
   color: var(--text-secondary);
-  display: flex; gap: 1rem;
+  display: flex; flex-wrap: wrap; gap: 0.5rem 1rem;
+  align-items: center;
 }
 .feed-card-meta span {
   display: flex; align-items: center; gap: 0.3rem;
 }
 .feed-card-meta .subscribe {
-  margin-left: auto;
   color: var(--accent);
   transition: color .15s;
+}
+.feed-card-meta .subscribe:first-of-type {
+  margin-left: auto;
 }
 .feed-card-meta .subscribe:hover { color: var(--accent-hover); }
 
@@ -817,6 +914,288 @@ a.feed-card { color: inherit; text-decoration: none; }
   line-height: 1.6;
 }
 
+/* ── Selected Talks ─────────────────────────────────── */
+.selected-section { padding: 3rem 0 2rem; border-bottom: 1px solid var(--border); }
+.selected-section h2 {
+  font-family: var(--font-serif);
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  text-align: center;
+  color: var(--text);
+}
+.selected-section .section-subtitle {
+  text-align: center;
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  margin-bottom: 1.5rem;
+}
+.selected-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 0.75rem;
+}
+.selected-item {
+  display: grid;
+  grid-template-columns: 2rem 1fr auto;
+  gap: 0 0.75rem;
+  align-items: baseline;
+  padding: 0.75rem 1rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-sm);
+  transition: border-color .15s, box-shadow .15s;
+}
+.selected-item:hover {
+  border-color: var(--accent-light);
+  box-shadow: var(--shadow-sm);
+}
+.selected-rank {
+  font-family: var(--font-serif);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--accent);
+  text-align: right;
+}
+.selected-info { min-width: 0; }
+.selected-title {
+  font-family: var(--font-serif);
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.3;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.selected-title a { color: var(--text); }
+.selected-title a:hover { color: var(--accent); }
+.selected-meta {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.selected-score {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--accent);
+  white-space: nowrap;
+  padding: 0.15rem 0.5rem;
+  background: var(--accent-light);
+  border-radius: 100px;
+}
+.selected-more {
+  display: block;
+  text-align: center;
+  margin-top: 1.25rem;
+  font-size: 0.9rem;
+  color: var(--accent);
+  font-weight: 500;
+}
+.selected-more:hover { color: var(--accent-hover); }
+
+/* ── Topics Page ────────────────────────────────────── */
+.topics-page { padding: 2.5rem 0 4rem; }
+.topics-page h1 {
+  font-family: var(--font-serif);
+  font-size: clamp(1.75rem, 4vw, 2.25rem);
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+.topics-page > p {
+  color: var(--text-secondary);
+  margin-bottom: 2rem;
+  line-height: 1.7;
+}
+.topics-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  justify-content: center;
+  padding: 1.5rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  margin-bottom: 2rem;
+}
+.topic-tag {
+  display: inline-block;
+  padding: 0.25rem 0.65rem;
+  border-radius: 100px;
+  background: var(--bg-alt);
+  border: 1px solid var(--border-light);
+  color: var(--text);
+  cursor: pointer;
+  transition: all .15s;
+  white-space: nowrap;
+  line-height: 1.4;
+}
+.topic-tag:hover {
+  background: var(--accent-light);
+  border-color: var(--accent);
+  color: var(--accent);
+}
+.topic-tag.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: white;
+}
+.topic-tag .count {
+  font-size: 0.7em;
+  opacity: 0.6;
+  margin-left: 0.2em;
+}
+.topics-filter {
+  display: flex; gap: 0.75rem; align-items: center;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+.topics-filter input {
+  flex: 1; min-width: 200px;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  font-size: 0.9rem;
+  font-family: var(--font-sans);
+  outline: none;
+  transition: border-color .15s;
+}
+.topics-filter input:focus { border-color: var(--accent); }
+.topics-active-tag {
+  display: none;
+  align-items: center; gap: 0.5rem;
+  padding: 1rem 1.25rem;
+  background: var(--accent-light);
+  border-radius: var(--radius);
+  margin-bottom: 1.5rem;
+}
+.topics-active-tag.visible { display: flex; }
+.topics-active-tag h2 {
+  font-family: var(--font-serif);
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--accent);
+  margin: 0;
+}
+.topics-active-tag .close-tag {
+  margin-left: auto;
+  cursor: pointer;
+  color: var(--accent);
+  font-size: 1.2rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+}
+.topics-active-tag .close-tag:hover { background: rgba(0,0,0,0.05); }
+.topics-results { list-style: none; }
+.topics-result-item {
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-sm);
+  padding: 0.85rem 1.25rem;
+  margin-bottom: 0.4rem;
+  background: var(--bg-card);
+  transition: border-color .15s;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 0.25rem 1rem;
+  align-items: start;
+}
+.topics-result-item:hover {
+  border-color: var(--accent-light);
+  box-shadow: var(--shadow-sm);
+}
+.topics-result-title {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+.topics-result-title a { color: var(--text); }
+.topics-result-title a:hover { color: var(--accent); }
+.topics-result-meta {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  grid-column: 1;
+}
+.topics-result-score {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--accent);
+  white-space: nowrap;
+}
+
+/* Selected Talks dedicated page */
+.selected-page { padding: 2.5rem 0 4rem; }
+.selected-page h1 {
+  font-family: var(--font-serif);
+  font-size: clamp(1.75rem, 4vw, 2.25rem);
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+.selected-page > p {
+  color: var(--text-secondary);
+  margin-bottom: 2rem;
+  line-height: 1.7;
+}
+.selected-full-list { list-style: none; }
+.selected-full-item {
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-sm);
+  padding: 1rem 1.25rem;
+  margin-bottom: 0.5rem;
+  background: var(--bg-card);
+  transition: border-color .15s, box-shadow .15s;
+  display: grid;
+  grid-template-columns: 2.5rem 1fr auto;
+  gap: 0.5rem 1rem;
+  align-items: start;
+}
+.selected-full-item:hover {
+  border-color: var(--accent-light);
+  box-shadow: var(--shadow-sm);
+}
+.selected-full-rank {
+  font-family: var(--font-serif);
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--accent);
+  text-align: right;
+  padding-top: 0.1rem;
+}
+.selected-full-info { min-width: 0; }
+.selected-full-title {
+  font-family: var(--font-serif);
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.4;
+}
+.selected-full-title a { color: var(--text); }
+.selected-full-title a:hover { color: var(--accent); }
+.selected-full-desc {
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin-top: 0.2rem;
+}
+.selected-full-right {
+  text-align: right;
+  white-space: nowrap;
+}
+.selected-full-score {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+.selected-full-duration {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  margin-top: 0.2rem;
+}
+.selected-full-collection {
+  font-size: 0.7rem;
+  color: var(--text-secondary);
+}
+
 /* ── Footer ──────────────────────────────────────────── */
 .site-footer {
   background: var(--bg-alt);
@@ -849,6 +1228,8 @@ a.feed-card { color: inherit; text-decoration: none; }
   .feed-card-body { padding: 0 1.25rem 1.25rem; }
 }
 """
+
+CSS_HASH = hashlib.md5(CSS.encode()).hexdigest()[:8]
 
 # ── Icônes SVG ─────────────────────────────────────────
 
@@ -884,7 +1265,7 @@ def html_base(title, body_html, breadcrumbs=None, extra_head="", body_class=""):
   <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="icon" type="image/png" href="{base('/favicon.png')}">
   <link rel="apple-touch-icon" href="{base('/apple-touch-icon.png')}">
-  <link rel="stylesheet" href="{base('/style.css')}">
+  <link rel="stylesheet" href="{base('/style.css')}?v={CSS_HASH}">
   {extra_head}
 </head>
 <body class="{body_class}">
@@ -893,6 +1274,8 @@ def html_base(title, body_html, breadcrumbs=None, extra_head="", body_class=""):
       <a href="{base('/')}" class="site-logo">Satipanya</a>
       <nav class="header-nav">
         <a href="{base('/')}">Collections</a>
+        <a href="{base('/selected/')}">Selected</a>
+        <a href="{base('/topics/')}">Topics</a>
         <a href="{base('/search.html')}">Search</a>
         <form class="header-search" action="{base('/search.html')}" method="get">
           {SVG_SEARCH}
@@ -917,30 +1300,38 @@ def html_base(title, body_html, breadcrumbs=None, extra_head="", body_class=""):
 
 # ── Générateurs de pages ───────────────────────────────
 
-def build_homepage(catalog):
+def build_homepage(catalog, selected_talks=None):
     """Génère la page d'accueil."""
     # Calcul stats globales
     total_episodes = 0
     total_hours = 0
     total_articles = 0
+    total_essays = 0
     for slug in FEED_ORDER:
         fdata = catalog.get(slug)
         if not fdata:
             continue
+        text_feed = is_text_feed(fdata)
         for season in fdata.get("seasons", []):
             for ep in season.get("episodes", []):
-                dur = ep.get("duration_seconds", 0)
-                if dur == 0 or not ep_stem(ep):
-                    continue
-                total_episodes += 1
-                total_hours += dur / 3600
                 stem = ep_stem(ep)
-                if stem and (ARTICLES_DIR / slug / f"{stem}.txt").exists():
-                    total_articles += 1
+                if not stem:
+                    continue
+                if text_feed:
+                    if ep.get("word_count", 0) > 0:
+                        total_essays += 1
+                else:
+                    dur = ep.get("duration_seconds", 0)
+                    if dur == 0:
+                        continue
+                    total_episodes += 1
+                    total_hours += dur / 3600
+                    if stem and (ARTICLES_DIR / slug / f"{stem}.txt").exists():
+                        total_articles += 1
 
-    # Feed cards
-    cards = []
-    for slug in FEED_ORDER:
+    # Audio feed cards
+    audio_cards = []
+    for slug in AUDIO_FEED_ORDER:
         fdata = catalog.get(slug)
         if not fdata:
             continue
@@ -963,7 +1354,7 @@ def build_homepage(catalog):
             f'<a href="{base(f"/books/{slug}.epub")}" class="subscribe">{SVG_BOOK} EPUB</a>'
             f'<a href="{base(f"/books/{slug}.docx")}" class="subscribe">{SVG_BOOK} DOCX</a>'
         )
-        cards.append(f"""
+        audio_cards.append(f"""
       <div class="feed-card">
         <div class="feed-card-header">
           <div class="feed-card-emoji">{emoji}</div>
@@ -973,12 +1364,61 @@ def build_homepage(catalog):
           <p>{h(fdata.get('description', ''))}</p>
           <div class="feed-card-meta">
             <span>{SVG_EPISODES} {ep_count} talks</span>
-            <span>{SVG_FOLDER} {fdata.get('season_count', 1)} seasons</span>
             <a href="{subscribe_url}" class="subscribe">{subscribe_label}</a>
             {book_links}
           </div>
         </div>
       </div>""")
+
+    # Text feed cards
+    text_cards = []
+    for slug in TEXT_FEED_ORDER:
+        fdata = catalog.get(slug)
+        if not fdata:
+            continue
+        emoji = FEED_EMOJI.get(slug, "📖")
+        ep_count = 0
+        for season in fdata.get("seasons", []):
+            for ep in season.get("episodes", []):
+                if ep.get("word_count", 0) > 0 or ep_stem(ep):
+                    ep_count += 1
+        book_links = (
+            f'<a href="{base(f"/books/{slug}.pdf")}" class="subscribe">{SVG_BOOK} PDF</a>'
+            f'<a href="{base(f"/books/{slug}.epub")}" class="subscribe">{SVG_BOOK} EPUB</a>'
+            f'<a href="{base(f"/books/{slug}.docx")}" class="subscribe">{SVG_BOOK} DOCX</a>'
+        )
+        text_cards.append(f"""
+      <div class="feed-card">
+        <div class="feed-card-header">
+          <div class="feed-card-emoji">{emoji}</div>
+          <h3><a href="{base(f"/{slug}/")}">{h(fdata['name'].replace('Satipanya — ', ''))}</a></h3>
+        </div>
+        <div class="feed-card-body">
+          <p>{h(fdata.get('description', ''))}</p>
+          <div class="feed-card-meta">
+            <span>{SVG_EPISODES} {ep_count} essays</span>
+            {book_links}
+          </div>
+        </div>
+      </div>""")
+
+    selected_card = build_selected_homepage_card(selected_talks or [])
+
+    # Hero stats: include essays if any
+    essays_stat = f'<div><strong>{total_essays}</strong> essays</div>' if total_essays > 0 else ''
+
+    # Text section: only show if there are text collections
+    text_section = ""
+    if text_cards:
+        text_section = f"""
+    <section class="feeds-section">
+      <div class="container">
+        <h2>Read</h2>
+        <div class="feeds-grid">
+          {"".join(text_cards)}
+        </div>
+      </div>
+    </section>"""
 
     body = f"""
     <section class="hero">
@@ -989,17 +1429,20 @@ def build_homepage(catalog):
           <div><strong>{total_episodes}</strong> talks</div>
           <div><strong>{int(total_hours)}</strong> hours</div>
           <div><strong>{total_articles}</strong> transcripts</div>
+          {essays_stat}
         </div>
       </div>
     </section>
     <section class="feeds-section">
       <div class="container">
-        <h2>Browse by Collection</h2>
+        <h2>Listen</h2>
         <div class="feeds-grid">
-          {"".join(cards)}
+          {selected_card}
+          {"".join(audio_cards)}
         </div>
       </div>
-    </section>"""
+    </section>
+    {text_section}"""
 
     return html_base(SITE_TITLE, body, body_class="page-home")
 
@@ -1008,6 +1451,7 @@ def build_feed_page(slug, fdata, catalog):
     """Génère la page d'une collection/feed."""
     name = fdata["name"].replace("Satipanya — ", "")
     desc = fdata.get("description", "")
+    text_feed = is_text_feed(fdata)
 
     newest_first = slug in FEEDS_NEWEST_FIRST
     seasons_list = list(fdata.get("seasons", []))
@@ -1021,10 +1465,18 @@ def build_feed_page(slug, fdata, catalog):
             episodes = list(reversed(episodes))
         items = []
         for ep in episodes:
-            dur = ep.get("duration_seconds", 0)
             stem = ep_stem(ep)
-            if dur == 0 or not stem:
+            if not stem:
                 continue
+            if text_feed:
+                if ep.get("word_count", 0) == 0:
+                    continue
+                time_str = format_reading_time(ep.get("reading_minutes", 0))
+            else:
+                dur = ep.get("duration_seconds", 0)
+                if dur == 0:
+                    continue
+                time_str = format_duration(dur)
             meta = load_metadata(slug, stem)
             title = meta.get("title_clean", ep.get("title", "Untitled"))
             desc_short = meta.get("description_short", ep.get("description_short", ""))
@@ -1032,7 +1484,7 @@ def build_feed_page(slug, fdata, catalog):
             items.append(f"""
           <li class="episode-item">
             <div class="episode-title"><a href="{url}">{h(title)}</a></div>
-            <div class="episode-duration">{SVG_CLOCK} {format_duration(dur)}</div>
+            <div class="episode-duration">{SVG_CLOCK} {time_str}</div>
             <div class="episode-desc">{h(desc_short)}</div>
           </li>""")
 
@@ -1062,6 +1514,7 @@ def build_episode_page(slug, ep, prev_ep, next_ep, feed_name):
     stem = ep_stem(ep)
     meta = load_metadata(slug, stem) if stem else {}
     article = load_article(slug, stem) if stem else None
+    text_ep = is_text_episode(ep)
 
     title = meta.get("title_clean", ep.get("title", "Untitled"))
     desc_long = meta.get("description_long") or ep.get("description_long", "")
@@ -1071,6 +1524,16 @@ def build_episode_page(slug, ep, prev_ep, next_ep, feed_name):
     dur = ep.get("duration_seconds", 0)
     audio_url = ep.get("url", "")
     clean_feed = feed_name.replace("Satipanya — ", "")
+
+    # Meta bar: reading time for text, duration for audio
+    if text_ep:
+        reading_min = ep.get("reading_minutes", 0)
+        word_count = ep.get("word_count", 0)
+        time_html = f'<span>{SVG_CLOCK} {format_reading_time(reading_min)}</span>'
+        if word_count:
+            time_html += f' <span>({word_count:,} words)</span>'
+    else:
+        time_html = f'<span>{SVG_CLOCK} {format_duration(dur)}</span>'
 
     # Description HTML
     desc_html = ""
@@ -1082,9 +1545,9 @@ def build_episode_page(slug, ep, prev_ep, next_ep, feed_name):
     elif desc_short:
         desc_html = f'<div class="episode-description"><p>{h(desc_short)}</p></div>'
 
-    # Audio / Video
+    # Audio / Video — only for non-text episodes
     audio_html = ""
-    if audio_url:
+    if not text_ep and audio_url:
         # YouTube: embed iframe; otherwise: audio player
         yt_match = re.search(r'youtube\.com/watch\?v=([A-Za-z0-9_-]+)', audio_url)
         if yt_match:
@@ -1107,29 +1570,37 @@ def build_episode_page(slug, ep, prev_ep, next_ep, feed_name):
         <div class="audio-source">Source: <a href="{h(audio_url)}" target="_blank">satipanya.org.uk</a></div>
       </div>"""
 
-    # Transcript
+    # Source link for text episodes
+    source_html = ""
+    if text_ep and audio_url:
+        source_html = f'<p class="original-source">Original source: <a href="{h(audio_url)}" target="_blank">satipanya.org.uk</a></p>'
+
+    # Transcript / Full Text
     transcript_html = ""
     download_links = ""
     if article and stem:
         pdf_name = f"{stem}.pdf"
         epub_name = f"{stem}.epub"
+        docx_name = f"{stem}.docx"
         download_links = (
             f'<div class="transcript-downloads">'
             f'<a href="{base(f"/{slug}/{pdf_name}")}" class="btn-pdf" download>{SVG_DOWNLOAD} PDF</a>'
             f'<a href="{base(f"/{slug}/{epub_name}")}" class="btn-pdf" download>{SVG_BOOK} EPUB</a>'
+            f'<a href="{base(f"/{slug}/{docx_name}")}" class="btn-pdf" download>{SVG_BOOK} DOCX</a>'
             f'</div>'
         )
+        section_title = "Full Text" if text_ep else "Transcript"
         transcript_html = f"""
       <section class="transcript-section">
         <div class="transcript-header">
-          <h2>Transcript</h2>
+          <h2>{section_title}</h2>
           {download_links}
         </div>
         <div class="transcript-text">
           {article_to_html(article)}
         </div>
       </section>"""
-    else:
+    elif not text_ep:
         transcript_html = """
       <section class="transcript-section">
         <h2>Transcript</h2>
@@ -1160,11 +1631,12 @@ def build_episode_page(slug, ep, prev_ep, next_ep, feed_name):
         <h1>{h(title)}</h1>
         <div class="episode-meta">
           <span>{SVG_SPEAKER} {h(speaker)}</span>
-          <span>{SVG_CLOCK} {format_duration(dur)}</span>
+          {time_html}
           <span>{SVG_FOLDER} <a href="{base(f"/{slug}/")}">{h(clean_feed)}</a></span>
         </div>
       </div>
       {audio_html}
+      {source_html}
       {desc_html}
       {keyword_tags_html(keywords)}
       {transcript_html}
@@ -1258,14 +1730,21 @@ def build_search_index(catalog):
         if not fdata:
             continue
         feed_name = fdata["name"].replace("Satipanya — ", "")
+        text_feed = is_text_feed(fdata)
         for season in fdata.get("seasons", []):
             for ep in season.get("episodes", []):
-                dur = ep.get("duration_seconds", 0)
-                if dur == 0:
-                    continue
                 stem = ep_stem(ep)
                 if not stem:
                     continue
+                if text_feed:
+                    if ep.get("word_count", 0) == 0:
+                        continue
+                    time_str = format_reading_time(ep.get("reading_minutes", 0))
+                else:
+                    dur = ep.get("duration_seconds", 0)
+                    if dur == 0:
+                        continue
+                    time_str = format_duration(dur)
                 meta = load_metadata(slug, stem)
                 article = load_article(slug, stem)
 
@@ -1288,7 +1767,7 @@ def build_search_index(catalog):
                     "title": title,
                     "feed": feed_name,
                     "speaker": ep.get("speaker", ""),
-                    "duration": format_duration(dur),
+                    "duration": time_str,
                     "description": f"{desc_short} {desc_long}",
                     "description_short": desc_short,
                     "keywords": keywords,
@@ -1297,6 +1776,344 @@ def build_search_index(catalog):
                 })
                 idx += 1
     return items
+
+
+# ── Selected Talks (top par qualité littéraire) ────────
+
+SELECTED_TALKS_COUNT = 120   # Nombre de talks dans la sélection
+SELECTED_HOMEPAGE_COUNT = 12  # Nombre de talks affichés sur la page d'accueil
+
+SVG_STAR = '<svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" stroke="none"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>'
+
+
+def collect_selected_talks(catalog, count=SELECTED_TALKS_COUNT):
+    """Collecte les top N épisodes par lite_score à travers toutes les collections.
+
+    S'assure que deux talks de Noirin ne sont jamais adjacents, tout en
+    respectant l'ordre par score décroissant autant que possible.
+    """
+    scored = []
+    for key, fdata in catalog.items():
+        slug = fdata.get("slug", key.replace("_", "-"))
+        if slug not in FEED_ORDER:
+            continue
+        feed_name = fdata["name"].replace("Satipanya — ", "")
+        text_feed = is_text_feed(fdata)
+        for season in fdata.get("seasons", []):
+            for ep in season.get("episodes", []):
+                score = ep.get("lite_score")
+                if score is None or score < 1:
+                    continue
+                stem = ep_stem(ep)
+                if not stem:
+                    continue
+                if text_feed:
+                    if ep.get("word_count", 0) == 0:
+                        continue
+                else:
+                    if ep.get("duration_seconds", 0) == 0:
+                        continue
+                meta = load_metadata(slug, stem)
+                title = meta.get("title_clean", ep.get("title", "Untitled"))
+                desc_short = meta.get("description_short") or ep.get("description_short", "")
+                if text_feed:
+                    dur_display = ep.get("reading_minutes", 0)
+                else:
+                    dur_display = ep.get("duration_seconds", 0)
+                scored.append({
+                    "title": title,
+                    "slug": slug,
+                    "feed_name": feed_name,
+                    "stem": stem,
+                    "score": score,
+                    "duration": dur_display,
+                    "speaker": ep.get("speaker", ""),
+                    "desc_short": desc_short,
+                    "url": ep_url(slug, stem),
+                    "is_text": text_feed,
+                })
+    # Tri par score décroissant, puis par titre pour départager
+    scored.sort(key=lambda x: (-x["score"], x["title"]))
+
+    # S'assurer que deux talks de Noirin ne soient jamais adjacents
+    noirin = [t for t in scored if "noirin" in t["speaker"].lower()]
+    bhante = [t for t in scored if "noirin" not in t["speaker"].lower()]
+    result = []
+    ni, bi = 0, 0
+    while ni < len(noirin) or bi < len(bhante):
+        prev_noirin = result and "noirin" in result[-1]["speaker"].lower()
+        if prev_noirin:
+            # Dernier était Noirin → on doit placer un Bhante
+            if bi < len(bhante):
+                result.append(bhante[bi]); bi += 1
+            elif ni < len(noirin):
+                result.append(noirin[ni]); ni += 1  # pas le choix
+        else:
+            # Dernier était Bhante (ou liste vide) → meilleur score entre les deux
+            n_score = noirin[ni]["score"] if ni < len(noirin) else -1
+            b_score = bhante[bi]["score"] if bi < len(bhante) else -1
+            if n_score >= b_score and ni < len(noirin):
+                result.append(noirin[ni]); ni += 1
+            elif bi < len(bhante):
+                result.append(bhante[bi]); bi += 1
+            elif ni < len(noirin):
+                result.append(noirin[ni]); ni += 1
+    scored = result
+
+    return scored[:count]
+
+
+def build_selected_homepage_card(selected_talks):
+    """Génère une feed-card pour la sélection, à intégrer dans la grille de collections."""
+    if not selected_talks:
+        return ""
+
+    book_links = (
+        f'<a href="{base("/books/selected-talks.pdf")}" class="subscribe">{SVG_BOOK} PDF</a>'
+        f'<a href="{base("/books/selected-talks.epub")}" class="subscribe">{SVG_BOOK} EPUB</a>'
+        f'<a href="{base("/books/selected-talks.docx")}" class="subscribe">{SVG_BOOK} DOCX</a>'
+    )
+
+    return f"""
+      <div class="feed-card">
+        <div class="feed-card-header">
+          <div class="feed-card-emoji">{SVG_STAR}</div>
+          <h3><a href="{base('/selected/')}">Selected Talks</a></h3>
+        </div>
+        <div class="feed-card-body">
+          <p>A selection of {len(selected_talks)} interesting talks if you don't know where to start.</p>
+          <div class="feed-card-meta">
+            <span>{SVG_EPISODES} {len(selected_talks)} talks</span>
+            {book_links}
+          </div>
+        </div>
+      </div>"""
+
+
+def build_selected_page(selected_talks):
+    """Génère la page dédiée avec les top talks."""
+    if not selected_talks:
+        return None
+
+    items = []
+    for rank, talk in enumerate(selected_talks, 1):
+        if talk.get("is_text"):
+            dur_str = format_reading_time(talk["duration"])
+        else:
+            dur_str = format_duration(talk["duration"])
+        items.append(f"""
+        <li class="selected-full-item">
+          <div class="selected-full-rank">{rank}</div>
+          <div class="selected-full-info">
+            <div class="selected-full-title"><a href="{talk['url']}">{h(talk['title'])}</a></div>
+            <div class="selected-full-desc">{h(talk['desc_short'][:150])}</div>
+          </div>
+          <div class="selected-full-right">
+            <div class="selected-full-duration">{SVG_CLOCK} {dur_str}</div>
+            <div class="selected-full-collection">{h(talk['feed_name'])}</div>
+          </div>
+        </li>""")
+
+    body = f"""
+    <div class="container selected-page">
+      <h1>{SVG_STAR} Selected Talks</h1>
+      <p>A selection of {len(selected_talks)} interesting talks from across all collections.
+         If you don't know where to start, these are a good place to begin.</p>
+      <ul class="selected-full-list">{"".join(items)}</ul>
+    </div>"""
+
+    breadcrumbs = [("Home", base("/")), ("Selected Talks", base("/selected/"))]
+    return html_base(f"Selected Talks — {SITE_TITLE}", body, breadcrumbs=breadcrumbs)
+
+
+# ── Topics (tag cloud + filtered episodes) ─────────────
+
+MIN_TAG_COUNT = 2  # Tags apparaissant au moins N fois
+
+
+def build_topics_index(catalog):
+    """Construit l'index JSON {tag → [episodes]} pour la page Topics.
+
+    Chaque épisode dans la liste est trié par lite_score décroissant.
+    """
+    from collections import defaultdict
+    tag_episodes = defaultdict(list)
+
+    for key, fdata in catalog.items():
+        slug = fdata.get("slug", key.replace("_", "-"))
+        if slug not in FEED_ORDER:
+            continue
+        feed_name = fdata["name"].replace("Satipanya — ", "")
+        text_feed = is_text_feed(fdata)
+        for season in fdata.get("seasons", []):
+            for ep in season.get("episodes", []):
+                stem = ep_stem(ep)
+                if not stem:
+                    continue
+                if text_feed:
+                    if ep.get("word_count", 0) == 0:
+                        continue
+                    time_str = format_reading_time(ep.get("reading_minutes", 0))
+                else:
+                    if ep.get("duration_seconds", 0) == 0:
+                        continue
+                    time_str = format_duration(ep.get("duration_seconds", 0))
+                meta = load_metadata(slug, stem)
+                keywords = meta.get("keywords", [])
+                if not keywords:
+                    continue
+
+                title = meta.get("title_clean", ep.get("title", "Untitled"))
+                score = ep.get("lite_score", 0)
+                ep_info = {
+                    "t": title,
+                    "u": ep_url(slug, stem),
+                    "f": feed_name,
+                    "d": time_str,
+                    "s": score,
+                }
+
+                for kw in keywords:
+                    tag_episodes[kw].append(ep_info)
+
+    # Filtrer les tags trop rares et trier les épisodes par score
+    result = {}
+    for tag, eps in sorted(tag_episodes.items()):
+        if len(eps) < MIN_TAG_COUNT:
+            continue
+        eps.sort(key=lambda x: -x["s"])
+        result[tag] = eps
+
+    return result
+
+
+def build_topics_page(topics_index):
+    """Génère la page Topics avec tag cloud et résultats filtrés."""
+    if not topics_index:
+        return None
+
+    # Calculer les tailles de font pour le cloud
+    counts = {tag: len(eps) for tag, eps in topics_index.items()}
+    max_count = max(counts.values()) if counts else 1
+    min_count = min(counts.values()) if counts else 1
+
+    # Trier les tags par fréquence décroissante pour le cloud
+    sorted_tags = sorted(counts.items(), key=lambda x: (-x[1], x[0]))
+
+    cloud_items = []
+    for tag, count in sorted_tags:
+        # Font size: 0.7rem (rare) → 1.6rem (très fréquent)
+        if max_count > min_count:
+            ratio = (count - min_count) / (max_count - min_count)
+        else:
+            ratio = 0.5
+        size = 0.7 + ratio * 0.9
+        cloud_items.append(
+            f'<span class="topic-tag" data-tag="{h(tag)}" style="font-size:{size:.2f}rem">'
+            f'{h(tag)}<span class="count">{count}</span></span>'
+        )
+
+    body = f"""
+    <div class="container topics-page">
+      <h1>Explore by Topic</h1>
+      <p>{len(topics_index)} topics across {sum(counts.values())} tag occurrences.
+         Click a topic to see related talks.</p>
+      <div class="topics-filter">
+        <input type="text" id="topic-filter" placeholder="Filter topics…">
+      </div>
+      <div class="topics-cloud" id="topics-cloud">
+        {"".join(cloud_items)}
+      </div>
+      <div class="topics-active-tag" id="active-tag">
+        <h2 id="active-tag-name"></h2>
+        <span id="active-tag-count" style="font-size:0.85rem;color:var(--text-secondary)"></span>
+        <span class="close-tag" id="close-tag">✕</span>
+      </div>
+      <ul class="topics-results" id="topics-results"></ul>
+    </div>"""
+
+    topics_js = """
+<script>
+(function() {
+  let topicsData = null;
+  const cloud = document.getElementById('topics-cloud');
+  const resultsEl = document.getElementById('topics-results');
+  const activeTag = document.getElementById('active-tag');
+  const activeTagName = document.getElementById('active-tag-name');
+  const activeTagCount = document.getElementById('active-tag-count');
+  const closeTag = document.getElementById('close-tag');
+  const filterInput = document.getElementById('topic-filter');
+  const allTags = cloud.querySelectorAll('.topic-tag');
+
+  fetch('__BASE__/topics-index.json')
+    .then(r => r.json())
+    .then(data => { topicsData = data; checkUrlTag(); });
+
+  // Filter topics in cloud
+  filterInput.addEventListener('input', function() {
+    const q = this.value.toLowerCase();
+    allTags.forEach(tag => {
+      tag.style.display = tag.dataset.tag.toLowerCase().includes(q) ? '' : 'none';
+    });
+  });
+
+  // Click on tag
+  cloud.addEventListener('click', function(e) {
+    const tag = e.target.closest('.topic-tag');
+    if (tag) showTag(tag.dataset.tag);
+  });
+
+  closeTag.addEventListener('click', function() {
+    activeTag.classList.remove('visible');
+    resultsEl.innerHTML = '';
+    allTags.forEach(t => t.classList.remove('active'));
+    history.replaceState(null, '', location.pathname);
+  });
+
+  function checkUrlTag() {
+    const t = new URLSearchParams(location.search).get('t');
+    if (t && topicsData && topicsData[t]) showTag(t);
+  }
+
+  function showTag(tagName) {
+    if (!topicsData || !topicsData[tagName]) return;
+    const eps = topicsData[tagName];
+
+    allTags.forEach(t => {
+      t.classList.toggle('active', t.dataset.tag === tagName);
+    });
+
+    activeTagName.textContent = tagName;
+    activeTagCount.textContent = eps.length + ' talk' + (eps.length !== 1 ? 's' : '');
+    activeTag.classList.add('visible');
+
+    resultsEl.innerHTML = eps.map((ep, i) => {
+      const scoreHtml = ep.s > 0
+        ? '<span class="topics-result-score">★ ' + ep.s + '</span>'
+        : '';
+      return '<li class="topics-result-item">' +
+        '<div class="topics-result-title"><a href="' + ep.u + '">' + esc(ep.t) + '</a></div>' +
+        scoreHtml +
+        '<div class="topics-result-meta">' + esc(ep.f) + ' · ' + ep.d + '</div>' +
+        '</li>';
+    }).join('');
+
+    history.replaceState(null, '', location.pathname + '?t=' + encodeURIComponent(tagName));
+  }
+
+  function esc(s) {
+    if (!s) return '';
+    const d = document.createElement('div');
+    d.textContent = s;
+    return d.innerHTML;
+  }
+})();
+</script>"""
+
+    breadcrumbs = [("Home", base("/")), ("Topics", base("/topics/"))]
+    page = html_base(f"Topics — {SITE_TITLE}", body, breadcrumbs=breadcrumbs)
+    topics_js_resolved = topics_js.replace("__BASE__", SITE_BASE_PATH)
+    return page.replace("</body>", topics_js_resolved + "\n</body>")
 
 
 # ── Construction du site ───────────────────────────────
@@ -1360,8 +2177,18 @@ def build_site():
         if n_feeds:
             print(f"  ✓ {n_feeds} RSS feeds (*.xml)")
 
+    # Selected Talks (top par qualité littéraire)
+    selected_talks = collect_selected_talks(catalog)
+    if selected_talks:
+        selected_dir = SITE_DIR / "selected"
+        selected_dir.mkdir(exist_ok=True)
+        selected_page = build_selected_page(selected_talks)
+        if selected_page:
+            (selected_dir / "index.html").write_text(selected_page, encoding="utf-8")
+        print(f"  ✓ selected/ ({len(selected_talks)} talks)")
+
     # Homepage
-    (SITE_DIR / "index.html").write_text(build_homepage(catalog), encoding="utf-8")
+    (SITE_DIR / "index.html").write_text(build_homepage(catalog, selected_talks), encoding="utf-8")
     print(f"  ✓ index.html")
 
     # Pages de feeds et épisodes
@@ -1383,6 +2210,7 @@ def build_site():
 
         # Collecter tous les épisodes valides (pour navigation prev/next)
         newest_first = slug in FEEDS_NEWEST_FIRST
+        text_feed = is_text_feed(fdata)
         seasons_iter = list(fdata.get("seasons", []))
         if newest_first:
             seasons_iter = sorted(seasons_iter, key=_season_sort_key, reverse=True)
@@ -1392,8 +2220,15 @@ def build_site():
             if newest_first:
                 episodes = list(reversed(episodes))
             for ep in episodes:
-                if ep.get("duration_seconds", 0) > 0 and ep_stem(ep):
-                    valid_eps.append(ep)
+                stem = ep_stem(ep)
+                if not stem:
+                    continue
+                if text_feed:
+                    if ep.get("word_count", 0) > 0:
+                        valid_eps.append(ep)
+                else:
+                    if ep.get("duration_seconds", 0) > 0:
+                        valid_eps.append(ep)
 
         # Pages épisodes
         for i, ep in enumerate(valid_eps):
@@ -1404,12 +2239,15 @@ def build_site():
             (feed_dir / f"{stem}.html").write_text(page_html, encoding="utf-8")
             total_episodes += 1
 
-            # PDF + EPUB si un article beautifié existe
+            # PDF + EPUB + DOCX si un article beautifié existe
             article = load_article(slug, stem)
             if article:
                 meta = load_metadata(slug, stem)
                 title = meta.get("title_clean", ep.get("title", ""))
-                dur_str = format_duration(ep.get("duration_seconds", 0))
+                if text_feed:
+                    dur_str = format_reading_time(ep.get("reading_minutes", 0))
+                else:
+                    dur_str = format_duration(ep.get("duration_seconds", 0))
                 clean_feed = feed_name.replace("Satipanya — ", "")
                 desc = meta.get("description_long") or ep.get("description_long", "")
                 desc = desc.replace(
@@ -1424,9 +2262,13 @@ def build_site():
                     title, ep.get("speaker", ""), clean_feed, dur_str, article,
                     description=desc,
                 )
+                generate_docx(
+                    feed_dir / f"{stem}.docx",
+                    title, ep.get("speaker", ""), clean_feed, dur_str, article,
+                )
                 total_pdfs += 1
 
-        print(f"  ✓ {slug}/ (index + {len(valid_eps)} episodes, {total_pdfs - prev_pdfs} PDFs + EPUBs)")
+        print(f"  ✓ {slug}/ (index + {len(valid_eps)} episodes, {total_pdfs - prev_pdfs} PDFs/EPUBs/DOCXs)")
         prev_pdfs = total_pdfs
 
     # Search index
@@ -1440,6 +2282,21 @@ def build_site():
     # Search page
     (SITE_DIR / "search.html").write_text(build_search_page(), encoding="utf-8")
     print(f"  ✓ search.html")
+
+    # Topics page
+    topics_index = build_topics_index(catalog)
+    if topics_index:
+        topics_dir = SITE_DIR / "topics"
+        topics_dir.mkdir(exist_ok=True)
+        (SITE_DIR / "topics-index.json").write_text(
+            json.dumps(topics_index, ensure_ascii=False, separators=(",", ":")),
+            encoding="utf-8",
+        )
+        topics_page = build_topics_page(topics_index)
+        if topics_page:
+            (topics_dir / "index.html").write_text(topics_page, encoding="utf-8")
+        topics_size_kb = (SITE_DIR / "topics-index.json").stat().st_size / 1024
+        print(f"  ✓ topics/ ({len(topics_index)} topics, index {topics_size_kb:.0f} KB)")
 
     print(f"\n{'=' * 60}")
     print(f"Site built: {total_episodes} episode pages, {total_pdfs} PDFs, 6 feed pages")
