@@ -788,6 +788,12 @@ def pass_catalog():
         print(f"\n  Merge: {merged_count} existing episodes preserved, "
               f"{new_count} new episodes detected")
 
+    # ── Preserve collections not managed by this script ─────
+    if existing_by_url:
+        for key in old_catalog:
+            if key not in catalog:
+                catalog[key] = old_catalog[key]
+
     # ── Save catalog ─────────────────────────────────────────
     with open(CATALOG_PATH, 'w', encoding='utf-8') as f:
         json.dump(catalog, f, indent=2, ensure_ascii=False)

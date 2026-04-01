@@ -3,3 +3,5 @@ __pycache__/
 *.pyo
 .~lock.*
 transcrire.py
+local_mp3_files/
+firebase-debug.log

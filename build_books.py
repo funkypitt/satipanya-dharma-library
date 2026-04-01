@@ -41,6 +41,7 @@ FEED_ORDER = [
     "bhante-essays",
     "noirin-essays",
     "tips-of-the-day",
+    "retreat-talks",
 ]
 
 FEED_SUBTITLE = {
@@ -54,6 +55,7 @@ FEED_SUBTITLE = {
     "bhante-essays": "Written essays and teachings on Buddhist philosophy and practice",
     "noirin-essays": "Written essays and reflections on practice and ethics",
     "tips-of-the-day": "Short practical tips for integrating mindfulness into daily life",
+    "retreat-talks": "Retreat instruction recordings: guided meditations, evening talks, and special topics",
 }
 
 

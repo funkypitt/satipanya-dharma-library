@@ -41,6 +41,7 @@ TEXT_FEED_ORDER = [
     "bhante-essays",
     "noirin-essays",
     "tips-of-the-day",
+    "retreat-talks",
 ]
 
 FEED_ORDER = AUDIO_FEED_ORDER + TEXT_FEED_ORDER
@@ -59,6 +60,7 @@ FEED_EMOJI = {
     "bhante-essays": "✍️",
     "noirin-essays": "📝",
     "tips-of-the-day": "💡",
+    "retreat-talks": "🏔️",
 }
 
 # ── Utilitaires ────────────────────────────────────────────────
@@ -1312,12 +1314,20 @@ def build_homepage(catalog, selected_talks=None):
         if not fdata:
             continue
         text_feed = is_text_feed(fdata)
+        local_audio = fdata.get("source_type") == "local_audio"
         for season in fdata.get("seasons", []):
             for ep in season.get("episodes", []):
                 stem = ep_stem(ep)
                 if not stem:
                     continue
-                if text_feed:
+                if local_audio:
+                    # Retreat talks: count hours from audio, transcripts from articles
+                    dur = ep.get("duration_seconds", 0)
+                    if dur > 0:
+                        total_hours += dur / 3600
+                    if stem and (ARTICLES_DIR / slug / f"{stem}.txt").exists():
+                        total_articles += 1
+                elif text_feed:
                     if ep.get("word_count", 0) > 0:
                         total_essays += 1
                 else:
@@ -1396,7 +1406,7 @@ def build_homepage(catalog, selected_talks=None):
         <div class="feed-card-body">
           <p>{h(fdata.get('description', ''))}</p>
           <div class="feed-card-meta">
-            <span>{SVG_EPISODES} {ep_count} essays</span>
+            <span>{SVG_EPISODES} {ep_count} {"transcripts" if fdata.get("source_type") == "local_audio" else "essays"}</span>
             {book_links}
           </div>
         </div>
@@ -1532,6 +1542,9 @@ def build_episode_page(slug, ep, prev_ep, next_ep, feed_name):
         time_html = f'<span>{SVG_CLOCK} {format_reading_time(reading_min)}</span>'
         if word_count:
             time_html += f' <span>({word_count:,} words)</span>'
+        # Show original talk duration for local_audio transcripts
+        if ep.get("source_type") == "local_audio" and dur:
+            time_html += f' <span>· Original talk: {format_duration(dur)}</span>'
     else:
         time_html = f'<span>{SVG_CLOCK} {format_duration(dur)}</span>'
 
@@ -1570,9 +1583,9 @@ def build_episode_page(slug, ep, prev_ep, next_ep, feed_name):
         <div class="audio-source">Source: <a href="{h(audio_url)}" target="_blank">satipanya.org.uk</a></div>
       </div>"""
 
-    # Source link for text episodes
+    # Source link for text episodes (skip for local_audio — no external URL)
     source_html = ""
-    if text_ep and audio_url:
+    if text_ep and audio_url and not audio_url.startswith("local://"):
         source_html = f'<p class="original-source">Original source: <a href="{h(audio_url)}" target="_blank">satipanya.org.uk</a></p>'
 
     # Transcript / Full Text

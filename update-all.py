@@ -58,14 +58,18 @@ def main():
 
     # Passes toujours exécutées
     run("Pass 1: Scraping catalog (site + YouTube)", [PYTHON, "podcastify.py", "catalog"])
+    run("Pass 1b: Scanning local retreat files", [PYTHON, "ingest_local.py", "catalog"])
+    run("Pass 1c: Probing local retreat files", [PYTHON, "ingest_local.py", "probe"])
     run("Pass 2: Probing new files", [PYTHON, "podcastify.py", "probe"])
 
     if not quick:
         if not no_gpu:
             run("Pass 3: Transcribing (WhisperX)", [PYTHON, "podcastify.py", "transcribe"])
+            run("Pass 3a: Transcribing retreat files (WhisperX)", [PYTHON, "ingest_local.py", "transcribe"])
         else:
             print("\n  ⏭ Skipping transcription (--no-gpu)")
 
+        run("Pass 3b: Merging retreat catalog", [PYTHON, "ingest_local.py", "merge"])
         run("Pass 4: Generating descriptions", [PYTHON, "podcastify.py", "describe"])
 
     run("Pass 5: Generating feeds", [PYTHON, "podcastify.py", "feeds"])
