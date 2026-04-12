@@ -1,0 +1,1302 @@
+{
+  "guided_meditations/S01E01_Introducing_Vipassana_Insight_Meditation": {
+    "score": 2,
+    "note": "Meditation practice, not about Buddha's awakening"
+  },
+  "guided_meditations/S01E02_Vipassana_Guidelines": {
+    "score": 2,
+    "note": "Meditation instructions, not Buddha's awakening story"
+  },
+  "guided_meditations/S01E03_45_minute_Detailed_Guided_Meditation": {
+    "score": 1,
+    "note": "Guided meditation practice, unrelated to awakening"
+  },
+  "guided_meditations/S01E04_45_minute_Assisted_Meditation": {
+    "score": 1,
+    "note": "Meditation practice, not awakening narrative"
+  },
+  "guided_meditations/S01E05_30_minute_Bodycare_Meditation": {
+    "score": 3,
+    "note": "Mentions Buddha's contemplations that inspired quest"
+  },
+  "guided_meditations/S01E06_30_minute_Heartcare_Meditation": {
+    "score": 1,
+    "note": "Loving-kindness practice, not awakening story"
+  },
+  "guided_meditations/S01E07_Abiding_in_the_Present_Moment_Developing_Equanimity": {
+    "score": 2,
+    "note": "Mentions factors of awakening briefly"
+  },
+  "guided_meditations/S01E08_Just_Metta": {
+    "score": 1,
+    "note": "Loving-kindness meditation, unrelated to awakening"
+  },
+  "guided_meditations/S01E09_Investigative_Eating": {
+    "score": 1,
+    "note": "Mindful eating practice, not awakening"
+  },
+  "guided_meditations/S01E10_Mahasi_Sayadaw_Introductory_Talk": {
+    "score": 3,
+    "note": "Mentions path to awakening in context"
+  },
+  "guided_meditations/S02E01_Why_Chant": {
+    "score": 0,
+    "note": "About chanting practice, unrelated"
+  },
+  "guided_meditations/S02E02_Morning_Chant": {
+    "score": 0,
+    "note": "Traditional chanting, not awakening story"
+  },
+  "guided_meditations/S02E03_Evening_Chant": {
+    "score": 0,
+    "note": "Evening chant practice, unrelated"
+  },
+  "guided_meditations/S02E04_Refuges_and_Precepts": {
+    "score": 0,
+    "note": "Basic liturgy, not awakening narrative"
+  },
+  "guided_meditations/S02E05_Evening_Metta_Chant": {
+    "score": 0,
+    "note": "Loving-kindness chant, unrelated"
+  },
+  "guided_meditations/S02E06_Metta_Discourse": {
+    "score": 0,
+    "note": "Metta Sutta chanting, not awakening"
+  },
+  "dhammabytes/S01E01_01_Views_about_Spiritual_Paths": {
+    "score": 2,
+    "note": "Buddha's teaching approach, not awakening itself"
+  },
+  "dhammabytes/S01E02_02_Discourse_to_the_Kalamas": {
+    "score": 2,
+    "note": "Buddha's teaching method, not awakening story"
+  },
+  "dhammabytes/S01E03_03_Desire_the_Root_of_Suffering": {
+    "score": 2,
+    "note": "Buddha's teaching on suffering, not awakening"
+  },
+  "dhammabytes/S01E04_04_How_to_Test_the_Buddha": {
+    "score": 2,
+    "note": "Testing awakened teachers, not awakening itself"
+  },
+  "dhammabytes/S02E01_01_Introducing_the_Buddha": {
+    "score": 3,
+    "note": "Buddha as Tathagata, mentions going beyond"
+  },
+  "dhammabytes/S02E02_02_The_Birth_of_the_Buddha": {
+    "score": 4,
+    "note": "Birth narrative, precursor to awakening story"
+  },
+  "dhammabytes/S02E03_03_The_Bodhisatta_Leaves_Home": {
+    "score": 6,
+    "note": "Noble search leading toward awakening experience"
+  },
+  "dhammabytes/S02E04_04_The_Essence_of_the_Awakening": {
+    "score": 9,
+    "note": "Directly about Buddha's awakening and dependent origination"
+  },
+  "dhammabytes/S03E01_Anusaya_-_Latent_Tendencies": {
+    "score": 2,
+    "note": "Psychological tendencies, not awakening narrative"
+  },
+  "dhammabytes/S03E02_Asava-Taints_Ogha-Floods_Yoga-Yokes": {
+    "score": 6,
+    "note": "Discusses stages of awakening and liberation from mental taints"
+  },
+  "dhammabytes/S03E03_Buddha": {
+    "score": 8,
+    "note": "Explores Buddha's qualities and three types of awakened beings"
+  },
+  "dhammabytes/S03E04_Dukkha_-_A_Hard_Place": {
+    "score": 5,
+    "note": "Mentions Buddha's existential crisis leading to awakening discovery"
+  },
+  "dhammabytes/S03E05_Hetu_-_The_Unwholesome_Roots": {
+    "score": 3,
+    "note": "Covers roots of suffering but not awakening specifically"
+  },
+  "dhammabytes/S03E06_Panya_-_Wisdom_and_Intuitive_Intelligence": {
+    "score": 4,
+    "note": "Discusses wisdom but not Buddha's awakening specifically"
+  },
+  "dhammabytes/S03E07_Puja_-_Devotional_Attention": {
+    "score": 2,
+    "note": "About devotional practice, minimal awakening connection"
+  },
+  "dhammabytes/S03E08_Samyojana_-_The_first_three_Fetters": {
+    "score": 6,
+    "note": "Discusses stream-entry and stages of awakening progression"
+  },
+  "dhammabytes/S03E09_Samyojana_-_The_last_seven_Fetters": {
+    "score": 6,
+    "note": "Covers four stages of awakening and liberation process"
+  },
+  "dhammabytes/S03E10_Sati_-_Knowing": {
+    "score": 7,
+    "note": "References Buddha's awakening story and vipassana discovery"
+  },
+  "dhammabytes/S03E11_Sati_in_Daily_Life": {
+    "score": 2,
+    "note": "About daily practice, minimal awakening content"
+  },
+  "dhammabytes/S03E12_Sila_-_Good_Conduct": {
+    "score": 2,
+    "note": "About ethical conduct, minimal awakening connection"
+  },
+  "dhammabytes/S04E01_01_Dana_Generosity": {
+    "score": 1,
+    "note": "About generosity practice, unrelated to awakening"
+  },
+  "dhammabytes/S04E02_02_Sila_Virtuous_Conduct": {
+    "score": 1,
+    "note": "About ethical conduct, unrelated to awakening"
+  },
+  "dhammabytes/S04E03_03_Nekkhamma_Renunciation": {
+    "score": 4,
+    "note": "Mentions Buddha's Great Renunciation before awakening"
+  },
+  "dhammabytes/S04E04_04_Panya_Intuitive_Intelligence_and_Wisdom": {
+    "score": 3,
+    "note": "About wisdom development, mentions awakening in passing"
+  },
+  "dhammabytes/S04E05_05_Viriya_Effort": {
+    "score": 2,
+    "note": "About effort in practice, minimal awakening content"
+  },
+  "dhammabytes/S04E06_06_Khanti_Patience": {
+    "score": 1,
+    "note": "About patience practice, unrelated to awakening"
+  },
+  "dhammabytes/S04E07_07_Sacca_Honesty": {
+    "score": 1,
+    "note": "About honesty practice, unrelated to awakening"
+  },
+  "dhammabytes/S04E08_08_Adhitthana_Resolution": {
+    "score": 5,
+    "note": "References Buddha's great resolve under Bodhi tree"
+  },
+  "dhammabytes/S05E01_Metta_-_Love": {
+    "score": 1,
+    "note": "About loving-kindness practice, unrelated to awakening"
+  },
+  "dhammabytes/S05E02_Karuna_-_Compassion": {
+    "score": 1,
+    "note": "About compassion practice, unrelated to awakening"
+  },
+  "dhammabytes/S05E03_Mudita_-_Pure_Joy": {
+    "score": 1,
+    "note": "About sympathetic joy, unrelated to awakening"
+  },
+  "dhammabytes/S05E04_Upekkha_-_Equanimity": {
+    "score": 1,
+    "note": "About equanimity practice, unrelated to awakening"
+  },
+  "dhammabytes/S06E01_Buddha_as_Refuge": {
+    "score": 7,
+    "note": "Explores Buddha's awakened qualities and self-enlightenment"
+  },
+  "dhammabytes/S06E02_Dhamma_as_Refuge": {
+    "score": 3,
+    "note": "About Dhamma qualities, mentions Buddha's teaching evolution"
+  },
+  "dhammabytes/S06E03_Sangha_as_Refuge": {
+    "score": 2,
+    "note": "Mentions noble disciples who attained awakening paths"
+  },
+  "dhammabytes/S07E01_Khandha_The_Aggregates": {
+    "score": 3,
+    "note": "Buddha's teaching method, not specifically about his awakening"
+  },
+  "dhammabytes/S07E02_Rupa_Corporeality": {
+    "score": 2,
+    "note": "Buddha's understanding of body, minimal awakening relevance"
+  },
+  "dhammabytes/S07E03_Vedana_Feeling": {
+    "score": 2,
+    "note": "Buddha's analysis of feelings, not awakening focused"
+  },
+  "dhammabytes/S07E04_Sanya_Perception_Vedana_Feeling": {
+    "score": 2,
+    "note": "Buddha's teaching on aggregates, not awakening specific"
+  },
+  "dhammabytes/S07E05_Sankhara_Volitional_Conditioning": {
+    "score": 3,
+    "note": "Mentions spiritual liberation through understanding mental formations"
+  },
+  "dhammabytes/S07E06_Summing_up": {
+    "score": 4,
+    "note": "Buddha's systematic deconstruction leading to awakening understanding"
+  },
+  "dhammabytes/S08E01_1_Avijja_-_not-knowing": {
+    "score": 4,
+    "note": "Path from ignorance to wisdom, awakening process"
+  },
+  "dhammabytes/S08E02_2_Nama_Rupa_Body_Mind": {
+    "score": 3,
+    "note": "Understanding leading to liberation, awakening elements"
+  },
+  "dhammabytes/S08E03_3_Salayatana_Vedana_Phasa_Six_senses_Contact_Feeling": {
+    "score": 2,
+    "note": "Dependent origination mechanics, not awakening focused"
+  },
+  "dhammabytes/S08E04_4_Tanha_Upadana_Bhava_Craving_Grasping_Becoming": {
+    "score": 3,
+    "note": "Where suffering arises and liberation becomes possible"
+  },
+  "dhammabytes/S08E05_5_paticca_samuppada_dependent_origination_to_samsara": {
+    "score": 3,
+    "note": "Fundamental teaching understanding, awakening context"
+  },
+  "dhammabytes/S08E06_6_Another_model_of_Dependent_Orgination": {
+    "score": 4,
+    "note": "Path from suffering to liberation through insight"
+  },
+  "dhammabytes/S09E01_1_Indulgence": {
+    "score": 7,
+    "note": "Buddha's first discourse after his Awakening"
+  },
+  "dhammabytes/S09E02_2_Self-Mortification": {
+    "score": 6,
+    "note": "Buddha's experience before awakening, spiritual path"
+  },
+  "dhammabytes/S09E03_3_The_First_Noble_Truth_of_Suffering": {
+    "score": 7,
+    "note": "Buddha's first teaching after Awakening"
+  },
+  "dhammabytes/S09E04_4_Second_Noble_TruthThe_Cause_of_Suffering": {
+    "score": 7,
+    "note": "Buddha's awakening teaching on suffering's cause"
+  },
+  "dhammabytes/S09E05_5_The_Third_Noble_TruthThe_End_of_Suffering": {
+    "score": 7,
+    "note": "Buddha's revolutionary liberation teaching from awakening"
+  },
+  "dhammabytes/S09E06_6_The_Fourth_Noble_Truth_The_Eightfold_Path": {
+    "score": 7,
+    "note": "Buddha's awakening teaching on path to liberation"
+  },
+  "dhammabytes/S09E07_7_The_Buddhas_Enlightenment_becomes_universal": {
+    "score": 9,
+    "note": "Buddha's enlightenment becoming universal through first teaching"
+  },
+  "dhammabytes/S10E01_1_Not-self_-_Control": {
+    "score": 6,
+    "note": "Buddha's second discourse after awakening on anatta"
+  },
+  "dhammabytes/S10E02_2_Not-self_-_Impermanence_and_Suffering": {
+    "score": 6,
+    "note": "Buddha's awakening teaching on not-self"
+  },
+  "dhammabytes/S10E03_3_Not-self_-_Recap_and_Metaphors": {
+    "score": 6,
+    "note": "Buddha's second discourse on awakening insight"
+  },
+  "dhammabytes/S11E01_01_Sickness_Ageing_and_Death": {
+    "score": 4,
+    "note": "Buddha's teaching because he discovered way beyond suffering"
+  },
+  "dhammabytes/S11E02_02_Divine_Messengers": {
+    "score": 5,
+    "note": "Parallels to Buddha's own awakening story"
+  },
+  "dhammabytes/S11E03_03_The_Two_Darts": {
+    "score": 2,
+    "note": "General teaching on suffering, not Buddha's awakening"
+  },
+  "dhammabytes/S11E04_04_The_Eight_Worldy_Conditions": {
+    "score": 2,
+    "note": "General teaching on worldly conditions, not awakening"
+  },
+  "dhammabytes/S11E05_05_Clinging_causes_Anxiety_plus": {
+    "score": 2,
+    "note": "Teaching on clinging and anxiety, not awakening"
+  },
+  "dhammabytes/S11E06_06_Mahakassapa_Explains_the_Cause_of_Conflict": {
+    "score": 1,
+    "note": "Mahakassapa's teaching, not Buddha's awakening"
+  },
+  "dhammabytes/S11E07_07_Envy_and_Niggardliness_the_Cause_of_Conflict": {
+    "score": 2,
+    "note": "Teaching on dependent origination, mentions awakening concepts"
+  },
+  "dhammabytes/S11E08_08_Detailed_Sequence_Leading_to_Conflict": {
+    "score": 2,
+    "note": "Teaching on dependent origination, mentions awakening concepts"
+  },
+  "dhammabytes/S11E09_09_Power": {
+    "score": 3,
+    "note": "Mentions Buddha's temptations, relates to awakening"
+  },
+  "dhammabytes/S11E10_10_Samsara_Onward_Going": {
+    "score": 2,
+    "note": "Teaching on samsara and liberation, not awakening"
+  },
+  "dhammabytes/S11E11_11_Rounds_of_Becoming": {
+    "score": 2,
+    "note": "Teaching on samsara cycles, not awakening"
+  },
+  "dhammabytes/S11E12_12_Short_Review_of_the_Human_Condition": {
+    "score": 1,
+    "note": "Review of human condition, not awakening"
+  },
+  "dhammabytes/S12E01_1_Righteous_Governement_and_Righteous_Ruler": {
+    "score": 1,
+    "note": "Teaching on governance, not awakening"
+  },
+  "dhammabytes/S12E02_2_The_Ruler": {
+    "score": 1,
+    "note": "Teaching on governance, not awakening"
+  },
+  "dhammabytes/S12E03_3_The_Six_Directions_Ritual_as_useless_or_meaningful": {
+    "score": 1,
+    "note": "Teaching on ritual transformation, not awakening"
+  },
+  "dhammabytes/S12E04_4_Parents_and_Chidren": {
+    "score": 0,
+    "note": "Family relationships, unrelated to awakening"
+  },
+  "dhammabytes/S12E05_5_Husbands_and_Wives": {
+    "score": 0,
+    "note": "Marriage guidance, unrelated to awakening"
+  },
+  "dhammabytes/S12E06_6_What_makes_for_a_Good_Life": {
+    "score": 0,
+    "note": "Lay life guidance, unrelated to awakening"
+  },
+  "dhammabytes/S12E07_7_Use_of_wealth_for_Happiness": {
+    "score": 0,
+    "note": "Wealth guidance, unrelated to awakening"
+  },
+  "dhammabytes/S12E08_8_Virtues_of_a_Good_Spouse": {
+    "score": 0,
+    "note": "Relationship guidance, unrelated to awakening"
+  },
+  "foundation_course/S01E01_The_First_Noble_Truth_-_Dukkha_Dukkha": {
+    "score": 4,
+    "note": "Mentions Prince Siddhattha's renunciation leading to awakening"
+  },
+  "foundation_course/S01E02_The_First_Noble_Truth_-_Conditioned_States": {
+    "score": 2,
+    "note": "Teaching on aggregates, foundational to awakening"
+  },
+  "foundation_course/S01E03_The_First_Noble_Truth_-_The_Three_Characteristics": {
+    "score": 3,
+    "note": "Buddha's second discourse to first disciples"
+  },
+  "foundation_course/S01E04_The_Second_Noble_Truth_-_The_Cause_of_Suffering_-_Desire": {
+    "score": 3,
+    "note": "Core awakening teaching from Dhammacakkappavattana Sutta"
+  },
+  "foundation_course/S01E05_The_Second_Noble_Truth_-_The_Wheel_of_Dependent_Origination": {
+    "score": 3,
+    "note": "Central teaching encompassing Buddha's awakening insights"
+  },
+  "foundation_course/S01E06_The_Second_Noble_Truth_-_Kamma": {
+    "score": 2,
+    "note": "Teaching on kamma within Four Noble Truths"
+  },
+  "foundation_course/S01E07_The_Fourth_Noble_Truth_-_Morality_-_Sila": {
+    "score": 3,
+    "note": "Noble Eightfold Path from Dhammacakkappavattana Sutta"
+  },
+  "foundation_course/S01E08_The_Fourth_Noble_Truth_-_Positive_Morality_-_Parami": {
+    "score": 2,
+    "note": "Discusses path to liberation, not Buddha's awakening specifically"
+  },
+  "foundation_course/S01E09_The_Fourth_Noble_Truth_-_Right_Understanding": {
+    "score": 4,
+    "note": "Covers path toward awakening, mentions Buddha's second discourse"
+  },
+  "foundation_course/S01E10_The_Fourth_Noble_Truth_-_Mental_Development_-_Samadhi": {
+    "score": 3,
+    "note": "Discusses meditation practice leading to awakening generally"
+  },
+  "foundation_course/S02E01_Moods_Emotions_and_Feelings": {
+    "score": 2,
+    "note": "References Buddha's teaching but focuses on emotional patterns"
+  },
+  "foundation_course/S02E02_Guilt_-_Real_and_Unreal": {
+    "score": 1,
+    "note": "About guilt in practice, minimal Buddha awakening content"
+  },
+  "foundation_course/S02E03_The_End_of_Guilt": {
+    "score": 1,
+    "note": "Focuses on handling guilt, not Buddha's awakening"
+  },
+  "foundation_course/S02E04_Right_Intention": {
+    "score": 3,
+    "note": "Discusses Buddha's discourse on thinking, path elements"
+  },
+  "foundation_course/S02E05_The_Divine_Abodes": {
+    "score": 2,
+    "note": "About awakened mind qualities, not awakening process"
+  },
+  "foundation_course/S02E06_Faith_or_Belief": {
+    "score": 2,
+    "note": "Discusses Buddha's teaching approach, not awakening event"
+  },
+  "foundation_course/S02E07_Wheel_of_Dependent_Origination": {
+    "score": 4,
+    "note": "Covers Buddha's profound insight into causation and liberation"
+  },
+  "foundation_course/S02E08_Kamma": {
+    "score": 2,
+    "note": "Buddha's teaching on karma, not awakening story"
+  },
+  "foundation_course/S02E09_The_Sangha": {
+    "score": 1,
+    "note": "About community structure, not Buddha's awakening"
+  },
+  "foundation_course/S02E10_The_Four_Paths_and_the_Four_Fruits": {
+    "score": 3,
+    "note": "Discusses stages of awakening, not Buddha's specific awakening"
+  },
+  "foundation_course/S02E11_The_Noble_Silence": {
+    "score": 3,
+    "note": "Covers intensive practice conditions for insight development"
+  },
+  "dharma_talks/S01E01_Why_Meditate": {
+    "score": 6,
+    "note": "Explores Buddha's spiritual journey from jhana to vipassana"
+  },
+  "dharma_talks/S01E02_The_Mahasi_Method": {
+    "score": 2,
+    "note": "About meditation method, not Buddha's awakening"
+  },
+  "dharma_talks/S01E03_Starting_a_Personal_Retreat": {
+    "score": 2,
+    "note": "Retreat guidance, minimal Buddha awakening content"
+  },
+  "dharma_talks/S01E04_Faith": {
+    "score": 1,
+    "note": "About faith as spiritual faculty, not awakening"
+  },
+  "dharma_talks/S01E05_Ritual_in_Spiritual_Practice": {
+    "score": 2,
+    "note": "Buddha's approach to ritual, not awakening story"
+  },
+  "dharma_talks/S01E06_Is_Awareness_Enough": {
+    "score": 4,
+    "note": "References Buddha's journey and awakening factors"
+  },
+  "dharma_talks/S01E07_Developing_the_Spiritual_Faculties": {
+    "score": 3,
+    "note": "Covers factors supporting insight development and awakening"
+  },
+  "dharma_talks/S01E08_Spiritual_Faculties_and_Factors_of_Enlightenment": {
+    "score": 3,
+    "note": "Discusses factors of awakening and spiritual development"
+  },
+  "dharma_talks/S01E09_The_Hindrances": {
+    "score": 2,
+    "note": "About meditation obstacles, not Buddha's awakening"
+  },
+  "dharma_talks/S01E10_The_Buddha_and_the_Hindrances": {
+    "score": 7,
+    "note": "Buddha's awakening journey from pleasure through asceticism"
+  },
+  "dharma_talks/S01E11_Dullness_Lethargy_Restlessness_and_Pain": {
+    "score": 2,
+    "note": "Practical meditation guidance, mentions Buddha encountering Mara"
+  },
+  "dharma_talks/S01E12_Eroticism_Romance_Love_Distraction_and_Boredom": {
+    "score": 3,
+    "note": "Mentions Buddha's journey from sensual indulgence to awakening"
+  },
+  "dharma_talks/S01E13_The_Ten_Fetters": {
+    "score": 6,
+    "note": "Discusses four stages of awakening and liberation process"
+  },
+  "dharma_talks/S01E14_Vedana_Feeling": {
+    "score": 2,
+    "note": "Buddhist psychology topic, minimal awakening content"
+  },
+  "dharma_talks/S01E15_Fear": {
+    "score": 1,
+    "note": "General meditation practice, no awakening focus"
+  },
+  "dharma_talks/S01E16_Foregiveness": {
+    "score": 2,
+    "note": "Uses dependent origination but not awakening-focused"
+  },
+  "dharma_talks/S01E17_The_Illimitables": {
+    "score": 2,
+    "note": "Heart practices complementing insight, not awakening-specific"
+  },
+  "dharma_talks/S01E18_The_Perfections_Turned_Inward": {
+    "score": 3,
+    "note": "Mentions Bodhisattva's cultivation over lifetimes"
+  },
+  "dharma_talks/S02E01_Survey_of_Theravada_Buddhism": {
+    "score": 7,
+    "note": "Maps entire Theravada journey to awakening"
+  },
+  "dharma_talks/S02E02_Impermanence_and_Not-self": {
+    "score": 4,
+    "note": "Covers characteristics of existence, some awakening elements"
+  },
+  "dharma_talks/S02E03_Ethical_Behaviour_and_the_Awakening_are_one": {
+    "score": 8,
+    "note": "Directly explores unity of wisdom and virtue in awakening"
+  },
+  "dharma_talks/S02E04_Wheel_of_Dependent_Origination": {
+    "score": 5,
+    "note": "Core teaching for liberation but not awakening-specific"
+  },
+  "dharma_talks/S02E05_Free_Will": {
+    "score": 3,
+    "note": "Mentions Buddha's insight but focuses on philosophical problem"
+  },
+  "dharma_talks/S02E06_Kamma": {
+    "score": 2,
+    "note": "Buddhist doctrine explanation, minimal awakening content"
+  },
+  "dharma_talks/S02E07_Rebirth": {
+    "score": 2,
+    "note": "Buddhist cosmology, not awakening-focused"
+  },
+  "dharma_talks/S02E08_Premodern_Modern_Postmodernism_And_Buddhism": {
+    "score": 3,
+    "note": "Examines whether enlightenment possible in different worldviews"
+  },
+  "dharma_talks/S02E09_The_Buddha_as_Exemplar_and_Archetype": {
+    "score": 8,
+    "note": "Buddha's life as template including final awakening"
+  },
+  "dharma_talks/S02E10_Buddhist_View_of_Christs_Teaching": {
+    "score": 1,
+    "note": "Comparative religion, not Buddha's awakening"
+  },
+  "dharma_talks/S02E11_Just_War": {
+    "score": 1,
+    "note": "Ethics and conflict, no awakening content"
+  },
+  "dharma_talks/S02E12_The_Gratification_the_Danger_and_the_Escape": {
+    "score": 6,
+    "note": "Buddha's framework essential to his awakening"
+  },
+  "dharma_talks/S03E01_Bodhisatta_Before_Taking_Human_Birth": {
+    "score": 4,
+    "note": "Pre-birth stories as spiritual archetype"
+  },
+  "dharma_talks/S03E02_Bodhisattas_Birth_to_Renunciation": {
+    "score": 5,
+    "note": "Buddha's early life leading toward awakening"
+  },
+  "dharma_talks/S03E03_Bodhisattas_Training_to_the_Awakening": {
+    "score": 8,
+    "note": "Buddha's spiritual journey culminating in awakening"
+  },
+  "dharma_talks/S03E04_The_Awakening": {
+    "score": 10,
+    "note": "Directly explores Buddha's awakening experience and insights"
+  },
+  "dharma_talks/S03E05_The_Years_of_Teaching_and_Parinibbana": {
+    "score": 4,
+    "note": "Post-awakening period and Buddha's final passing"
+  },
+  "dharma_talks/S04E01_Meditation_and_Daily_Life": {
+    "score": 2,
+    "note": "Meditation practice integration, not awakening-focused"
+  },
+  "dharma_talks/S04E02_Meditation_and_the_Weekly_Group": {
+    "score": 2,
+    "note": "General meditation instruction, no specific awakening focus"
+  },
+  "dharma_talks/S04E03_The_Eightfold_Path_and_Daily_Life": {
+    "score": 3,
+    "note": "Mentions awakening path but focuses on daily practice"
+  },
+  "dharma_talks/S04E04_Right_Livelihood": {
+    "score": 2,
+    "note": "Eightfold Path component but not awakening-specific"
+  },
+  "dharma_talks/S05E01_1_Starting_a_Retreat": {
+    "score": 2,
+    "note": "Retreat opening, general meditation instruction"
+  },
+  "dharma_talks/S05E02_Starting_a_Retreat": {
+    "score": 2,
+    "note": "Basic vipassana instruction, not awakening-focused"
+  },
+  "dharma_talks/S05E03_A_Detailed_Guided_Meditation": {
+    "score": 3,
+    "note": "Mentions insight into three characteristics"
+  },
+  "dharma_talks/S05E04_Investigative_Eating_Meditation_-_an_explanation": {
+    "score": 4,
+    "note": "References Buddha's approach but focuses on eating meditation"
+  },
+  "dharma_talks/S05E05_2_The_Mahasi_Technique": {
+    "score": 4,
+    "note": "References Buddha's journey but focuses on technique"
+  },
+  "dharma_talks/S05E06_Basics_of_Insight_Meditation_02_2025Video": {
+    "score": 8,
+    "note": "Buddha's journey from departure to breakthrough under Bodhi tree"
+  },
+  "dharma_talks/S05E07_Basics_of_Insight_Meditation_04_2026Video": {
+    "score": 8,
+    "note": "Buddha's childhood memory discovery that led to awakening"
+  },
+  "dharma_talks/S05E08_4_The_Hindrances_The_Psychotherapy_of_Vipassana": {
+    "score": 3,
+    "note": "General meditation obstacles, not awakening-specific"
+  },
+  "dharma_talks/S05E09_5_Right_Awareness_Introto_Vipassana": {
+    "score": 9,
+    "note": "Buddha's complete journey from crisis to awakening"
+  },
+  "dharma_talks/S05E10_6_The_Seven_Factors_of_Awakening": {
+    "score": 7,
+    "note": "Seven factors directly related to awakening process"
+  },
+  "dharma_talks/S05E11_7_The_Ethical_Psychology_of_the_Buddha_Dependent_Origination": {
+    "score": 4,
+    "note": "Buddha's psychology but focuses on dependent origination"
+  },
+  "dharma_talks/S05E12_8_The_Law_of_Kamma": {
+    "score": 3,
+    "note": "Buddha's teaching but focuses on karma doctrine"
+  },
+  "dharma_talks/S05E13_8_Living_Life_according_to_the_Dhamma": {
+    "score": 2,
+    "note": "Daily life application, not awakening-focused"
+  },
+  "dharma_talks/S05E14_Guided_Metta": {
+    "score": 1,
+    "note": "Loving-kindness meditation, unrelated to awakening"
+  },
+  "dharma_talks/S05E15_Guided_Bodycare": {
+    "score": 3,
+    "note": "References Buddha's contemplations that inspired spiritual search"
+  },
+  "dharma_talks/S06E01_Developing_the_Factors_of_Enlightenment": {
+    "score": 7,
+    "note": "Direct focus on seven factors of awakening"
+  },
+  "dharma_talks/S06E02_Exploring_Dukkha": {
+    "score": 3,
+    "note": "Buddha's core teaching but focuses on suffering"
+  },
+  "dharma_talks/S06E03_Question_Answer_Session": {
+    "score": 1,
+    "note": "General Q&A, no awakening focus"
+  },
+  "dharma_talks/S06E04_Revising_the_Principles_of_Meditation": {
+    "score": 6,
+    "note": "Buddha's meditation journey to awakening discovery"
+  },
+  "dharma_talks/S06E05_The_Hindrances": {
+    "score": 4,
+    "note": "References Buddha's awakening but focuses on hindrances"
+  },
+  "dharma_talks/S07E01_Practice_into_Daily_Life_Xmas_2006": {
+    "score": 2,
+    "note": "Daily life integration, not awakening-specific"
+  },
+  "dharma_talks/S07E02_New_Year_Reflections": {
+    "score": 2,
+    "note": "Spiritual guidelines, mentions Buddha but not awakening"
+  },
+  "dharma_talks/S08E01_QA_Resistance_Rebirth_and_Moral_Justice_What_suffers_Mindfulness_Apps_Spiritual": {
+    "score": 2,
+    "note": "Q&A mentions Buddha-nature but not Buddha's awakening specifically"
+  },
+  "dharma_talks/S09E01_01_The_Body_-_The_Buddhas_World_View_and_the_role_of_Materiality_rupaTo_play_the": {
+    "score": 3,
+    "note": "Discusses Buddha's analysis methods but not awakening event"
+  },
+  "dharma_talks/S09E02_02_The_Body_-_Kayagasati_Sutta_MN131To_play_the_media_you_will_need_to_either_up": {
+    "score": 2,
+    "note": "Body meditation teachings but not awakening narrative"
+  },
+  "dharma_talks/S09E03_Feeling_vedanaTo_play_the_media_you_will_need_to_either_update_your_browser_to_a": {
+    "score": 2,
+    "note": "Explores aggregates but not Buddha's awakening specifically"
+  },
+  "dharma_talks/S09E04_Dependent_Origination_leading_to_awakening_in_ordinary_Daily_lifeTo_play_the_med": {
+    "score": 4,
+    "note": "Dependent origination leading to awakening in daily life"
+  },
+  "dharma_talks/S09E05_To_play_the_media_you_will_need_to_either_update_your_browser_to_a_recent_versio": {
+    "score": 7,
+    "note": "Buddha's journey to awakening under Bodhi tree featured"
+  },
+  "dharma_talks/S09E06_To_play_the_media_you_will_need_to_either_update_your_browser_to_a_recent_versio": {
+    "score": 2,
+    "note": "Supreme blessings teaching but not awakening narrative"
+  },
+  "dharma_talks/S09E07_Ethics_Not-self_and_LiberationTo_play_the_media_you_will_need_to_either_update_y": {
+    "score": 5,
+    "note": "Buddha's three knowledges at awakening mentioned prominently"
+  },
+  "dharma_talks/S09E08_Roads_to_PowerTo_play_the_media_you_will_need_to_either_update_your_browser_to_a": {
+    "score": 3,
+    "note": "37 factors leading to awakening but not Buddha's"
+  },
+  "dharma_talks/S09E09_New_Year_address_on_the_qualities_needed_to_succeed_The_Roads_to_SuccessTo_play": {
+    "score": 3,
+    "note": "37 factors of enlightenment but not Buddha's awakening"
+  },
+  "dharma_talks/S09E10_The_First_Discourse_on_Turning_the_Wheel_of_the_DhammaTo_play_the_media_you_will": {
+    "score": 6,
+    "note": "Buddha's first discourse after awakening with context"
+  },
+  "dharma_talks/S09E11_Scientism_Romanticism_Psychotherapy_-_and_BuddhadhammaTo_play_the_media_you_wi": {
+    "score": 2,
+    "note": "Cultural Buddhism analysis but not awakening narrative"
+  },
+  "dharma_talks/S09E12_Kamma_Rebirth_and_Transcendence_A_top_down_view_of_the_BuddhadhammaTo_play_the": {
+    "score": 3,
+    "note": "Transcendence perspective but not Buddha's awakening story"
+  },
+  "dharma_talks/S09E13_The_Discourse_to_the_Kalama_Discernment_the_Ethical_Life_and_Fake_NewsTo_play_t": {
+    "score": 1,
+    "note": "Kalama Sutta on discernment unrelated to awakening"
+  },
+  "dharma_talks/S10E01_Buddha_Day_Address_What_was_the_mindset_of_the_Bodhisatta_when_he_left_his_famil": {
+    "score": 8,
+    "note": "Bodhisatta's mindset and journey to awakening extensively covered"
+  },
+  "dharma_talks/S10E02_Spiritual_progress_-_stop_tryingTo_play_the_media_you_will_need_to_either_update": {
+    "score": 2,
+    "note": "Spiritual seeking paradox but not Buddha's awakening"
+  },
+  "dharma_talks/S10E04_The_Need_for_Sangha_community_and_Qs_about_Ordinary_Daily_LifeTo_play_the_media": {
+    "score": 1,
+    "note": "Sangha community focus unrelated to awakening"
+  },
+  "dharma_talks/S11E01_Mae_Chee_Kaew_and_ResolutionsTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 2,
+    "note": "Mae Chee Kaew's awakening but not Buddha's"
+  },
+  "dharma_talks/S11E02_The_Three_CharacteristicsTo_play_the_media_you_will_need_to_either_update_your_b": {
+    "score": 2,
+    "note": "Three characteristics foundation but not awakening narrative"
+  },
+  "dharma_talks/S11E03_Buddha_Day_Address_May_2015To_play_the_media_you_will_need_to_either_update_your": {
+    "score": 7,
+    "note": "Buddha's journey and breakthrough under Bodhi tree"
+  },
+  "dharma_talks/S11E04_DeconstructionTo_play_the_media_you_will_need_to_either_update_your_browser_to_a": {
+    "score": 2,
+    "note": "Buddha's analytical methods but not awakening story"
+  },
+  "dharma_talks/S11E05_Love_and_All_ThatTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 1,
+    "note": "Ten perfections and love unrelated to awakening"
+  },
+  "dharma_talks/S11E06_Ethics_Not-self_and_LiberationTo_play_the_media_you_will_need_to_either_update_y": {
+    "score": 4,
+    "note": "Buddha's three knowledges from awakening night mentioned"
+  },
+  "dharma_talks/S12E01_Contol_and_loss_of_PowerTo_play_the_media_you_will_need_to_either_update_your_br": {
+    "score": 5,
+    "note": "Buddha's spiritual journey from control to liberation"
+  },
+  "dharma_talks/S12E02_QA_Detachment_Engagement_Motivation_DevotionTo_play_the_media_you_will_need_to_e": {
+    "score": 1,
+    "note": "Practice balance Q&A unrelated to awakening"
+  },
+  "dharma_talks/S12E03_Basics_for_MeditationTo_play_the_media_you_will_need_to_either_update_your_brows": {
+    "score": 8,
+    "note": "Explores Buddha's path from asceticism to awakening breakthrough"
+  },
+  "dharma_talks/S12E04_Kamma_RevisitedTo_play_the_media_you_will_need_to_either_update_your_browser_to": {
+    "score": 2,
+    "note": "Focuses on kamma teaching, minimal awakening content"
+  },
+  "dharma_talks/S12E05_Daily_Life_ReinforcedTo_play_the_media_you_will_need_to_either_update_your_brows": {
+    "score": 3,
+    "note": "Mentions Buddha's approach but focuses on daily practice"
+  },
+  "dharma_talks/S12E06_RefinementSublimation_and_the_Eightfold_PathTo_play_the_media_you_will_need_to_e": {
+    "score": 2,
+    "note": "About ethical conduct and wisdom, not awakening specifically"
+  },
+  "dharma_talks/S12E07_No_Inherent_BeingTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 3,
+    "note": "Discusses fundamental insights but not awakening story itself"
+  },
+  "dharma_talks/S12E08_Kamma_and_Free_WillTo_play_the_media_you_will_need_to_either_update_your_browser": {
+    "score": 2,
+    "note": "Contrasts Buddha's approach but focuses on ethics"
+  },
+  "dharma_talks/S12E09_Comments_on_a_Statement_by_Mae_Chee_KaewTo_play_the_media_you_will_need_to_eithe": {
+    "score": 4,
+    "note": "Explores liberation insights but through another teacher's statement"
+  },
+  "dharma_talks/S12E10_Reiki_10_06_2015To_play_the_media_you_will_need_to_either_update_your_browser_to": {
+    "score": 0,
+    "note": "Reiki practice session, unrelated to Buddha's awakening"
+  },
+  "dharma_talks/S12E11_Intro_Talk_to_BodycareTo_play_the_media_you_will_need_to_either_update_your_brow": {
+    "score": 7,
+    "note": "Buddha's journey to awakening and revolutionary insight"
+  },
+  "dharma_talks/S12E12_Dependent_Origination_and_the_Quality_of_Right_AwarenessTo_play_the_media_you_wi": {
+    "score": 3,
+    "note": "Dependent origination teaching, mentions awakening insights briefly"
+  },
+  "dharma_talks/S12E13_Talk_at_the_Re-opening_of_the_Golden_Buddha_Centre_in_TotnesTo_play_the_media_yo": {
+    "score": 6,
+    "note": "Buddha's spiritual journey and crucial insight into suffering"
+  },
+  "dharma_talks/S12E14_The_Prognosis_is_Very_GoodTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 4,
+    "note": "Buddha's insight into desire psychology, Four Noble Truths"
+  },
+  "dharma_talks/S13E01_Importance_of_Resolution_plusTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 2,
+    "note": "Buddhist psychology and dependent origination, not awakening focus"
+  },
+  "dharma_talks/S13E02_Christmas_Talk_re_the_PathTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 1,
+    "note": "Christmas goodwill and ethics, minimal awakening content"
+  },
+  "dharma_talks/S13E03_Right_RelationshipTo_play_the_media_you_will_need_to_either_update_your_browser": {
+    "score": 2,
+    "note": "Ten paramis and relationships, not awakening story"
+  },
+  "dharma_talks/S13E04_How_to_critique_the_Dhamma_and_BuddhaTo_play_the_media_you_will_need_to_either_u": {
+    "score": 2,
+    "note": "Kalama Sutta and inquiry method, not awakening narrative"
+  },
+  "dharma_talks/S13E05_An_Attempt_to_Understand_the_teaching_of_Not-SelfTo_play_the_media_you_will_need": {
+    "score": 3,
+    "note": "Not-self teaching from second discourse, awakening context minimal"
+  },
+  "dharma_talks/S13E06_Talk_to_the_European_Teachers_Meeting_How_I_came_to_establish_a_non-communityTo": {
+    "score": 0,
+    "note": "Personal story about establishing meditation center"
+  },
+  "dharma_talks/S14E01_HappinessTo_play_the_media_you_will_need_to_either_update_your_browser_to_a_rece": {
+    "score": 2,
+    "note": "Buddha's understanding of happiness, not awakening story"
+  },
+  "dharma_talks/S14E02_The_Body_and_the_Discourse_on_How_to_Establish_Right_AwarenessTo_play_the_media": {
+    "score": 5,
+    "note": "Buddha's pre-awakening experiences and revolutionary insight mentioned"
+  },
+  "dharma_talks/S14E03_QA_session_Family_Distractions_Selfish_to_Meditate_Negative_Emotions_Sufferin": {
+    "score": 1,
+    "note": "Practical meditation questions, not awakening focused"
+  },
+  "dharma_talks/S14E04_Mindfulness_TimeTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 2,
+    "note": "Right Awareness and Four Noble Truths, minimal awakening"
+  },
+  "dharma_talks/S14E05_Monks_Daily_Life_Not-SelfTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 1,
+    "note": "Monastic life and not-self, not awakening story"
+  },
+  "dharma_talks/S14E06_Retreats_Attachment_Children_and_SufferingTo_play_the_media_you_will_need_to_e": {
+    "score": 1,
+    "note": "Retreat practice and attachment, not awakening narrative"
+  },
+  "dharma_talks/S15E01_New_Year_Revision_of_Buddhadhamma_Theory_and_PracticeTo_play_the_media_you_will": {
+    "score": 2,
+    "note": "Buddha's analysis of suffering, not awakening story"
+  },
+  "dharma_talks/S15E02_Hope_to_InspireTo_play_the_media_you_will_need_to_either_update_your_browser_to": {
+    "score": 7,
+    "note": "Seven factors of awakening central to Buddha's enlightenment"
+  },
+  "dharma_talks/S15E03_Talk_at_Opening_of_centre_in_GhentTo_play_the_media_you_will_need_to_either_upda": {
+    "score": 2,
+    "note": "Community focus, minimal awakening content"
+  },
+  "dharma_talks/S15E04_The_Problem_of_IdentityTo_play_the_media_you_will_need_to_either_update_your_bro": {
+    "score": 4,
+    "note": "Identity dissolution relevant but not specifically Buddha's awakening"
+  },
+  "dharma_talks/S15E05_The_body_as_Meditative_ObjectTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 5,
+    "note": "Buddha's journey from asceticism to Middle Way mentioned"
+  },
+  "dharma_talks/S16E01_1_Starting_a_RetreatTo_play_the_media_you_will_need_to_either_update_your_browse": {
+    "score": 1,
+    "note": "Retreat logistics, no awakening content"
+  },
+  "dharma_talks/S16E02_The_Principles_and_Problems_of_VipassanaTo_play_the_media_you_will_need_to_eithe": {
+    "score": 3,
+    "note": "General vipassana principles, minimal awakening focus"
+  },
+  "dharma_talks/S16E03_Not-Self_Indulgence_and_allTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 6,
+    "note": "Three knowledges from Buddha's awakening explicitly mentioned"
+  },
+  "dharma_talks/S16E04_Impulsive_or_SpontaneousTo_play_the_media_you_will_need_to_either_update_your_br": {
+    "score": 2,
+    "note": "Action types discussion, minimal awakening relevance"
+  },
+  "dharma_talks/S16E05_The_Body_and_the_Three_CharacteristicsTo_play_the_media_you_will_need_to_either": {
+    "score": 5,
+    "note": "Buddha's evolving relationship with body through spiritual journey"
+  },
+  "dharma_talks/S16E06_Why_noting_without_stopTo_play_the_media_you_will_need_to_either_update_your_bro": {
+    "score": 2,
+    "note": "Meditation technique focus, not awakening specific"
+  },
+  "dharma_talks/S16E07_Why_we_need_a_techniqueTo_play_the_media_you_will_need_to_either_update_your_bro": {
+    "score": 2,
+    "note": "Meditation methods discussion, minimal awakening content"
+  },
+  "dharma_talks/S16E08_Subliminal_Inclinations_Defilements_and_HindrancesTo_play_the_media_you_will_nee": {
+    "score": 3,
+    "note": "Mental purification relevant but not awakening specific"
+  },
+  "dharma_talks/S16E09_Questions_and_Answers_A_Dolly_MixtureTo_play_the_media_you_will_need_to_either_u": {
+    "score": 1,
+    "note": "General Q&A session, no awakening focus"
+  },
+  "dharma_talks/S16E10_Importance_of_Metta_24_minTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 2,
+    "note": "Loving-kindness practice, minimal awakening relevance"
+  },
+  "dharma_talks/S16E11_The_Kamma_of_LiberationTo_play_the_media_you_will_need_to_either_update_your_bro": {
+    "score": 4,
+    "note": "Liberation principles relevant but not Buddha's specific awakening"
+  },
+  "dharma_talks/S16E12_The_Karma_Concerning_LiberationTo_play_the_media_you_will_need_to_either_update": {
+    "score": 4,
+    "note": "Dependent origination and liberation, general awakening principles"
+  },
+  "dharma_talks/S17E01_Dignity_and_the_Qualities_of_a_RulerTo_play_the_media_you_will_need_to_either_up": {
+    "score": 1,
+    "note": "Royal virtues discussion, no awakening content"
+  },
+  "dharma_talks/S17E02_Practice_in_Ordinary_Daily_LifeTo_play_the_media_you_will_need_to_either_update": {
+    "score": 3,
+    "note": "Buddhist psychology and insight, general awakening principles"
+  },
+  "dharma_talks/S17E03_Samatha-VipassanaTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 8,
+    "note": "Buddha's spiritual journey and meditation development detailed"
+  },
+  "dharma_talks/S17E04_Vipassana_and_or_TherapyTo_play_the_media_you_will_need_to_either_update_your_br": {
+    "score": 3,
+    "note": "Buddhist psychology framework, general liberation principles"
+  },
+  "dharma_talks/S17E05_Buddha_Day_Address_with_Refuges_and_PreceptsTo_play_the_media_you_will_need_to_e": {
+    "score": 9,
+    "note": "Buddha's complete awakening journey from prince to enlightenment"
+  },
+  "dharma_talks/S17E06_Daily_Rythms_Fetters_Hindrances_and_Inclinations_RebirthTo_play_the_media_you_wi": {
+    "score": 2,
+    "note": "Practice guidance and mental categories, minimal awakening focus"
+  },
+  "dharma_talks/S17E07_Metta_Applied_and_Sustained_Thought_BuddhamindTo_play_the_media_you_will_need_to": {
+    "score": 3,
+    "note": "Meditation states and qualities, some awakening relevance"
+  },
+  "dharma_talks/S17E08_Equanimity_-_Foundation_of_all_VirtueTo_play_the_media_you_will_need_to_either_u": {
+    "score": 4,
+    "note": "Awakening factors mentioned, equanimity in spiritual development"
+  },
+  "dharma_talks/S17E09_The_Mahasi_MethodTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 2,
+    "note": "Meditation technique focus, minimal awakening content"
+  },
+  "dharma_talks/S17E10_The_Sufferings_of_the_Pleasure_SyndromeTo_play_the_media_you_will_need_to_either": {
+    "score": 2,
+    "note": "Discusses hindrances but not Buddha's awakening specifically"
+  },
+  "dharma_talks/S17E11_There_is_no_separation_between_vipassana_and_ordinary_daily_lifeTo_play_the_medi": {
+    "score": 6,
+    "note": "Buddha's life as archetype, awakening to re-engagement"
+  },
+  "dharma_talks/S17E12_Q_A_Rebirth_Identification_Emotions_etcTo_play_the_media_you_will_need_to_eithe": {
+    "score": 1,
+    "note": "Q&A on various topics, minimal awakening content"
+  },
+  "dharma_talks/S17E13_Why_didnt_the_Buddha_return_to_lay_lifeTo_play_the_media_you_will_need_to_either": {
+    "score": 5,
+    "note": "Discusses Buddha's post-awakening choices and monastic life"
+  },
+  "dharma_talks/S17E14_Revising_the_principles_of_vipassanaTo_play_the_media_you_will_need_to_either_up": {
+    "score": 2,
+    "note": "Vipassana principles, not specifically about Buddha's awakening"
+  },
+  "dharma_talks/S17E15_Dukkha_Unsatisfactoriness_et_alTo_play_the_media_you_will_need_to_either_update": {
+    "score": 3,
+    "note": "Buddha's central teaching mentioned but focus on dukkha"
+  },
+  "dharma_talks/S17E16_Encouragement_October_09To_play_the_media_you_will_need_to_either_update_your_br": {
+    "score": 7,
+    "note": "Buddha's journey from jhana to breakthrough insight awakening"
+  },
+  "dharma_talks/S17E17_The_practice_and_the_pitfalls_of_metta_goodwill_practiceTo_play_the_media_you_wi": {
+    "score": 1,
+    "note": "Metta practice focus, not about Buddha's awakening"
+  },
+  "dharma_talks/S18E01_How_Vipassana_relates_to_Daily_LifeTo_play_the_media_you_will_need_to_either_upd": {
+    "score": 4,
+    "note": "Why Buddha didn't return to lay life after awakening"
+  },
+  "dharma_talks/S18E02_Samatha_and_-_or_VipassanaTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 9,
+    "note": "Buddha's complete spiritual journey to awakening under Bodhi tree"
+  },
+  "dharma_talks/S18E03_Metta_Developing_GoodwillTo_play_the_media_you_will_need_to_either_update_your_b": {
+    "score": 1,
+    "note": "Metta practice focus, not about Buddha's awakening"
+  },
+  "dharma_talks/S18E04_Karma_Dependent_Origination_Virtue_and_LiberationTo_play_the_media_you_will_need": {
+    "score": 5,
+    "note": "Buddha's spiritual journey mentioned within broader liberation teaching"
+  },
+  "dharma_talks/S18E05_Enthusiam_and_other_questionsTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 6,
+    "note": "Buddha's journey from disenchantment to awakening under Bodhi"
+  },
+  "dharma_talks/S18E06_Faith_and_the_Spiritual_LifeTo_play_the_media_you_will_need_to_either_update_you": {
+    "score": 2,
+    "note": "Faith in spiritual life, minimal awakening content"
+  },
+  "dharma_talks/S18E07_Revising_the_principles_of_vipassanaTo_play_the_media_you_will_need_to_either_up": {
+    "score": 2,
+    "note": "Vipassana principles, not specifically about Buddha's awakening"
+  },
+  "dharma_talks/S18E08_The_Buddhas_Quest_-_A_Public_TalkTo_play_the_media_you_will_need_to_either_updat": {
+    "score": 9,
+    "note": "Buddha's complete spiritual quest from renunciation to awakening"
+  },
+  "dharma_talks/S18E09_The_problem_lies_in_the_lookingTo_play_the_media_you_will_need_to_either_update": {
+    "score": 2,
+    "note": "Right View teaching, not specifically about Buddha's awakening"
+  },
+  "dharma_talks/S18E10_There_is_no_reason_for_beingTo_play_the_media_you_will_need_to_either_update_you": {
+    "score": 3,
+    "note": "Spontaneous awakening insights but not Buddha's specific awakening"
+  },
+  "dharma_talks/S18E11_Towards_a_whole_life_practiceTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 2,
+    "note": "Vipassana transforming into positive qualities, not awakening focus"
+  },
+  "dharma_talks/S19E01_httpswwwsatipanyaorgukwp-contentuploads202004Evening-Lockdown-Meditationmp4": {
+    "score": 1,
+    "note": "Guided meditation practice, not about Buddha's awakening"
+  },
+  "dharma_talks/S19E02_httpswwwsatipanyaorgukwp-contentuploads20200401-MN9-Discourse-on-Right-View-Whol": {
+    "score": 2,
+    "note": "Right View discourse, not specifically about Buddha's awakening"
+  },
+  "dharma_talks/S19E03_httpswwwsatipanyaorgukwp-contentuploads20200402-First-Three-Noble-Truthsmp4": {
+    "score": 3,
+    "note": "Four Noble Truths as Buddha's teaching foundation"
+  },
+  "dharma_talks/S19E04_httpswwwsatipanyaorgukwp-contentuploads20200403-Coronavirus-and-the-Contemplatio": {
+    "score": 1,
+    "note": "Death contemplation practice, not about Buddha's awakening"
+  },
+  "dharma_talks/S19E05_httpswwwsatipanyaorgukwp-contentuploads20200404-Contemplation-of-Death-Living-mo": {
+    "score": 1,
+    "note": "Death contemplation teaching, not about Buddha's awakening"
+  },
+  "dharma_talks/S19E06_httpswwwsatipanyaorgukwp-contentuploads20200405-Contemplation-of-Death-againmp4": {
+    "score": 1,
+    "note": "Death contemplation practice, not about Buddha's awakening"
+  },
+  "dharma_talks/S19E07_httpswwwsatipanyaorgukwp-contentuploads20200406-Renunciation-and-Buddhas-First-O": {
+    "score": 8,
+    "note": "Recounts Buddha's journey from Awakening to first teaching"
+  },
+  "dharma_talks/S19E09_httpswwwsatipanyaorgukwp-contentuploads20200408-Mindfulness-at-work-And-Right-Vi": {
+    "score": 1,
+    "note": "About mindfulness at work and Noble Eightfold Path"
+  },
+  "dharma_talks/S19E10_httpswwwsatipanyaorgukwp-contentuploads20200409-Right-Speech-Action-and-Liveliho": {
+    "score": 1,
+    "note": "About ethical conduct in Noble Eightfold Path"
+  },
+  "dharma_talks/S19E11_httpswwwsatipanyaorgukwp-contentuploads20200410-Grief-1mp4": {
+    "score": 1,
+    "note": "About grief and loss, not Buddha's Awakening"
+  },
+  "dharma_talks/S19E12_httpswwwsatipanyaorgukwp-contentuploads20200411-The-Nutriments-Food-Contact-Voli": {
+    "score": 1,
+    "note": "About four nutriments teaching, not Awakening"
+  },
+  "dharma_talks/S19E13_httpswwwsatipanyaorgukwp-contentuploads20200412-The-Investigation-of-Eating-1mp4": {
+    "score": 1,
+    "note": "About eating meditation and food as nutriment"
+  },
+  "dharma_talks/S19E14_httpswwwsatipanyaorgukwp-contentuploads20200413-Discourse-on-the-Taints-MN-2-Ove": {
+    "score": 2,
+    "note": "About overcoming taints, mentions liberation but not Awakening"
+  },
+  "dharma_talks/S19E16_httpswwwsatipanyaorgukwp-contentuploads20200415-The-Discourse-on-Not-self-SN2265": {
+    "score": 3,
+    "note": "Buddha's second discourse after Awakening, but focuses on teaching"
+  },
+  "dharma_talks/S19E18_httpswwwsatipanyaorgukwp-contentuploads20200417-Questions-See-Descriptionmp4": {
+    "score": 1,
+    "note": "Q&A session on various topics, not Awakening"
+  },
+  "dharma_talks/S19E19_httpswwwsatipanyaorgukwp-contentuploads20200418-Overcoming-the-Taints-by-Restrai": {
+    "score": 1,
+    "note": "About overcoming taints through restraint, not Awakening"
+  },
+  "dharma_talks/S19E20_httpswwwsatipanyaorgukwp-contentuploads20200419-Overcoming-the-Taints-by-Usingmp": {
+    "score": 1,
+    "note": "About using requisites wisely, not Awakening"
+  },
+  "dharma_talks/S19E21_httpswwwsatipanyaorgukwp-contentuploads20200420-Overcoming-the-Taints-by-Enduran": {
+    "score": 1,
+    "note": "About overcoming taints through endurance, not Awakening"
+  },
+  "dharma_talks/S19E22_httpswwwsatipanyaorgukwp-contentuploads20200423-The-Ten-Fettersmp4": {
+    "score": 2,
+    "note": "About fetters and stages of Awakening, but not Buddha's"
+  },
+  "dharma_talks/S20E01_Refuges_and_Precepts_with_Metta": {
+    "score": 0,
+    "note": "Traditional ceremony and metta practice, unrelated to Awakening"
+  },
+  "dharma_talks/S21E01_Video": {
+    "score": 1,
+    "note": "About dullness hindrance in meditation, not Awakening"
+  },
+  "dharma_talks/S21E02_Video": {
+    "score": 1,
+    "note": "About polarization and not-self teaching, not Awakening"
+  },
+  "dharma_talks/S21E03_Video": {
+    "score": 1,
+    "note": "About sympathetic joy practice, not Awakening"
+  },
+  "dharma_talks/S21E04_Video": {
+    "score": 1,
+    "note": "About five daily remembrances, not Awakening"
+  },
+  "dharma_talks/S22E01_2022_Dec_11_To_Love_or_To_Be_Loved_That_is_the_question": {
+    "score": 0,
+    "note": "About loving-kindness and relationships, unrelated to Awakening"
+  },
+  "dharma_talks/S22E02_Love_and_Relationship": {
+    "score": 0,
+    "note": "About love and relationships, unrelated to Awakening"
+  },
+  "dharma_talks/S22E03_Forgiveness_is_fundamental_to_purify_the_heart_Resentment_is_a_poison_Guilt_sham": {
+    "score": 0,
+    "note": "About forgiveness practice, unrelated to Awakening"
+  },
+  "dharma_talks/S22E04_The_introduction": {
+    "score": 0,
+    "note": "About forgiveness and gratitude, unrelated to Awakening"
+  },
+  "dharma_talks/S22E05_Karaniya_Metta_Sutta": {
+    "score": 0,
+    "note": "About loving-kindness sutta, unrelated to Awakening"
+  },
+  "dharma_talks/S23E01_Video": {
+    "score": 0,
+    "note": "About skillful conversation, unrelated to Awakening"
+  },
+  "dharma_talks/S23E02_We_often_hear_about_suffering_and_the_end_of_suffering_We_practice_metta_But_wha": {
+    "score": 0,
+    "note": "About cultivating joy, unrelated to Awakening"
+  },
+  "dharma_talks/S23E03_2024_Jan_21_The_importance_of_Tranquillity_Passaddhi": {
+    "score": 7,
+    "note": "Discusses tranquillity as factor of Awakening, relevant to Buddha's path"
+  },
+  "dharma_talks/S23E04_Patient_Forebearance": {
+    "score": 2,
+    "note": "About virtue development, minimal connection to Buddha's Awakening"
+  },
+  "dharma_talks/S23E05_Equanimity": {
+    "score": 6,
+    "note": "Explores equanimity in factors of awakening, relates to awakening process"
+  },
+  "dharma_talks/S23E06_Sympathy_Empathy_and_Compassion": {
+    "score": 3,
+    "note": "Mentions Buddha's compassionate teaching but not his awakening specifically"
+  },
+  "dharma_talks/S23E07_2023_June_11_Fear_and_Courage": {
+    "score": 4,
+    "note": "References awakened mind overcoming fear, touches on awakening benefits"
+  },
+  "dharma_talks/S23E08_Apologies_I_tried_to_cover_too_much_ground_However_tit_will_appear_as_a_Tip_on_t": {
+    "score": 1,
+    "note": "About compassion practice, unrelated to Buddha's awakening"
+  },
+  "dharma_talks/S23E09_2023_Oct_01_Good_Friendship_Companionship_Good_Comradeship_is_the_Whole_of_the_S": {
+    "score": 2,
+    "note": "About spiritual friendship, minimal connection to Buddha's awakening"
+  },
+  "dharma_talks/S23E10_2021_Gratitude_Generosity_and_Renunciation": {
+    "score": 3,
+    "note": "Discusses liberation practices but not Buddha's specific awakening"
+  },
+  "dharma_talks/S23E11_2022_Jul_17_Need_Sufficiency_and_Greed_-": {
+    "score": 2,
+    "note": "About monastic lifestyle, minimal connection to Buddha's awakening"
+  },
+  "dharma_talks/S23E12_2025_Apr_06_Renunciation": {
+    "score": 4,
+    "note": "Discusses renunciation in Noble Path, relates to awakening path"
+  },
+  "dharma_talks/S23E13_Video": {
+    "score": 2,
+    "note": "About spiritual motivation, minimal connection to Buddha's awakening"
+  },
+  "dharma_talks/S24E02_The_Buddha_and_War": {
+    "score": 2,
+    "note": "About Buddha's approach to conflict, not his awakening"
+  },
+  "dharma_talks/S24E03_2025_May_04_The_Buddha_as_a_Teacher": {
+    "score": 3,
+    "note": "About Buddha's teaching methods, mentions awakened abilities briefly"
+  },
+  "dharma_talks/S25E01_2025_June_08_What_was_the_Buddhas_great_disovery": {
+    "score": 9,
+    "note": "Directly explores Buddha's awakening discovery and victory verse"
+  },
+  "dharma_talks/S25E02_Video": {
+    "score": 8,
+    "note": "Examines nibbana teaching, directly relates to Buddha's awakening"
+  },
+  "dharma_talks/S25E03_Video": {
+    "score": 8,
+    "note": "Explores nibbana as consciousness, relates to awakening realization"
+  },
+  "dharma_talks/S26E01_2024_April24_Contemplating_the_Unpleasantness_of_the_Body": {
+    "score": 2,
+    "note": "About meditation practice, minimal connection to Buddha's awakening"
+  },
+  "dharma_talks/S26E02_2024_June_23_The_Unattractive_Nature_of_the_Body": {
+    "score": 2,
+    "note": "About body contemplation, minimal connection to Buddha's awakening"
+  },
+  "dharma_talks/S26E03_I_own_my_actions_I_inherit_the_results_of_my_actions_I_am_born_of_my_actions_I_f": {
+    "score": 2,
+    "note": "About karma contemplation, minimal connection to Buddha's awakening"
+  },
+  "dharma_talks/S26E04_Karma_and_Rebirth": {
+    "score": 3,
+    "note": "Discusses liberation path but not Buddha's specific awakening"
+  },
+  "dharma_talks/S26E05_2023_Nov_26_The_Five_Regular_Contemplations": {
+    "score": 2,
+    "note": "About contemplative practices, minimal connection to Buddha's awakening"
+  },
+  "dharma_talks/S26E06_2022_Nov_06_The_Contemplation_of_Death": {
+    "score": 3,
+    "note": "Mentions glimpsing nibbana but not Buddha's awakening specifically"
+  },
+  "dharma_talks/S26E07_The_Eight_Worldly_Winds": {
+    "score": 3,
+    "note": "References awakened Arahant but not Buddha's awakening specifically"
+  },
+  "dharma_talks/S27E01_The_Paradox_of_Fear": {
+    "score": 4,
+    "note": "Includes Buddha's own fear experiences, relates to awakening"
+  },
+  "dharma_talks/S27E02_2025_Jan_12_Dukkha_-_the_Buddha_grounds_his_teaching_on_this_word": {
+    "score": 6,
+    "note": "Discusses Buddha's first discourse and foundational teaching insights"
+  }
+}

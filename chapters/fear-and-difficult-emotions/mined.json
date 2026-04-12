@@ -1,0 +1,831 @@
+{
+  "youtube_channel/S01E100_Fear_and_Courage": {
+    "title": "Fear and Courage",
+    "collection": "youtube_channel",
+    "content_type": "audio",
+    "relevance": 10,
+    "passages": [
+      {
+        "quote": "For one who has awakened, whose mind isn't agitated, whose heart isn't tormented, and who has abandoned both merit and demerit, fear does not exist.",
+        "value": "complement",
+        "integration_hint": "Could be added near the Dhammapada quote about craving and fear to reinforce the Buddha's teaching on the complete cessation of fear.",
+        "rationale": "This Dhammapada verse (39) directly addresses fear's elimination in the awakened mind, complementing the base's existing Dhammapada quote about craving and fear with a more explicit promise of fear's end."
+      },
+      {
+        "quote": "Now, fear is, I would argue, is the most fundamental of our emotional states, dependent on delusion. So this delusion of a self, it's created a self which feels uncertain because, you know, sickness, aging and death and all that. and therefore it has this fear about itself and it reacts to this fear by making itself safe and that's when we start accumulating stuff",
+        "value": "complement",
+        "integration_hint": "Insert in the section discussing fear and self-identity to provide a clearer explanation of fear as the root emotional response to self-delusion.",
+        "rationale": "The base discusses fear arising from threatened self-identity but doesn't explicitly name fear as the most fundamental emotion or connect it directly to the accumulation of possessions as a safety response."
+      },
+      {
+        "quote": "What if I, in whatever state I'm in, when fear and terror come to me, were to subdue that fear and terror in that very state? So when fear and terror came to me while I was walking backwards and forwards, I would not sit down or stand or lie down. I would keep walking backwards and forwards until I had pacified the fear and terror.",
+        "value": "example",
+        "integration_hint": "Add as a practical example in the section about experiencing moods and emotions at the bodily level without indulgence or repression.",
+        "rationale": "This account of the Buddha's own practice with fear provides a concrete, authoritative example of how to work with difficult emotions—staying present in whatever posture one is in rather than fleeing."
+      },
+      {
+        "quote": "So it's going to take some courage because it's like you're walking backwards towards a cliff. You know, there's a drop coming somewhere. You know, you've got to let go of everything at some point, but you don't know when it's coming and you haven't a clue what's going to happen when you actually fall off the cliff.",
+        "value": "enrich",
+        "integration_hint": "Could enhance the section on preparing for death and letting go of attachment, adding a vivid metaphor for the spiritual journey.",
+        "rationale": "This striking image of walking backwards toward a cliff captures the existential anxiety of spiritual practice and letting go in a way the base doesn't articulate, enriching the discussion of preparing for death."
+      },
+      {
+        "quote": "if we consider the amount of fear that we have as a measure of the delusion of self, every time we undermine this fear, we're undermining the delusion of self. So there is a plus to it.",
+        "value": "complement",
+        "integration_hint": "Add near the discussion of ego and self-identity to reframe fear as a useful indicator and working with it as directly undermining delusion.",
+        "rationale": "This offers a positive reframing of fear as a measure of progress that the base lacks—turning fear from pure obstacle into a gauge of spiritual development."
+      }
+    ]
+  },
+  "tips_of_the_day/S05E26_Dealing_with_Intense_Emotions_and_Moods_in_Ordinary_Daily_Life": {
+    "title": "Dealing with Intense Emotions and Moods in Ordinary Daily Life",
+    "collection": "tips_of_the_day",
+    "content_type": "text",
+    "relevance": 10,
+    "passages": [
+      {
+        "quote": "But there is a way we can 'park' an emotion or mood. We can talk to it and say, 'I will attend to you later, but now I need/would like to attend to this.' Notice the word attend which can mean to pay attention to and to wait upon. And gently put it to one side and turn our attention to something else.",
+        "value": "complement",
+        "integration_hint": "Insert after the discussion of experiencing moods at the bodily feeling level, as a practical technique for daily life when meditation isn't immediately possible.",
+        "rationale": "The base discusses experiencing emotions through body feelings but doesn't offer a practical technique for handling emotions when one cannot immediately meditate. This 'parking' technique fills that gap with a gentle, non-suppressive approach."
+      },
+      {
+        "quote": "But the more we push it away, the more energy we unwittingly give it for now it has the energy also of our aversion. It's similar to pushing a spring down. When we let go, it springs back with more force than it had when uncoiled.",
+        "value": "example",
+        "integration_hint": "Add near the base's discussion of repression and how reactions fuel the process, to provide a vivid physical metaphor.",
+        "rationale": "The base mentions that repressing states of mind doesn't help and only fuels the process, but lacks a concrete image. The spring metaphor makes this abstract point viscerally understandable."
+      },
+      {
+        "quote": "The first thing to remind ourselves is not to let the mind start off on the story … yet again. For we can be sure that it's cranking up the emotion all over again and adding a little more power to it. It's the path to despair, suicide or murder.",
+        "value": "complement",
+        "integration_hint": "Insert where the base discusses how thinking becomes an expression of moods and emotions, to emphasize the danger of narrative repetition.",
+        "rationale": "The base mentions that thinking develops states of mind but doesn't explicitly warn against repetitive storytelling. This passage adds urgency and practical guidance about catching oneself in narrative loops."
+      }
+    ]
+  },
+  "dhammabytes/S11E03_03_The_Two_Darts": {
+    "title": "03. The Two Darts",
+    "collection": "dhammabytes",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "When the uninstructed worldling experiences a painful feeling, he sorrows, grieves and laments. He weeps, beating his breath and becomes distraught. He feels two feelings, a bodily one and a mental one. Now suppose they were to strike a man with a dart and then strike him immediately afterwards with a second dart, so that the man would feel a feeling caused by two darts. So too, when the uninstructed worldly experiences a painful feeling, he feels two feelings, a bodily one and a mental one.",
+        "value": "complement",
+        "integration_hint": "Insert when discussing how moods/emotions create suffering, near the section on reactions to painful states.",
+        "rationale": "The Two Darts sutta provides a canonical framework that elegantly explains the base's point about reactions (being 'depressed about being angry') - the second dart is our mental reaction to the first physical/emotional pain."
+      },
+      {
+        "quote": "while experiencing painful feeling, she seeks delight in sensual pleasure. For what reason? Because the uninstructed worldling does not know of any escape from painful feeling other than sensual pleasure.",
+        "value": "enrich",
+        "integration_hint": "Add to the section discussing the pleasure-seeking cycle and why we indulge in desires.",
+        "rationale": "This provides doctrinal clarity on why the pleasure-seeking pattern exists - it's the only escape mechanism the untrained mind knows, directly supporting the base's analysis of desire cycles."
+      },
+      {
+        "quote": "The distinction between enjoying the food and indulging in it is a very fine one. But you've got to work at it. Because when we indulge, the suffering comes.",
+        "value": "example",
+        "integration_hint": "Insert near the discussion of overindulgence and the 'one curry dish too many' example.",
+        "rationale": "This practical, relatable example about food complements the base's curry/whiskey examples and offers a nuanced teaching about the fine line between enjoyment and attachment."
+      },
+      {
+        "quote": "Once he was fully liberated, he became one of the most sensual beings that there can be. Why? Because now he's completely open to the sensual world. He's not afraid of it and he's not indulging in it.",
+        "value": "complement",
+        "integration_hint": "Add near the end where the base discusses liberation and the misconception that losing desire means losing 'the spice of life.'",
+        "rationale": "This directly addresses and enriches the base's point about desire not being 'the spice of life' - showing that true liberation opens one fully to experience rather than closing it off."
+      },
+      {
+        "quote": "If they feel a pleasant feeling, they feel it detached. They're not becoming psychologically dependent on it. And if they feel a painful feeling, they feel it detached.",
+        "value": "enrich",
+        "integration_hint": "Add to the final section on how to relate to feelings through meditation practice.",
+        "rationale": "This provides the positive counterpart to the suffering pattern - showing what healthy relationship to feelings looks like, which the base implies but doesn't state as clearly."
+      }
+    ]
+  },
+  "dhammabytes/S11E05_05_Clinging_causes_Anxiety_plus": {
+    "title": "05. Clinging causes Anxiety plus",
+    "collection": "dhammabytes",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "So in other words, he's saying it's the way we define ourselves that's the problem. The body isn't the problem. It's the relationship that we've developed to the body as it being me, or I am in the body, and therefore I'm supposed to control the body, or the body's in me, It doesn't matter what relationship you have to the body. I possess the body. It won't follow your command. And that's your problem. That's our problem.",
+        "value": "complement",
+        "integration_hint": "Could strengthen the section on self-identity and fear, where the base discusses how ego identifies with body and mind.",
+        "rationale": "This passage offers a clear, direct doctrinal clarification that the problem is not the body itself but our relationship to it - a point the base touches on but doesn't state as explicitly."
+      },
+      {
+        "quote": "So, there we have this sequence, okay? We've got the sequence of I am the body, and at various points in our lives, we realise that this body is not what we thought it was. It's moved on. And that's what brings us this preoccupation with the body so if you wake up in the morning and you always wake up with a bad back that's fine if you wake up in the morning and you've got a pain in the stomach you get very worried you've got to go to the doctor because you haven't had that one before",
+        "value": "example",
+        "integration_hint": "Could be added to the section discussing how fear arises when self-identity is threatened.",
+        "rationale": "Provides a relatable everyday example of how unexpected bodily changes trigger anxiety, complementing the base's more abstract discussion of fear and self-identity."
+      },
+      {
+        "quote": "I mean, you look in the mirror and there's a few more wrinkles there and you get very agitated. A few more white hairs and you get very agitated. Not no hair, it's even terrible, it's awful. So you can imagine the terror when I was 21 and I was looking in the mirror and I saw this sort of gleam through my hair, you see, and I thought, what the hell is that? And as I did that, he said, there's a hole! There's a hole!",
+        "value": "anecdote",
+        "integration_hint": "Could be inserted where the base discusses fear arising from threats to self-identity, particularly regarding the body.",
+        "rationale": "A personal, humorous anecdote that vividly illustrates the agitation that arises from bodily change - adds warmth and relatability to the teaching on fear and clinging."
+      },
+      {
+        "quote": "Agitation and a constellation of mental states born of preoccupation with the change of the body remain obsessing the mind. And because their mind is obsessed, they are frightened, distressed and anxious. And through clinging, they become agitated.",
+        "value": "enrich",
+        "integration_hint": "Could be integrated into the section on fear as the guardian of ego, showing the Buddha's own words on this process.",
+        "rationale": "Provides direct scriptural support from the Buddha's words for the base's teaching on how clinging produces fear and anxiety - adds doctrinal authority."
+      }
+    ]
+  },
+  "dharma_talks/S01E15_Fear": {
+    "title": "Fear",
+    "collection": "dharma_talks",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "What the meditation is trying to do is trying to get you in contact with fear before you call it fear. What's fear before you recognize it as fear? What is it? It's a bit nauseating. It's sort of an uncomfortable feeling in the body. As soon as the mind recognises it as fear, it categorises it, blocks it. And as soon as it's done that, it'll react. It'll start being afraid of fear. And that's how we suppress stuff.",
+        "value": "complement",
+        "integration_hint": "Insert in the section where base discusses experiencing moods/emotions at the bodily feeling level, before conceptualization.",
+        "rationale": "Provides a precise phenomenological description of how fear operates pre-conceptually that the base lacks, and explains the mechanism of suppression through 'fear of fear'."
+      },
+      {
+        "quote": "So when fear arises, this is in your meditation now, when fear arises, you first of all have to hold steady and just feel that panic. See, the panic's the fear of the fear, which is making you run. You just hang on in there, you wait for it to die down. And then what you're building up is bravery, isn't it? Bravery is being able to stand in the midst of fear, not move.",
+        "value": "enrich",
+        "integration_hint": "Add to the practical meditation guidance section where base discusses 'catching it all in the bud' and becoming an objective observer.",
+        "rationale": "Offers concrete meditation instructions for working with fear that the base's general advice about watching desires lacks, plus reframes the practice positively as building bravery."
+      },
+      {
+        "quote": "When you sit in the midst of fear, What's happening? It's just a mental, physical turbulence, isn't it? It's like a bit of bad weather running through the organism, isn't it? You're just sat there just with this nausea or something. It's pitting your stomach or you might have it in your chest. You're just sitting there, that's it. You babysit. Just sit with it.",
+        "value": "example",
+        "integration_hint": "Insert after the base's discussion of experiencing feelings in the body as 'raw issue' of mental states.",
+        "rationale": "The 'bad weather' and 'babysit' metaphors are vivid and memorable, making the abstract instruction concrete and accessible."
+      },
+      {
+        "quote": "Now ultimately, what's the ultimate point? The ultimate point is the loss of fear of fear. And when you've lost your fear of fear, what's going to frighten you? It's at that point that fear drops away. And that's why, through your meditation, you should see that there's a possibility of the end of fear, the complete ending of fear.",
+        "value": "complement",
+        "integration_hint": "Add near the end where base discusses liberation and the Buddha's quote 'For one who is free of craving, there is no grief. From where will fear arise?'",
+        "rationale": "Provides a clear doctrinal statement about the complete ending of fear that complements the base's discussion of liberation, making the goal explicit."
+      },
+      {
+        "quote": "Even though you're in it, you're not of it. So that's what the Buddha's teaching. That's the position we have to take. In the body and mind, in the heart, but not of it. So that sense of being aloof, of being an observer, an experiencer, a witness.",
+        "value": "enrich",
+        "integration_hint": "Insert where base discusses becoming 'the objective observer of the mental and emotional life.'",
+        "rationale": "The phrase 'in it but not of it' is more eloquent and memorable than the base's formulation, capturing the paradox of meditative awareness succinctly."
+      }
+    ]
+  },
+  "dharma_talks/S05E08_4_The_Hindrances_The_Psychotherapy_of_Vipassana": {
+    "title": "4. The Hindrances The Psychotherapy of Vipassana",
+    "collection": "dharma_talks",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "Fear is different. You panic with fear. So remember that when fear comes up, you want to be aware of the fear of fear. There's your panic, hmm? And so long as you can keep the two in mind, the two there within your observation, and just keep breathing in and out, wait for that fear of fear to go, you see, and the panic stops, and you're with fear. And the more we get used to the texture of fear, see, that's why it's so important to come into the body, off the mind, you get into the texture of fear, the feel of it, the nausea, the trembling of it, you know, and then you lose your fear of it. And then, of course, it's not fearful anymore. I mean, what's going to frighten us? When we've lost our fear of fear, what can frighten us?",
+        "value": "complement",
+        "integration_hint": "Insert after the base's discussion of fear as the guardian of ego, to provide practical instruction on working with fear in meditation.",
+        "rationale": "The base discusses fear theoretically as protecting ego but lacks practical guidance on how to actually work with fear. This passage offers a concrete technique—distinguishing fear from fear of fear—and describes the bodily texture of fear, enriching the practical dimension."
+      },
+      {
+        "quote": "To feel feelings in feelings. That's the way he puts it. To feel, to know the body in the body. To know mental states in mental states.",
+        "value": "complement",
+        "integration_hint": "Add near the base's discussion of experiencing moods and emotions at the bodily feeling level, as a doctrinal anchor from the Buddha's own teaching.",
+        "rationale": "The base explains the importance of experiencing emotions as bodily feelings but doesn't cite the Buddha's precise formulation from the Satipatthana. This concise quote provides authoritative grounding."
+      },
+      {
+        "quote": "I much prefer the word turbulence. We have this word about blocks. A block gives you the impression that that's it. It's blocked. There's no way you can get out of this. It's stuck. It's like something in your throat. But if you look at the mind as an energy system, just as we experience the weather, And you see, sometimes it blows hot, it blows cold, it storms, sometimes it's beautiful and peaceful, and so on.",
+        "value": "enrich",
+        "integration_hint": "Insert in the section on moods and emotions to offer a helpful reframe—viewing difficult emotions as weather-like turbulence rather than fixed blocks.",
+        "rationale": "This metaphor of turbulence versus blocks offers a liberating perspective on difficult emotions that the base lacks, helping readers approach fear and depression with less rigidity."
+      },
+      {
+        "quote": "What we're trying to discover is How can I be with pleasure, with the joys of life, with a loving relationship, without this attachment, see? Without this obsessiveness, without this need, you see?",
+        "value": "complement",
+        "integration_hint": "Add near the base's discussion of letting go of desire and the concern about losing the 'spice of life.'",
+        "rationale": "This passage directly addresses the common fear that releasing attachment means losing joy, complementing the base's argument that desire distorts rather than enhances experience."
+      },
+      {
+        "quote": "By finding this position within ourselves of the objective observer, we're actually discovering a new identity, see? We're taking the identity out of the body with its sensations, out of the heart with its emotions, out of the mind with its thoughts, and very slowly we're beginning to identify with something which is much deeper within us, which is our Buddha nature. And the more you identify with that which knows, the less you become needy for the world to give you happiness.",
+        "value": "enrich",
+        "integration_hint": "Insert near the base's conclusion about becoming the objective observer, to articulate what this new identity actually is.",
+        "rationale": "The base advocates becoming an objective observer but doesn't fully articulate what one identifies with instead. This passage names it as Buddha nature and 'that which knows,' providing a positive destination rather than just negation."
+      }
+    ]
+  },
+  "dharma_talks/S19E04_httpswwwsatipanyaorgukwp-contentuploads20200403-Coronavirus-and-the-Contemplatio": {
+    "title": "https://www.satipanya.org.uk/wp-content/uploads/2020/04/03-Coronavirus-and-the-Contemplation-of-Death.mp4",
+    "collection": "dharma_talks",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "You just sit there and you breathe and you just keep saying in one way or the other, death can come now. Breathing out, death can come now. It's just getting used to the fear of death. And now the problem isn't the fear of death itself. It's the fear of fear. That's what's causing the paranoia. It's what causes the panic. And it's a way of getting used to the feeling of fear.",
+        "value": "complement",
+        "integration_hint": "Could be integrated in the section discussing how to prepare for death through meditation, after the discussion of catching desires 'in the bud.'",
+        "rationale": "Provides a concrete meditation technique for working with fear of death that the base text lacks, and introduces the important distinction between fear and 'fear of fear.'"
+      },
+      {
+        "quote": "You've got to bring it right up in front of your face. You've got to really recognize that we're on a tightrope and that you can fall off any moment, any time. And if you really work on that for a few minutes, a few seconds, and really, really convince yourself how fragile life is, then you begin to get that contact with the fear of death.",
+        "value": "enrich",
+        "integration_hint": "Could strengthen the section on preparing for death, near the discussion of the Buddha's peaceful death as a model.",
+        "rationale": "Adds a vivid image (tightrope) and practical instruction for contemplating death's imminence that complements the base's more theoretical treatment."
+      },
+      {
+        "quote": "You know, whenever that comes up, the feeling of anxiety, of fear, is to sort of sink into it. You know, this business of, remember the Buddha in the Satipatthana discourse is always saying to get feelings in feelings. You have difficulty getting people to get into a feeling. So you've got to sit in the midst of the bonfire and feel the fear.",
+        "value": "complement",
+        "integration_hint": "Could be added to the section on experiencing moods and emotions at the bodily feeling level, where the base discusses not indulging or repressing.",
+        "rationale": "The 'bonfire' metaphor and reference to Satipatthana adds doctrinal grounding and a memorable image for the practice of experiencing difficult emotions directly."
+      },
+      {
+        "quote": "This fear of death, you see, is something that we can, you know, because it's all around us at the moment, people are quite paranoid about it, is to recognize that it really drives us to paranoia, to unrealistic fears.",
+        "value": "example",
+        "integration_hint": "Could be used to illustrate the discussion of fear as 'the champion and guardian of ego' in the base text.",
+        "rationale": "Provides a contemporary, relatable example of how fear of death manifests as paranoia in daily life, making the teaching more accessible."
+      }
+    ]
+  },
+  "dharma_talks/S19E11_httpswwwsatipanyaorgukwp-contentuploads20200410-Grief-1mp4": {
+    "title": "https://www.satipanya.org.uk/wp-content/uploads/2020/04/10-Grief-1.mp4",
+    "collection": "dharma_talks",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "grief is that, is that, you know, it's that sore, the wound, which is caused when something from the heart is taken out, is ripped out when it's a shock like that. And there's no other way but to sort of sit with it and, and to give the, give the heart time to heal and to know that this is the cause of a psychological dependency, but that isn't to take away the fact that there was also love.",
+        "value": "complement",
+        "integration_hint": "Could be integrated into the section discussing reactions to loss and the process of acceptance, adding nuance about grief as distinct from love.",
+        "rationale": "This passage offers a more nuanced treatment of grief that the base lacks, distinguishing between attachment-based grief and genuine love, which adds emotional depth to the discussion of difficult emotions."
+      },
+      {
+        "quote": "the big confusion is to think that as your grief diminishes, it's telling you that you don't love the person as you used to, you're losing their love. Well, if you get into that, you're into a never ending cycle of grief, which lessens and then you have to grieve a bit more. You have to keep pumping it up because you're trying to prove that the grief you have is the measure of your love.",
+        "value": "enrich",
+        "integration_hint": "Could follow the discussion of Little Lily's depression and acceptance, extending the analysis to adult grief patterns.",
+        "rationale": "This addresses a common psychological trap around grief that the base doesn't cover, offering practical insight into how we perpetuate our own suffering through confused thinking about emotions."
+      },
+      {
+        "quote": "Those who have a hundred loved ones have a hundred sorrows. Those who have ninety, all the way down to one, have only one sorrow. And those who have no loved ones have no sorrow. Those alone, I say, are without sorrow, without suffering, without desperation.",
+        "value": "example",
+        "integration_hint": "Could be added near the Buddha's teaching on craving and fear from the Dhammapada, as a complementary scriptural reference.",
+        "rationale": "This teaching story with the grieving grandmother provides a memorable scriptural example that reinforces the base's point about attachment causing suffering, with the Buddha's direct words."
+      },
+      {
+        "quote": "No man is an island, entire of itself. Each is a piece of the continent, a part of the main. If a clod is washed away by the sea, Europe is the less. each man's death diminishes me, for I am involved in mankind. Therefore, send not to know for whom the bell tolls, it tolls for thee.",
+        "value": "anecdote",
+        "integration_hint": "Could be placed in the section discussing how loss affects us, before the Buddhist teaching on non-attachment as a counterpoint.",
+        "rationale": "This John Donne poem adds literary richness and acknowledges the legitimate human experience of interconnection, creating a more balanced treatment before discussing non-attachment."
+      }
+    ]
+  },
+  "dharma_talks/S23E07_2023_June_11_Fear_and_Courage": {
+    "title": "2023 June 11 Fear and Courage.",
+    "collection": "dharma_talks",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "For one who has awakened, whose mind isn't agitated, whose heart isn't tormented, and who has abandoned both merit and demerit, fear does not exist.",
+        "value": "complement",
+        "integration_hint": "Could be added near the Dhammapada quote already in the base about craving and fear, to reinforce the Buddha's teaching on the complete cessation of fear.",
+        "rationale": "This Dhammapada verse (39) offers a direct doctrinal statement about fear's complete elimination that complements the base's existing Dhammapada quote about craving and fear."
+      },
+      {
+        "quote": "So if we consider the amount of fear that we have as a measure of the delusion of self, every time we undermine this fear, we're undermining the delusion of self, right?",
+        "value": "enrich",
+        "integration_hint": "Insert in the section discussing fear and ego/self-identity, where the base explains that fear signals threats to self-identity.",
+        "rationale": "This provides a practical reframe that makes working with fear feel constructive rather than merely defensive, adding a positive angle the base lacks."
+      },
+      {
+        "quote": "What if I, in whatever state I'm in, when fear and terror come to me, were to subdue that fear and terror in that very state? So when fear and terror came to me while I was walking backwards and forwards, I would not sit down or stand or lie down. I would keep walking backwards and forward until I had pacified the fear and terror.",
+        "value": "example",
+        "integration_hint": "Could be added after the base's discussion of experiencing moods and emotions at the bodily feeling level, as a concrete example of the Buddha's own practice with fear.",
+        "rationale": "This autobiographical account from the Buddha provides a vivid, practical example of turning toward fear rather than fleeing, which the base discusses theoretically but lacks a concrete illustration."
+      },
+      {
+        "quote": "So it's going to take some courage because it's like you're walking backwards towards a cliff. You know, there's a drop coming somewhere. You know, you've got to let go of everything at some point, but you don't know when it's coming and you haven't a clue what's going to happen when you actually fall off the cliff.",
+        "value": "enrich",
+        "integration_hint": "Could be placed near the end where the base discusses preparing for death and letting go of desire, to add a vivid metaphor for the spiritual journey.",
+        "rationale": "This metaphor captures the existential anxiety of spiritual practice in a memorable, visceral way that enriches the base's more abstract discussion of liberation and letting go."
+      },
+      {
+        "quote": "It's when you feel it as a physical sensation that it's actually being released. So this, of course, we know through our Vipassana.",
+        "value": "complement",
+        "integration_hint": "Insert where the base discusses experiencing moods and emotions at the bodily feeling level, to reinforce the mechanism of release.",
+        "rationale": "This succinctly articulates the healing mechanism of feeling emotions physically rather than through mental stories, complementing the base's discussion of feelings as biofeedback."
+      }
+    ]
+  },
+  "dharma_talks/S27E01_The_Paradox_of_Fear": {
+    "title": "The Paradox of Fear",
+    "collection": "dharma_talks",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "The way we experience fear is a sudden jolt of bad energy in the body and it tends to go away. So if you step out on the road and a car just misses you, you get that fright. [...] Whereas anxiety is something long-term. It's always about the future. It's always what's going to happen next. And we tend to feel that as an agitation. And it warms us up. It heats us up.",
+        "value": "complement",
+        "integration_hint": "Could be added near the base's discussion of emotions and feelings to distinguish fear from anxiety phenomenologically.",
+        "rationale": "The base discusses fear but doesn't clearly differentiate the bodily experience of sudden fear versus ongoing anxiety. This adds a vivid, practical distinction."
+      },
+      {
+        "quote": "From attachment comes grief. From attachment comes fear. One who is free from attachment has no grief. So how can there be fear?",
+        "value": "complement",
+        "integration_hint": "Could strengthen the section where the base quotes the Dhammapada on craving and fear, offering a parallel formulation focused on attachment.",
+        "rationale": "The base quotes the Dhammapada on craving; this parallel verse on attachment reinforces the teaching and provides variation."
+      },
+      {
+        "quote": "And remember, you can always talk to the heart, you know, dear heart, I can feel you. I know you're in a dreadful state, but, you know, we'll just stay here for a little while and I'm sure that you'll release that energy. See? So by creating that sort of distance between what you're feeling and what is doing the feeling, you're allowing that energy to dissipate.",
+        "value": "example",
+        "integration_hint": "Could be inserted in the base's section on experiencing moods and emotions at the bodily level as a practical technique.",
+        "rationale": "The base discusses experiencing feelings objectively but lacks this warm, practical instruction for self-compassion during difficult emotions."
+      },
+      {
+        "quote": "While I walked, the fear and dread came upon me. I neither stood nor sat nor lay down till I had soothed that fear and dread. While I stood, the fear and dread came upon me. I neither walked nor sat nor lay down till I had soothed the fear and dread. And while I sat, the fear and dread came upon me. I neither walked nor stood nor lay down till I had soothed the fear and dread.",
+        "value": "anecdote",
+        "integration_hint": "Could be added where the base discusses the Buddha's approach to suffering, showing his personal practice with fear.",
+        "rationale": "The base references the Buddha's death and teachings but lacks this powerful autobiographical account of him working through fear directly."
+      },
+      {
+        "quote": "But interestingly enough, fear can be wholesome. [...] So there are two qualities that he points to, which are, shall we say, wholesome fear. And that's the dread of consequences and shame. [...] fear and dread of consequences... in the Buddha's understanding, are actually our guardians. They stop us doing unwholesome things.",
+        "value": "enrich",
+        "integration_hint": "Could be added as a new section after the base's discussion of fear as ego-protection, presenting the paradox of wholesome fear.",
+        "rationale": "The base treats fear entirely as problematic; this adds the important Buddhist teaching that some fear (hiri and ottappa) is protective and wholesome."
+      }
+    ]
+  },
+  "international_talks/S09E02_Nous_causons_de_la_souffrance_pour_nous_memeLausanne_Oct_2010": {
+    "title": "Nous causons de la souffrance pour nous meme.(Lausanne Oct 2010)",
+    "collection": "international_talks",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "And if this attack is felt to be too much, then of course fear arises. [...] You can see how these opposites function. At their extremity, there is murder and suicide.",
+        "value": "complement",
+        "integration_hint": "Could be integrated in the section discussing how fear arises when self-identity is threatened, near the discussion of ego protection.",
+        "rationale": "Adds a stark, memorable framing of the extremes of desire and aversion (murder and suicide) that complements the base's discussion of fear and ego protection."
+      },
+      {
+        "quote": "But we are going to start to see these things that make frustration or anger arise. And these things that make fear and anxiety arise. More like friends. Because they show us where we have created a barrier.",
+        "value": "enrich",
+        "integration_hint": "Could enhance the section on working with difficult emotions in meditation, offering a reframe of fear and anger as teachers.",
+        "rationale": "Provides a positive reframe of difficult emotions as 'friends' that reveal our attachments - a perspective not explicitly stated in the base text."
+      },
+      {
+        "quote": "If I possess a car, it's a brand new car. There is a lot of fear that things could happen to my car, accidents. But if it's just an old car, an old banger, [...] it bothers you less if it's a little bit bumped.",
+        "value": "example",
+        "integration_hint": "Could be added near the discussion of attachment and fear, alongside the examples of car theft and burglary.",
+        "rationale": "A simple, relatable example that illustrates how the degree of attachment directly correlates with the intensity of fear - more concrete than the base's examples."
+      },
+      {
+        "quote": "So, when we say to ourselves, I can't help it. We are not accepting our complete responsibility. [...] But in reality, what happens is that they are not taking full responsibility for their actions. So, when we recognize that we are completely responsible for what we do, you see, it's actually a liberation.",
+        "value": "complement",
+        "integration_hint": "Could strengthen the section about the 'great lie' that others cause our suffering, adding the dimension of personal responsibility as liberation.",
+        "rationale": "Explicitly connects taking responsibility to liberation - a doctrinal point that deepens the base's discussion of how we blame others for our suffering."
+      },
+      {
+        "quote": "The second thing is that we use sleep to get away from our feelings of being a bit depressed, a bit let-down, a bit discouraged. So, we lie on the couch and we fall asleep. So in an unskillful way, we have created this energy that zaps us into this black hole.",
+        "value": "enrich",
+        "integration_hint": "Could be added to the section on repression and how we bury painful moods, as an example of avoidance through sleep.",
+        "rationale": "Offers a specific, recognizable example of how we avoid difficult emotions through sleep - a mechanism not mentioned in the base's discussion of repression."
+      }
+    ]
+  },
+  "international_talks/S10E11_Les_Empeches_de_Vipassana_Lausanne_Oct_2009": {
+    "title": "Les Empeches de Vipassana (Lausanne Oct 2009)",
+    "collection": "international_talks",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": []
+  },
+  "youtube_channel/S01E07_03_Coronavirus_and_the_Contemplation_of_Death": {
+    "title": "03 Coronavirus and the Contemplation of Death",
+    "collection": "youtube_channel",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "You just sit there and you breathe and you just keep saying, in one way or the other, death can come now. Breathing out, death can come now. It's just getting used to the fear of death. And now the problem isn't the fear of death itself. It's the fear of fear. That's what's causing the paranoia. It's what causes the panic.",
+        "value": "complement",
+        "integration_hint": "Could be added near the discussion of fear as guardian of ego, to provide a practical meditation technique for working with death-fear.",
+        "rationale": "The base discusses fear theoretically but lacks a concrete contemplative practice. This passage offers a specific breathing meditation for confronting death-fear and introduces the valuable distinction between fear and 'fear of fear.'"
+      },
+      {
+        "quote": "he says you have to contemplate death by recognizing as you breathe that every half breath you could die right you've got to bring it right up in front of your face you've got to really recognize that you know we're on a tightrope and that you can fall off any moment, any time.",
+        "value": "enrich",
+        "integration_hint": "Could strengthen the section on preparing for death, adding the Buddha's teaching on how to properly contemplate death.",
+        "rationale": "The base discusses dying peacefully but doesn't provide the Buddha's specific instruction on death contemplation. This vivid 'tightrope' image and the teaching about contemplating death with each half-breath adds doctrinal depth."
+      },
+      {
+        "quote": "is to sort of sink into it you know this business of remember the buddha in the satipatthana discourse is always saying to to to get feelings in feelings you have difficulty getting people to get into a feeling so you've got to sit in the midst of the bonfire and feel the fear see feel the fear and what you're doing is you're accustoming yourself to the fear",
+        "value": "complement",
+        "integration_hint": "Could be integrated where the base discusses experiencing moods and emotions at the bodily feeling level.",
+        "rationale": "The base explains experiencing emotions as bodily feelings but this passage adds the powerful 'bonfire' metaphor and explicitly connects the practice to Satipatthana, reinforcing the method with vivid imagery."
+      },
+      {
+        "quote": "what this brings up for us is this denial of death. And what do we mean by the denial of death? Everybody knows they're going to die one way or the other. It's not facing it. It's not turning around to find a relationship with death. And that brings about this fear, this running away from it.",
+        "value": "enrich",
+        "integration_hint": "Could be added near the discussion of why dying is such suffering, to clarify the distinction between knowing about death and truly facing it.",
+        "rationale": "The base discusses death and ego but doesn't explicitly address the denial of death. This passage clarifies that denial isn't ignorance but avoidance, and introduces the concept of 'finding a relationship with death.'"
+      }
+    ]
+  },
+  "youtube_channel/S01E14_10_Grief": {
+    "title": "10 Grief",
+    "collection": "youtube_channel",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "grief is that, you know, it's that sore, the wound, which is caused when something from the heart is taken out, it's ripped out when it's a shock like that. And there's no other way, but to sort of sit with it and to give the heart time to heal and to know that this is the cause of a psychological dependency but that isn't to take away the fact that there was also love there was also a sense of care for the person",
+        "value": "complement",
+        "rationale": "The base discusses grief in the context of terminal illness and loss but doesn't address the healing process or distinguish between grief as attachment versus love. This passage adds practical wisdom about sitting with grief and allowing healing.",
+        "integration_hint": "Insert after the discussion of reactions to loss and terminal illness, where the base mentions shock, bargaining, anger, and depression."
+      },
+      {
+        "quote": "the big confusion is to think that as your grief diminishes it's telling you that you don't love the person as you used to you're losing their love well if you get into that you're into a never-ending cycle of grief, which lessens and then you have to grieve a bit more. You have to keep pumping it up because you're trying to prove that the grief you have is the measure of your love.",
+        "value": "enrich",
+        "rationale": "This addresses a common psychological trap around grief that the base doesn't cover - the confusion between grief intensity and love, which is a valuable insight for practitioners working with difficult emotions.",
+        "integration_hint": "Could follow the section on accepting loss with equanimity, offering a warning about a common misunderstanding in the grief process."
+      },
+      {
+        "quote": "Those who have a hundred loved ones have a hundred sorrows. Those who have 90, all the way down to one, have only one sorrow. And those who have no loved ones have no sorrow. Those alone, I say, are without sorrow, without suffering, without desperation.",
+        "value": "example",
+        "rationale": "This is a direct Buddha quote that powerfully illustrates the teaching on attachment and sorrow. The base discusses attachment but lacks this memorable scriptural example.",
+        "integration_hint": "Insert in the section discussing how attachment to 'my ice cream' or 'my car' leads to suffering, as a canonical illustration of the principle."
+      },
+      {
+        "quote": "punishment is out of the question in Buddhism. You don't have to punish anybody or punish yourself or get angry with yourself. All we're doing there is adding more suffering to the suffering. All we have to do is suffer consequences. That's all we're asked to do. And allow the heart, give it time to heal.",
+        "value": "complement",
+        "rationale": "The base discusses not indulging or repressing emotions but doesn't explicitly address self-punishment. This passage adds an important practical instruction about self-compassion when working with difficult emotions.",
+        "integration_hint": "Could be added near the end where the base discusses purifying the mind and letting go, as guidance on the proper attitude toward one's own suffering."
+      }
+    ]
+  },
+  "youtube_channel/S01E70_The_Four_Noble_Truths": {
+    "title": "The Four Noble Truths",
+    "collection": "youtube_channel",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "So even taking something like, something very heavy like a death, the death of somebody close to us. So a tremendous amount of grief and heart suffering. But then there's the reaction to that, which is sometimes a desire not to face it. So it remains in the system as a turbulence and sometimes the desire to indulge it. So you get into this wrong relationship with grief where if you stop grieving, you think you've stopped loving.",
+        "value": "complement",
+        "integration_hint": "Could be integrated into the section discussing reactions to loss and the shock-bargaining-anger-depression cycle, adding psychological depth about grief specifically.",
+        "rationale": "The base discusses reactions to loss abstractly; this passage adds a specific, psychologically insightful example about grief and the trap of equating continued grieving with continued loving."
+      },
+      {
+        "quote": "And of course, when we do indulge, there is always consequences, you know, the grief of loss, the anxiety of loss, you know, paying out loads for insurance. And there's the anger, you know, not getting what you want, the frustration of not getting what you want. And then, of course, the boredom, what used to make you happy and joyful, now you find boring. So there's a whole load of mental dis-eases that comes through the process of attachment, through the process of indulgence.",
+        "value": "complement",
+        "integration_hint": "Could strengthen the section on the 'merry-go-rounds' of desire, adding the insurance example as a concrete modern illustration of anxiety around attachment.",
+        "rationale": "The insurance detail is a vivid, relatable modern example that grounds the abstract teaching about consequences of attachment in everyday experience."
+      },
+      {
+        "quote": "Now you might think by reminding myself of that, I'm going to make myself depressed, but what happens is of course you find yourself living more in the moment living more in the moment you come to appreciate the moment more and therefore paradoxically your life becomes much more joyful for it",
+        "value": "enrich",
+        "integration_hint": "Could be added near the end where the base discusses preparing for death and the Buddha's peaceful death, addressing the common objection that contemplating death is morbid.",
+        "rationale": "This directly addresses a common fear about death contemplation and offers the paradoxical insight that it increases joy—a point the base implies but doesn't state explicitly."
+      },
+      {
+        "quote": "Body, mind and essence are all distinct and separate realities. Absolutely everything is known [...] She knows when greed, anger and delusion arise. All are known, I know them as they exist, in their natural states [...] no matter how much I'm exposed to them I'm unable to detect even an instant when they have any power over my heart",
+        "value": "example",
+        "integration_hint": "Could be added as a concrete example of what liberation from fear and difficult emotions actually looks like, near the discussion of the Buddha's peaceful death.",
+        "rationale": "This contemporary account from Mae Chee Kaew provides a vivid, accessible description of what freedom from difficult emotions actually feels like in practice—something the base discusses theoretically but doesn't illustrate with a modern example."
+      }
+    ]
+  },
+  "youtube_channel/S01E128_The_Paradox_of_Fear": {
+    "title": "The Paradox of Fear",
+    "collection": "youtube_channel",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "the way we act the way we experience fear is is a sudden jolt of a bad energy in the body and it tends to go away so if you step out on the road and a car just misses you you get that fright whereas [...] it tends to be it tends to be paralyzing and cold i think whereas anxiety is something long-term it's always about the future it's always what's going to happen next and uh we tend to feel that as an agitation and and it warms us up it heats us up",
+        "value": "complement",
+        "integration_hint": "Insert when distinguishing between different emotional states, near the definitions of moods, emotions, and feelings.",
+        "rationale": "The base discusses fear briefly but doesn't distinguish the phenomenological difference between acute fear (cold, paralyzing) and chronic anxiety (warm, agitating). This adds experiential clarity."
+      },
+      {
+        "quote": "from attachment comes grief from attachment comes fear one who is free from attachment has no grief so how can there be fear",
+        "value": "complement",
+        "integration_hint": "Could be placed alongside the Dhammapada quote about craving and fear to reinforce the teaching from a slightly different angle.",
+        "rationale": "This is a variant rendering of the same teaching that emphasizes attachment rather than craving, providing a complementary doctrinal perspective."
+      },
+      {
+        "quote": "dear heart i can feel you i know you're in a dreadful state but you know we'll just stay here for a little while and i'm sure that you'll release that energy see so by creating that sort of distance between what you're feeling and uh and and what is doing the feeling you're allowing that energy to dissipate",
+        "value": "example",
+        "integration_hint": "Insert in the practical section about experiencing moods at the bodily feeling level, as a concrete technique for working with fear.",
+        "rationale": "The base discusses experiencing feelings objectively but lacks this intimate, practical example of how to actually talk to oneself during difficult emotions."
+      },
+      {
+        "quote": "while i walked the fear and dread came upon me i neither stood nor sat nor lay down till i had soothed that fear and dread. While I stood, the fear and dread came upon me. I neither walked nor sat nor lay down till I had soothed the fear and dread",
+        "value": "anecdote",
+        "integration_hint": "Add as a scriptural example when discussing how to work with fear in meditation, showing the Buddha's own practice.",
+        "rationale": "The base references the Buddha's death as a model but lacks this powerful account of how the Buddha himself worked through fear and dread in his practice."
+      },
+      {
+        "quote": "fear and dread of consequences in the Buddha's understanding are actually our guardians they stop us doing unwholesome things",
+        "value": "enrich",
+        "integration_hint": "Add near the end when discussing liberation from fear, to nuance that not all fear is to be eliminated.",
+        "rationale": "The base focuses entirely on fear as problematic. This passage introduces the important Buddhist teaching that wholesome fear (hiri-ottappa) serves as a guardian, adding necessary balance."
+      }
+    ]
+  },
+  "bhante_essays/S02E15_Affectionate_Awareness": {
+    "title": "Affectionate Awareness.",
+    "collection": "bhante_essays",
+    "content_type": "text",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "Imagine yourself as a physiotherapist with a suffering patient who needs to stretch and exercise their limbs after a severe car accident. The excruciating pain is a necessary part of the healing process and the physio has to be firm, but also kind, gentle and encouraging.",
+        "value": "example",
+        "rationale": "The base discusses experiencing difficult emotions but lacks a concrete metaphor for how to hold them skillfully. This physiotherapist image provides a vivid, practical analogy for working with painful mental states.",
+        "integration_hint": "Insert when discussing how to experience moods and emotions at the bodily feeling level without indulgence or repression."
+      },
+      {
+        "quote": "Should an intense emotion or mood arise, we note it, and create a distance from it. The noting word, e.g. fear, fear, helps us to create that distance. Once that objectivity is there, not matter how tenuous, raise that old TLC, tender loving care, and as it were, hold the mental state in a warm embrace.",
+        "value": "complement",
+        "rationale": "The base explains objectivity toward emotions but doesn't offer the complementary element of warmth/care. This passage adds the affective dimension to the meditative approach.",
+        "integration_hint": "Add after the section on concentrating on feelings to stop the mind thinking, as a practical technique."
+      },
+      {
+        "quote": "We do this to deconstruct an emotion and in so doing it loses its solidity. When we see that emotions felt in the body are 'just' sensations, it helps us to lose our fear and aversion towards them.",
+        "value": "enrich",
+        "rationale": "The base discusses experiencing emotions as bodily feelings but doesn't explicitly state the purpose of deconstruction or how this reduces fear. This passage makes that connection explicit.",
+        "integration_hint": "Insert near the discussion of experiencing states of mind at their raw issue in the body."
+      },
+      {
+        "quote": "It is most important not to do this to get rid of it. That is just a manifestation of aversion and it will only subtly suppress it. Do it in order to undermine the reaction of aversion and fear and begin to feel at ease with the presenting mental state.",
+        "value": "complement",
+        "rationale": "The base warns against repression but doesn't address the subtle trap of using meditation techniques with aversive intent. This passage provides an important practical warning.",
+        "integration_hint": "Add to the section discussing how reactions of being depressed about being angry only fuel the process."
+      }
+    ]
+  },
+  "tips_of_the_day/S05E21_Downers": {
+    "title": "Downers.",
+    "collection": "tips_of_the_day",
+    "content_type": "text",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "So long as we are feeling 'a bit depressed', the big problem is we get depressed about it. Or angry about it. Even anxious about it. That's what can drive 'a bit depressed' into a serious depression.",
+        "value": "complement",
+        "integration_hint": "Could strengthen the section where the base discusses being 'depressed about being angry, angry about being anxious, anxious about being depressed'",
+        "rationale": "Expresses the same point more concisely and memorably, showing how secondary reactions escalate mild states into serious conditions"
+      },
+      {
+        "quote": "The Buddha asks us to really confront these feelings. Not in an aggressive way, but in a welcoming, kind, open-hearted way. He has a way of expressing this intimate embrace. He instructs us to 'feel feelings in feelings', to experience 'mental states in mental states'. In other words no barriers caused by aversion or fear.",
+        "value": "enrich",
+        "integration_hint": "Could be added to the section on experiencing moods and emotions at the bodily feeling level, providing the doctrinal basis from the Satipatthana",
+        "rationale": "Adds precise doctrinal reference to the Buddha's instruction on contemplating feelings, which the base lacks when discussing how to experience states objectively"
+      },
+      {
+        "quote": "It takes a lot of trust to open up to these dark whirlpools. At times we may feel overwhelmed. That's when we need the teacher or the therapist. But as we persist we see we are creating a different relationship towards aching states of mind and harrowing emotions. This is one of radical acceptance: this is the way it is; equanimity: open-hearted, open-minded, no resistance; and patient forbearance: a willingness to bear with mental pain.",
+        "value": "enrich",
+        "integration_hint": "Could enrich the section on sitting patiently with conditionings and allowing them to burn out, adding the three qualities needed",
+        "rationale": "Provides a clear framework (radical acceptance, equanimity, patient forbearance) that the base gestures toward but doesn't articulate as precisely"
+      },
+      {
+        "quote": "It is as though all that dark, oppressive turbulence is allowed to express itself fully and in so doing exhausts itself. Slowly these moods no longer hijack our lives. They become less dense and don't hang around so long.",
+        "value": "complement",
+        "integration_hint": "Could be added after the base's discussion of allowing moods to 'burn out' to describe what actually happens when we do this successfully",
+        "rationale": "Offers a vivid description of the outcome of patient practice that the base doesn't provide"
+      }
+    ]
+  },
+  "tips_of_the_day/S05E59_Fear": {
+    "title": "Fear!",
+    "collection": "tips_of_the_day",
+    "content_type": "text",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "So long as there is a self, a 'me', someone there to defend, there will be fear. Because the self, that notion or view of me, that sense of me, that I am someone, knows it cannot exist for ever. It knows it will die. The fear of death is the mother of all fears.",
+        "value": "complement",
+        "integration_hint": "Insert near the section where the base discusses fear as the 'champion and guardian of ego' and the connection between self-identity and fear.",
+        "rationale": "This passage articulates the relationship between self and fear more directly and memorably than the base, with the striking phrase 'the fear of death is the mother of all fears.'"
+      },
+      {
+        "quote": "To attach a fear to 'something' is more bearable than the fear of death, of annihilation, of total loss.",
+        "value": "enrich",
+        "integration_hint": "Could follow the base's discussion of how ego identifies with possessions and relationships, explaining why we displace primal fear onto specific objects.",
+        "rationale": "Offers a psychological insight about fear displacement that the base doesn't explicitly address, deepening the analysis of how fear operates."
+      },
+      {
+        "quote": "And since fear is the measure of our self-delusion, so the sense of self diminishes until such time as the wrong view of self, the belief that sense of self is substantial and essential, is cut asunder completely.",
+        "value": "complement",
+        "integration_hint": "Near the conclusion where the base discusses liberation and freeing ourselves from desire and obsession.",
+        "rationale": "Provides a doctrinal clarification linking fear directly to self-delusion and the path to liberation, which the base implies but doesn't state as directly."
+      },
+      {
+        "quote": "With every fear that arises we are given a chance to feel the raw emotional material. Slowly we become accustomed. The more accustomed, the more we lose the fear of those emotional sensations.",
+        "value": "enrich",
+        "integration_hint": "In the section about experiencing moods and emotions at the bodily feeling level, as practical guidance for working with fear.",
+        "rationale": "Adds practical instruction on gradual desensitization to fear that complements the base's advice about experiencing feelings objectively."
+      },
+      {
+        "quote": "Then we realise it is the deluded heart that goads the mind into horror scenarios. And as we gradually lose our fear of fear we begin to see the possibility of fearlessness. For if we lose our fear of fear, what could possibly frighten us?",
+        "value": "complement",
+        "integration_hint": "Near the end where the Buddha's Dhammapada quote about freedom from craving and fear appears.",
+        "rationale": "Offers an elegant expression of the goal—fearlessness—and the paradoxical insight about 'fear of fear' that enriches the base's discussion of liberation."
+      }
+    ]
+  },
+  "retreat_talks/S03E15_Fear": {
+    "title": "Fear",
+    "collection": "retreat_talks",
+    "content_type": "text",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "What the meditation is trying to do is get you in contact with fear before you call it fear. What's fear before you recognize it as fear? What is it? It's a bit nauseating. It's an uncomfortable feeling in the body. As soon as the mind recognises it as fear, it categorises it, blocks it. And as soon as it's done that, it'll react. It'll start being afraid of fear. And that's how we suppress stuff.",
+        "value": "complement",
+        "integration_hint": "Insert after the base's discussion of experiencing moods/emotions at the bodily feeling level, to deepen the practical instruction on working with fear.",
+        "rationale": "Provides a precise phenomenological description of how fear operates before conceptualization, which the base lacks despite discussing feelings in the body."
+      },
+      {
+        "quote": "So when fear arises, this is in your meditation now, when fear arises, you first of all have to hold steady and just feel that panic. See, the panic's the fear of the fear, which is making you run. You just hang on in there, you wait for it to die down. And then what you're building up is bravery, isn't it? Bravery is being able to stand in the midst of fear, not move.",
+        "value": "enrich",
+        "integration_hint": "Add to the section on meditation practice with difficult emotions, after discussing how to experience states at the bodily level.",
+        "rationale": "Offers practical meditation instruction on working with fear and introduces the concept of building bravery, which the base does not address."
+      },
+      {
+        "quote": "When you get into a personal therapy, just remind yourself that it's the deluded trying to find out how they're deluded. And the definition of delusion is, you don't know where the delusion is, so you wouldn't be deluded. So when fear comes up and you try and chase some historical moment when all this fear was gathered, then actually all you're doing is not facing the fear.",
+        "value": "complement",
+        "integration_hint": "Insert where the base discusses repressed feelings and psychosomatic issues, as a caution against analytical approaches.",
+        "rationale": "Provides a memorable, pithy warning against intellectualizing emotions rather than experiencing them directly—a practical pitfall the base doesn't address."
+      },
+      {
+        "quote": "Now, when you let things come up like that, because you're not identifying with it, I am afraid, because you're not pushing it away, feeding the system with fear, with more fear, because you're not turning away in aversion, because you're not trying to seek its origin, because you're not trying to do anything with it, you're therefore not empowering it at all. In which case, like any energy form, it has entropy. It will die away.",
+        "value": "enrich",
+        "integration_hint": "Add after the base's discussion of not indulging or repressing emotions, to explain the mechanism of release.",
+        "rationale": "Provides a clear explanation of why non-reactive awareness allows emotions to pass naturally, using the memorable metaphor of entropy."
+      },
+      {
+        "quote": "Now ultimately, what's the ultimate point? The ultimate point is the loss of fear of fear. And when you've lost your fear of fear, what's going to frighten you? It's at that point that fear drops away. And that's why, through your meditation, you should see that there's a possibility of the end of fear, the complete ending of fear.",
+        "value": "complement",
+        "integration_hint": "Add near the end of the chapter where the base discusses liberation and the Buddha's teaching on freedom from craving and fear.",
+        "rationale": "Provides a powerful, aspirational endpoint for working with fear that complements the base's discussion of liberation from suffering."
+      }
+    ]
+  },
+  "dhammabytes/S03E01_Anusaya_-_Latent_Tendencies": {
+    "title": "Anusaya - Latent Tendencies",
+    "collection": "dhammabytes",
+    "content_type": "audio",
+    "relevance": 8,
+    "passages": [
+      {
+        "quote": "If we take ignorance as a basic platform, as a latent tendency in the sense of not knowing, then you immediately enter into the delusion on the one side of wrong views and on the other side of self, which expresses itself as conceit. So it's, I have this view, I'm right and everybody else is wrong. That's your basic position. And from there, you fork into three, which relates to the way that the self relates to the world. Sensual pleasure and becoming. So that's to do with greed and acquisitiveness. Then you've got the aversion, so that's the negative side, not wanting. And then the doubt, which is the befuddlement that comes because of this basic ignorance.",
+        "value": "complement",
+        "integration_hint": "Could be integrated where the base discusses the root causes of desire and aversion, showing how ignorance underlies both.",
+        "rationale": "Provides a clear doctrinal map of how ignorance branches into wrong views, conceit, and the three poisons—a structural framework the base lacks when discussing desire and aversion."
+      },
+      {
+        "quote": "one of the best analogies is of a computer really because if you take metaphor to a logical end it's normally a sign of madness so it only works at certain levels you know so when we shut the computer down and unplug it and all that it's dead it's not but we know it's got this tremendous latent ability and then when you plug it in You can connect to the whole worldwide web, for heaven's sake. I mean, that's the potential of it. But when it's unplugged, it remains there just as purely latent.",
+        "value": "example",
+        "integration_hint": "Insert when the base discusses how moods and emotions lie dormant as sankaras waiting to surface.",
+        "rationale": "Offers a vivid, contemporary metaphor for latent tendencies that makes the abstract concept of dormant conditioning more accessible to modern readers."
+      },
+      {
+        "quote": "So all these conditionings, see the other word it uses, predisposition, and that links us with these sankaras, these volitional conditionings. So they're lying there in wait, you might say, but in this sort of non-existent form. But it's there within the psychic system, you could say. So something happens and they're there to be pulled out.",
+        "value": "enrich",
+        "integration_hint": "Could strengthen the base's explanation of sankaras as karmic results that 'just hang about' and surface when triggered.",
+        "rationale": "Clarifies the mechanism by which sankaras exist as potential rather than stored memory, adding precision to the base's treatment of volitional conditionings."
+      },
+      {
+        "quote": "the final thing is that until these anusaya are actually eradicated from the system, there's no way our unwholesome actions can stop. And the only way you can undermine them is through insight, which breaks the delusion. That's why in dependent origination the real break is at that point of ignorance.",
+        "value": "complement",
+        "integration_hint": "Add near the conclusion where the base discusses purifying the mind and catching desires 'in the bud.'",
+        "rationale": "Provides doctrinal precision about why insight is necessary for liberation—connecting the practical advice in the base to the deeper mechanism of breaking ignorance in dependent origination."
+      }
+    ]
+  },
+  "dhammabytes/S03E04_Dukkha_-_A_Hard_Place": {
+    "title": "Dukkha - A Hard Place",
+    "collection": "dhammabytes",
+    "content_type": "audio",
+    "relevance": 8,
+    "passages": [
+      {
+        "quote": "And this brings a lot of fear and that fear is the undermining of the idea that the body is me and mine.",
+        "value": "complement",
+        "integration_hint": "Could strengthen the section on fear and self-identity, where the base discusses how ego produces fear when threatened.",
+        "rationale": "This offers a precise formulation connecting fear directly to the undermining of self-identification with the body, complementing the base's discussion of fear as ego's guardian."
+      },
+      {
+        "quote": "You don't go to bed making a determination to wake up depressed. You just wake up depressed. And it's these sorts of recognitions that there are things going on inside us, both at the physical and mental level, over which we don't have this control.",
+        "value": "example",
+        "integration_hint": "Could be inserted in the section where the base discusses moods as states not under our control, arising as karmic results.",
+        "rationale": "This vivid, relatable example illustrates the involuntary nature of moods more memorably than the base's more abstract explanation."
+      },
+      {
+        "quote": "So it's sort of recognizing that when somebody comes to you and they say something and you feel irritation or disappointment, where's that coming from? And it's awakening to the fact that the suffering that we're actually experiencing is all self-created.",
+        "value": "complement",
+        "integration_hint": "Could reinforce the base's point about 'the great lie' that others cause our suffering, near the discussion of Little Lily blaming her parents.",
+        "rationale": "This passage offers a direct, practical framing of self-responsibility for emotional reactions that complements the base's narrative example."
+      },
+      {
+        "quote": "that puts you in charge that makes you responsible for your own mental states and what the Buddha is saying is that once you take full responsibility for your mental states for your unsatisfactoriness for your suffering then that's the path out of it because then you'll try and do something about it rather than blame the world blame society blame this and blame that",
+        "value": "enrich",
+        "integration_hint": "Could be added near the conclusion where the base discusses catching desires 'in the bud' and becoming the objective observer.",
+        "rationale": "This provides a clear statement about personal responsibility as the path out of suffering, adding motivational clarity to the base's practical guidance."
+      }
+    ]
+  },
+  "dhammabytes/S11E01_01_Sickness_Ageing_and_Death": {
+    "title": "01. Sickness Ageing and Death",
+    "collection": "dhammabytes",
+    "content_type": "audio",
+    "relevance": 8,
+    "passages": [
+      {
+        "quote": "So if you can imagine a doctor, the sort of awkwardness of having to tell somebody they have a terminal illness and that there's no chance of it being healed. So, I mean, they might say, well, you might last nine months, one year, two years, but the news is really bad, you see. And it must be difficult, even if they've done it many times, to actually have to say that to somebody, knowing the shock and the horror that it causes in people... Very different, of course, if the illness is something they can cure, then, you know, they're very happy to tell you that you'll be suffering miserably and terribly for a month. But at the end, you'll be all right. So when it comes to the harsh conditions of our life, the Buddha can be right in our face with it, you see, because he's got an answer. He says, well, there is an end to this suffering.",
+        "value": "complement",
+        "integration_hint": "Could be integrated near the discussion of terminal illness and death reactions, to frame why Buddhism can speak directly about suffering.",
+        "rationale": "Provides a vivid medical analogy that reframes the Buddha's directness about suffering as compassionate rather than harsh, complementing the base's discussion of reactions to terminal illness."
+      },
+      {
+        "quote": "I inform you, great king, I announce to you, great king, aging and death are rolling in on you. When aging and death are rolling in on you, great king, what should be done?",
+        "value": "example",
+        "integration_hint": "Could be added to the section discussing fear of death and ego's response to mortality.",
+        "rationale": "This powerful image of death 'rolling in' like mountains crushing all beings adds a memorable scriptural example to the base's discussion of death and fear."
+      },
+      {
+        "quote": "In this royal court, venerable sir, there are counselors who, when the enemies arrive, are capable of dividing them by subterfuge. There is no hope of victory by subterfuge, no chance of success when aging and death are rolling in. In this royal court, venerable sir, there exists abundant bullion and gold stored in vaults and lofts. And with such wealth we are capable of mollifying the enemies when they come. But there is no hope of victory by wealth, no chance of success when aging and death are rolling in.",
+        "value": "enrich",
+        "integration_hint": "Could strengthen the section on ego's futile attempts to protect itself from death.",
+        "rationale": "Illustrates through the king's confession that no worldly power—strategy, wealth, or force—can defeat death, reinforcing the base's point about ego's ultimate vulnerability."
+      },
+      {
+        "quote": "This tells us that, you know, sadness isn't beyond the Buddha. He's sad, you see. But he's not overwhelmed by it. He's not grieving for it.",
+        "value": "complement",
+        "integration_hint": "Could be added near the discussion of how enlightened beings face loss and death peacefully.",
+        "rationale": "Offers a nuanced clarification that equanimity doesn't mean absence of feeling, complementing the base's discussion of dying in peace."
+      }
+    ]
+  },
+  "dhammabytes/S11E04_04_The_Eight_Worldy_Conditions": {
+    "title": "04. The Eight Worldy Conditions",
+    "collection": "dhammabytes",
+    "content_type": "audio",
+    "relevance": 8,
+    "passages": [
+      {
+        "quote": "what it means by elated of course it means that sense of indulgence that sense of whoopee that sense of over excitement in things and of course this underlying presumption that it's always going to be like this that's the problem so it's not a case of not enjoying things you see the Buddha experiences enjoys the taste of food but he does not greed for it",
+        "value": "complement",
+        "integration_hint": "Could be added when discussing the distinction between healthy enjoyment and obsessive desire/indulgence in the pleasure-surfeit cycle.",
+        "rationale": "Clarifies that the Buddhist path doesn't mean eliminating enjoyment but rather the 'whoopee' indulgence and false presumption of permanence - a nuance the base touches on but this expresses more directly."
+      },
+      {
+        "quote": "there is nothing in the world worth holding on to. It's not only worth holding on to because if you do, like he says, it causes suffering, because it disappears, but because you're not holding on to actually on to anything. you think you're holding on to something but it's actually in a continual state of change while you're trying to hold on to it and that's grasping that fact that is a liberation you can release the grip",
+        "value": "enrich",
+        "integration_hint": "Could strengthen the section on attachment and letting go, particularly where the base discusses Lily's ice cream attachment.",
+        "rationale": "Adds a profound insight about the nature of grasping itself - that we're not even holding onto anything real - which deepens the base's discussion of attachment."
+      },
+      {
+        "quote": "A couple of weeks back, there was a program on Tony Hancock, the 1960s comedian. And he was famous, and he loved his fame, and he loved being famous. And the new comedy was coming in, all that satirical stuff. This was the week that was, and then Monty Python. And so he became sort of the old hat. And so he began to lose fame, and he became despairing about it. He tried to make it in Australia, failed, committed suicide.",
+        "value": "anecdote",
+        "integration_hint": "Could illustrate the discussion of how attachment to identity and desire leads to suffering, particularly in the section on ego and self-identity.",
+        "rationale": "Provides a concrete, memorable example of how attachment to fame/identity can lead to the ultimate despair - connecting directly to the base's discussion of ego, fear, and suicide."
+      },
+      {
+        "quote": "if you're the sort of person who says, well, as it comes, see, ah, you see, you've liberated yourself from a lot of suffering around tea. Just as it comes. And that's all the Buddha's saying",
+        "value": "example",
+        "integration_hint": "Could be added to the section on letting go of desires and preferences, as a simple everyday illustration.",
+        "rationale": "Offers a humble, relatable example of non-attachment in daily life that complements the base's more dramatic examples of desire and loss."
+      }
+    ]
+  },
+  "foundation_course/S01E01_The_First_Noble_Truth_-_Dukkha_Dukkha": {
+    "title": "The First Noble Truth - Dukkha Dukkha",
+    "collection": "foundation_course",
+    "content_type": "audio",
+    "relevance": 8,
+    "passages": [
+      {
+        "quote": "Very few people will face up to the fact of death. You can joke about it, but you can't talk about it seriously. That can get too close to the feelings of terror and horror it arouses. Some will have long conversations about death. What is death? What is it? To die? To be or not to be? Wonderful questions, but all intellectualizations, all rationalizations. It makes you feel good to talk about and around death, but it's still escapism. It's just a mental exercise. It separates us from the real feelings we have about death.",
+        "value": "complement",
+        "integration_hint": "Could be inserted near the discussion of fear as 'guardian of ego' and how we avoid facing death.",
+        "rationale": "The base discusses fear of death philosophically but lacks this vivid description of how we intellectualize to escape our actual feelings about death."
+      },
+      {
+        "quote": "If we really want to know what it is to die, we should visit mortuaries and look upon actual corpses. Not for ghoulish fancies, but to arouse our subconscious fears. This is what the monks in the Buddha's time used to do. They would visit the charnel grounds and gaze upon dead bodies in different states of decay.",
+        "value": "example",
+        "integration_hint": "Could follow the discussion of preparing for death through letting go of desire, offering a traditional Buddhist practice.",
+        "rationale": "Provides a concrete traditional practice that complements the base's more abstract discussion of preparing for death."
+      },
+      {
+        "quote": "Anxiety and fear drain our energy, bring about panic and confusion. With a clearer mind, a more firm direction can be found.",
+        "value": "enrich",
+        "integration_hint": "Could strengthen the section on fear as guardian of ego, adding the practical consequence of how fear affects our capacity to act.",
+        "rationale": "The base explains what fear is but this passage adds the practical impact on our functioning, complementing the theoretical explanation."
+      },
+      {
+        "quote": "This polarity of pessimism and false optimism needs to be steadied towards a calm grasp of reality, seeing the situation just as it is. We need to be very much aware of how our emotions colour a situation.",
+        "value": "complement",
+        "integration_hint": "Could be integrated near the discussion of the middle path and seeing things as they really are.",
+        "rationale": "Offers a succinct framing of the middle path approach to difficult emotions that the base discusses at length but doesn't express as concisely."
+      }
+    ]
+  }
+}

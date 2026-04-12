@@ -1,0 +1,744 @@
+{
+  "guided_meditations/S01E06_30_minute_Heartcare_Meditation": {
+    "title": "30 minute Heartcare Meditation",
+    "collection": "guided_meditations",
+    "content_type": "audio",
+    "relevance": 10,
+    "passages": [
+      {
+        "quote": "Don't be concerned if during the exercise loving feelings don't arise. Here we're concerned with attitude, developing an attitude of goodwill, metta. If pleasant emotions do arise, all well and good. If not, the exercise is still working for us and eventually the heart will respond.",
+        "value": "complement",
+        "integration_hint": "Insert near the base's discussion of attitude vs. emotion, where it explains that metta is attitude prior to emotional resonance.",
+        "rationale": "This provides a clear, reassuring practical instruction that complements the base's more theoretical explanation of attitude preceding emotion, offering practitioners direct guidance."
+      },
+      {
+        "quote": "Remembering that to forgive is not to forget, it's not to excuse, it's not to condone. It's simply a change of attitude, away from revenge and hurt, towards understanding and compassion. Driven always by a desire to be reconciled.",
+        "value": "replace",
+        "integration_hint": "Could replace or strengthen the base's passage about forgiveness not being forgetting or excusing, as this version is more concise and complete.",
+        "rationale": "The base covers similar ground but this formulation is more elegant and adds the positive framing of 'towards understanding and compassion' and 'desire to be reconciled.'"
+      },
+      {
+        "quote": "Whatever harm I have done to you, in thought, word and deed, by way of greed, hatred and delusion, intentionally or unintentionally, please forgive me.",
+        "value": "example",
+        "integration_hint": "Add as a practical formula/phrase in the section where the base discusses asking for forgiveness through internal dialogues.",
+        "rationale": "The base mentions practicing forgiveness through 'internal dialogues' but doesn't provide a specific formula. This gives practitioners exact words to use."
+      },
+      {
+        "quote": "Whatever harm you have done to me, in thought, word and deed, by way of greed, hatred and delusion, intentionally or unintentionally, I forgive you.",
+        "value": "example",
+        "integration_hint": "Add alongside the asking-for-forgiveness formula as the complementary phrase for forgiving others.",
+        "rationale": "Provides the parallel formula for the other direction of forgiveness, completing the practical toolkit for the forgiveness practice the base describes."
+      },
+      {
+        "quote": "Using the four affirmations, I can, I am able to resist its temptation, I ought to for my own benefit and the benefit of others, I want to and I will",
+        "value": "enrich",
+        "integration_hint": "Could be added to the base's discussion of intention and will, as a practical method for strengthening wholesome intentions.",
+        "rationale": "The base discusses intention and will theoretically but lacks a concrete technique. This 'can, ought, want, will' framework offers a practical method for working with intentions."
+      }
+    ]
+  },
+  "guided_meditations/S01E08_Just_Metta": {
+    "title": "Just Metta",
+    "collection": "guided_meditations",
+    "content_type": "audio",
+    "relevance": 10,
+    "passages": [
+      {
+        "quote": "remembering that here lies the gateway to universal, unconditional love",
+        "value": "enrich",
+        "integration_hint": "Could be added when discussing the practice of extending metta to difficult people, emphasizing the transformative potential of this challenging practice.",
+        "rationale": "The base text discusses difficult people but doesn't frame this practice as the 'gateway to universal, unconditional love' - this phrase elegantly captures why working with difficult people is spiritually significant."
+      },
+      {
+        "quote": "Offering Metta to all beings in the six directions. All beings before us. all beings behind us. All beings to our left. all beings to our right. all beings below us. all beings above us. and to all beings in all directions.",
+        "value": "complement",
+        "integration_hint": "Could be added to the section on illimitables to provide a concrete method for radiating metta universally in all directions.",
+        "rationale": "The base discusses metta being 'illimitable' and mentions 'innumerable number of beings' but doesn't provide this traditional six-directions framework which offers a practical, structured method for universal radiation."
+      }
+    ]
+  },
+  "guided_meditations/S02E05_Evening_Metta_Chant": {
+    "title": "Evening Metta Chant",
+    "collection": "guided_meditations",
+    "content_type": "audio",
+    "relevance": 10,
+    "passages": []
+  },
+  "guided_meditations/S02E06_Metta_Discourse": {
+    "title": "Metta Discourse",
+    "collection": "guided_meditations",
+    "content_type": "audio",
+    "relevance": 10,
+    "passages": [
+      {
+        "quote": "Even as a mother protects with her life a child, her only child, so with a boundless heart should one cherish all living beings, radiating kindness over the entire world, spreading upwards to the skies and downwards to the depths, outwards and unbounded, freed from hatred and ill-will.",
+        "value": "enrich",
+        "integration_hint": "Insert when discussing the nature of metta and its boundless quality, near the section on illimitables.",
+        "rationale": "This classic image from the Metta Sutta provides a powerful, memorable metaphor for boundless love that the base text lacks, making the teaching more vivid and emotionally resonant."
+      },
+      {
+        "quote": "Let them be able and upright, straightforward and gentle in speech, humble and not conceited, contented and easily satisfied, unburdened with duties and frugal in their ways, peaceful and calm and wise and skillful, not proud or demanding in nature.",
+        "value": "complement",
+        "integration_hint": "Add when discussing the qualities needed for metta practice, perhaps near the discussion of attitudes preceding emotions.",
+        "rationale": "This passage outlines the character qualities that support metta practice, providing concrete guidance on the practitioner's disposition that the base text does not explicitly enumerate."
+      },
+      {
+        "quote": "Whether standing or walking, seated or lying down, free from drowsiness, one should sustain this recollection. This is said to be the sublime abiding.",
+        "value": "enrich",
+        "integration_hint": "Insert where the base discusses practicing metta throughout the day and in all moments.",
+        "rationale": "This directly supports and elevates the base's point about practicing metta 'all the time, whenever you can' with scriptural authority and elegant phrasing."
+      },
+      {
+        "quote": "Let none deceive another or despise any being in any state. Let none through anger or ill will wish harm upon another.",
+        "value": "complement",
+        "integration_hint": "Add near the discussion of cruelty being the opposite of metta and the worst transgression.",
+        "rationale": "This provides a clear, concise ethical injunction that complements the base's discussion of cruelty and harm, offering a positive formulation of non-harm."
+      }
+    ]
+  },
+  "dharma_talks/S05E14_Guided_Metta": {
+    "title": "Guided Metta",
+    "collection": "dharma_talks",
+    "content_type": "audio",
+    "relevance": 10,
+    "passages": [
+      {
+        "quote": "Don't be concerned if during the exercise loving feelings don't arise. Here we're concerned with attitude, developing an attitude of goodwill, metta. If pleasant emotions do arise, all well and good. If not, the exercise is still working for us and eventually the heart will respond.",
+        "value": "complement",
+        "integration_hint": "Insert near the base's discussion of attitude vs. emotion, where it distinguishes metta from loving feelings.",
+        "rationale": "This provides a clear, reassuring instruction for practitioners that reinforces the base's teaching about attitude preceding emotion, but in more accessible, practical language."
+      },
+      {
+        "quote": "Remembering that to forgive is not to forget, it's not to excuse, it's not to condone. It's simply a change of attitude, away from revenge and hurt, towards understanding and compassion. Driven always by a desire to be reconciled.",
+        "value": "replace",
+        "integration_hint": "Could replace or strengthen the base's passage about forgiveness not being forgetting or excusing.",
+        "rationale": "This is a more concise and elegant formulation of the same point made in the base, with the added positive framing of 'towards understanding and compassion.'"
+      },
+      {
+        "quote": "Whatever harm I have done to you, in thought, word and deed, by way of greed, hatred and delusion, intentionally or unintentionally, please forgive me.",
+        "value": "example",
+        "integration_hint": "Add as a practical formula in the section on asking for forgiveness.",
+        "rationale": "The base discusses asking for forgiveness but doesn't provide a specific phrase practitioners can use; this gives a complete, usable formula."
+      },
+      {
+        "quote": "Whatever harm you have done to me, in thought, word and deed, by way of greed, hatred and delusion, intentionally or unintentionally, I forgive you.",
+        "value": "example",
+        "integration_hint": "Add as a practical formula in the section on forgiving others.",
+        "rationale": "Complements the previous formula by providing the corresponding phrase for forgiving others, giving practitioners concrete language to use."
+      },
+      {
+        "quote": "Using the four affirmations, I can, I am able to resist its temptation, I ought to for my own benefit and the benefit of others, I want to and I will",
+        "value": "enrich",
+        "integration_hint": "Could be added to the base's discussion of intention and will as a practical method for strengthening resolve.",
+        "rationale": "The base discusses intention and will but doesn't offer this structured four-part affirmation technique, which provides a practical tool for working with unwholesome tendencies."
+      }
+    ]
+  },
+  "dharma_talks/S22E05_Karaniya_Metta_Sutta": {
+    "title": "Karaniya Metta Sutta",
+    "collection": "dharma_talks",
+    "content_type": "audio",
+    "relevance": 10,
+    "passages": [
+      {
+        "quote": "Metta has the mode of friendliness as its characteristic. Its natural function is to promote friendliness. It is manifested as the disappearance of ill will. [...] When it succeeds, it eliminates ill will, because you can't have those two mental states together, right? If you've got good will, there can't be ill will there. When it fails, it degenerates into selfish, affectionate desire.",
+        "value": "complement",
+        "integration_hint": "Insert when discussing what metta is and its relationship to attachment, near the section distinguishing metta from worldly love.",
+        "rationale": "Provides Buddha Gosa's precise doctrinal definition of metta with clear criteria for success and failure, adding scholarly depth the base lacks."
+      },
+      {
+        "quote": "My own heart, let me more have pity on. Let me live to my sad self, hereafter kind, charitable. Not live this tormented mind with this tormented mind tormenting yet.",
+        "value": "example",
+        "integration_hint": "Add to the section on self-forgiveness or developing metta toward oneself.",
+        "rationale": "Offers a memorable poetic expression for self-compassion that could resonate emotionally and provide a practical touchstone for practice."
+      },
+      {
+        "quote": "just as a mother would protect her only child at the risk of her own life, even so we should cultivate boundless thoughts of loving kindness towards all beings",
+        "value": "enrich",
+        "integration_hint": "Include when discussing the intensity and boundlessness of metta practice.",
+        "rationale": "This is the Buddha's own powerful image from the Karaniya Metta Sutta, providing scriptural authority and a vivid metaphor not present in the base."
+      },
+      {
+        "quote": "whether you're standing, walking, seated or lying down, so as long as you're awake, You should develop this mindfulness. Now, whenever I read a translation, I always slip in affectionate there, right? It's not just mindfulness. It's an affectionate mindfulness.",
+        "value": "complement",
+        "integration_hint": "Add to the section where the base discusses practicing metta throughout the day and in daily life.",
+        "rationale": "Offers a practical refinement—'affectionate mindfulness'—that elegantly bridges metta and mindfulness practice."
+      },
+      {
+        "quote": "remember that it's good to have a touchstone. It's good to have something you can go back to, which raises that sense of warmth, that kindling in the heart. [...] if you've got that and you've developed it a bit you can always go back to it whenever we move into a category and you don't feel you don't you feel that the warmth in the heart has gone you just go back and remind yourself of that kindling",
+        "value": "enrich",
+        "integration_hint": "Insert in practical guidance section on how to maintain the feeling of metta during practice.",
+        "rationale": "Provides concrete practical technique for sustaining metta that complements the base's discussion of attitude versus emotion."
+      }
+    ]
+  },
+  "international_talks/S12E08_Metta_Guidata": {
+    "title": "Metta Guidata",
+    "collection": "international_talks",
+    "content_type": "audio",
+    "relevance": 10,
+    "passages": []
+  },
+  "tips_of_the_day/S01E10_Discourse_on_Metta": {
+    "title": "Discourse on Metta",
+    "collection": "tips_of_the_day",
+    "content_type": "text",
+    "relevance": 10,
+    "passages": [
+      {
+        "quote": "Just as a mother would protect her only child at the risk of her own life, So you should let the warmth of your heart go out to all beings.",
+        "value": "enrich",
+        "integration_hint": "Insert when discussing the nature of metta and its distinction from attachment, as this provides the classic simile from the Metta Sutta itself.",
+        "rationale": "The base discusses mother-child attachment but lacks this powerful canonical image that illustrates boundless metta without possessiveness - a perfect complement to the attachment discussion."
+      },
+      {
+        "quote": "Whether you are standing, walking, sitting or lying down, So long as you are awake you should develop this mindfulness. This, they say, is the noblest way to live.",
+        "value": "complement",
+        "integration_hint": "Add when the base discusses practicing metta throughout the day and during idle moments like waiting for buses.",
+        "rationale": "This provides the direct scriptural authority for the base's teaching about constant metta practice, expressed more elegantly and memorably than the base's explanation."
+      },
+      {
+        "quote": "Whatever living beings there are, be they weak or strong, big or small, large or slender, living nearby or far away, those who have already been born and those who have yet to be born, may all beings without exception be happy.",
+        "value": "enrich",
+        "integration_hint": "Insert when explaining why metta is called 'illimitable' - this passage shows the comprehensive scope of beings included.",
+        "rationale": "The base mentions metta is illimitable because of 'innumerable beings' but this passage gives the vivid enumeration from the sutta itself, making the teaching concrete."
+      },
+      {
+        "quote": "Do not wish harm to anyone, not even when you are angry.",
+        "value": "example",
+        "integration_hint": "Use when discussing forgiveness and the Buddha's teaching about not harboring anger even when harmed.",
+        "rationale": "This succinct instruction complements the base's longer discussion about receiving harm without anger, providing a memorable directive form of the same teaching."
+      }
+    ]
+  },
+  "tips_of_the_day/S01E11_Morning_Meditation_Developing_Goodwill_and_Forgiveness_the_Exercise": {
+    "title": "Morning Meditation: Developing Goodwill and Forgiveness – the Exercise",
+    "collection": "tips_of_the_day",
+    "content_type": "text",
+    "relevance": 10,
+    "passages": [
+      {
+        "quote": "The traditional blessings can be whittled down to four: May you be safe (from dangers outside and within ourselves) May you be well (free from all sickness and disease). May you be happy (free of all mental distress). May you enjoy ease of living. (May you live contented and in harmony with the world – alternative.)",
+        "value": "complement",
+        "integration_hint": "Insert after the base discusses what metta is ('whatever companionship, open-heartedness...') to provide the specific traditional phrases for practice.",
+        "rationale": "The base discusses metta conceptually but never gives the actual blessing phrases practitioners use. This provides the concrete traditional formulas with their meanings."
+      },
+      {
+        "quote": "The sequence of offering starts with: our benefactors (with gratitude goodwill arises naturally) those who are near and dear friends and co-workers a neutral person (someone we see, but don't know) towards myself a difficult person those around us those in the neighbourhood ('relocate' to where you live) all in our country all in Europe all people on earth all beings in all directions",
+        "value": "complement",
+        "integration_hint": "Add after explaining metta as the default position for relationships, to give practitioners a clear sequence for expanding their practice.",
+        "rationale": "The base mentions practicing metta but lacks the traditional sequence of recipients. This provides the complete progression from benefactors to all beings."
+      },
+      {
+        "quote": "Asking for forgiveness: bring an event or person to mind. Experience the arising states of mind – guilt, shame, remorse, self-justification. Acknowledge how we have caused our own suffering: reflect on the unwholesomeness of these states: apologise: determine not to behave in this way again.",
+        "value": "complement",
+        "integration_hint": "Insert in the forgiveness section where the base discusses asking for forgiveness, as a practical step-by-step method.",
+        "rationale": "The base discusses forgiveness conceptually but this provides a clear, actionable practice sequence that practitioners can follow."
+      },
+      {
+        "quote": "Forgiving oneself: Bring events to mind where we have harmed ourselves: consider the meaning of ignorance and delusion and how they manifest: accept that to suffer the consequences of past actions is enough, no need to punish oneself: determine not to repeat the same folly.",
+        "value": "complement",
+        "integration_hint": "Add to the self-forgiveness section where the base says 'forgiving ourselves is probably the most difficult thing to do' as a practical method.",
+        "rationale": "This distills the base's lengthy discussion of self-forgiveness into a clear practice sequence, complementing the conceptual explanation with actionable steps."
+      }
+    ]
+  },
+  "retreat_talks/S01E06_Heartcare_Metta_Meditation": {
+    "title": "Heartcare Mettā Meditation",
+    "collection": "retreat_talks",
+    "content_type": "text",
+    "relevance": 10,
+    "passages": [
+      {
+        "quote": "Don't be concerned if during the exercise loving feelings don't arise. Here we're concerned with attitude, developing an attitude of goodwill, *mettā*. If pleasant emotions do arise, all well and good. If not, the exercise is still working for us and eventually the heart will respond.",
+        "value": "complement",
+        "integration_hint": "Insert near the base's discussion of attitude vs. emotion, where it distinguishes metta from loving feelings.",
+        "rationale": "This offers a clear, reassuring instruction for practitioners that complements the base's teaching about attitude preceding emotion, providing practical guidance the base lacks."
+      },
+      {
+        "quote": "Remembering that to forgive is not to forget, it's not to excuse, it's not to condone. It's simply a change of attitude, away from revenge and hurt, towards understanding and compassion. Driven always by a desire to be reconciled.",
+        "value": "replace",
+        "integration_hint": "Could replace or strengthen the base's passage about forgiveness not being forgetting or excusing.",
+        "rationale": "This is a more concise and elegant formulation of the same point made in the base, with the added positive framing of what forgiveness IS rather than just what it isn't."
+      },
+      {
+        "quote": "Whatever harm I have done to you, in thought, word and deed, by way of greed, hatred and delusion, intentionally or unintentionally, please forgive me.",
+        "value": "example",
+        "integration_hint": "Add as a practical formula in the section on asking for forgiveness.",
+        "rationale": "The base discusses asking for forgiveness but lacks a specific verbal formula practitioners can use; this provides a complete, usable phrase."
+      },
+      {
+        "quote": "Whatever harm you have done to me, in thought, word and deed, by way of greed, hatred and delusion, intentionally or unintentionally, I forgive you.",
+        "value": "example",
+        "integration_hint": "Add as a practical formula in the section on forgiving others.",
+        "rationale": "Complements the previous formula by providing the reciprocal phrase for forgiving others, giving practitioners concrete language to use."
+      },
+      {
+        "quote": "Using the four affirmations: I can, I am able to resist its temptation; I ought to for my own benefit and the benefit of others; I want to; and I will – can, ought, want, will.",
+        "value": "enrich",
+        "integration_hint": "Could be added to the base's discussion of intention and will as a practical method for strengthening resolve.",
+        "rationale": "The base discusses intention and will but lacks this structured four-step affirmation method that provides a practical technique for working with intentions."
+      }
+    ]
+  },
+  "dhammabytes/S05E01_Metta_-_Love": {
+    "title": "Metta - Love",
+    "collection": "dhammabytes",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "So the mistake that is often made is that we're trying to get an emotion going, a loving, sweet, touchy-feely sort of emotion. And that's a disaster. You have to pretend that you're feeling loving. So abandon that. It's useless. The idea is that you're training your will, you see, your will to think lovingly.",
+        "value": "complement",
+        "integration_hint": "Could strengthen the section where base discusses the distinction between attitude and emotion in metta practice.",
+        "rationale": "More direct and emphatic expression of the attitude vs. emotion distinction, with the memorable phrase 'that's a disaster' which drives the point home."
+      },
+      {
+        "quote": "but then the danger is that you start doing this loving business in order to feel good. And that's when it becomes corrupted. So your attention is always on the other. Your goodwill is going outwards towards the other as an intention.",
+        "value": "enrich",
+        "integration_hint": "Insert after the base's discussion of metta becoming selfish, to clarify the correct orientation of attention.",
+        "rationale": "Adds a practical warning about corruption of practice and the crucial directional principle that attention goes outward, which the base doesn't state as explicitly."
+      },
+      {
+        "quote": "he talks about the mother. So a mother has four children and to one, occasionally, she's a friend, just a friend, talks, you know. When the child gets sick or when one of the children becomes sick, she tends to that child, so that's the compassion, you see. When one of the children has great success, you know, and all that, she feels naturally joyful, her child. And when that child leaves home, there's no clinging on. There's an ability just to let the child go. And that's the other attitude of equanimity",
+        "value": "example",
+        "integration_hint": "Could be added near the discussion of how compassion and joy arise naturally from metta as a concrete illustration.",
+        "rationale": "Provides a vivid, memorable image from the Buddha showing how one mother embodies all four brahmaviharas with her children - an elegant teaching device absent from the base."
+      }
+    ]
+  },
+  "foundation_course/S02E05_The_Divine_Abodes": {
+    "title": "The Divine Abodes",
+    "collection": "foundation_course",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "If I'm not supposed to be attached to anything, how can I love it? But attachment is when the object of love is defined as mine, belonging to me, or therefore my satisfaction. This is why affection and lust are the inner enemies.",
+        "value": "complement",
+        "integration_hint": "Insert after the base's discussion of attachment vs. love in the mother-child example, to clarify the precise distinction between metta and attached love.",
+        "rationale": "The base discusses attachment but doesn't explicitly define what makes attachment problematic in contrast to metta. This passage provides a clear doctrinal clarification."
+      },
+      {
+        "quote": "When two people fall in love in sweet infatuation, what's happening? It's ego meet ego. On the physical, emotional and mental level, for those few precious days, weeks or months, it seems that two are one. The other looks supremely beautiful, is totally loving and kind and so intelligent. Then the charm begins to wear off. Suddenly, ego doesn't mirror ego. Before they know it, these two lovebirds are bickering and biting each other.",
+        "value": "example",
+        "integration_hint": "Add after the base's discussion of romance being 'very delicious' but transient, to illustrate the ego-based nature of romantic attachment.",
+        "rationale": "The base mentions romance briefly but this passage provides a vivid, relatable illustration of how ego-based love operates and fails."
+      },
+      {
+        "quote": "Pooh does not grieve over Eeyore's plight. Pooh doesn't start to cry over it. If I go to the doctor to find out the results of an X-ray, and he pulls it out, holds it to the light, points tremblingly at the dark spot, and collapses into a heap of sobs while telling me I only have three weeks to live, how does that make me feel?",
+        "value": "anecdote",
+        "integration_hint": "Insert when the base discusses grief as the close enemy of compassion, to illustrate why grief hinders rather than helps.",
+        "rationale": "The base states grief is compassion's close enemy but lacks a memorable illustration. This vivid doctor example makes the point unforgettable."
+      },
+      {
+        "quote": "The fact is that the amount of grief we feel is proportionate to our attachment to that thing or person. If my mother is suffering, I feel terrible. If it's your mother, I feel sad for you. If it's Mrs. Bloggs, I don't feel anything. I don't know Mrs. Bloggs.",
+        "value": "complement",
+        "integration_hint": "Add to the base's section on grief and attachment to show how grief reveals the degree of attachment.",
+        "rationale": "The base discusses grief arising from attachment but this passage provides a concrete, graduated example that makes the principle immediately clear."
+      },
+      {
+        "quote": "If we think we have to grieve, then we may very well be reinforcing the grief and find ourselves grieving all our lives over a mistake or a loss of someone dear. It can become an illness.",
+        "value": "enrich",
+        "integration_hint": "Insert after the base's passage about equating grief with love, to warn about the danger of obligatory grieving.",
+        "rationale": "The base mentions people can't stop grieving because they equate it with love, but this passage adds the important point about socially-conditioned grief becoming pathological."
+      }
+    ]
+  },
+  "dharma_talks/S01E17_The_Illimitables": {
+    "title": "The Illimitables",
+    "collection": "dharma_talks",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "So the amount of hate we had eventually turns out to be the amount of love we have. And then of course we can develop love. So nothing is wasted in the universe. Nothing is wasted in the heart anyway. Everything eventually through this sort of practice becomes transformed. And you end up with the Buddha heart, the Buddha mind.",
+        "value": "enrich",
+        "integration_hint": "Could be added in the section discussing how metta transforms negative states, near the discussion of vipassana and metta working together.",
+        "rationale": "This offers a powerful and hopeful reframe about transformation that the base lacks - that hatred energy becomes love energy, nothing is wasted."
+      },
+      {
+        "quote": "with the youngest child, she's a friend. A friendly relationship. With the child who's sick, she's compassionate, looks after the child. With the child who's successful, she's full of sympathetic joy. And with the child that leaves home, she's equanimous. Being able to let somebody go. So that's the sign of a detached love. Because what you're saying to the person is, you're utterly free to be as you are.",
+        "value": "example",
+        "integration_hint": "Insert when discussing the four illimitables and how they relate to each other, after explaining metta as the foundation.",
+        "rationale": "This mother-child example beautifully illustrates all four brahmaviharas in one concrete image, making the teaching memorable and practical."
+      },
+      {
+        "quote": "So we think that part of our love contract is need. But that need is neurotic. That need is coming because we're not looking into ourselves for the fullness. So that's why the Buddha says, you know, the spiritual person, seek solitude. Be as lonely as a rhinoceros.",
+        "value": "complement",
+        "integration_hint": "Add to the section distinguishing metta from attachment, where the base discusses how attachment turns people into objects.",
+        "rationale": "This clarifies why attachment corrupts love and introduces the rhinoceros simile, adding doctrinal depth about self-sufficiency."
+      },
+      {
+        "quote": "Loneliness to what? To solitude. Solitude is being at peace, at one with oneself. Occasionally you feel it. But these things have to be developed. And you have to not be confused by those things that are negative in us.",
+        "value": "complement",
+        "integration_hint": "Could enrich the discussion of how metta reconnects us with ourselves, showing the transformation from loneliness to solitude.",
+        "rationale": "The base discusses reconnection but doesn't articulate this specific transformation from loneliness to solitude as clearly."
+      },
+      {
+        "quote": "I mean, we do it. We do it, but does it help? Does it help to pity somebody? I mean, how do we feel when somebody pities us? It's coming from a conceit, isn't it? It's coming from some place, almost, I always feel it's coming from some place of displaced fear, actually, and anxiety might happen to me.",
+        "value": "enrich",
+        "integration_hint": "Add to the section on grief as the near enemy of compassion, where the base mentions pity but doesn't explore its psychological roots.",
+        "rationale": "This provides deeper psychological insight into why pity/grief undermines compassion - it comes from fear and conceit, not genuine care."
+      }
+    ]
+  },
+  "dharma_talks/S16E10_Importance_of_Metta_24_minTo_play_the_media_you_will_need_to_either_update_your": {
+    "title": "Importance of Metta 24 min.To play the media you will need to either update your browser to a recent version or update yourFlash pluginThese two talks on Kamma are much the same but have a different ending or emphasis.May be worth listening to both after an interval of time between.",
+    "collection": "dharma_talks",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "Metta is all the qualities you would expect of yourself as a good friend or of a good friend. And it's the basis of our relationship to each other, to all beings really, a sense of care.",
+        "value": "complement",
+        "integration_hint": "Could be placed near the base's discussion of 'what would you want from a good friend' to reinforce the definition of metta.",
+        "rationale": "Offers a more concise and elegant formulation of metta as the basis of relationship, complementing the base's longer explanation."
+      },
+      {
+        "quote": "This is what's meant by loving your enemies. You don't have to like them. That's one of the gifts of a spiritual companion. You don't have to like them. But they're there as support.",
+        "value": "enrich",
+        "integration_hint": "Insert after the base's discussion of distinguishing metta from attachment and emotion, where it discusses goodwill toward difficult people.",
+        "rationale": "Adds a powerful clarification about loving enemies that the base doesn't explicitly address, making the teaching more practical."
+      },
+      {
+        "quote": "Contentment is the mark of the fully liberated person. This is the way it is. It's not a resignation. This is the way it is, what can we do? Contentment. And that contentment leads to a certain harmony working with the situation. Even when it's not particularly pleasant.",
+        "value": "enrich",
+        "integration_hint": "Could enrich the section on equanimity and the illimitables, distinguishing contentment from resignation.",
+        "rationale": "Provides a nuanced distinction between contentment and resignation that the base lacks, deepening understanding of the practice's goal."
+      },
+      {
+        "quote": "When we do this practice, especially towards ourselves, it can feel inauthentic because we don't feel it. But that's the confusion. Whether we feel it or not, we make these intentions. And it's the intentions which are authentic. Put your identity into the intentions.",
+        "value": "complement",
+        "integration_hint": "Place near the base's discussion of attitude versus emotion, where it says 'I'm not practicing goodwill unless I feel loving.'",
+        "rationale": "Offers a memorable instruction about authenticity residing in intention rather than feeling, reinforcing the base's point more directly."
+      },
+      {
+        "quote": "And you'll notice here that unlike in vipassana where we want to shut down the imagining thinking mind, now we're using it skillfully to develop attitude.",
+        "value": "enrich",
+        "integration_hint": "Insert in the section contrasting vipassana and metta practice, near the discussion of samatha.",
+        "rationale": "Provides a clear methodological distinction between vipassana and metta that helps practitioners understand how to approach each practice differently."
+      }
+    ]
+  },
+  "dharma_talks/S17E17_The_practice_and_the_pitfalls_of_metta_goodwill_practiceTo_play_the_media_you_wi": {
+    "title": "The practice and the pitfalls of metta, goodwill practice.To play the media you will need to either update your browser to a recent version or update yourFlash plugin",
+    "collection": "dharma_talks",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "I was with a monk, and there was a cat, and he'd obviously by now killed the mouse, but he was the sort of cat that definitely didn't need a mouse. I mean, it was definitely overweight. So I said, didn't you stop that, you see? And the monk replied, no, it was cat karma and mouse karma. So I said, well, that's fine, you see, I didn't say anything. Anyway, I was at another monastery, this completely different time, I can't remember the sequence of how long it was, but I was sitting with a group of monks, and a cat jumped out and caught this bird. And this monk, as quick as a flash, came up and just gave this cat one hell of a bat, and then picked up the bird and lifted it and realised it had been killed. and just lifted it very beautifully by the wings into the air and chanted anicca-vatasanka, all compounded things arise and pass away. And of course the difference between, and that cat also didn't need a bird, and of course the difference was that the second monk recognized that his awareness was part of their karma also.",
+        "value": "anecdote",
+        "integration_hint": "Insert after the discussion of how metta prevents vipassana from slipping into indifference, as a vivid illustration of engaged equanimity versus callous detachment.",
+        "rationale": "This memorable two-part anecdote powerfully illustrates the difference between indifference masquerading as equanimity and genuine compassionate engagement—a key point the base makes abstractly but lacks a concrete story to anchor."
+      },
+      {
+        "quote": "And it also extends to the way we treat objects. You know, just gently closing the door. Just the way we eat, you know, not to be stabbing the plate. I mean, consider the pain of the plate as you stab it with forks and cut into it with your knife, you know. And it's that sort of gentility with objects. Just, you know, just think how you close the fridge door. Catch yourself. See, there's no kindness towards the fridge and it does us such good service.",
+        "value": "example",
+        "integration_hint": "Add when discussing metta as our default relationship to the world, extending the concept beyond sentient beings to everyday objects.",
+        "rationale": "The base focuses metta on sentient beings; this passage extends the practice to mundane objects with humor and practical immediacy, offering practitioners a concrete daily application."
+      },
+      {
+        "quote": "When I began with Zen Buddhism, we had to treat all our crockery and stuff as it was all mingvas. That's what they taught us. And of course it did bring, it made very clear to me anyway, how I was bashing objects about. And of course that mirrors a certain hardness, you might say.",
+        "value": "example",
+        "integration_hint": "Could follow the fridge/plate example as a complementary training method from another tradition.",
+        "rationale": "Adds a cross-traditional training technique that makes the abstract principle of gentleness concrete and memorable."
+      },
+      {
+        "quote": "just as an aside, a woman came to me and said that whenever she sat her partner would complain that he felt she was cold and non-communicative after sitting. So I said, so what do you do at the end of a sit? Well, just get up. It's nice, you've got to do metta, see, and do it to your partner too. so that you sort of re-engage, you see.",
+        "value": "anecdote",
+        "integration_hint": "Insert where the base discusses metta as re-engagement after vipassana practice, as a practical relational example.",
+        "rationale": "This brief pastoral anecdote gives practitioners a concrete, relatable scenario showing the real-world consequences of neglecting metta after meditation."
+      },
+      {
+        "quote": "So if you think of the mind like an egg, the bottom part is all nicely fully developed, you see. So that's our usual stuff, you know, the stuff that we've developed both negative and positive. But the top bit, the top part of the egg is sort of slopes away and needs to be blown out a bit. So what we're doing is we are developing the beautiful side of the mind. But remember that in so doing, we're not treating with the underneath of the egg. That, as it were, remains untreated. But at least the mind on top of this swamp is actually growing and becoming beautiful.",
+        "value": "enrich",
+        "integration_hint": "Use when explaining how metta practice relates to but differs from vipassana—metta develops the beautiful states while vipassana addresses the underlying defilements.",
+        "rationale": "The egg metaphor (credited to Assagioli) offers a clear visual model for understanding how metta and vipassana complement each other, which the base discusses but without such a memorable image."
+      }
+    ]
+  },
+  "international_talks/S09E01_Metta_Bhavana_Bienveillance_15_minLausanne_Oct_2010": {
+    "title": "Metta Bhavana Bienveillance (15 min)(Lausanne Oct 2010)",
+    "collection": "international_talks",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": []
+  },
+  "international_talks/S11E07_Evening_Metta_Chant_and_Instructions": {
+    "title": "Evening Metta Chant and Instructions",
+    "collection": "international_talks",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": []
+  },
+  "youtube_channel/S01E34_Metta_Forgiveness_and_Determination_Practice": {
+    "title": "Metta, Forgiveness and Determination Practice",
+    "collection": "youtube_channel",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "Remember that when we are practicing vipassana, the quality that we want to develop is equanimity. So there's no specific effort to develop goodwill or compassion or joy. In a sense, that's all presumed. We wouldn't be doing it were it not that we care for ourselves. But when we finish the Vipassana and come out into the world, that equanimity can stay with us and can begin to corrupt into what's known as its more subtle enemy of indifference. We might feel we're not engaging. People might feel that we are indifferent. And so the way we overcome that is by practicing metta. That re-engages us.",
+        "value": "complement",
+        "integration_hint": "Could strengthen the section where the base discusses vipassana practitioners needing metta to avoid indifference/callousness.",
+        "rationale": "This passage articulates more clearly and concisely the relationship between vipassana equanimity and metta as a corrective, complementing the base's longer explanation."
+      },
+      {
+        "quote": "So it's not an emotion per se, but an attitude, as I say. so don't worry if you don't feel loving it's still working because these intentions are creating a habit right from an intention you get an action an action of thought in this case and an action of uh which comes out of goodwill and from that you get a habit",
+        "value": "enrich",
+        "integration_hint": "Insert near the base's discussion of metta as attitude vs emotion, where it distinguishes feeling loving from being in goodwill.",
+        "rationale": "Adds the practical reassurance that metta works even without emotional response, and explains the mechanism of habit formation through intention—a point the base touches on but doesn't develop as clearly."
+      },
+      {
+        "quote": "understanding dependent origination means that we understand that we have started from a position of not knowing and we make a mistake and this mistake leads us to have wrong attitude wrong understandings and through the practice of meditation these are corrected and we end up with wisdom from the heart's point of view we're never meant to do any harm we begin from a place of innocence but because of these wrong understandings we do harm and that's the suffering that we have within us and the pain that we cause others and through the process of meditation we allow the heart to heal itself and so we end up with purity",
+        "value": "complement",
+        "integration_hint": "Could enrich the base's discussion of self-forgiveness and the teaching that unwholesome actions arise from mistake/avijja.",
+        "rationale": "Presents the parallel trajectories of ignorance-to-wisdom and innocence-to-purity more elegantly and systematically than the base's treatment."
+      },
+      {
+        "quote": "Karma is very simple. It's at an obvious base. When you do harm, harm comes of it. And when you do something that's wholesome, good, good comes to it. You can say that as a sort of general rule. From our point of view, with this forgiveness, we have to understand that punishment, self-hatred, self-aversion, picking on ourselves are completely unnecessary. Whenever we do harm, all we have to do is bear the consequence. That's enough. That's the karmic consequence of what we've done. So we don't have to get into all this other stuff about hating ourselves and punishing ourselves",
+        "value": "replace",
+        "integration_hint": "Could replace or strengthen the base's discussion of karma and self-punishment in the forgiveness section.",
+        "rationale": "More direct and memorable formulation of the key insight that bearing consequences is sufficient—no self-punishment needed."
+      },
+      {
+        "quote": "So there are four steps to this. First of all, I can. So I can resist temptation and I can develop virtue. Then we have to take on personal responsibility for this. I ought to, for my own benefit and the benefit of others. Sometimes you have to cajole, you have to encourage the heart. I want to, I want to. And finally, when the occasion arises, I will, I will resist that temptation. I will develop that virtue.",
+        "value": "enrich",
+        "integration_hint": "Could be added as a practical technique following the base's discussion of intention and taking personal responsibility for change.",
+        "rationale": "Provides a concrete four-step method (can, ought, want, will) for developing determination that the base lacks entirely—a practical tool for readers."
+      }
+    ]
+  },
+  "youtube_channel/S01E36_Some_Pointers_for_Metta": {
+    "title": "Some Pointers for Metta",
+    "collection": "youtube_channel",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "So if we translate meta just as the attitude of goodwill and it manifests in three different ways uh from uh feelings of aversion we move towards love From feelings of selfishness, we move towards generosity. And from feelings of cruelty, not being nice to people, sarcasm, we move towards compassion.",
+        "value": "complement",
+        "integration_hint": "Insert after the base's discussion of metta as attitude vs. emotion, to show the three practical manifestations of goodwill.",
+        "rationale": "The base discusses metta as attitude but doesn't clearly map how it manifests in three distinct directions. This provides a clear, memorable framework."
+      },
+      {
+        "quote": "Our minds will remain unaffected and we will speak no evil words. We will remain sympathetic to the person's welfare with a mind of goodwill and with no hate. We will keep pervading him with awareness imbued with goodwill. And beginning with him, we will keep pervading the all-encompassing world with an awareness imbued with goodwill, abundant, exalted, immeasurable, free from hostility, and free from ill will.",
+        "value": "enrich",
+        "integration_hint": "Add when discussing the Buddha's teaching on metta practice, as a direct scriptural reference on how to train.",
+        "rationale": "The base lacks direct scriptural quotation on metta training. This passage from the Buddha's teaching to monks adds doctrinal authority."
+      },
+      {
+        "quote": "the operative phrase for me in this is awareness imbued with goodwill. So it's an affectionate awareness.",
+        "value": "complement",
+        "integration_hint": "Insert near the base's discussion of metta as attitude to provide this precise, elegant formulation.",
+        "rationale": "This is a concise, memorable phrase that crystallizes the essence of metta practice more elegantly than the base's longer explanations."
+      },
+      {
+        "quote": "How do you know that you are moving that way, you see? Well, it's when you're getting angry with somebody, right? If you're getting angry with somebody, they're doing something you don't want them to do. That means you want to control them.",
+        "value": "example",
+        "integration_hint": "Add to the section distinguishing metta from attachment, as a practical diagnostic for recognizing when love becomes control.",
+        "rationale": "The base discusses attachment vs. love abstractly but lacks this practical test for self-diagnosis in relationships."
+      },
+      {
+        "quote": "Every time you give with the heart of letting go, you're renouncing something. And that means that there's less and less clinging in the system, less and less clinging.",
+        "value": "complement",
+        "integration_hint": "Could enrich the discussion of metta's connection to the spiritual path, showing how generosity as metta-expression supports renunciation.",
+        "rationale": "The base doesn't connect metta to generosity and renunciation. This shows how metta practice reduces clinging through giving."
+      }
+    ]
+  },
+  "youtube_channel/S01E107_The_Discourse_Developing_Loving_Kindness": {
+    "title": "The Discourse Developing Loving Kindness",
+    "collection": "youtube_channel",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "This is what has to be done. One has to be skilled in what is good in order to reach the peaceful state. Okay, Santam Padam, the path of peacefulness. Now, this is about achieving Nirvana.",
+        "value": "complement",
+        "integration_hint": "Could be added when discussing the purpose and goal of metta practice, connecting it explicitly to the path toward Nirvana.",
+        "rationale": "The base discusses metta's benefits but doesn't explicitly connect it to the ultimate goal of Nirvana as stated in the Karaniyametta Sutta."
+      },
+      {
+        "quote": "Metta has the mode of friendliness as its characteristic. Its natural function is to promote friendliness. It is manifested as the disappearance of ill-will. That's a bit odd, isn't it? To manifest something that disappears. But it's basically, when there's no ill-will, you know that it's got to be meta. And its footing, its basis, is seeing with kindness.",
+        "value": "enrich",
+        "integration_hint": "Insert when defining what metta is, after the discussion of metta meaning 'friend' (mitra).",
+        "rationale": "Provides Buddhaghosa's precise doctrinal definition with characteristic, function, manifestation, and basis - a systematic framework the base lacks."
+      },
+      {
+        "quote": "When it succeeds, it eliminates ill-will, because you can't have those two mental states together. If you've got good will, there can't be ill-will there. When it fails, it degenerates into selfish affectionate desire.",
+        "value": "complement",
+        "integration_hint": "Could strengthen the section distinguishing metta from attachment, showing what happens when metta practice fails.",
+        "rationale": "Offers a clear doctrinal point about metta's success and failure that complements the base's discussion of attachment as metta's 'close enemy'."
+      },
+      {
+        "quote": "My own heart, let me more have pity on. Let me live to my sad self, hereafter kind, charitable. Not live this tormented mind, with this tormented mind tormenting yet.",
+        "value": "example",
+        "integration_hint": "Could be added to the section on self-forgiveness or developing metta toward oneself.",
+        "rationale": "A memorable poetic expression from Gerard Manley Hopkins that eloquently captures self-compassion, adding literary depth to the teaching on forgiving oneself."
+      },
+      {
+        "quote": "remember that it's good to have a touchstone it's good to have something you can go back to which raises that sense of warmth that kindling in the heart so for instance uh i know one teacher talks about holding a baby you see you use a pet yeah we always love pets",
+        "value": "enrich",
+        "integration_hint": "Add as practical guidance when discussing how to cultivate the feeling of metta during practice.",
+        "rationale": "Provides concrete practical technique for generating metta that the base doesn't explicitly offer - using a 'touchstone' image to kindle warmth."
+      }
+    ]
+  },
+  "tips_of_the_day/S01E09_Morning_Meditation_Metta_Developing_Goodwill_the_Theory": {
+    "title": "Morning Meditation : Metta : Developing Goodwill – the Theory.",
+    "collection": "tips_of_the_day",
+    "content_type": "text",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "A woman told me that after practising vipassana her husband found her cold and unresponsive. I suggested she practice metta. The last report was positive.",
+        "value": "anecdote",
+        "integration_hint": "Insert after the base's discussion of vipassana practitioners becoming aloof or indifferent without metta practice.",
+        "rationale": "This concrete real-life example vividly illustrates the danger of vipassana-only practice that the base discusses abstractly, making the teaching more memorable and relatable."
+      },
+      {
+        "quote": "That's why I prefer the translation of goodwill as opposed to loving-kindness, though it is also that.",
+        "value": "complement",
+        "integration_hint": "Add when the base discusses what metta is and its distinction from emotions.",
+        "rationale": "The base uses 'goodwill' but doesn't explicitly justify this translation choice over 'loving-kindness' - this passage provides that doctrinal clarification."
+      },
+      {
+        "quote": "It can even affect the way we treat objects. How often have you closed the fridge door gently and kindly?",
+        "value": "example",
+        "integration_hint": "Insert after the base's discussion of metta as the basic relationship to all sentient beings.",
+        "rationale": "This whimsical, everyday example extends metta beyond beings to objects, offering a fresh and memorable illustration that the base lacks."
+      },
+      {
+        "quote": "For metta is the only true revolutionary force.",
+        "value": "enrich",
+        "integration_hint": "Could serve as a powerful closing statement for the section on practicing metta throughout daily life.",
+        "rationale": "This striking, memorable phrase elevates the significance of metta practice in a way the base doesn't articulate, providing an inspiring summary statement."
+      }
+    ]
+  },
+  "tips_of_the_day/S05E77_Yearning_for_a_Better_World": {
+    "title": "Yearning for a Better World",
+    "collection": "tips_of_the_day",
+    "content_type": "text",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "Don't underestimate the potential for good even in a single good-wish. The flap of a butterfly wing can cause a storm. The ripple effects of metta through the world are similarly unpredictable.",
+        "value": "example",
+        "integration_hint": "Could be added when discussing the importance of practicing metta throughout the day, near the section about using small moments of time for metta practice.",
+        "rationale": "Adds a vivid metaphor (butterfly effect) that illustrates the far-reaching potential of metta practice, complementing the base's discussion of constant practice."
+      },
+      {
+        "quote": "It's the delusion that we should somehow be able to save the world that brings on anxiety, prevents us seeing the potential for good in others.",
+        "value": "complement",
+        "integration_hint": "Could strengthen the discussion about impotence and ego when facing situations we cannot change, near the passage about 'rings of power and influence.'",
+        "rationale": "Provides a clear doctrinal point about how delusion about our capabilities creates anxiety, directly supporting the base's teaching on accepting our limitations."
+      },
+      {
+        "quote": "Seeing how much work is needed to change ourselves for the better, we start to feel relieved that we're not expected to do this for anyone else never mind the whole world!",
+        "value": "enrich",
+        "integration_hint": "Could be integrated into the section discussing the relationship between vipassana and metta, showing how self-understanding supports compassionate practice.",
+        "rationale": "Offers a practical insight about how vipassana supports metta by giving perspective on our own transformation, connecting the two practices discussed in the base."
+      }
+    ]
+  },
+  "tips_of_the_day/S05E85_Quench_all_Resentments": {
+    "title": "Quench all Resentments.",
+    "collection": "tips_of_the_day",
+    "content_type": "text",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "Resentment burns. Old wounds smoulder in the heart. Fantasies of revenge fan to flames. And the desire for vengeful acts, retaliation, becomes more and more violent. Sometimes we shock ourselves at the fierceness of our imaginations and then quickly supress them and with them the blazing. And this malevolence begins to manifest in more subtle ways, such as the passive aggression of sarcasm.",
+        "value": "enrich",
+        "integration_hint": "Could introduce the forgiveness section with this vivid description of how resentment operates in the heart.",
+        "rationale": "The base discusses forgiveness but lacks this visceral, poetic description of how resentment actually feels and escalates internally."
+      },
+      {
+        "quote": "If bandits brutally severed limb from limb with a two handled saw, he who entertains hatred in his heart on that account, would not be one who carries out my teaching",
+        "value": "complement",
+        "integration_hint": "Could be added alongside the base's reference to the same simile to provide the actual scriptural quote with citation (M i 129).",
+        "rationale": "The base paraphrases this teaching but the candidate provides the actual quote with citation, adding doctrinal precision."
+      },
+      {
+        "quote": "Seemingly it takes 90 seconds for the chemicals caused by anger to dissolve once we are patient. Hence count ten … slowly!",
+        "value": "example",
+        "integration_hint": "Could be inserted where the base discusses bearing with negative states and allowing energy to dissipate.",
+        "rationale": "Adds a concrete, practical detail that grounds the abstract teaching about patience in physiological reality."
+      },
+      {
+        "quote": "a more subtle contemplation is to ask what is it I actually resent? Breaking the person up into parts – is it the hair? The knees? And so on. Seeing the person through the Elements of Earth (solidity), Water (fluidity, elasticity), Fire (heat and cold) or Air (movement). In other words, by dissecting the person, one finds there is nothing solid, substantial to be angry with.",
+        "value": "complement",
+        "integration_hint": "Could be added to the forgiveness section as an advanced technique, connecting to the base's teaching on not-self.",
+        "rationale": "Provides a specific contemplative technique from the Path of Purification that the base lacks, linking forgiveness practice to the anatta teaching already present in the base."
+      },
+      {
+        "quote": "When all has failed, finally, most difficult, buy the person a present! An act of generous forgiveness is a powerful way to douse the flames.",
+        "value": "example",
+        "integration_hint": "Could be added near the end of the forgiveness discussion as a practical, surprising technique.",
+        "rationale": "Offers a concrete, memorable action that complements the base's more internal approach to forgiveness."
+      }
+    ]
+  },
+  "tips_of_the_day/S05E121_Self-love_and_Self-Acceptance_Bhante_Bodhidhamma": {
+    "title": "Self-love and Self-Acceptance  Bhante Bodhidhamma",
+    "collection": "tips_of_the_day",
+    "content_type": "text",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "In the practice of Metta, traditionally it begins with directing love towards oneself on the understanding that you can't love others until you love yourself. If you consider someone who is full of self-hatred, self-criticism, self-recrimination, self-blame, it's hard to see how they have the heart space to love another person.",
+        "value": "complement",
+        "integration_hint": "Insert when discussing the foundation of metta practice, before or after explaining metta as the default position for relating to sentient beings.",
+        "rationale": "The base text discusses metta extensively but doesn't explicitly address why self-love comes first in the traditional practice sequence. This passage provides clear doctrinal grounding for beginning metta with oneself."
+      },
+      {
+        "quote": "We might try to practice Metta in the belief it will get rid of the self-hatred, but in fact it is an overlay for it is developing another mental state, loving kindness, on top of the self-hatred. It's like covering a mouldy cake with icing.",
+        "value": "example",
+        "integration_hint": "Add when discussing the relationship between metta practice and dealing with negative mental states, near the section on self-forgiveness.",
+        "rationale": "This vivid metaphor of the mouldy cake with icing provides a memorable image that warns against superficial practice, complementing the base's discussion of genuine transformation versus suppression."
+      },
+      {
+        "quote": "When we find ourselves in a state of self-loathing, not good enough, useless and so on, we have to hold it in a caring embrace. It helps to talk to it. 'I can feel your hatred and anger'. Describe the qualities, 'so hot, so turbulent'. In this way we can distance from these states and in so doing find ourselves with them but not in them.",
+        "value": "enrich",
+        "integration_hint": "Integrate into the section on self-forgiveness, providing a practical technique for working with difficult self-directed emotions.",
+        "rationale": "The base discusses self-forgiveness conceptually but lacks this specific practical technique of holding negative states in a 'caring embrace' and dialoguing with them, which offers concrete guidance."
+      },
+      {
+        "quote": "If we suffer, for instance, from feeling not good enough, the first port of call is to ask, to whom am I comparing myself? And is this a wholesome way to go about life? What is the point of such comparison? If I were to compare myself favourably with someone whom I judge to be inferior to me, I would call that conceit. So, adversely comparing myself as 'inferior' is an inverted conceit.",
+        "value": "complement",
+        "integration_hint": "Add to the self-forgiveness section to deepen the analysis of why we struggle with self-acceptance.",
+        "rationale": "This insight about 'inverted conceit' provides a sophisticated doctrinal point about the nature of self-criticism that the base text doesn't address, enriching the discussion of self-forgiveness."
+      }
+    ]
+  },
+  "tips_of_the_day/S05E134_Cultivating_Metta_for_Future_Generations": {
+    "title": "Cultivating Metta for Future Generations.",
+    "collection": "tips_of_the_day",
+    "content_type": "text",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "Because the Metta Sutta asks us to extend goodwill and care to 'those born and to be born', I guessed the Buddha would have provided some help with this aspect of metta practice",
+        "value": "complement",
+        "integration_hint": "Could be added when discussing the scope of metta practice and the Buddha's teaching on developing goodwill toward all beings.",
+        "rationale": "The base discusses metta toward various beings but doesn't explicitly mention extending metta to future generations, which is part of the traditional teaching."
+      },
+      {
+        "quote": "But unless we can do this with good will, we risk burning out, overwhelmed by the immensity of the task, demoralised by the cultural habits that fuel climate change and blind us to the coming catastrophe. To sustain our efforts we need to develop a metta (goodwill) practice",
+        "value": "complement",
+        "integration_hint": "Could be integrated where the base discusses metta as re-engagement with the world and its practical benefits.",
+        "rationale": "Adds a contemporary application showing how metta practice sustains compassionate action and prevents burnout - a practical dimension the base doesn't address."
+      },
+      {
+        "quote": "I recruited my grandparents in the flow of goodwill, imagining them wishing me and all their grandchildren well. It then became easy and natural for this metta to flow onwards to future generations.",
+        "value": "example",
+        "integration_hint": "Could be added as a practical technique when discussing how to develop and extend metta practice.",
+        "rationale": "Provides a concrete, creative method for extending metta that complements the base's discussion of metta practice techniques."
+      }
+    ]
+  }
+}

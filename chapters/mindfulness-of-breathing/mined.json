@@ -1,0 +1,709 @@
+{
+  "guided_meditations/S01E10_Mahasi_Sayadaw_Introductory_Talk": {
+    "title": "Mahasi Sayadaw Introductory Talk",
+    "collection": "guided_meditations",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "The practice of Vipassana or inside meditation is the effort made by the meditator to understand correctly the nature of the psychophysical phenomena taking place in his own body. Physical phenomena are the things or objects which one clearly perceives around one. The whole of one's body that one clearly perceives constitutes a group of material qualities Rupa. Psychical or mental phenomena are acts of consciousness or awareness. These Nama Rupas are clearly perceived to be happening whenever they are seen, heard, smelled, tasted, touched or thought of.",
+        "value": "complement",
+        "integration_hint": "Insert near the beginning when introducing Vipassana practice, before the posture instructions.",
+        "rationale": "Provides a clear doctrinal definition of Vipassana and the nama-rupa distinction that the base text lacks, grounding the practice in its theoretical framework."
+      },
+      {
+        "quote": "The movement and the mental awareness of it should coincide in the same way as a stone thrown hits the target",
+        "value": "example",
+        "integration_hint": "Add when explaining how to note the rising and falling of the abdomen, to illustrate the simultaneity required.",
+        "rationale": "Vivid metaphor that makes the abstract concept of concurrent awareness more concrete and memorable."
+      },
+      {
+        "quote": "The yogi should behave as if he were a weak invalid. People in normal health rise easily and quickly or abruptly. Not so with feeble invalids who do so slowly and gently. The same is the case with people suffering from backache who rise gently lest the back hurt and cause pain. So also with meditating yogis. They have to make their changes of posture gradually and gently. Only then will mindfulness, concentration and insight be good.",
+        "value": "example",
+        "integration_hint": "Insert when discussing how to move during meditation or when changing posture, to emphasize the quality of gentle, mindful movement.",
+        "rationale": "Powerful analogy that complements the base's instruction about slow movement with a memorable image of the 'weak invalid'."
+      },
+      {
+        "quote": "The Venerable Ananda was trying strenuously to attain Arhatship overnight on the eve of the first Buddhist Council. He was practicing the whole night the form of Vipassana meditation known as Kaya Pitta Sati [...] While doing so and noting lying, lying, he attained arhatship in an instant.",
+        "value": "anecdote",
+        "integration_hint": "Add in the section about noting while lying down or when discussing the potential for insight at any moment.",
+        "rationale": "Classic Buddhist story that illustrates how awakening can occur during simple noting practice, adding inspirational depth to the instructions."
+      },
+      {
+        "quote": "Thus, with every act of noting, the yogi will come to know for himself clearly that there are only this material quality which is the object of awareness or attention and the mental quality that makes a note of it. This discriminating knowledge is called Nama Rupa Prithida Jnana, the beginning of the Vibhasana Jnana.",
+        "value": "enrich",
+        "integration_hint": "Add when discussing the development of insight through noting practice, perhaps near the section on the three characteristics.",
+        "rationale": "Provides the Pali technical term and doctrinal precision about the first stage of insight knowledge that the base text does not explicitly name."
+      }
+    ]
+  },
+  "international_talks/S01E06_Méditation_Assise": {
+    "title": "Méditation Assise",
+    "collection": "international_talks",
+    "content_type": "audio",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "Donc ne dites pas cela avant. Avant la respiration, faites-le vraiment la petite note mentale en même temps que l'acte lui-même, sinon cela donnera une impression de contrôle de la respiration.",
+        "value": "complement",
+        "integration_hint": "Insert after the base's instruction on using 'se soulever, s'abaisser' noting, to clarify timing.",
+        "rationale": "Adds a practical precision about synchronizing the mental note with the breath that the base doesn't explicitly address, preventing a common beginner mistake."
+      },
+      {
+        "quote": "Laissez tomber l'histoire. On s'intéresse seulement à l'attitude, à l'humeur, à l'énergie de l'émotion.",
+        "value": "enrich",
+        "integration_hint": "Add when discussing how to note wandering thoughts and emotions, after 'notez ce qu'il est en train de faire'.",
+        "rationale": "Offers a vivid, concise instruction that clarifies the distinction between content and energy of mental states, which the base implies but doesn't state so directly."
+      },
+      {
+        "quote": "Si vous sentez des tensions quand vous faites cela, Remettez-vous à l'intérieur de vous-même et ayez l'impression de recevoir la respiration.",
+        "value": "complement",
+        "integration_hint": "Insert in the section about observing breath closely, as a remedy for tension that can arise from focused attention.",
+        "rationale": "Provides a helpful adjustment technique for practitioners who become tense when concentrating, which the base doesn't address."
+      },
+      {
+        "quote": "Est-ce que celui qui perçoit peut être ce qui est perçu ? Nous sommes dans ce poste d'observation à l'intérieur de nous-mêmes.",
+        "value": "enrich",
+        "integration_hint": "Add to the section on anatta/non-self, near the discussion of observer and observed.",
+        "rationale": "Offers a powerful contemplative question that deepens the base's teaching on non-identification and the observer position."
+      },
+      {
+        "quote": "Mettons de côté toutes les instructions. Ayons confiance dans cette conscience intuitive qui comprend de par elle-même. Nous n'avons pas besoin de penser à quelque chose de particulier. Simplement regarder, ressentir, faire l'expérience intime.",
+        "value": "enrich",
+        "integration_hint": "Add toward the end of the meditation instructions, before the metta section, as a culminating instruction.",
+        "rationale": "Expresses beautifully the transition from technique to natural awareness, complementing the base's emphasis on satipañña with a more poetic invitation to trust intuitive wisdom."
+      }
+    ]
+  },
+  "retreat_talks/S03E08_Mahasi_Talk": {
+    "title": "Mahāsi Sayādaw: Practical Vipassanā Meditation Instructions",
+    "collection": "retreat_talks",
+    "content_type": "text",
+    "relevance": 9,
+    "passages": [
+      {
+        "quote": "The meditative process is like that of producing fire by energetically and unremittingly rubbing two sticks of wood together so as to attain the necessary intensity of heat when the flame arises. In the same way, the noting in vipassanā meditation should be continual and unremitting, without any resting interval between acts of noting whatever phenomena may arise.",
+        "value": "example",
+        "integration_hint": "Insert after the section on maintaining continuous attention and returning to the breath, to illustrate the importance of unbroken practice.",
+        "rationale": "This vivid fire-making metaphor from Mahasi Sayadaw himself powerfully illustrates why continuity of noting is essential, adding a memorable image the base lacks."
+      },
+      {
+        "quote": "Thus it was that the Venerable Ānanda became an arahant. The Venerable Ānanda was trying strenuously to attain arahantship overnight on the eve of the first Buddhist council. He was practicing the whole night the form of vipassanā meditation known as kāyagatāsati, noting his steps, right and left, raising, pushing forward and dropping of the feet, noting, happening by happening, the mental desire to walk and the physical movement involved in walking. Although this went on till it was nearly dawn, he had not yet succeeded in attaining arahantship. Realising that he had practiced the walking meditation to excess and that in order to balance samādhi, concentration, and vīriya, effort, he should practice meditation in the lying posture for a while, he entered his chamber. He sat on the couch and then laid himself down. While doing so and noting 'lying, lying,' he attained arahantship in an instant.",
+        "value": "anecdote",
+        "integration_hint": "Add after discussing how noting applies to all postures and movements, as an inspiring example of attainment through diligent noting.",
+        "rationale": "This canonical story of Ānanda's awakening provides a powerful, inspiring anecdote showing that liberation can occur in any moment of mindful noting."
+      },
+      {
+        "quote": "The yogi should behave as if he were a weak invalid. People in normal health rise easily and quickly or abruptly. Not so with feeble invalids who do so slowly and gently. The same is the case with people suffering from backache who rise gently lest the back hurt and cause pain. So also with meditating yogis. They have to make their changes of posture gradually and gently. Only then will mindfulness, concentration and insight be good.",
+        "value": "example",
+        "integration_hint": "Insert in the section about moving slowly and maintaining attention when changing posture.",
+        "rationale": "The 'weak invalid' simile offers a concrete, relatable image for how to move mindfully that complements the base's instructions on gentle movement."
+      },
+      {
+        "quote": "'Patience leads to Nibbāna,' as the saying goes. This saying is most relevant in meditational effort. One must be patient in meditation. If one shifts or changes one's posture too often because one cannot be patient with the sensation of stiffness or heat that arises, samādhi, good concentration, cannot develop. If samādhi cannot develop, insight cannot result, and there can be no attainment of magga, the path that leads to Nibbāna, phala, the fruit of that path, and Nibbāna.",
+        "value": "complement",
+        "integration_hint": "Add to the section on patience with discomfort and pain during sitting, reinforcing the doctrinal importance of patience.",
+        "rationale": "This passage provides a clear doctrinal chain linking patience to concentration to insight to liberation, strengthening the base's discussion of working with pain."
+      },
+      {
+        "quote": "The physical object of attention and the mental act of noting are occurring as a pair. There is in this occurrence no person or individual involved. Only this physical object of attention and the mental act of noting occurring as a pair. The yogi will in time actually and personally experience these occurrences.",
+        "value": "complement",
+        "integration_hint": "Insert in the section discussing anattā (non-self) and the observation of phenomena without identification.",
+        "rationale": "This concise formulation clarifies the direct experience of non-self through noting practice, adding precision to the base's treatment of anattā."
+      }
+    ]
+  },
+  "guided_meditations/S01E01_Introducing_Vipassana_Insight_Meditation": {
+    "title": "Introducing Vipassana Insight Meditation",
+    "collection": "guided_meditations",
+    "content_type": "audio",
+    "relevance": 8,
+    "passages": [
+      {
+        "quote": "When we come to the end of a sitting, we can reflect on three things. How diligent was I in bringing myself back into the presenting moment? How did I deal with the various bodily and mental states that arose? Was I skillful or unskillful? Was I confused? Was I aware of one or all of the three characteristics at any time? Impermanence, unsatisfactoriness and not-self. Can we now make a resolution for the next sitting?",
+        "value": "complement",
+        "integration_hint": "Insert near the end of the base text, before the metta practice section, as a structured reflection guide for concluding the sitting.",
+        "rationale": "The base text lacks a clear framework for post-meditation reflection. This passage provides three specific questions practitioners can use to evaluate their sitting, adding a practical self-assessment dimension."
+      }
+    ]
+  },
+  "guided_meditations/S01E02_Vipassana_Guidelines": {
+    "title": "Vipassana Guidelines",
+    "collection": "guided_meditations",
+    "content_type": "audio",
+    "relevance": 8,
+    "passages": [
+      {
+        "quote": "Those who are mindful are in the presence of Nibbana.",
+        "value": "complement",
+        "integration_hint": "Could be added at the end of the meditation, just before or after the Metta practice, as a closing reflection on the fruit of mindfulness practice.",
+        "rationale": "This concise, memorable statement offers an inspiring doctrinal point about the relationship between mindfulness and Nibbana that the base text doesn't express so directly, providing a powerful closing thought."
+      }
+    ]
+  },
+  "guided_meditations/S01E03_45_minute_Detailed_Guided_Meditation": {
+    "title": "45 minute Detailed Guided Meditation",
+    "collection": "guided_meditations",
+    "content_type": "audio",
+    "relevance": 8,
+    "passages": []
+  },
+  "guided_meditations/S01E04_45_minute_Assisted_Meditation": {
+    "title": "45 minute Assisted Meditation",
+    "collection": "guided_meditations",
+    "content_type": "audio",
+    "relevance": 8,
+    "passages": [
+      {
+        "quote": "Don't be concerned to see the three characteristics of existence, transience, unsatisfactoriness and insubstantiality. The intuitive intelligence, satipanya, once unlocked from the body, mind and heart, will see these three signs naturally. If any thought about them occurs, note thinking-thinking. Thought doesn't have the power to make spiritual insight.",
+        "value": "complement",
+        "integration_hint": "Insert in the section discussing the three characteristics (anidja, anatta, dukkha) to clarify the non-conceptual nature of insight.",
+        "rationale": "This passage adds an important doctrinal clarification that thinking about the three characteristics is not the same as seeing them directly - a point the base text doesn't explicitly make."
+      },
+      {
+        "quote": "Don't be concerned by how many times we've wandered away and have had to re-establish our attentiveness. This is the practice, this is the training of the mind we must do persistently and patiently, raising interest to see exactly what's happening at the physical, emotional and mental levels.",
+        "value": "enrich",
+        "integration_hint": "Add after the puppy training analogy to reinforce patience and normalize the wandering mind.",
+        "rationale": "This offers encouragement and normalizes the experience of repeated distraction, complementing the puppy analogy with explicit reassurance about the nature of practice."
+      },
+      {
+        "quote": "No need to think about anything, no need to experience something extraordinary. Just ordinary consciousness and ordinary sensations, thoughts and emotions will do.",
+        "value": "complement",
+        "integration_hint": "Insert in the section about being an observer, to counter expectations of special experiences.",
+        "rationale": "This concise statement addresses a common misconception about meditation requiring extraordinary experiences, which the base text doesn't explicitly address."
+      }
+    ]
+  },
+  "dharma_talks/S09E02_02_The_Body_-_Kayagasati_Sutta_MN131To_play_the_media_you_will_need_to_either_up": {
+    "title": "02 The Body - Kayagasati Sutta MN131.To play the media you will need to either update your browser to a recent version or update yourFlash plugin",
+    "collection": "dharma_talks",
+    "content_type": "audio",
+    "relevance": 8,
+    "passages": [
+      {
+        "quote": "So he sits cross-legged, setting his body up straight. He goes to the wilderness, to the root of a tree, to an empty place. And that normally means... that in the wilderness is the cold season, the root of a tree is in the hot season, and the hut is in the rainy season. That's what it's sort of referring to. So this is the life of those ascetics at the time.",
+        "value": "complement",
+        "rationale": "Adds historical/contextual depth about the traditional meditation settings mentioned in the suttas, enriching understanding of the posture instructions in the base text."
+      },
+      {
+        "quote": "I think I've told one or two of you, I had a meditator who I asked him how he could stay on the breath for so long. And he says, well, I do what they do when they're pumping iron. So rising, falling, just one more. Rising, falling, just one more. And that way he keeps himself resolute on observing the breath.",
+        "value": "anecdote",
+        "rationale": "Provides a memorable, practical technique for maintaining attention on the breath that complements the base text's instructions on returning to the breath."
+      },
+      {
+        "quote": "And then there's the full awareness. He translates full awareness as sampajana kari. So kari means doing. Pajana means to really sort of experience it. And sam means with. So basically, it's doing something really mindfully. doing really mindfully what we're doing, yeah? Sampajanukari.",
+        "value": "complement",
+        "rationale": "Offers a precise doctrinal clarification of the Pali term for full awareness, enriching the base text's discussion of mindful attention."
+      },
+      {
+        "quote": "So when he's looking around, right, okay. So when he's bending and stretching, he practices full awareness. When he's bearing his robe, a bowl and robes. So, you know, when we're clothing, et cetera, he practices full awareness of what he's actually doing. Eating, drinking, chewing and tasting. See, it's there, the accent on the whole process of eating.",
+        "value": "complement",
+        "rationale": "Extends the base text's focus on formal sitting meditation to include mindfulness in daily activities, which the base only briefly mentions at the end."
+      },
+      {
+        "quote": "So it's just this business of being with what you're doing yeah being you're doing actually",
+        "value": "enrich",
+        "rationale": "A succinct, memorable formulation of the essence of mindfulness practice that could enhance the base text's explanations of attention and awareness."
+      }
+    ]
+  },
+  "international_talks/S01E01_Méditation_Guidée_Debout_et_Assise": {
+    "title": "Méditation Guidée: Debout et Assise",
+    "collection": "international_talks",
+    "content_type": "audio",
+    "relevance": 8,
+    "passages": [
+      {
+        "quote": "Donc ne dites pas cela avant. Avant la respiration, faites-le vraiment la petite note mentale en même temps que l'acte lui-même, sinon cela donnera une impression de contrôle de la respiration.",
+        "value": "complement",
+        "integration_hint": "Insert after the base's instruction on using 'se soulever, s'abaisser' notation, to clarify timing.",
+        "rationale": "This adds a precise practical instruction about synchronizing the mental note with the breath rather than anticipating it, which prevents inadvertent breath control - a common beginner mistake not addressed in the base."
+      },
+      {
+        "quote": "Dans ce mode de simplement être, nous pouvons abandonner toute idée de réaliser quelque chose, d'accomplir quelque chose, d'être quelqu'un. Dans ce mode de simplement être, il n'y a aucun objectif. L'objectif, c'est simplement d'être.",
+        "value": "enrich",
+        "integration_hint": "Could be integrated in the section about developing calm attention, before opening to wider awareness.",
+        "rationale": "This eloquently expresses the non-striving quality of meditation practice, adding a contemplative dimension that complements the more technical instructions in the base."
+      },
+      {
+        "quote": "Demeurant dans le moment présent, n'accomplissant rien, n'étant personne, n'allant nulle part.",
+        "value": "complement",
+        "integration_hint": "Could serve as a memorable summary phrase in the section on establishing stable attention.",
+        "rationale": "This concise, poetic formulation captures the essence of meditative presence in a memorable way that the base lacks."
+      },
+      {
+        "quote": "La respiration, c'est votre ancrage, votre point de départ. C'est l'endroit où vous revenez toujours quand vous n'avez rien qui attire votre attention et également l'endroit où vous revenez quand vous êtes dans un état de confusion.",
+        "value": "complement",
+        "integration_hint": "Add to the base's explanation of the breath as 'objet de méditation de référence' to clarify when to return.",
+        "rationale": "This clarifies two specific conditions for returning to breath - no other object and confusion - making the instruction more practical than the base's general statement."
+      },
+      {
+        "quote": "Est-ce que le perceiveur est le perceiveur ? Est-ce que celui qui perçoit peut être ce qui est perçu ? Nous sommes dans ce poste d'observation à l'intérieur de nous-mêmes.",
+        "value": "enrich",
+        "integration_hint": "Could enrich the base's discussion of anatta (non-self) and the observer position.",
+        "rationale": "This rhetorical question elegantly points to the investigation of non-self from the observer's position, adding a contemplative inquiry dimension to the base's more descriptive treatment of anatta."
+      }
+    ]
+  },
+  "international_talks/S01E03_Méditation_Guidée_Debout_et_Assise": {
+    "title": "Méditation Guidée Debout et Assise",
+    "collection": "international_talks",
+    "content_type": "audio",
+    "relevance": 8,
+    "passages": [
+      {
+        "quote": "Dans ce mode, nous n'avons rien à achever. Quand nous sommes dans le mode d'achever quelque chose, nous faisons toujours quelque chose maintenant pour des résultats futurs. [...] Le fait d'être simplement ici, c'est ça le résultat. Il n'y a aucune raison pour le fait d'être.",
+        "value": "complement",
+        "integration_hint": "Pourrait enrichir la section sur l'établissement de l'attention calme, avant de commencer l'observation de la respiration.",
+        "rationale": "Exprime avec éloquence l'attitude de non-accomplissement qui sous-tend la méditation, un point implicite dans le texte de base mais jamais formulé aussi clairement."
+      },
+      {
+        "quote": "L'important de cela, c'est que quand nous sommes dans cette modalité d'être, ce mode, nous pouvons voir l'intention arriver. Dans les enseignements du Bouddha, tous nos conditionnements commencent avec une intention. Si nous voyons qu'une intention n'est pas bénéfique, alors nous pouvons rester tranquilles et la laisser s'en aller. De cette manière, nous déconditionnons les conditionnements non bénéfiques.",
+        "value": "complement",
+        "integration_hint": "À intégrer dans la section sur l'observation des pensées et réactions, ou dans la partie sur la vie quotidienne.",
+        "rationale": "Ajoute une clarification doctrinale importante sur le rôle de l'intention (cetanā) et le mécanisme de déconditionnement, absent du texte de base."
+      },
+      {
+        "quote": "Nous ne sommes pas intéressés par ce qui est à l'origine du son. Nous sommes intéressés par le processus d'entendre.",
+        "value": "enrich",
+        "integration_hint": "Pourrait compléter la section sur l'observation des sons où le texte de base dit 'entendre, entendre'.",
+        "rationale": "Formulation plus précise et pédagogique de l'attitude à adopter face aux sons, clarifiant la distinction entre l'objet et le processus."
+      },
+      {
+        "quote": "Comment avons-nous été diligents pour nous ramener au moment présent ? Si nous étions diligents, nous devrions nous féliciter. Si nous aurions pu être plus diligents, alors nous devons nous encourager.",
+        "value": "complement",
+        "integration_hint": "Pourrait être ajouté à la fin de la méditation, avant la pratique de Metta.",
+        "rationale": "Propose une réflexion structurée de fin de séance absente du texte de base, encourageant l'auto-évaluation bienveillante."
+      },
+      {
+        "quote": "Le mot concentration, je pense, peut nous rendre un peu tendus. [...] stabilité de l'attention. C'est une phrase que je préfère à concentration.",
+        "value": "enrich",
+        "integration_hint": "Pourrait enrichir le passage où le texte de base mentionne 'le calme et la concentration'.",
+        "rationale": "Offre une nuance terminologique utile qui peut aider les pratiquants à éviter une approche trop crispée de la concentration."
+      }
+    ]
+  },
+  "youtube_channel/S01E48_38_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "title": "38 Discourse on the Establishment of Awareness Satipatthana  Sutta MN10",
+    "collection": "youtube_channel",
+    "content_type": "audio",
+    "relevance": 8,
+    "passages": [
+      {
+        "quote": "One of my teachers, Sayuru Pandita, used to talk about plunging, plunging into the object.",
+        "value": "example",
+        "integration_hint": "Could be added near the base's instruction about directing attention to sensations, where it says 'on plonge notre attention dans la sensation'.",
+        "rationale": "This vivid teaching from a respected teacher reinforces the base's instruction about immersing attention in sensations with a memorable metaphor."
+      },
+      {
+        "quote": "As soon as you put your attention on the breath, You will feel this calmness come and you keep doing it until the calmness becomes established. It's not something that you force upon yourself.",
+        "value": "complement",
+        "integration_hint": "Could enrich the section where the base discusses calming through breath observation, near 'Ressentez le mouvement calme et doux de la respiration'.",
+        "rationale": "Clarifies that calmness arises naturally from attention rather than being forced, which complements the base's instruction about not modifying the breath."
+      },
+      {
+        "quote": "the fact of making a neutral, quiet sensation the object of your meditation has the effect of silencing the mind, calming the heart and stilling the body",
+        "value": "enrich",
+        "integration_hint": "Could be integrated where the base explains why breath is used: 'Nous utilisons la respiration car c'est un ressenti neutre, ni excitant, ni déprimant'.",
+        "rationale": "Provides a more complete explanation of the triple effect (mind, heart, body) of using a neutral object, expanding on the base's briefer statement."
+      },
+      {
+        "quote": "there's a distinction between suppressing something which we do out of aversion or fear and just taking our attention away from it for a while just putting them to the side picking them up when the retreat is over",
+        "value": "complement",
+        "integration_hint": "Could be added to the section on handling thoughts and emotions, near where the base discusses not repressing difficult experiences.",
+        "rationale": "Offers a clear doctrinal distinction between suppression and skillful parking of concerns that the base touches on but doesn't articulate as precisely."
+      },
+      {
+        "quote": "The body of the breath is the body here. Isn't the body. It's the body of the breath, the beginning, the middle section and the end.",
+        "value": "enrich",
+        "integration_hint": "Could clarify the section on breath observation, perhaps near 'Soyez conscient du ressenti, des sensations provoquées par le mouvement'.",
+        "rationale": "Provides important doctrinal clarification about what 'body' means in breath contemplation, distinguishing the breath-body from the physical body."
+      }
+    ]
+  },
+  "bhante_essays/S02E04_Vipassana_as_taught_by_the_Mahasi_Sayadaw_of_Burma": {
+    "title": "Vipassana as taught by the Mahasi Sayadaw of Burma",
+    "collection": "bhante_essays",
+    "content_type": "text",
+    "relevance": 8,
+    "passages": [
+      {
+        "quote": "The first reason is that it is related to slow walking. Just as we observe and experience the foot rising and falling, so we experience the abdomen rising and falling. This means that for the better part of the day, a meditator is aware of the characteristic of transience in a very obvious way.",
+        "value": "complement",
+        "integration_hint": "Insert after the section explaining why to use the abdomen rather than nostrils, to explain the pedagogical rationale.",
+        "rationale": "The base mentions the Mahasi preference for abdomen but doesn't explain why; this passage provides the doctrinal reasoning connecting abdomen observation to walking meditation and impermanence."
+      },
+      {
+        "quote": "This simple labeling, naming, noting whereby the attention is pointed at the object is known as vitakka and is likened to a bee flying towards a flower. [...] The meditator is still noting, but the attention instead of wanting to wander off, becomes stuck as it were on the object. This is likened to a bee landing on and sucking on a flower. This is the second stage of developing right concentration and is called vicara.",
+        "value": "enrich",
+        "integration_hint": "Add when explaining the noting technique and its purpose in calming the thinking process.",
+        "rationale": "The base explains noting but lacks the vivid bee metaphor and the doctrinal terms vitakka/vicara that illuminate the stages of concentration development."
+      },
+      {
+        "quote": "Going slow, doing things slowly, refers to all those areas of activity the Buddha talks of in the Discourse on How to Establish Mindfulness [...] This is much the same as slowing a film down. The more you slow a film down the more you can see. The flick of a frog's tongue as it catches a fly. Usually we simply do not see it. But with this film technique, we can discern the whole process.",
+        "value": "example",
+        "integration_hint": "Could be added in the section about maintaining mindfulness in daily life or when discussing slow, conscious movement.",
+        "rationale": "The base mentions moving slowly when getting up but doesn't explain the principle; this film metaphor with the frog example vividly illustrates why slowness sharpens perception."
+      },
+      {
+        "quote": "The reason we note intention before we do anything is because all actions of body, speech and thought have as their instigator an intention. To note an intention gives us the time to acknowledge it as either wholesome or unwholesome. We can then let go of those intentions we discern will lead us to dissatisfaction and empower those that will lead is to contentment.",
+        "value": "complement",
+        "integration_hint": "Insert in the section about noting thoughts and mental states, to add the dimension of noting intentions.",
+        "rationale": "The base covers noting sensations, emotions, and thoughts but doesn't address noting intentions, which is a key aspect of the Mahasi method for understanding kamma."
+      },
+      {
+        "quote": "when we do centre on the abdomen or the chest (when the breath is shallow), we remain very much in contact with body. This allows any turbulence in the body caused by our states of mind to manifest and burn off. This is the psychotherapeutic effect of vipassana.",
+        "value": "enrich",
+        "integration_hint": "Add near the section where the base discusses vipassana as psychotherapy and emotions stored in the body.",
+        "rationale": "The base mentions vipassana's psychotherapeutic aspect but this passage more precisely explains the mechanism of how abdomen observation facilitates emotional release."
+      }
+    ]
+  },
+  "retreat_talks/S01E01_Detailed_Guided_Meditation": {
+    "title": "Detailed Guided Meditation",
+    "collection": "retreat_talks",
+    "content_type": "text",
+    "relevance": 8,
+    "passages": []
+  },
+  "retreat_talks/S01E04_Detailed_Guided_Meditation": {
+    "title": "Detailed Guided Meditation",
+    "collection": "retreat_talks",
+    "content_type": "text",
+    "relevance": 8,
+    "passages": []
+  },
+  "dharma_talks/S05E03_A_Detailed_Guided_Meditation": {
+    "title": "A Detailed Guided Meditation",
+    "collection": "dharma_talks",
+    "content_type": "audio",
+    "relevance": 7,
+    "passages": []
+  },
+  "tips_of_the_day/S01E07_Morning_Meditation_Vipassana_1_Developing_a_steady_attention": {
+    "title": "Morning Meditation : Vipassana – 1. Developing a steady attention.",
+    "collection": "tips_of_the_day",
+    "content_type": "text",
+    "relevance": 7,
+    "passages": [
+      {
+        "quote": "The easiest way to establish a steady attention is to the pleasant and subtle feelings of these neutral sensations. To taste their gentleness and to notice how the calm rhythm also calms the mind. To acknowledge this soft breath and calm mind as a resting place, a peaceful place.",
+        "value": "enrich",
+        "integration_hint": "Insert after the base's explanation of using neutral breath sensations to develop calm attention.",
+        "rationale": "Adds a more poetic and experiential description of how to relate to the breath as a 'resting place' - a quality the base mentions functionally but doesn't express as evocatively."
+      },
+      {
+        "quote": "This resolution is not hard or harsh as if we are going into battle, but more an encouragement, a cajoling, as we might tempt a child away from some obstinate rebellion.",
+        "value": "complement",
+        "integration_hint": "Add near the puppy training analogy in the base to reinforce the gentle approach to training the mind.",
+        "rationale": "Complements the base's puppy analogy with another vivid image (tempting a child away from rebellion), offering a different angle on the same principle of gentle persistence."
+      },
+      {
+        "quote": "For the monkey mind (the Buddha's description), is, alas, beyond our control such are its unwholesome conditionings. But it does offer us an opportunity to develop gentle patience and calm persistence!",
+        "value": "complement",
+        "integration_hint": "Insert where the base discusses the wandering mind and bringing it back to the breath.",
+        "rationale": "Adds the traditional 'monkey mind' reference from the Buddha and reframes the challenge positively as an opportunity for developing patience."
+      },
+      {
+        "quote": "We keep doing this until we feel 'somewhat concentrated' – a favourite phrase of main Mahasi teacher, Sayadaw U Janaka. What that means in practice is left entirely up to the mediator.",
+        "value": "enrich",
+        "integration_hint": "Add after the base mentions spending ten minutes establishing calm attention before the mind becomes relatively calm.",
+        "rationale": "Provides a practical teaching from the Mahasi lineage that validates the subjective nature of knowing when concentration is sufficient, adding doctrinal authority."
+      }
+    ]
+  },
+  "tips_of_the_day/S05E124_Surely_meditation_shouldnt_feel_like_this_Noirin_Sheahan": {
+    "title": "Surely meditation shouldn't feel like this?  Noirin Sheahan",
+    "collection": "tips_of_the_day",
+    "content_type": "text",
+    "relevance": 7,
+    "passages": [
+      {
+        "quote": "Instead of thinking of this as a problem, your job is to turn around your attitude and think of it as an opportunity to get to know whatever underlying fears are manifesting on the breath.",
+        "value": "anecdote",
+        "integration_hint": "Could be added when discussing how to work with difficult emotions or discomfort that arises during breath meditation.",
+        "rationale": "This direct quote from Bhante Bodhidhamma himself provides a powerful reframe for practitioners who struggle with difficult experiences during breath meditation, adding a personal teaching moment."
+      },
+      {
+        "quote": "The Buddha's instructions for mindfulness of breathing includes noticing whether the breath is long (slow, deep) or short (rapid, shallow). In daily life the breath's pace varies with physical activity, but while we're sitting in meditation it tracks our emotional state. We breathe slowly when relaxed; quickly when any emotion is expressing its energy through the body.",
+        "value": "complement",
+        "integration_hint": "Could be inserted after the instructions about observing the breath at the abdomen, to explain how breath quality reflects emotional states.",
+        "rationale": "The base text focuses on technique but doesn't explain how breath characteristics reveal emotional states - this adds an important dimension of understanding."
+      },
+      {
+        "quote": "Not interfering, letting the jerky, panicky breath continue till it slows and calms of its own accord - this allows fear to be felt, expressed and released. Each time this happens we grow less afraid of fear, more willing to step outside of our emotional comfort zone.",
+        "value": "enrich",
+        "integration_hint": "Could strengthen the section about not modifying the breath and working with difficult emotions.",
+        "rationale": "This elaborates on the non-interference principle with specific application to fear, showing the therapeutic benefit of allowing difficult experiences."
+      },
+      {
+        "quote": "The non-interfering approach is similarly therapeutic for all emotions – lust, anger, guilt, shame, confusion. Thus the practice of mindful breathing gives us a means of coping with emotional outbursts that can otherwise ruin relationships, undermine our self-esteem, lead to cynicism or isolation.",
+        "value": "complement",
+        "integration_hint": "Could be added to the section discussing emotions and how meditation relates to psychotherapy.",
+        "rationale": "Extends the therapeutic dimension of breath meditation to a broader range of emotions, connecting practice to daily life benefits."
+      },
+      {
+        "quote": "Surely meditation shouldn't feel like this??? On the contrary, however it feels right now is perfect for teaching us how to develop self acceptance and unconditional love, learn the Dhamma of liberation.",
+        "value": "enrich",
+        "integration_hint": "Could be added near the end when discussing the purpose of practice or when addressing practitioner expectations.",
+        "rationale": "Provides a memorable, encouraging reframe that validates all meditation experiences as valid teaching moments."
+      }
+    ]
+  },
+  "retreat_talks/S01E05_Assisted_Meditation": {
+    "title": "Assisted Meditation",
+    "collection": "retreat_talks",
+    "content_type": "text",
+    "relevance": 7,
+    "passages": [
+      {
+        "quote": "Don't be concerned to see the three characteristics of existence, transience, unsatisfactoriness and insubstantiality. The intuitive intelligence, *satipaññā*, once unlocked from the body, mind and heart, will see these three signs naturally. If any thought about them occurs, note thinking-thinking. Thought doesn't have the power to make spiritual insight.",
+        "value": "complement",
+        "integration_hint": "Insert after the section on the three characteristics (anidja, anatta, dukkha) to clarify that one should not actively seek to see them intellectually.",
+        "rationale": "This passage adds an important practical instruction missing from the base: that insight into the three characteristics arises naturally through practice rather than through conceptual thinking, and that thoughts about them should simply be noted."
+      },
+      {
+        "quote": "Don't be concerned by how many times we've wandered away and have had to re-establish our attentiveness. This is the practice, this is the training of the mind we must do persistently and patiently",
+        "value": "enrich",
+        "integration_hint": "Add near the puppy training analogy to reinforce the message of patience and persistence when the mind wanders.",
+        "rationale": "This offers a reassuring and encouraging perspective on mind-wandering that complements the puppy metaphor, explicitly normalizing the experience of repeated distraction."
+      },
+      {
+        "quote": "No need to think about anything, no need to experience something extraordinary. Just ordinary consciousness and ordinary sensations, thoughts and emotions will do.",
+        "value": "complement",
+        "integration_hint": "Insert in the section about being an observer, to counter expectations of special experiences.",
+        "rationale": "This passage helpfully manages practitioner expectations by emphasizing that meditation works with ordinary experience, a point not explicitly stated in the base."
+      }
+    ]
+  },
+  "foundation_course/S01E10_The_Fourth_Noble_Truth_-_Mental_Development_-_Samadhi": {
+    "title": "The Fourth Noble Truth - Mental Development - Samadhi",
+    "collection": "foundation_course",
+    "content_type": "audio",
+    "relevance": 6,
+    "passages": [
+      {
+        "quote": "Suppose she's an ornithologist studying the habits of the common dreadful warbler. Does she ride on the back of the warbler? Of course not. Does she in any way interfere with the warbler? No. To do so would be to distort the behaviour of the bird, interfere with its natural habits. To do so would not be to observe the dreadful warbler as it really is, but as it is interfered with.",
+        "value": "enrich",
+        "integration_hint": "Could expand the bird observer analogy already in the base, adding the humorous 'riding on the back' image to make the point more vivid.",
+        "rationale": "The base uses the bird observer metaphor but this version adds the memorable absurdist question about riding the bird, making the teaching about non-interference more striking."
+      },
+      {
+        "quote": "The Buddha's description of the process was of a fire. Throwing logs on a fire will not press it out. They create a bonfire. This is repression. We can't draw the energy out of the fire by throwing sawdust on it. This only makes the fire flare up. If we want the fire to die out, we simply leave it alone and let it burn itself out.",
+        "value": "example",
+        "integration_hint": "Insert after the base discusses allowing emotions to surface without repressing them, to illustrate the mechanism of non-reactive observation.",
+        "rationale": "This fire metaphor is absent from the base and provides a concrete, memorable image for understanding why pure observation allows negativities to exhaust themselves."
+      },
+      {
+        "quote": "All that is conditioned is transient. When one sees this with wisdom, one tires of suffering. This is the path of purification. All that is conditioned is unsatisfying. When one sees this with wisdom, then one tires of suffering. This is the path of purification. Everything is insubstantial. When one sees this with wisdom, then one tires of suffering. This is the path of purification.",
+        "value": "complement",
+        "integration_hint": "Could be added when the base discusses the three characteristics (anicca, anatta, dukkha) to provide the Buddha's own verses.",
+        "rationale": "The base mentions the three characteristics but lacks these canonical verses that elegantly summarize the path of purification through wisdom."
+      },
+      {
+        "quote": "There comes a time when we are aware of just sensations arising and passing away at very fast speeds, and although we once perceived them as unpleasant, we do not do so now. We experience them as just pure sensation, just arising and passing away.",
+        "value": "enrich",
+        "integration_hint": "Add to the section on observing pain/sensations to describe the experiential shift that occurs with deepening practice.",
+        "rationale": "This describes a specific meditative experience that the base alludes to but doesn't articulate as clearly - the transformation of pain perception through concentrated awareness."
+      },
+      {
+        "quote": "It is the unborn, the unbecoming, the uncreated, and the uncompounded. He doesn't ask us to believe this, but he does ask us to put trust, to have faith in him, to give him the benefit of the doubt.",
+        "value": "complement",
+        "integration_hint": "Could enhance the base's brief mention of nirvana near the end, adding the Buddha's negative description and the distinction between belief and faith.",
+        "rationale": "The base mentions nirvana but this passage adds the important doctrinal clarification about how the Buddha described it and the nature of faith required in practice."
+      }
+    ]
+  },
+  "international_talks/S11E02_The_Mahasi_Method": {
+    "title": "The Mahasi Method",
+    "collection": "international_talks",
+    "content_type": "audio",
+    "relevance": 6,
+    "passages": [
+      {
+        "quote": "Takže se to musí využívat moudře. Jestliže si označíte úzkost, tak jsem řekl úzkost, úzkost, ale moje představování je na cestu, na textu úzkosti. Takže můj požit mají pozornost, je směrem, na ký máme dojem a pocit slova, jaksi strukturu té úzkosti. Je to jako klošt. Můžu vidět klošt, ale musím to cítit.",
+        "value": "example",
+        "integration_hint": "Dans la section sur la notation mentale et l'observation des sensations, pour illustrer comment le mot doit rester derrière l'attention directe.",
+        "rationale": "Ajoute une métaphore concrète (le tissu qu'on peut voir mais qu'on doit sentir) pour expliquer la relation entre le mot de notation et l'expérience directe."
+      },
+      {
+        "quote": "Jestliže si třeba představíte filmy o přírodě, když jste třeba viděli film tisíckrát zpomalenej, který představuje žabý jazyk, Viděli jste něco úžasného. Jaká část jazyku se myslíte, že chytne mouhu?",
+        "value": "anecdote",
+        "integration_hint": "Dans la section sur le ralentissement et l'observation attentive, comme illustration de pourquoi ralentir permet de voir ce qui est normalement invisible.",
+        "rationale": "Offre une image mémorable et surprenante du film au ralenti de la langue de grenouille pour illustrer pourquoi ralentir révèle des détails invisibles à vitesse normale."
+      },
+      {
+        "quote": "Předtím bychom si mohli říct, já jsem zlobený, já jsem úzkostný. Když si tady sedím, říkám, tam je zlobení, tam je úzkostný. A když sedíme, tak můžeme říct, tak tamhle je zloba, tamhle je úzkost. Tam je radost, tam je láska. Ne já, ne ne.",
+        "value": "complement",
+        "integration_hint": "Dans la section sur la désidentification et le passage de 'je suis' à 'il y a', pour renforcer l'explication de ce changement de perspective.",
+        "rationale": "Exprime de manière plus directe et vivante la transition de l'identification personnelle vers l'observation objective des états mentaux."
+      },
+      {
+        "quote": "Nás zajímá náš vztah k bolestí, protože chceme vědět, jestli je bolest utrpením, ale nebude to můj vztah, mé vztahování k bolestí, které je utrpením.",
+        "value": "enrich",
+        "integration_hint": "Dans la section sur l'observation de la douleur et la distinction entre douleur physiologique et souffrance.",
+        "rationale": "Clarifie précisément que c'est notre relation à la douleur, et non la douleur elle-même, qui constitue la souffrance - une distinction doctrinale importante."
+      }
+    ]
+  },
+  "international_talks/S12E03_Mahasi_Instructions_and_Metta_Chant": {
+    "title": "Mahasi Instructions and Metta Chant",
+    "collection": "international_talks",
+    "content_type": "audio",
+    "relevance": 6,
+    "passages": [
+      {
+        "quote": "È come se siete su una montagna cercando di vedere un paesaggio e c'è della foschia. Voi impegnerete molta energia cercando di far andare via la foschia. Aspettate, la foschia se ne andrà.",
+        "value": "example",
+        "integration_hint": "Could be added in the section about establishing calm attention on the breath, when discussing how to handle unclear perception.",
+        "rationale": "This vivid mountain/mist metaphor beautifully illustrates the patience needed when attention is unclear, complementing the base's instructions about not forcing concentration."
+      },
+      {
+        "quote": "Quando mai avete avuto problemi di concentrazione in caso in cui siete stati veramente interessati a qualcosa? Quindi cercate di sviluppare continuamente dentro voi stessi questo interesse nello scoprire come siete fatti veramente.",
+        "value": "complement",
+        "integration_hint": "Add to the section discussing how to maintain attention without tension, near the puppy training analogy.",
+        "rationale": "This offers a practical alternative to forced concentration - cultivating genuine interest - which the base doesn't explicitly address."
+      },
+      {
+        "quote": "Se guardate il palmo della vostra mano, continuate a dire guardare, guardare, vedete come la mente la percepisce. Vedete come l'occhio percepisce forma, creci, colore? [...] Avete veramente guardato nel palmo della vostra mano prima d'ora?",
+        "value": "example",
+        "integration_hint": "Could enrich the section on noting technique, as a practical exercise to demonstrate direct perception.",
+        "rationale": "This concrete hand-gazing exercise provides a tangible way to practice the noting technique that the base describes more abstractly."
+      },
+      {
+        "quote": "La canzone dice tiratevi su, datevi una bella spazzolata e ricominciate tutto da capo. E questa è la pratica spirituale. [...] ricominciare sempre da capo da capo da capo fino a quando non si arriva alla fine",
+        "value": "anecdote",
+        "integration_hint": "Add near the puppy training analogy when discussing how to handle wandering mind.",
+        "rationale": "The Fred Astaire/Ginger Rogers reference adds memorable humor and lightness to the instruction about returning to the breath repeatedly."
+      },
+      {
+        "quote": "Quindi la notazione deve essere deliberata e ci deve essere lo sforzo, questo sforzo delicato di vedere, di osservare, chiaramente. [...] se la mente sta ancora dicendo salire, scendere, toccare [...] Ma qui non c'è nessuna intelligenza. Nulla da imparare. Una completa perdita di tempo.",
+        "value": "complement",
+        "integration_hint": "Add to the section explaining the noting technique, to clarify the difference between mechanical repetition and intentional noting.",
+        "rationale": "This important clarification about deliberate vs. automatic noting prevents a common misunderstanding that the base doesn't explicitly address."
+      }
+    ]
+  },
+  "youtube_channel/S01E106_Retreat_Start_Standing_and_Walking_Meditation": {
+    "title": "Retreat Start Standing and Walking Meditation",
+    "collection": "youtube_channel",
+    "content_type": "audio",
+    "relevance": 6,
+    "passages": [
+      {
+        "quote": "If when you do this you find yourself getting tense, then sit back within yourself and have the impression of receiving the breath.",
+        "value": "complement",
+        "integration_hint": "Add after the section on observing the breath at the abdomen, where tension during concentration is discussed.",
+        "rationale": "Offers a practical adjustment for practitioners who become tense while focusing on breath - the image of 'receiving' rather than 'watching' the breath is a helpful reframe not present in the base."
+      },
+      {
+        "quote": "In this mode, we're developing five of the seven factors that lead to liberation. There's the awareness, of course, and there is that steadiness of attention, a phrase I prefer, concentration which i think makes us feel tight it's just the effort needed to maintain steadiness of attention a sense of calmness in that steadiness even if the body feels restless and the heart agitated the watcher the observer is calm",
+        "value": "enrich",
+        "integration_hint": "Insert in the section discussing the development of calm attention and concentration through breath meditation.",
+        "rationale": "Provides doctrinal context linking the practice to the seven factors of awakening and offers the useful reframe of 'steadiness of attention' versus 'concentration' which may feel tight."
+      },
+      {
+        "quote": "at times we can use a word like there so there's aching there over there is an itch if it's an emotion or mood in the body there's irritation there's excitement when it is an image in the mind right in front of you you can point to it there's an image",
+        "value": "complement",
+        "integration_hint": "Add to the section on noting sensations and the transition from 'my pain' to 'there is pain' to reinforce the anatta teaching.",
+        "rationale": "Provides a concrete linguistic technique using 'there' to create distance and support the non-self insight the base discusses more abstractly."
+      },
+      {
+        "quote": "You've had a phone call, you've finished a piece of work, you've been out and about and you feel anxious, irritated, overexcited. But if you can just stop after every action, after every piece of work, after every conversation and let the heart empty itself, then in the clarity and calmness, you can see the next intention.",
+        "value": "example",
+        "integration_hint": "Insert in the final section about applying meditation in daily life, after mentioning that 15 seconds can suffice to recenter.",
+        "rationale": "Provides concrete everyday examples that make the daily life application more vivid and practical than the base's more general statement."
+      },
+      {
+        "quote": "Are the observer and the observed, the feeler and the felt, the experiencer and the experienced, the same or distinct? Can the perceiver be the perceived?",
+        "value": "enrich",
+        "integration_hint": "Add to the section on anatta (non-self) as a contemplative question to deepen investigation.",
+        "rationale": "Offers a powerful inquiry question that invites direct investigation of non-self, complementing the base's more descriptive approach to anatta."
+      }
+    ]
+  },
+  "tips_of_the_day/S05E47_Practice_makes_perfect": {
+    "title": "Practice makes perfect.*",
+    "collection": "tips_of_the_day",
+    "content_type": "text",
+    "relevance": 6,
+    "passages": [
+      {
+        "quote": "In our sitting practice, the repetition starts with settling on the breath. And then to repeatedly bring ourselves back to the presenting event – what's actually happening now. That's the practice.",
+        "value": "complement",
+        "integration_hint": "Could be added in the section where the base discusses returning attention to the breath when the mind wanders.",
+        "rationale": "This succinctly captures the essence of the practice in a memorable way, reinforcing the base's instructions about returning to the breath with a clear statement of purpose."
+      },
+      {
+        "quote": "Insights arise naturally into the three spiritual gateways of awakening – understanding how we create suffering, experiencing the reality of impermanence and realising the false identities and possessions we are creating. Insights are not shattering experiences, but moments or recognition, of acknowledgement, most reinforcing, deepening what we have already seen.",
+        "value": "enrich",
+        "integration_hint": "Could be integrated in the section discussing the three characteristics (impermanence, non-self, dukkha) to clarify how insights actually manifest.",
+        "rationale": "The base discusses the three characteristics but doesn't describe how insights actually arise. This passage demystifies the nature of insights as gradual recognition rather than dramatic experiences."
+      },
+      {
+        "quote": "What we need is confidence in the vision that we are capable of perfect contentment and happiness.",
+        "value": "complement",
+        "integration_hint": "Could be added near the conclusion where the base discusses faith and confidence in intuitive intelligence.",
+        "rationale": "This adds a motivational element about confidence in our capacity for awakening, complementing the base's call to have faith in our intuitive intelligence."
+      }
+    ]
+  },
+  "tips_of_the_day/S05E67_The_years_where_do_they_go_New_Year_Encouragement_Noirin": {
+    "title": "The years where do they go. New Year Encouragement. Noirin",
+    "collection": "tips_of_the_day",
+    "content_type": "text",
+    "relevance": 6,
+    "passages": [
+      {
+        "quote": "In formal practice we endeavour to track the breath to its end, to that moment when the movement vanishes into stillness.",
+        "value": "complement",
+        "integration_hint": "Could be added in the section about observing the breath rising and falling, to emphasize the importance of tracking the breath to its natural end.",
+        "rationale": "Adds a specific instruction about following the breath to its complete cessation, which complements the base's guidance on observing the breath's movement."
+      },
+      {
+        "quote": "But when we follow the breath closely, detect each sensation, notice them getting fainter and fainter till they disappear, it can be a different matter. That 'gone-ness' can appear highly significant, mysterious.",
+        "value": "enrich",
+        "integration_hint": "Could be integrated into the section discussing impermanence (Anidja) to illustrate how observing the breath reveals the nature of arising and passing away.",
+        "rationale": "Provides a vivid experiential description of observing impermanence through breath meditation, connecting practice to insight."
+      },
+      {
+        "quote": "Nature abhors a vacuum and our tendency is to fill that mysterious emptiness with thoughts, distractions, musings. But if we can still the mind towards around the end of the breath, we find that part of us wants to rest, to explore whatever remains where sensations stopped.",
+        "value": "complement",
+        "integration_hint": "Could be added to the section about the pause between breaths and using the touch point to prevent the mind from wandering.",
+        "rationale": "Offers deeper insight into what happens during the pause in breathing and how to work with the tendency to fill silence with thoughts."
+      },
+      {
+        "quote": "The last line from the Vipassana verses starts to make sense: 'Truly all conditioned things are transient … once arisen they disappear; their cessation is happiness.'",
+        "value": "enrich",
+        "integration_hint": "Could be added to the section on the three characteristics, particularly when discussing impermanence and its relationship to liberation.",
+        "rationale": "Provides a doctrinal reference that connects the practice of observing breath cessation to the deeper teaching on impermanence and happiness."
+      }
+    ]
+  },
+  "tips_of_the_day/S05E118_Fifth_Maxim_Develop_the_Body_and_Mind_Noirin_Sheahan": {
+    "title": "Fifth Maxim: Develop the Body and Mind  Noirin Sheahan",
+    "collection": "tips_of_the_day",
+    "content_type": "text",
+    "relevance": 6,
+    "passages": [
+      {
+        "quote": "Despair isn't just psychological, it's physiological. Learn skills for getting beyond ego—not just the cognitive limits of ego, which many are at least familiar with pondering, but the emotional and physiological limits of ego.",
+        "value": "complement",
+        "integration_hint": "Could be integrated in the section discussing how emotions and mental states manifest as bodily sensations, reinforcing the mind-body connection in meditation.",
+        "rationale": "This adds a clear articulation of how despair and ego limitations are both psychological and physiological, complementing the base's discussion of emotions stored in the body."
+      },
+      {
+        "quote": "In Dhamma terminology, we suffer because we cling to the wrong view of self. This suffering manifests as emotional burdens like greed and aversion, which have physical aspects – for some it might be muscular tension, for others headaches, stomach upsets, breathing difficulties.",
+        "value": "enrich",
+        "integration_hint": "Could be added to the section on observing bodily sensations caused by emotions, providing specific examples of how suffering manifests physically.",
+        "rationale": "Provides concrete examples of physical manifestations of mental suffering that the base discusses more abstractly, making the teaching more accessible."
+      },
+      {
+        "quote": "The Anapanasati Sutta lists a number of breathing exercises. These start with mindfulness, knowing when we're breathing in and when we're breathing out. They include the kind of yogic breathing exercises [...] using the breath to calm the body and mind, to develop pleasant feeling, to gladden the mind & develop concentration.",
+        "value": "complement",
+        "integration_hint": "Could be added near the beginning where breathing meditation is introduced, providing scriptural grounding for the practice.",
+        "rationale": "Adds doctrinal reference to the Anapanasati Sutta that grounds the breathing practice in canonical teaching, which the base lacks."
+      }
+    ]
+  }
+}
