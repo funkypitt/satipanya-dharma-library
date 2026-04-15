@@ -1,0 +1,3170 @@
+{
+  "guided_meditations/S01E01_Introducing_Vipassana_Insight_Meditation": {
+    "score": 3,
+    "note": "Basic vipassana introduction, feeling mentioned in passing"
+  },
+  "guided_meditations/S01E02_Vipassana_Guidelines": {
+    "score": 4,
+    "note": "Mentions feelings as meditation objects to observe"
+  },
+  "guided_meditations/S01E03_45_minute_Detailed_Guided_Meditation": {
+    "score": 3,
+    "note": "Standard vipassana practice, feelings as secondary objects"
+  },
+  "guided_meditations/S01E04_45_minute_Assisted_Meditation": {
+    "score": 3,
+    "note": "General vipassana with emotions noted among phenomena"
+  },
+  "guided_meditations/S01E05_30_minute_Bodycare_Meditation": {
+    "score": 2,
+    "note": "Body-focused metta practice, minimal feeling emphasis"
+  },
+  "guided_meditations/S01E06_30_minute_Heartcare_Meditation": {
+    "score": 2,
+    "note": "Metta practice focused on loving-kindness cultivation"
+  },
+  "guided_meditations/S01E07_Abiding_in_the_Present_Moment_Developing_Equanimity": {
+    "score": 4,
+    "note": "Equanimity development involves working with feeling responses"
+  },
+  "guided_meditations/S01E08_Just_Metta": {
+    "score": 2,
+    "note": "Pure metta practice, not feeling-focused meditation"
+  },
+  "guided_meditations/S01E09_Investigative_Eating": {
+    "score": 5,
+    "note": "Explores pleasure sensations and feeling components systematically"
+  },
+  "guided_meditations/S01E10_Mahasi_Sayadaw_Introductory_Talk": {
+    "score": 6,
+    "note": "Specifically mentions vedananupassana - mindfulness of feelings"
+  },
+  "guided_meditations/S02E01_Why_Chant": {
+    "score": 1,
+    "note": "Chanting instruction, unrelated to feeling meditation"
+  },
+  "guided_meditations/S02E02_Morning_Chant": {
+    "score": 0,
+    "note": "Traditional chanting practice, no feeling content"
+  },
+  "guided_meditations/S02E03_Evening_Chant": {
+    "score": 0,
+    "note": "Traditional chanting and metta, no feeling focus"
+  },
+  "guided_meditations/S02E04_Refuges_and_Precepts": {
+    "score": 0,
+    "note": "Basic liturgy, unrelated to feeling meditation"
+  },
+  "guided_meditations/S02E05_Evening_Metta_Chant": {
+    "score": 0,
+    "note": "Traditional metta chanting, not feeling practice"
+  },
+  "guided_meditations/S02E06_Metta_Discourse": {
+    "score": 0,
+    "note": "Classical metta sutta chanting, unrelated"
+  },
+  "dhammabytes/S01E01_01_Views_about_Spiritual_Paths": {
+    "score": 1,
+    "note": "General spiritual approach discussion, no feeling content"
+  },
+  "dhammabytes/S01E02_02_Discourse_to_the_Kalamas": {
+    "score": 2,
+    "note": "Direct experience emphasis, minimal feeling reference"
+  },
+  "dhammabytes/S01E03_03_Desire_the_Root_of_Suffering": {
+    "score": 4,
+    "note": "Explores emotional attachment and psychological dependency"
+  },
+  "dhammabytes/S01E04_04_How_to_Test_the_Buddha": {
+    "score": 1,
+    "note": "Teacher investigation method, unrelated to feelings"
+  },
+  "dhammabytes/S02E01_01_Introducing_the_Buddha": {
+    "score": 1,
+    "note": "Buddha's identity across cultures, no feeling focus"
+  },
+  "dhammabytes/S02E02_02_The_Birth_of_the_Buddha": {
+    "score": 1,
+    "note": "Mythic birth narrative, unrelated to feeling"
+  },
+  "dhammabytes/S02E03_03_The_Bodhisatta_Leaves_Home": {
+    "score": 2,
+    "note": "Noble vs ignoble search, minimal feeling content"
+  },
+  "dhammabytes/S02E04_04_The_Essence_of_the_Awakening": {
+    "score": 3,
+    "note": "Dependent origination includes feeling in causal chain"
+  },
+  "dhammabytes/S03E01_Anusaya_-_Latent_Tendencies": {
+    "score": 4,
+    "note": "Psychological tendencies that condition feeling responses"
+  },
+  "dhammabytes/S03E02_Asava-Taints_Ogha-Floods_Yoga-Yokes": {
+    "score": 2,
+    "note": "Mental taints discussed but no focus on feeling"
+  },
+  "dhammabytes/S03E03_Buddha": {
+    "score": 1,
+    "note": "Buddha qualities explored, minimal connection to feeling"
+  },
+  "dhammabytes/S03E04_Dukkha_-_A_Hard_Place": {
+    "score": 4,
+    "note": "Three types of suffering relate to feeling experiences"
+  },
+  "dhammabytes/S03E05_Hetu_-_The_Unwholesome_Roots": {
+    "score": 3,
+    "note": "Roots of suffering touch on feeling responses"
+  },
+  "dhammabytes/S03E06_Panya_-_Wisdom_and_Intuitive_Intelligence": {
+    "score": 2,
+    "note": "Wisdom development, limited feeling focus"
+  },
+  "dhammabytes/S03E07_Puja_-_Devotional_Attention": {
+    "score": 5,
+    "note": "Devotional feelings and heart responses emphasized"
+  },
+  "dhammabytes/S03E08_Samyojana_-_The_first_three_Fetters": {
+    "score": 2,
+    "note": "Fetters binding discussed, minimal feeling emphasis"
+  },
+  "dhammabytes/S03E09_Samyojana_-_The_last_seven_Fetters": {
+    "score": 3,
+    "note": "Advanced fetters include emotional attachments"
+  },
+  "dhammabytes/S03E10_Sati_-_Knowing": {
+    "score": 6,
+    "note": "Awareness practice central to feeling observation"
+  },
+  "dhammabytes/S03E11_Sati_in_Daily_Life": {
+    "score": 5,
+    "note": "Mindful awareness in daily feeling experiences"
+  },
+  "dhammabytes/S03E12_Sila_-_Good_Conduct": {
+    "score": 2,
+    "note": "Ethics discussed, limited feeling focus"
+  },
+  "dhammabytes/S04E01_01_Dana_Generosity": {
+    "score": 4,
+    "note": "Generosity involves feeling states and intentions"
+  },
+  "dhammabytes/S04E02_02_Sila_Virtuous_Conduct": {
+    "score": 2,
+    "note": "Ethical conduct, minimal feeling emphasis"
+  },
+  "dhammabytes/S04E03_03_Nekkhamma_Renunciation": {
+    "score": 4,
+    "note": "Letting go involves feeling attachment responses"
+  },
+  "dhammabytes/S04E04_04_Panya_Intuitive_Intelligence_and_Wisdom": {
+    "score": 3,
+    "note": "Wisdom development touches on feeling insights"
+  },
+  "dhammabytes/S04E05_05_Viriya_Effort": {
+    "score": 3,
+    "note": "Effort practice involves feeling balance"
+  },
+  "dhammabytes/S04E06_06_Khanti_Patience": {
+    "score": 6,
+    "note": "Patience directly addresses feeling responses to conditions"
+  },
+  "dhammabytes/S04E07_07_Sacca_Honesty": {
+    "score": 2,
+    "note": "Honesty practice, limited feeling focus"
+  },
+  "dhammabytes/S04E08_08_Adhitthana_Resolution": {
+    "score": 3,
+    "note": "Resolution involves feeling commitment and intention"
+  },
+  "dhammabytes/S05E01_Metta_-_Love": {
+    "score": 7,
+    "note": "Loving-kindness directly cultivates positive feeling states"
+  },
+  "dhammabytes/S05E02_Karuna_-_Compassion": {
+    "score": 7,
+    "note": "Compassion practice centers on feeling responses"
+  },
+  "dhammabytes/S05E03_Mudita_-_Pure_Joy": {
+    "score": 8,
+    "note": "Joy practice directly cultivates positive feeling states"
+  },
+  "dhammabytes/S05E04_Upekkha_-_Equanimity": {
+    "score": 8,
+    "note": "Equanimity transforms relationship to all feeling states"
+  },
+  "dhammabytes/S06E01_Buddha_as_Refuge": {
+    "score": 2,
+    "note": "Buddha qualities explored, minimal feeling focus"
+  },
+  "dhammabytes/S06E02_Dhamma_as_Refuge": {
+    "score": 1,
+    "note": "Dhamma qualities discussed, no feeling emphasis"
+  },
+  "dhammabytes/S06E03_Sangha_as_Refuge": {
+    "score": 0,
+    "note": "About sangha refuge, unrelated to feeling"
+  },
+  "dhammabytes/S07E01_Khandha_The_Aggregates": {
+    "score": 2,
+    "note": "Mentions vedana as one of five aggregates"
+  },
+  "dhammabytes/S07E02_Rupa_Corporeality": {
+    "score": 1,
+    "note": "About body aggregate, minimal feeling relevance"
+  },
+  "dhammabytes/S07E03_Vedana_Feeling": {
+    "score": 9,
+    "note": "Primarily about vedana feeling aggregate"
+  },
+  "dhammabytes/S07E04_Sanya_Perception_Vedana_Feeling": {
+    "score": 7,
+    "note": "Substantially discusses vedana alongside perception"
+  },
+  "dhammabytes/S07E05_Sankhara_Volitional_Conditioning": {
+    "score": 1,
+    "note": "About volitional formations, minimal feeling content"
+  },
+  "dhammabytes/S07E06_Summing_up": {
+    "score": 3,
+    "note": "Mentions feelings in aggregate overview"
+  },
+  "dhammabytes/S08E01_1_Avijja_-_not-knowing": {
+    "score": 0,
+    "note": "About ignorance in dependent origination"
+  },
+  "dhammabytes/S08E02_2_Nama_Rupa_Body_Mind": {
+    "score": 1,
+    "note": "About body-mind complex, minimal feeling focus"
+  },
+  "dhammabytes/S08E03_3_Salayatana_Vedana_Phasa_Six_senses_Contact_Feeling": {
+    "score": 6,
+    "note": "Substantially discusses vedana in dependent origination"
+  },
+  "dhammabytes/S08E04_4_Tanha_Upadana_Bhava_Craving_Grasping_Becoming": {
+    "score": 4,
+    "note": "Discusses craving arising from feeling"
+  },
+  "dhammabytes/S08E05_5_paticca_samuppada_dependent_origination_to_samsara": {
+    "score": 2,
+    "note": "Mentions feeling in dependent origination overview"
+  },
+  "dhammabytes/S08E06_6_Another_model_of_Dependent_Orgination": {
+    "score": 2,
+    "note": "Alternative model mentions feeling processes"
+  },
+  "dhammabytes/S09E01_1_Indulgence": {
+    "score": 1,
+    "note": "About sensual pleasures, minimal feeling focus"
+  },
+  "dhammabytes/S09E02_2_Self-Mortification": {
+    "score": 1,
+    "note": "About self-mortification, minimal feeling relevance"
+  },
+  "dhammabytes/S09E03_3_The_First_Noble_Truth_of_Suffering": {
+    "score": 2,
+    "note": "About suffering, mentions feeling experiences"
+  },
+  "dhammabytes/S09E04_4_Second_Noble_TruthThe_Cause_of_Suffering": {
+    "score": 3,
+    "note": "Discusses craving arising from feeling"
+  },
+  "dhammabytes/S09E05_5_The_Third_Noble_TruthThe_End_of_Suffering": {
+    "score": 2,
+    "note": "About ending suffering, mentions craving cessation"
+  },
+  "dhammabytes/S09E06_6_The_Fourth_Noble_Truth_The_Eightfold_Path": {
+    "score": 1,
+    "note": "About eightfold path, minimal feeling content"
+  },
+  "dhammabytes/S09E07_7_The_Buddhas_Enlightenment_becomes_universal": {
+    "score": 1,
+    "note": "About enlightenment, minimal feeling focus"
+  },
+  "dhammabytes/S10E01_1_Not-self_-_Control": {
+    "score": 2,
+    "note": "About not-self through aggregates, mentions feeling"
+  },
+  "dhammabytes/S10E02_2_Not-self_-_Impermanence_and_Suffering": {
+    "score": 3,
+    "note": "Discusses impermanence in aggregates including feeling"
+  },
+  "dhammabytes/S10E03_3_Not-self_-_Recap_and_Metaphors": {
+    "score": 2,
+    "note": "Metaphors for aggregates including feeling"
+  },
+  "dhammabytes/S11E01_01_Sickness_Ageing_and_Death": {
+    "score": 1,
+    "note": "About mortality, minimal feeling relevance"
+  },
+  "dhammabytes/S11E02_02_Divine_Messengers": {
+    "score": 1,
+    "note": "About divine messengers, minimal feeling focus"
+  },
+  "dhammabytes/S11E03_03_The_Two_Darts": {
+    "score": 8,
+    "note": "Explores reactions to painful feelings, mental suffering creation"
+  },
+  "dhammabytes/S11E04_04_The_Eight_Worldy_Conditions": {
+    "score": 7,
+    "note": "Discusses pleasure/pain feelings and emotional responses to conditions"
+  },
+  "dhammabytes/S11E05_05_Clinging_causes_Anxiety_plus": {
+    "score": 5,
+    "note": "Touches on feelings arising from clinging and identification"
+  },
+  "dhammabytes/S11E06_06_Mahakassapa_Explains_the_Cause_of_Conflict": {
+    "score": 3,
+    "note": "Mentions attachment to pleasures, limited feeling focus"
+  },
+  "dhammabytes/S11E07_07_Envy_and_Niggardliness_the_Cause_of_Conflict": {
+    "score": 4,
+    "note": "Discusses liking-disliking feelings leading to conflict"
+  },
+  "dhammabytes/S11E08_08_Detailed_Sequence_Leading_to_Conflict": {
+    "score": 6,
+    "note": "Traces pleasant feeling through craving to conflict sequence"
+  },
+  "dhammabytes/S11E09_09_Power": {
+    "score": 2,
+    "note": "Power focus, minimal feeling discussion"
+  },
+  "dhammabytes/S11E10_10_Samsara_Onward_Going": {
+    "score": 2,
+    "note": "Samsara focus, limited feeling content"
+  },
+  "dhammabytes/S11E11_11_Rounds_of_Becoming": {
+    "score": 2,
+    "note": "Becoming cycles focus, minimal feeling discussion"
+  },
+  "dhammabytes/S11E12_12_Short_Review_of_the_Human_Condition": {
+    "score": 4,
+    "note": "Reviews suffering including feeling-based mental anguish"
+  },
+  "dhammabytes/S12E01_1_Righteous_Governement_and_Righteous_Ruler": {
+    "score": 1,
+    "note": "Governance focus, no feeling discussion"
+  },
+  "dhammabytes/S12E02_2_The_Ruler": {
+    "score": 1,
+    "note": "Leadership focus, no feeling content"
+  },
+  "dhammabytes/S12E03_3_The_Six_Directions_Ritual_as_useless_or_meaningful": {
+    "score": 2,
+    "note": "Ritual transformation, minimal feeling discussion"
+  },
+  "dhammabytes/S12E04_4_Parents_and_Chidren": {
+    "score": 1,
+    "note": "Family relationships, no feeling focus"
+  },
+  "dhammabytes/S12E05_5_Husbands_and_Wives": {
+    "score": 1,
+    "note": "Marriage guidance, no feeling discussion"
+  },
+  "dhammabytes/S12E06_6_What_makes_for_a_Good_Life": {
+    "score": 2,
+    "note": "Happiness factors, limited feeling content"
+  },
+  "dhammabytes/S12E07_7_Use_of_wealth_for_Happiness": {
+    "score": 2,
+    "note": "Wealth and happiness, minimal feeling focus"
+  },
+  "dhammabytes/S12E08_8_Virtues_of_a_Good_Spouse": {
+    "score": 1,
+    "note": "Spouse qualities, no feeling discussion"
+  },
+  "foundation_course/S01E01_The_First_Noble_Truth_-_Dukkha_Dukkha": {
+    "score": 5,
+    "note": "Suffering focus includes painful feelings and separation"
+  },
+  "foundation_course/S01E02_The_First_Noble_Truth_-_Conditioned_States": {
+    "score": 7,
+    "note": "Examines vedana aggregate and emotional reactions extensively"
+  },
+  "foundation_course/S01E03_The_First_Noble_Truth_-_The_Three_Characteristics": {
+    "score": 4,
+    "note": "Three characteristics include feeling-based identification suffering"
+  },
+  "foundation_course/S01E04_The_Second_Noble_Truth_-_The_Cause_of_Suffering_-_Desire": {
+    "score": 6,
+    "note": "Craving from feelings, desire cycle from pleasant experiences"
+  },
+  "foundation_course/S01E05_The_Second_Noble_Truth_-_The_Wheel_of_Dependent_Origination": {
+    "score": 8,
+    "note": "Feeling as crucial link between contact and craving"
+  },
+  "foundation_course/S01E06_The_Second_Noble_Truth_-_Kamma": {
+    "score": 3,
+    "note": "Action-result, limited feeling discussion"
+  },
+  "foundation_course/S01E07_The_Fourth_Noble_Truth_-_Morality_-_Sila": {
+    "score": 2,
+    "note": "Morality focus, minimal feeling content"
+  },
+  "foundation_course/S01E08_The_Fourth_Noble_Truth_-_Positive_Morality_-_Parami": {
+    "score": 1,
+    "note": "About moral perfections, minimal feeling content"
+  },
+  "foundation_course/S01E09_The_Fourth_Noble_Truth_-_Right_Understanding": {
+    "score": 2,
+    "note": "Focuses on wisdom development, mentions feeling briefly"
+  },
+  "foundation_course/S01E10_The_Fourth_Noble_Truth_-_Mental_Development_-_Samadhi": {
+    "score": 4,
+    "note": "Discusses emotions surfacing in meditation practice"
+  },
+  "foundation_course/S02E01_Moods_Emotions_and_Feelings": {
+    "score": 9,
+    "note": "Directly explores relationship between moods, emotions and feelings"
+  },
+  "foundation_course/S02E02_Guilt_-_Real_and_Unreal": {
+    "score": 6,
+    "note": "Examines guilt as feeling affecting meditation practice"
+  },
+  "foundation_course/S02E03_The_End_of_Guilt": {
+    "score": 5,
+    "note": "Continues guilt theme, addresses emotional patterns"
+  },
+  "foundation_course/S02E04_Right_Intention": {
+    "score": 3,
+    "note": "About intention transformation, touches on emotional states"
+  },
+  "foundation_course/S02E05_The_Divine_Abodes": {
+    "score": 4,
+    "note": "Explores sublime emotional states and feelings"
+  },
+  "foundation_course/S02E06_Faith_or_Belief": {
+    "score": 2,
+    "note": "About faith development, minimal feeling focus"
+  },
+  "foundation_course/S02E07_Wheel_of_Dependent_Origination": {
+    "score": 7,
+    "note": "Feeling is key link in dependent origination"
+  },
+  "foundation_course/S02E08_Kamma": {
+    "score": 2,
+    "note": "About moral causation, mentions intentions briefly"
+  },
+  "foundation_course/S02E09_The_Sangha": {
+    "score": 0,
+    "note": "About community structure, unrelated to feeling"
+  },
+  "foundation_course/S02E10_The_Four_Paths_and_the_Four_Fruits": {
+    "score": 1,
+    "note": "About awakening stages, minimal feeling content"
+  },
+  "foundation_course/S02E11_The_Noble_Silence": {
+    "score": 3,
+    "note": "About meditation hindrances affecting emotional states"
+  },
+  "dharma_talks/S01E01_Why_Meditate": {
+    "score": 2,
+    "note": "About meditation purpose, touches on perception"
+  },
+  "dharma_talks/S01E02_The_Mahasi_Method": {
+    "score": 3,
+    "note": "Meditation technique, mentions noting feelings"
+  },
+  "dharma_talks/S01E03_Starting_a_Personal_Retreat": {
+    "score": 3,
+    "note": "Retreat guidance, mentions working with hindrances"
+  },
+  "dharma_talks/S01E04_Faith": {
+    "score": 2,
+    "note": "About faith development, minimal feeling focus"
+  },
+  "dharma_talks/S01E05_Ritual_in_Spiritual_Practice": {
+    "score": 1,
+    "note": "About ritual practice, minimal feeling content"
+  },
+  "dharma_talks/S01E06_Is_Awareness_Enough": {
+    "score": 2,
+    "note": "About awareness practice, mentions characteristics briefly"
+  },
+  "dharma_talks/S01E07_Developing_the_Spiritual_Faculties": {
+    "score": 3,
+    "note": "About spiritual qualities, touches on emotional balance"
+  },
+  "dharma_talks/S01E08_Spiritual_Faculties_and_Factors_of_Enlightenment": {
+    "score": 3,
+    "note": "About spiritual development, mentions emotional qualities"
+  },
+  "dharma_talks/S01E09_The_Hindrances": {
+    "score": 5,
+    "note": "Examines mental obstacles including emotional hindrances"
+  },
+  "dharma_talks/S01E10_The_Buddha_and_the_Hindrances": {
+    "score": 4,
+    "note": "About working with hindrances affecting feelings"
+  },
+  "dharma_talks/S01E11_Dullness_Lethargy_Restlessness_and_Pain": {
+    "score": 6,
+    "note": "Addresses emotional and physical pain in meditation"
+  },
+  "dharma_talks/S01E12_Eroticism_Romance_Love_Distraction_and_Boredom": {
+    "score": 4,
+    "note": "Mentions pleasant experiences masking underlying feelings"
+  },
+  "dharma_talks/S01E13_The_Ten_Fetters": {
+    "score": 2,
+    "note": "Brief mention of mental chains, not feeling-focused"
+  },
+  "dharma_talks/S01E14_Vedana_Feeling": {
+    "score": 10,
+    "note": "Entirely about vedanā feeling as turning point"
+  },
+  "dharma_talks/S01E15_Fear": {
+    "score": 7,
+    "note": "Explores working with difficult feelings and emotions"
+  },
+  "dharma_talks/S01E16_Foregiveness": {
+    "score": 5,
+    "note": "Addresses psychological responses to harm and hurt"
+  },
+  "dharma_talks/S01E17_The_Illimitables": {
+    "score": 6,
+    "note": "Heart practices complement insight, emotional transformation"
+  },
+  "dharma_talks/S01E18_The_Perfections_Turned_Inward": {
+    "score": 4,
+    "note": "Self-compassion practices, enjoying pleasures without indulgence"
+  },
+  "dharma_talks/S02E01_Survey_of_Theravada_Buddhism": {
+    "score": 1,
+    "note": "General overview, minimal feeling content"
+  },
+  "dharma_talks/S02E02_Impermanence_and_Not-self": {
+    "score": 3,
+    "note": "Mentions emotional purification approaches briefly"
+  },
+  "dharma_talks/S02E03_Ethical_Behaviour_and_the_Awakening_are_one": {
+    "score": 2,
+    "note": "Focus on wisdom-virtue unity, not feeling"
+  },
+  "dharma_talks/S02E04_Wheel_of_Dependent_Origination": {
+    "score": 8,
+    "note": "Vedanā-taṇhā junction as pivotal liberation point"
+  },
+  "dharma_talks/S02E05_Free_Will": {
+    "score": 2,
+    "note": "Philosophical focus, minimal feeling discussion"
+  },
+  "dharma_talks/S02E06_Kamma": {
+    "score": 2,
+    "note": "Intentional action focus, not feeling-centered"
+  },
+  "dharma_talks/S02E07_Rebirth": {
+    "score": 3,
+    "note": "Death process and psychological states mentioned"
+  },
+  "dharma_talks/S02E08_Premodern_Modern_Postmodernism_And_Buddhism": {
+    "score": 1,
+    "note": "Historical mindsets, not feeling-focused"
+  },
+  "dharma_talks/S02E09_The_Buddha_as_Exemplar_and_Archetype": {
+    "score": 2,
+    "note": "Spiritual development stages, minimal feeling content"
+  },
+  "dharma_talks/S02E10_Buddhist_View_of_Christs_Teaching": {
+    "score": 3,
+    "note": "Detachment and love teachings touch feelings"
+  },
+  "dharma_talks/S02E11_Just_War": {
+    "score": 4,
+    "note": "Handling unwholesome mental states and emotions"
+  },
+  "dharma_talks/S02E12_The_Gratification_the_Danger_and_the_Escape": {
+    "score": 7,
+    "note": "Pleasure-seeking and psychological suffering from attachment"
+  },
+  "dharma_talks/S03E01_Bodhisatta_Before_Taking_Human_Birth": {
+    "score": 1,
+    "note": "Pre-birth stories, not feeling-focused"
+  },
+  "dharma_talks/S03E02_Bodhisattas_Birth_to_Renunciation": {
+    "score": 3,
+    "note": "World-weariness and existential crisis mentioned"
+  },
+  "dharma_talks/S03E03_Bodhisattas_Training_to_the_Awakening": {
+    "score": 3,
+    "note": "Spiritual dispassion versus boredom distinction"
+  },
+  "dharma_talks/S03E04_The_Awakening": {
+    "score": 4,
+    "note": "Wrong relationship with phenomena creates suffering"
+  },
+  "dharma_talks/S03E05_The_Years_of_Teaching_and_Parinibbana": {
+    "score": 2,
+    "note": "Teaching stories, minimal feeling focus"
+  },
+  "dharma_talks/S04E01_Meditation_and_Daily_Life": {
+    "score": 3,
+    "note": "Mindful awareness in activities, stepping back"
+  },
+  "dharma_talks/S04E02_Meditation_and_the_Weekly_Group": {
+    "score": 1,
+    "note": "General meditation instruction, no specific focus on feeling"
+  },
+  "dharma_talks/S04E03_The_Eightfold_Path_and_Daily_Life": {
+    "score": 2,
+    "note": "Eightfold Path overview, minimal feeling-specific content"
+  },
+  "dharma_talks/S04E04_Right_Livelihood": {
+    "score": 1,
+    "note": "Focuses on livelihood ethics, not feeling as turning point"
+  },
+  "dharma_talks/S05E01_1_Starting_a_Retreat": {
+    "score": 2,
+    "note": "Retreat opening, basic meditation instruction without feeling emphasis"
+  },
+  "dharma_talks/S05E02_Starting_a_Retreat": {
+    "score": 2,
+    "note": "Basic vipassana instruction, no specific feeling focus"
+  },
+  "dharma_talks/S05E03_A_Detailed_Guided_Meditation": {
+    "score": 3,
+    "note": "Guided meditation mentions observing sensations and emotions"
+  },
+  "dharma_talks/S05E04_Investigative_Eating_Meditation_-_an_explanation": {
+    "score": 5,
+    "note": "Distinguishing bodily sensations from mental reactions, feeling awareness"
+  },
+  "dharma_talks/S05E05_2_The_Mahasi_Technique": {
+    "score": 3,
+    "note": "Noting technique includes observing arising experiences"
+  },
+  "dharma_talks/S05E06_Basics_of_Insight_Meditation_02_2025Video": {
+    "score": 2,
+    "note": "General vipassana introduction, mentions three characteristics"
+  },
+  "dharma_talks/S05E07_Basics_of_Insight_Meditation_04_2026Video": {
+    "score": 3,
+    "note": "Non-conceptual awareness and three characteristics, some feeling relevance"
+  },
+  "dharma_talks/S05E08_4_The_Hindrances_The_Psychotherapy_of_Vipassana": {
+    "score": 4,
+    "note": "Working with mental states and psychological material"
+  },
+  "dharma_talks/S05E09_5_Right_Awareness_Introto_Vipassana": {
+    "score": 3,
+    "note": "Right awareness development, some relevance to feeling observation"
+  },
+  "dharma_talks/S05E10_6_The_Seven_Factors_of_Awakening": {
+    "score": 2,
+    "note": "Seven factors overview, minimal feeling-specific content"
+  },
+  "dharma_talks/S05E11_7_The_Ethical_Psychology_of_the_Buddha_Dependent_Origination": {
+    "score": 7,
+    "note": "Vedana as crucial link in dependent origination chain"
+  },
+  "dharma_talks/S05E12_8_The_Law_of_Kamma": {
+    "score": 2,
+    "note": "Kamma teaching, not specifically about feeling as turning point"
+  },
+  "dharma_talks/S05E13_8_Living_Life_according_to_the_Dhamma": {
+    "score": 2,
+    "note": "Daily life application, minimal feeling-specific guidance"
+  },
+  "dharma_talks/S05E14_Guided_Metta": {
+    "score": 3,
+    "note": "Loving-kindness practice involves feeling states"
+  },
+  "dharma_talks/S05E15_Guided_Bodycare": {
+    "score": 4,
+    "note": "Body relationship and feeling states in meditation"
+  },
+  "dharma_talks/S06E01_Developing_the_Factors_of_Enlightenment": {
+    "score": 3,
+    "note": "Awakening factors include awareness of arising experiences"
+  },
+  "dharma_talks/S06E02_Exploring_Dukkha": {
+    "score": 4,
+    "note": "Dukkha exploration involves understanding unsatisfactory feelings"
+  },
+  "dharma_talks/S06E03_Question_Answer_Session": {
+    "score": 1,
+    "note": "General Q&A, no specific feeling focus"
+  },
+  "dharma_talks/S06E04_Revising_the_Principles_of_Meditation": {
+    "score": 3,
+    "note": "Pure awareness and observing states, some feeling relevance"
+  },
+  "dharma_talks/S06E05_The_Hindrances": {
+    "score": 4,
+    "note": "Working with mental states and reaction patterns"
+  },
+  "dharma_talks/S07E01_Practice_into_Daily_Life_Xmas_2006": {
+    "score": 2,
+    "note": "Daily life integration, minimal feeling-specific content"
+  },
+  "dharma_talks/S07E02_New_Year_Reflections": {
+    "score": 1,
+    "note": "Spiritual undertakings reflection, not feeling-focused"
+  },
+  "dharma_talks/S08E01_QA_Resistance_Rebirth_and_Moral_Justice_What_suffers_Mindfulness_Apps_Spiritual": {
+    "score": 2,
+    "note": "Mentions what suffers but not focused on feeling"
+  },
+  "dharma_talks/S09E01_01_The_Body_-_The_Buddhas_World_View_and_the_role_of_Materiality_rupaTo_play_the": {
+    "score": 1,
+    "note": "About materiality/body, not feeling aggregate"
+  },
+  "dharma_talks/S09E02_02_The_Body_-_Kayagasati_Sutta_MN131To_play_the_media_you_will_need_to_either_up": {
+    "score": 1,
+    "note": "Body meditation focus, not feeling"
+  },
+  "dharma_talks/S09E03_Feeling_vedanaTo_play_the_media_you_will_need_to_either_update_your_browser_to_a": {
+    "score": 9,
+    "note": "Entirely about vedana feeling aggregate"
+  },
+  "dharma_talks/S09E04_Dependent_Origination_leading_to_awakening_in_ordinary_Daily_lifeTo_play_the_med": {
+    "score": 7,
+    "note": "Liberation between vedana and craving key insight"
+  },
+  "dharma_talks/S09E05_To_play_the_media_you_will_need_to_either_update_your_browser_to_a_recent_versio": {
+    "score": 2,
+    "note": "About nibbana and awakening, mentions suffering"
+  },
+  "dharma_talks/S09E06_To_play_the_media_you_will_need_to_either_update_your_browser_to_a_recent_versio": {
+    "score": 1,
+    "note": "About blessings and virtues, not feeling"
+  },
+  "dharma_talks/S09E07_Ethics_Not-self_and_LiberationTo_play_the_media_you_will_need_to_either_update_y": {
+    "score": 2,
+    "note": "Ethics and not-self focus, mentions aggregates"
+  },
+  "dharma_talks/S09E08_Roads_to_PowerTo_play_the_media_you_will_need_to_either_update_your_browser_to_a": {
+    "score": 3,
+    "note": "37 factors include satipatthana which includes feeling"
+  },
+  "dharma_talks/S09E09_New_Year_address_on_the_qualities_needed_to_succeed_The_Roads_to_SuccessTo_play": {
+    "score": 3,
+    "note": "37 factors include feeling foundation of awareness"
+  },
+  "dharma_talks/S09E10_The_First_Discourse_on_Turning_the_Wheel_of_the_DhammaTo_play_the_media_you_will": {
+    "score": 2,
+    "note": "Four Noble Truths, mentions suffering"
+  },
+  "dharma_talks/S09E11_Scientism_Romanticism_Psychotherapy_-_and_BuddhadhammaTo_play_the_media_you_wi": {
+    "score": 1,
+    "note": "Cultural analysis, not about feeling"
+  },
+  "dharma_talks/S09E12_Kamma_Rebirth_and_Transcendence_A_top_down_view_of_the_BuddhadhammaTo_play_the": {
+    "score": 1,
+    "note": "Transcendence and rebirth focus, not feeling"
+  },
+  "dharma_talks/S09E13_The_Discourse_to_the_Kalama_Discernment_the_Ethical_Life_and_Fake_NewsTo_play_t": {
+    "score": 1,
+    "note": "About discernment and ethics, not feeling"
+  },
+  "dharma_talks/S10E01_Buddha_Day_Address_What_was_the_mindset_of_the_Bodhisatta_when_he_left_his_famil": {
+    "score": 2,
+    "note": "Buddha's journey and suffering, not feeling specifically"
+  },
+  "dharma_talks/S10E02_Spiritual_progress_-_stop_tryingTo_play_the_media_you_will_need_to_either_update": {
+    "score": 2,
+    "note": "Three characteristics mentioned, not feeling focus"
+  },
+  "dharma_talks/S10E04_The_Need_for_Sangha_community_and_Qs_about_Ordinary_Daily_LifeTo_play_the_media": {
+    "score": 1,
+    "note": "About sangha and daily practice"
+  },
+  "dharma_talks/S11E01_Mae_Chee_Kaew_and_ResolutionsTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 2,
+    "note": "Body-mind distinction, mentions aggregates"
+  },
+  "dharma_talks/S11E02_The_Three_CharacteristicsTo_play_the_media_you_will_need_to_either_update_your_b": {
+    "score": 3,
+    "note": "Three characteristics including dukkha unsatisfactoriness"
+  },
+  "dharma_talks/S11E03_Buddha_Day_Address_May_2015To_play_the_media_you_will_need_to_either_update_your": {
+    "score": 1,
+    "note": "Buddha's life and teaching method"
+  },
+  "dharma_talks/S11E04_DeconstructionTo_play_the_media_you_will_need_to_either_update_your_browser_to_a": {
+    "score": 4,
+    "note": "Five aggregates including vedana feeling"
+  },
+  "dharma_talks/S11E05_Love_and_All_ThatTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 2,
+    "note": "About love and attachment, emotional aspects"
+  },
+  "dharma_talks/S11E06_Ethics_Not-self_and_LiberationTo_play_the_media_you_will_need_to_either_update_y": {
+    "score": 2,
+    "note": "Ethics and not-self, mentions aggregates"
+  },
+  "dharma_talks/S12E01_Contol_and_loss_of_PowerTo_play_the_media_you_will_need_to_either_update_your_br": {
+    "score": 2,
+    "note": "Control and suffering, three characteristics mentioned"
+  },
+  "dharma_talks/S12E02_QA_Detachment_Engagement_Motivation_DevotionTo_play_the_media_you_will_need_to_e": {
+    "score": 3,
+    "note": "Vipassana and three characteristics including dukkha"
+  },
+  "dharma_talks/S12E03_Basics_for_MeditationTo_play_the_media_you_will_need_to_either_update_your_brows": {
+    "score": 2,
+    "note": "Meditation fundamentals, no specific focus on feeling"
+  },
+  "dharma_talks/S12E04_Kamma_RevisitedTo_play_the_media_you_will_need_to_either_update_your_browser_to": {
+    "score": 1,
+    "note": "About kamma and causality, minimal feeling content"
+  },
+  "dharma_talks/S12E05_Daily_Life_ReinforcedTo_play_the_media_you_will_need_to_either_update_your_brows": {
+    "score": 2,
+    "note": "Daily practice integration, no specific feeling focus"
+  },
+  "dharma_talks/S12E06_RefinementSublimation_and_the_Eightfold_PathTo_play_the_media_you_will_need_to_e": {
+    "score": 3,
+    "note": "Mental turbulences sublimating, touches on feeling transformation"
+  },
+  "dharma_talks/S12E07_No_Inherent_BeingTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 2,
+    "note": "Not-self teaching, minimal feeling-specific content"
+  },
+  "dharma_talks/S12E08_Kamma_and_Free_WillTo_play_the_media_you_will_need_to_either_update_your_browser": {
+    "score": 1,
+    "note": "Ethics and spiritual development, not feeling-focused"
+  },
+  "dharma_talks/S12E09_Comments_on_a_Statement_by_Mae_Chee_KaewTo_play_the_media_you_will_need_to_eithe": {
+    "score": 2,
+    "note": "Four Noble Truths exploration, minimal feeling emphasis"
+  },
+  "dharma_talks/S12E10_Reiki_10_06_2015To_play_the_media_you_will_need_to_either_update_your_browser_to": {
+    "score": 0,
+    "note": "Reiki energy practice, unrelated to Buddhist feeling"
+  },
+  "dharma_talks/S12E11_Intro_Talk_to_BodycareTo_play_the_media_you_will_need_to_either_update_your_brow": {
+    "score": 2,
+    "note": "Vipassana introduction, no specific feeling focus"
+  },
+  "dharma_talks/S12E12_Dependent_Origination_and_the_Quality_of_Right_AwarenessTo_play_the_media_you_wi": {
+    "score": 7,
+    "note": "Dependent origination includes vedana as crucial turning point"
+  },
+  "dharma_talks/S12E13_Talk_at_the_Re-opening_of_the_Golden_Buddha_Centre_in_TotnesTo_play_the_media_yo": {
+    "score": 2,
+    "note": "Buddha's journey and awareness, minimal feeling content"
+  },
+  "dharma_talks/S12E14_The_Prognosis_is_Very_GoodTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 3,
+    "note": "Four Noble Truths and desire, touches feeling"
+  },
+  "dharma_talks/S13E01_Importance_of_Resolution_plusTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 2,
+    "note": "Five aggregates and resolution, minimal feeling focus"
+  },
+  "dharma_talks/S13E02_Christmas_Talk_re_the_PathTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 1,
+    "note": "Christmas goodwill and ethics, not feeling-specific"
+  },
+  "dharma_talks/S13E03_Right_RelationshipTo_play_the_media_you_will_need_to_either_update_your_browser": {
+    "score": 1,
+    "note": "Ten paramis and relationships, not feeling-focused"
+  },
+  "dharma_talks/S13E04_How_to_critique_the_Dhamma_and_BuddhaTo_play_the_media_you_will_need_to_either_u": {
+    "score": 1,
+    "note": "Kalama Sutta and inquiry, not about feeling"
+  },
+  "dharma_talks/S13E05_An_Attempt_to_Understand_the_teaching_of_Not-SelfTo_play_the_media_you_will_need": {
+    "score": 3,
+    "note": "Five khandhas includes feeling aggregate discussion"
+  },
+  "dharma_talks/S13E06_Talk_to_the_European_Teachers_Meeting_How_I_came_to_establish_a_non-communityTo": {
+    "score": 0,
+    "note": "Personal story about establishing center, unrelated"
+  },
+  "dharma_talks/S14E01_HappinessTo_play_the_media_you_will_need_to_either_update_your_browser_to_a_rece": {
+    "score": 4,
+    "note": "Happiness and attachment, relates to feeling-tone"
+  },
+  "dharma_talks/S14E02_The_Body_and_the_Discourse_on_How_to_Establish_Right_AwarenessTo_play_the_media": {
+    "score": 2,
+    "note": "Body contemplation in Satipatthana, minimal feeling focus"
+  },
+  "dharma_talks/S14E03_QA_session_Family_Distractions_Selfish_to_Meditate_Negative_Emotions_Sufferin": {
+    "score": 5,
+    "note": "Handling negative emotions and identification, feeling-relevant"
+  },
+  "dharma_talks/S14E04_Mindfulness_TimeTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 6,
+    "note": "Primary pain vs secondary reactions, feeling-tone crucial"
+  },
+  "dharma_talks/S14E05_Monks_Daily_Life_Not-SelfTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 2,
+    "note": "Monastic life and not-self, minimal feeling emphasis"
+  },
+  "dharma_talks/S14E06_Retreats_Attachment_Children_and_SufferingTo_play_the_media_you_will_need_to_e": {
+    "score": 4,
+    "note": "Attachment and psychological suffering, touches feeling-tone"
+  },
+  "dharma_talks/S15E01_New_Year_Revision_of_Buddhadhamma_Theory_and_PracticeTo_play_the_media_you_will": {
+    "score": 7,
+    "note": "Vedana to tanha sequence, feeling as turning point"
+  },
+  "dharma_talks/S15E02_Hope_to_InspireTo_play_the_media_you_will_need_to_either_update_your_browser_to": {
+    "score": 4,
+    "note": "Mentions working with pleasant/unpleasant experiences in meditation"
+  },
+  "dharma_talks/S15E03_Talk_at_Opening_of_centre_in_GhentTo_play_the_media_you_will_need_to_either_upda": {
+    "score": 2,
+    "note": "General Dhamma teaching, minimal focus on feeling"
+  },
+  "dharma_talks/S15E04_The_Problem_of_IdentityTo_play_the_media_you_will_need_to_either_update_your_bro": {
+    "score": 5,
+    "note": "Discusses five aggregates including feeling, observer-self development"
+  },
+  "dharma_talks/S15E05_The_body_as_Meditative_ObjectTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 6,
+    "note": "Explores physical vs mental suffering, body-mind relationship"
+  },
+  "dharma_talks/S16E01_1_Starting_a_RetreatTo_play_the_media_you_will_need_to_either_update_your_browse": {
+    "score": 1,
+    "note": "Retreat opening ceremony, no specific feeling focus"
+  },
+  "dharma_talks/S16E02_The_Principles_and_Problems_of_VipassanaTo_play_the_media_you_will_need_to_eithe": {
+    "score": 4,
+    "note": "Discusses attachment/aversion cycles, mindful observation of experience"
+  },
+  "dharma_talks/S16E03_Not-Self_Indulgence_and_allTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 3,
+    "note": "Touches on suffering cycles, dependent origination"
+  },
+  "dharma_talks/S16E04_Impulsive_or_SpontaneousTo_play_the_media_you_will_need_to_either_update_your_br": {
+    "score": 5,
+    "note": "Examines reactions vs responses, transforming conditioned patterns"
+  },
+  "dharma_talks/S16E05_The_Body_and_the_Three_CharacteristicsTo_play_the_media_you_will_need_to_either": {
+    "score": 7,
+    "note": "Body contemplation revealing dukkha, suffering identification processes"
+  },
+  "dharma_talks/S16E06_Why_noting_without_stopTo_play_the_media_you_will_need_to_either_update_your_bro": {
+    "score": 3,
+    "note": "Technical noting instruction, relationship between mind and experience"
+  },
+  "dharma_talks/S16E07_Why_we_need_a_techniqueTo_play_the_media_you_will_need_to_either_update_your_bro": {
+    "score": 2,
+    "note": "General meditation technique discussion, minimal feeling focus"
+  },
+  "dharma_talks/S16E08_Subliminal_Inclinations_Defilements_and_HindrancesTo_play_the_media_you_will_nee": {
+    "score": 4,
+    "note": "Mental conditioning categories, heart purification through meditation"
+  },
+  "dharma_talks/S16E09_Questions_and_Answers_A_Dolly_MixtureTo_play_the_media_you_will_need_to_either_u": {
+    "score": 5,
+    "note": "Pleasure/suffering relationship, boredom as attachment to excitement"
+  },
+  "dharma_talks/S16E10_Importance_of_Metta_24_minTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 6,
+    "note": "Equanimity vs indifference, maintaining heart connection in practice"
+  },
+  "dharma_talks/S16E11_The_Kamma_of_LiberationTo_play_the_media_you_will_need_to_either_update_your_bro": {
+    "score": 3,
+    "note": "Present creative action vs past conditioning"
+  },
+  "dharma_talks/S16E12_The_Karma_Concerning_LiberationTo_play_the_media_you_will_need_to_either_update": {
+    "score": 5,
+    "note": "Wanting/aversion creating suffering, ethical responses to experience"
+  },
+  "dharma_talks/S17E01_Dignity_and_the_Qualities_of_a_RulerTo_play_the_media_you_will_need_to_either_up": {
+    "score": 2,
+    "note": "Character development through virtues, minimal feeling focus"
+  },
+  "dharma_talks/S17E02_Practice_in_Ordinary_Daily_LifeTo_play_the_media_you_will_need_to_either_update": {
+    "score": 7,
+    "note": "Emotional suffering self-creation, psychological reactions through insight"
+  },
+  "dharma_talks/S17E03_Samatha-VipassanaTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 3,
+    "note": "Two meditation types, Buddha's spiritual journey"
+  },
+  "dharma_talks/S17E04_Vipassana_and_or_TherapyTo_play_the_media_you_will_need_to_either_update_your_br": {
+    "score": 6,
+    "note": "Mental suffering understanding, identification with body-mind processes"
+  },
+  "dharma_talks/S17E05_Buddha_Day_Address_with_Refuges_and_PreceptsTo_play_the_media_you_will_need_to_e": {
+    "score": 2,
+    "note": "Buddha's awakening journey, ceremonial elements"
+  },
+  "dharma_talks/S17E06_Daily_Rythms_Fetters_Hindrances_and_Inclinations_RebirthTo_play_the_media_you_wi": {
+    "score": 4,
+    "note": "Mental hindrances categories, working with dullness/lethargy"
+  },
+  "dharma_talks/S17E07_Metta_Applied_and_Sustained_Thought_BuddhamindTo_play_the_media_you_will_need_to": {
+    "score": 5,
+    "note": "Brahmavihāras integration, detached indifference vs true equanimity"
+  },
+  "dharma_talks/S17E08_Equanimity_-_Foundation_of_all_VirtueTo_play_the_media_you_will_need_to_either_u": {
+    "score": 7,
+    "note": "Equanimity's intellectual/emotional dimensions, releasing attachment to beliefs"
+  },
+  "dharma_talks/S17E09_The_Mahasi_MethodTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 4,
+    "note": "Noting technique for objectivity, catching intentions before actions"
+  },
+  "dharma_talks/S17E10_The_Sufferings_of_the_Pleasure_SyndromeTo_play_the_media_you_will_need_to_either": {
+    "score": 4,
+    "note": "Discusses craving and gratification but not feeling specifically"
+  },
+  "dharma_talks/S17E11_There_is_no_separation_between_vipassana_and_ordinary_daily_lifeTo_play_the_medi": {
+    "score": 3,
+    "note": "Mentions three characteristics including dukkha but not feeling focus"
+  },
+  "dharma_talks/S17E12_Q_A_Rebirth_Identification_Emotions_etcTo_play_the_media_you_will_need_to_eithe": {
+    "score": 5,
+    "note": "Addresses emotions and identification mechanics relevant to feeling"
+  },
+  "dharma_talks/S17E13_Why_didnt_the_Buddha_return_to_lay_lifeTo_play_the_media_you_will_need_to_either": {
+    "score": 2,
+    "note": "About monastic vs lay life, minimal feeling content"
+  },
+  "dharma_talks/S17E14_Revising_the_principles_of_vipassanaTo_play_the_media_you_will_need_to_either_up": {
+    "score": 4,
+    "note": "Discusses mental states and observation but not feeling specifically"
+  },
+  "dharma_talks/S17E15_Dukkha_Unsatisfactoriness_et_alTo_play_the_media_you_will_need_to_either_update": {
+    "score": 6,
+    "note": "Examines five aggregates including feeling as turning point"
+  },
+  "dharma_talks/S17E16_Encouragement_October_09To_play_the_media_you_will_need_to_either_update_your_br": {
+    "score": 3,
+    "note": "Covers three characteristics and awareness but not feeling focus"
+  },
+  "dharma_talks/S17E17_The_practice_and_the_pitfalls_of_metta_goodwill_practiceTo_play_the_media_you_wi": {
+    "score": 4,
+    "note": "About loving-kindness practice, touches on emotional aspects"
+  },
+  "dharma_talks/S18E01_How_Vipassana_relates_to_Daily_LifeTo_play_the_media_you_will_need_to_either_upd": {
+    "score": 3,
+    "note": "Applies three characteristics to daily life, minimal feeling content"
+  },
+  "dharma_talks/S18E02_Samatha_and_-_or_VipassanaTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 2,
+    "note": "About concentration vs insight meditation, not feeling focused"
+  },
+  "dharma_talks/S18E03_Metta_Developing_GoodwillTo_play_the_media_you_will_need_to_either_update_your_b": {
+    "score": 4,
+    "note": "Explores emotional conditioning and goodwill development"
+  },
+  "dharma_talks/S18E04_Karma_Dependent_Origination_Virtue_and_LiberationTo_play_the_media_you_will_need": {
+    "score": 5,
+    "note": "Discusses gratification and attachment patterns affecting feeling"
+  },
+  "dharma_talks/S18E05_Enthusiam_and_other_questionsTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 3,
+    "note": "About spiritual enthusiasm and confidence, not feeling specifically"
+  },
+  "dharma_talks/S18E06_Faith_and_the_Spiritual_LifeTo_play_the_media_you_will_need_to_either_update_you": {
+    "score": 2,
+    "note": "About faith and confidence in practice, minimal feeling content"
+  },
+  "dharma_talks/S18E07_Revising_the_principles_of_vipassanaTo_play_the_media_you_will_need_to_either_up": {
+    "score": 4,
+    "note": "Discusses mental conditioning and observation but not feeling specifically"
+  },
+  "dharma_talks/S18E08_The_Buddhas_Quest_-_A_Public_TalkTo_play_the_media_you_will_need_to_either_updat": {
+    "score": 2,
+    "note": "Buddha's spiritual journey narrative, not feeling focused"
+  },
+  "dharma_talks/S18E09_The_problem_lies_in_the_lookingTo_play_the_media_you_will_need_to_either_update": {
+    "score": 3,
+    "note": "About perception and hindrances, touches on feeling indirectly"
+  },
+  "dharma_talks/S18E10_There_is_no_reason_for_beingTo_play_the_media_you_will_need_to_either_update_you": {
+    "score": 3,
+    "note": "About being vs becoming, mentions emotional identification"
+  },
+  "dharma_talks/S18E11_Towards_a_whole_life_practiceTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 5,
+    "note": "Discusses transformation of negative feelings into positive qualities"
+  },
+  "dharma_talks/S19E01_httpswwwsatipanyaorgukwp-contentuploads202004Evening-Lockdown-Meditationmp4": {
+    "score": 4,
+    "note": "Guided meditation with compassion practices affecting feeling"
+  },
+  "dharma_talks/S19E02_httpswwwsatipanyaorgukwp-contentuploads20200401-MN9-Discourse-on-Right-View-Whol": {
+    "score": 3,
+    "note": "About wholesome/unwholesome actions, mentions emotional roots"
+  },
+  "dharma_talks/S19E03_httpswwwsatipanyaorgukwp-contentuploads20200402-First-Three-Noble-Truthsmp4": {
+    "score": 4,
+    "note": "Discusses clinging to aggregates including feeling"
+  },
+  "dharma_talks/S19E04_httpswwwsatipanyaorgukwp-contentuploads20200403-Coronavirus-and-the-Contemplatio": {
+    "score": 5,
+    "note": "Uses fear and mortality to transform emotional responses"
+  },
+  "dharma_talks/S19E05_httpswwwsatipanyaorgukwp-contentuploads20200404-Contemplation-of-Death-Living-mo": {
+    "score": 4,
+    "note": "Death contemplation affecting present moment feeling awareness"
+  },
+  "dharma_talks/S19E06_httpswwwsatipanyaorgukwp-contentuploads20200405-Contemplation-of-Death-againmp4": {
+    "score": 4,
+    "note": "Practitioner feedback on death contemplation's emotional impact"
+  },
+  "dharma_talks/S19E07_httpswwwsatipanyaorgukwp-contentuploads20200406-Renunciation-and-Buddhas-First-O": {
+    "score": 7,
+    "note": "Staying with difficult feelings until they naturally transform"
+  },
+  "dharma_talks/S19E09_httpswwwsatipanyaorgukwp-contentuploads20200408-Mindfulness-at-work-And-Right-Vi": {
+    "score": 2,
+    "note": "Mentions awareness but not specifically about feelings"
+  },
+  "dharma_talks/S19E10_httpswwwsatipanyaorgukwp-contentuploads20200409-Right-Speech-Action-and-Liveliho": {
+    "score": 1,
+    "note": "Ethical conduct focus, minimal feeling discussion"
+  },
+  "dharma_talks/S19E11_httpswwwsatipanyaorgukwp-contentuploads20200410-Grief-1mp4": {
+    "score": 8,
+    "note": "Explores sorrow vs grief, attachment and emotional responses"
+  },
+  "dharma_talks/S19E12_httpswwwsatipanyaorgukwp-contentuploads20200411-The-Nutriments-Food-Contact-Voli": {
+    "score": 6,
+    "note": "Sensory contact creates feelings as nutriment"
+  },
+  "dharma_talks/S19E13_httpswwwsatipanyaorgukwp-contentuploads20200412-The-Investigation-of-Eating-1mp4": {
+    "score": 5,
+    "note": "Distinguishing enjoyment from indulgence through feeling awareness"
+  },
+  "dharma_talks/S19E14_httpswwwsatipanyaorgukwp-contentuploads20200413-Discourse-on-the-Taints-MN-2-Ove": {
+    "score": 2,
+    "note": "Mental taints focus, limited feeling discussion"
+  },
+  "dharma_talks/S19E16_httpswwwsatipanyaorgukwp-contentuploads20200415-The-Discourse-on-Not-self-SN2265": {
+    "score": 4,
+    "note": "Examines feelings aggregate in not-self teaching"
+  },
+  "dharma_talks/S19E18_httpswwwsatipanyaorgukwp-contentuploads20200417-Questions-See-Descriptionmp4": {
+    "score": 3,
+    "note": "Body influences on thoughts and feelings mentioned"
+  },
+  "dharma_talks/S19E19_httpswwwsatipanyaorgukwp-contentuploads20200418-Overcoming-the-Taints-by-Restrai": {
+    "score": 3,
+    "note": "Sense contact and grief mentioned in restraint"
+  },
+  "dharma_talks/S19E20_httpswwwsatipanyaorgukwp-contentuploads20200419-Overcoming-the-Taints-by-Usingmp": {
+    "score": 1,
+    "note": "Material requisites focus, minimal feeling content"
+  },
+  "dharma_talks/S19E21_httpswwwsatipanyaorgukwp-contentuploads20200420-Overcoming-the-Taints-by-Enduran": {
+    "score": 6,
+    "note": "Transforming relationship with irritations and painful experiences"
+  },
+  "dharma_talks/S19E22_httpswwwsatipanyaorgukwp-contentuploads20200423-The-Ten-Fettersmp4": {
+    "score": 2,
+    "note": "Mental fetters focus, limited feeling discussion"
+  },
+  "dharma_talks/S20E01_Refuges_and_Precepts_with_Metta": {
+    "score": 1,
+    "note": "Ceremonial refuge taking, minimal feeling content"
+  },
+  "dharma_talks/S21E01_Video": {
+    "score": 3,
+    "note": "Dullness and lethargy as feeling states"
+  },
+  "dharma_talks/S21E02_Video": {
+    "score": 2,
+    "note": "Proliferation process mentions but not feeling focus"
+  },
+  "dharma_talks/S21E03_Video": {
+    "score": 7,
+    "note": "Joy recognition and cultivation, wholesome vs unwholesome"
+  },
+  "dharma_talks/S21E04_Video": {
+    "score": 4,
+    "note": "Emotional acceptance in death contemplation practice"
+  },
+  "dharma_talks/S22E01_2022_Dec_11_To_Love_or_To_Be_Loved_That_is_the_question": {
+    "score": 5,
+    "note": "Existential loneliness and emotional void exploration"
+  },
+  "dharma_talks/S22E02_Love_and_Relationship": {
+    "score": 3,
+    "note": "Care and emotional foundations mentioned"
+  },
+  "dharma_talks/S22E03_Forgiveness_is_fundamental_to_purify_the_heart_Resentment_is_a_poison_Guilt_sham": {
+    "score": 8,
+    "note": "Healing resentment, guilt, shame through forgiveness practice"
+  },
+  "dharma_talks/S22E04_The_introduction": {
+    "score": 7,
+    "note": "Emotional reactions as conditioned formations, balloons metaphor"
+  },
+  "dharma_talks/S22E05_Karaniya_Metta_Sutta": {
+    "score": 3,
+    "note": "Loving-kindness as absence of ill-will"
+  },
+  "dharma_talks/S23E01_Video": {
+    "score": 1,
+    "note": "Conversation skills focus, minimal feeling content"
+  },
+  "dharma_talks/S23E02_We_often_hear_about_suffering_and_the_end_of_suffering_We_practice_metta_But_wha": {
+    "score": 8,
+    "note": "Joy cultivation, fear of indulgence vs attachment"
+  },
+  "dharma_talks/S23E03_2024_Jan_21_The_importance_of_Tranquillity_Passaddhi": {
+    "score": 4,
+    "note": "Mentions tranquillity's effects on body/mind, some feeling relevance"
+  },
+  "dharma_talks/S23E04_Patient_Forebearance": {
+    "score": 5,
+    "note": "Discusses working with inner reactivity and mental states"
+  },
+  "dharma_talks/S23E05_Equanimity": {
+    "score": 6,
+    "note": "Substantially covers emotional balance and composure in practice"
+  },
+  "dharma_talks/S23E06_Sympathy_Empathy_and_Compassion": {
+    "score": 7,
+    "note": "Explores different ways of relating to emotional suffering"
+  },
+  "dharma_talks/S23E07_2023_June_11_Fear_and_Courage": {
+    "score": 8,
+    "note": "Examines fear as fundamental emotional state and responses"
+  },
+  "dharma_talks/S23E08_Apologies_I_tried_to_cover_too_much_ground_However_tit_will_appear_as_a_Tip_on_t": {
+    "score": 6,
+    "note": "Explores compassion and heart's connection to suffering"
+  },
+  "dharma_talks/S23E09_2023_Oct_01_Good_Friendship_Companionship_Good_Comradeship_is_the_Whole_of_the_S": {
+    "score": 2,
+    "note": "Focuses on relationships, minimal feeling content"
+  },
+  "dharma_talks/S23E10_2021_Gratitude_Generosity_and_Renunciation": {
+    "score": 3,
+    "note": "Mentions gratitude as feeling but focuses on practices"
+  },
+  "dharma_talks/S23E11_2022_Jul_17_Need_Sufficiency_and_Greed_-": {
+    "score": 4,
+    "note": "Addresses economic anxieties and fear around basic needs"
+  },
+  "dharma_talks/S23E12_2025_Apr_06_Renunciation": {
+    "score": 3,
+    "note": "Touches on craving but primarily about letting go"
+  },
+  "dharma_talks/S23E13_Video": {
+    "score": 4,
+    "note": "Explores hope as craving leading to disappointment"
+  },
+  "dharma_talks/S24E02_The_Buddha_and_War": {
+    "score": 2,
+    "note": "About non-violence attitude, minimal feeling focus"
+  },
+  "dharma_talks/S24E03_2025_May_04_The_Buddha_as_a_Teacher": {
+    "score": 1,
+    "note": "Teaching methods, not about feelings"
+  },
+  "dharma_talks/S25E01_2025_June_08_What_was_the_Buddhas_great_disovery": {
+    "score": 2,
+    "note": "Transcendence topic, minimal feeling content"
+  },
+  "dharma_talks/S25E02_Video": {
+    "score": 1,
+    "note": "Nibbana teaching, not about feelings"
+  },
+  "dharma_talks/S25E03_Video": {
+    "score": 2,
+    "note": "Consciousness without objects, minimal feeling relevance"
+  },
+  "dharma_talks/S26E01_2024_April24_Contemplating_the_Unpleasantness_of_the_Body": {
+    "score": 5,
+    "note": "Body contemplation affecting attachment and emotional responses"
+  },
+  "dharma_talks/S26E02_2024_June_23_The_Unattractive_Nature_of_the_Body": {
+    "score": 4,
+    "note": "Body contemplation for developing equanimity and non-attachment"
+  },
+  "dharma_talks/S26E03_I_own_my_actions_I_inherit_the_results_of_my_actions_I_am_born_of_my_actions_I_f": {
+    "score": 3,
+    "note": "Karma contemplation, some emotional responsibility aspects"
+  },
+  "dharma_talks/S26E04_Karma_and_Rebirth": {
+    "score": 4,
+    "note": "Ethical responses to experiences affecting spiritual progress"
+  },
+  "dharma_talks/S26E05_2023_Nov_26_The_Five_Regular_Contemplations": {
+    "score": 6,
+    "note": "Heart-centered practices addressing fears and deep attachments"
+  },
+  "dharma_talks/S26E06_2022_Nov_06_The_Contemplation_of_Death": {
+    "score": 7,
+    "note": "Addresses biological terror and fear driving human behavior"
+  },
+  "dharma_talks/S26E07_The_Eight_Worldly_Winds": {
+    "score": 8,
+    "note": "Directly examines emotional reactions to life's conditions"
+  },
+  "dharma_talks/S27E01_The_Paradox_of_Fear": {
+    "score": 9,
+    "note": "Primarily about fear, anxiety and emotional responses"
+  },
+  "dharma_talks/S27E02_2025_Jan_12_Dukkha_-_the_Buddha_grounds_his_teaching_on_this_word": {
+    "score": 8,
+    "note": "Foundational teaching on suffering as human experience"
+  },
+  "dharma_talks/S27E03_2024_Feb_25_The_crucial_role_of_Desire_and_Intention": {
+    "score": 7,
+    "note": "Explores feeling to craving transition in dependent origination"
+  },
+  "dharma_talks/S27E04_2024_July_14_The_Four_Great_Elements": {
+    "score": 2,
+    "note": "Physical elements meditation, minimal feeling content"
+  },
+  "dharma_talks/S27E05_2024_August_18_The_Specific_Law_of_Conditionality": {
+    "score": 3,
+    "note": "General conditionality teaching, mentions feeling in passing"
+  },
+  "dharma_talks/S27E06_2024_September_15_The_Dangers_of_Indulgence": {
+    "score": 5,
+    "note": "Discusses pleasure attachment but not feeling specifically"
+  },
+  "dharma_talks/S27E07_2023_Jan_08_The_Four_Bases_of_Power": {
+    "score": 4,
+    "note": "Covers desire/chanda but not vedana specifically"
+  },
+  "dharma_talks/S27E08_Video": {
+    "score": 4,
+    "note": "Transcendent arising from dukkha, mentions feeling indirectly"
+  },
+  "dharma_talks/S27E09_2023_Oct_29_The_Spiral_Path": {
+    "score": 4,
+    "note": "Dukkha to liberation path, feeling implied"
+  },
+  "dharma_talks/S27E10_2021_Four_Noble_Truths": {
+    "score": 5,
+    "note": "Covers dukkha and reactions, touches feeling"
+  },
+  "dharma_talks/S27E11_Dukkha_Unsatisfactoriness_and_Sila_Morality_and_Ethics_-": {
+    "score": 4,
+    "note": "Suffering and reactions, feeling mentioned peripherally"
+  },
+  "dharma_talks/S27E12_Dependent_Origination_the_Role_of_desire_and_the_only_Choice": {
+    "score": 8,
+    "note": "Focuses on vedana to tanha transition specifically"
+  },
+  "dharma_talks/S27E13_2022_Oct_09_Identity_and_Not-Self": {
+    "score": 3,
+    "note": "Identity formation, feeling mentioned in context"
+  },
+  "dharma_talks/S28E02_Right_Livelihood": {
+    "score": 1,
+    "note": "Ethical work guidance, no feeling content"
+  },
+  "dharma_talks/S28E03_2022_Sep_11_Rest_for_Autumn": {
+    "score": 2,
+    "note": "Daily practice guidance, minimal feeling discussion"
+  },
+  "dharma_talks/S29E01_Bahiya_of_the_Bark_Cloth": {
+    "score": 6,
+    "note": "Six sense doors awareness, includes feeling"
+  },
+  "dharma_talks/S29E02_2023_March_05": {
+    "score": 6,
+    "note": "Direct awareness teaching includes feeling consciousness"
+  },
+  "dharma_talks/S29E03_": {
+    "score": 3,
+    "note": "Mental action primacy, feeling mentioned tangentially"
+  },
+  "dharma_talks/S30E01_2022_Aug_14_Climate_Emergency_and_the_Role_of_the_Dhamma_Video": {
+    "score": 3,
+    "note": "Emotional reactions to crisis, feeling implied"
+  },
+  "dharma_talks/S30E02_Non-Violence_v_Pacifism": {
+    "score": 2,
+    "note": "Non-violence ethics, minimal feeling content"
+  },
+  "dharma_talks/S30E03_2022_Apr_17_Noliberalism_and_Mindfulness": {
+    "score": 2,
+    "note": "Mindfulness corruption, no specific feeling focus"
+  },
+  "dharma_talks/S30E04_2022_Jun_19_Social_Conditionng_or_Karma_-_Our_social_conditioning_is_a_given_but": {
+    "score": 2,
+    "note": "Social conditioning, minimal feeling discussion"
+  },
+  "dharma_talks/S31E01_Buddha_Day_Address_His_Training_The_Fetters": {
+    "score": 3,
+    "note": "Buddha's training and fetters, feeling mentioned"
+  },
+  "dharma_talks/S31E02_ood_Friendhship_Good_Companionship_Good_Comradeship_-_Ubuntu": {
+    "score": 4,
+    "note": "Spiritual friendship and khandhas including feeling"
+  },
+  "dharma_talks/S31E03_Dependent_Origination_Revisited": {
+    "score": 7,
+    "note": "Twelve links including vedana to tanha"
+  },
+  "dharma_talks/S31E04_Karma-_Specific_Conditionality_the_Five_Laws_ethical_behaviour_social_karma-Neol": {
+    "score": 3,
+    "note": "Conditionality and ethics, feeling mentioned peripherally"
+  },
+  "dharma_talks/S31E05_No_more_ideologies": {
+    "score": 1,
+    "note": "Political ideologies critique, no feeling content"
+  },
+  "dharma_talks/S31E06_The_Mahasi_Technique_and_What_We_Need_to_Understand_to_Practice_Vipassana": {
+    "score": 4,
+    "note": "Mentions noting technique and awareness but not feeling specifically"
+  },
+  "dharma_talks/S31E07_Dependent_Orignation_and_how_all_other_importnant_teachings_are_included": {
+    "score": 7,
+    "note": "Discusses feeling (vedanā) as crucial point in dependent origination"
+  },
+  "dharma_talks/S31E08_The_Axial_Age_and_the_Momentous_Discovery_of_the_Buddha": {
+    "score": 2,
+    "note": "Historical context, minimal relevance to feeling as turning point"
+  },
+  "dharma_talks/S31E09_Dependent_Orgination_is_based_on_Not-Knowing_and_Innocence": {
+    "score": 6,
+    "note": "Traces twelve-link chain including feeling as key component"
+  },
+  "dharma_talks/S31E10_Khanda_the_Agregates_as_Person_and_Sati_Awareness": {
+    "score": 3,
+    "note": "Covers aggregates including feeling but not as turning point"
+  },
+  "dharma_talks/S31E11_Misunderstanding_re_the_Self_Karma_and_transcendence": {
+    "score": 2,
+    "note": "Focuses on self and karma, minimal feeling discussion"
+  },
+  "dharma_talks/S31E12_QA_Kamma_FreeWill_Mettaattachment_Momentary_Concentration_khanika_samadhi": {
+    "score": 3,
+    "note": "Q&A format, may touch on feeling but not primary"
+  },
+  "dharma_talks/S31E13_QA_Emotions_AwarenessDelusionInsight_MasculineFeminine_Sense-of-Self_Porridge": {
+    "score": 5,
+    "note": "Discusses emotions and sense perception, relates to feeling"
+  },
+  "dharma_talks/S32E01_Angulimala_A_Monologue_005449_219_MB": {
+    "score": 1,
+    "note": "Dramatic story, unlikely to focus on feeling mechanics"
+  },
+  "international_talks/S01E01_Méditation_Guidée_Debout_et_Assise": {
+    "score": 3,
+    "note": "Guided meditation with body sensations, minimal feeling theory"
+  },
+  "international_talks/S01E02_Meditation_Guidee_Detaillee": {
+    "score": 3,
+    "note": "Detailed meditation instructions, may include feeling awareness"
+  },
+  "international_talks/S01E03_Méditation_Guidée_Debout_et_Assise": {
+    "score": 3,
+    "note": "Guided practice with awareness, minimal feeling theory"
+  },
+  "international_talks/S01E04_Trois_compréhensions_nécessaires": {
+    "score": 4,
+    "note": "Three understandings for vipassana, may include feeling"
+  },
+  "international_talks/S01E05_Méditation_Debout": {
+    "score": 2,
+    "note": "Standing meditation practice, minimal feeling theory"
+  },
+  "international_talks/S01E06_Méditation_Assise": {
+    "score": 2,
+    "note": "Sitting meditation guidance, minimal feeling theory"
+  },
+  "international_talks/S02E01_La_conscience_juste_les_obstacles_comme_chemin_vers_la_libération_et_les_trois_c": {
+    "score": 4,
+    "note": "Right awareness and three characteristics, may touch feeling"
+  },
+  "international_talks/S02E02_How_we_use_the_self_and_what_does_it_mean_for_not-self": {
+    "score": 5,
+    "note": "Discusses dependent origination including contact and feeling"
+  },
+  "international_talks/S03E01_The_Hindrances": {
+    "score": 3,
+    "note": "Mental obstacles discussion, may relate to feeling"
+  },
+  "international_talks/S03E02_Non-soi": {
+    "score": 3,
+    "note": "Not-self through five aggregates including feeling"
+  },
+  "international_talks/S04E01_La_Libre_Volunté": {
+    "score": 2,
+    "note": "Free will discussion, minimal feeling relevance"
+  },
+  "international_talks/S05E01_Le_Dhamma_dans_la_vie_quotidienne_ordinaire": {
+    "score": 4,
+    "note": "Three types of dukkha, relates to feeling"
+  },
+  "international_talks/S05E02_Scientisme_Romatisme_Bouddhisme": {
+    "score": 2,
+    "note": "Western approaches to Buddhism, minimal feeling focus"
+  },
+  "international_talks/S07E01_Une_tentative_de_comprendre_le_non-soi": {
+    "score": 3,
+    "note": "Not-self through aggregates including feeling (vedanā)"
+  },
+  "international_talks/S07E02_Retour_à_lessentiel": {
+    "score": 3,
+    "note": "Four noble truths and dukkha, relates to feeling"
+  },
+  "international_talks/S08E01_Bonheur": {
+    "score": 2,
+    "note": "Happiness models, minimal feeling as turning point"
+  },
+  "international_talks/S08E02_LEsprit_Concevoir_et_les_Empêches": {
+    "score": 3,
+    "note": "Mentions hindrances but focuses on conceptual mind"
+  },
+  "international_talks/S09E01_Metta_Bhavana_Bienveillance_15_minLausanne_Oct_2010": {
+    "score": 2,
+    "note": "Loving-kindness practice, minimal feeling discussion"
+  },
+  "international_talks/S09E02_Nous_causons_de_la_souffrance_pour_nous_memeLausanne_Oct_2010": {
+    "score": 4,
+    "note": "Discusses hindrances which relate to feeling responses"
+  },
+  "international_talks/S09E03_Le_Kamma_de_la_LiberationLausanne_Oct_2010": {
+    "score": 3,
+    "note": "Touches on consciousness and contact with senses"
+  },
+  "international_talks/S10E01_Les_Bases_de_Vipassana": {
+    "score": 2,
+    "note": "Basic vipassana foundations, minimal feeling focus"
+  },
+  "international_talks/S10E02_Progres_et_dautres_sujets": {
+    "score": 2,
+    "note": "General practice topics, not feeling-specific"
+  },
+  "international_talks/S10E03_Questions_and_des_Questions_Plus": {
+    "score": 3,
+    "note": "Q&A touches on emotions and physical sensations"
+  },
+  "international_talks/S10E04_Dependant_Origination_Belgium_Jan_2006": {
+    "score": 7,
+    "note": "Detailed coverage of vedanā in twelve-link chain"
+  },
+  "international_talks/S10E05_The_Purpose_of_Meditation_Belgium_Jan_2006": {
+    "score": 4,
+    "note": "Discusses craving-aversion cycle related to feeling"
+  },
+  "international_talks/S10E06_Why_the_Present_Moment_is_So_Important_Geneva_May_2006": {
+    "score": 2,
+    "note": "Present moment awareness, not feeling-specific"
+  },
+  "international_talks/S10E07_QA_Concerning_States_of_Mind_-_Sankhara_Geneva_May_2006": {
+    "score": 5,
+    "note": "Discusses vedanā as one of five khandhas"
+  },
+  "international_talks/S10E08_Concerning_Buddhist_Psychology_Geneva_May_2006": {
+    "score": 4,
+    "note": "Buddhist psychology includes feeling in dependent origination"
+  },
+  "international_talks/S10E09_Concerning_Metta_and_Other_Questions_Geneva_May_2006": {
+    "score": 3,
+    "note": "Mind-body connection and sensations in meditation"
+  },
+  "international_talks/S10E10_Le_Methode_de_Mahasi_Vipassana_Lausanne_Oct_2009": {
+    "score": 6,
+    "note": "Emphasizes observing vedanā as core vipassana practice"
+  },
+  "international_talks/S10E11_Les_Empeches_de_Vipassana_Lausanne_Oct_2009": {
+    "score": 4,
+    "note": "Hindrances relate to feeling responses and body awareness"
+  },
+  "international_talks/S10E12_Les_Facteurs_de_Liberation_Lausanne_Oct_2009": {
+    "score": 2,
+    "note": "Spiritual faculties and awakening factors, not feeling-focused"
+  },
+  "international_talks/S10E13_Psychologie_de_Buddha_Lausanne_Oct_2009": {
+    "score": 5,
+    "note": "Dependent origination psychology includes vedanā discussion"
+  },
+  "international_talks/S11E01_Entering_the_Course": {
+    "score": 1,
+    "note": "Retreat opening, basic meditation instructions"
+  },
+  "international_talks/S11E02_The_Mahasi_Method": {
+    "score": 3,
+    "note": "Vipassana method mentions noting experiences and sensations"
+  },
+  "international_talks/S11E03_The_Joyful_Aspects_of_Meditation": {
+    "score": 2,
+    "note": "Positive meditation qualities, not feeling-specific"
+  },
+  "international_talks/S11E04_The_Wheel_of_Dependent_Origination": {
+    "score": 8,
+    "note": "Detailed exploration of vedanā in dependent origination chain"
+  },
+  "international_talks/S11E05_The_Perfections": {
+    "score": 1,
+    "note": "Spiritual perfections, not about feeling"
+  },
+  "international_talks/S11E06_Karma": {
+    "score": 2,
+    "note": "Karma explanation, minimal feeling discussion"
+  },
+  "international_talks/S11E07_Evening_Metta_Chant_and_Instructions": {
+    "score": 1,
+    "note": "Loving-kindness chanting and retreat instructions"
+  },
+  "international_talks/S11E08_Morning_Chant": {
+    "score": 0,
+    "note": "Traditional Pali chanting, no teaching content"
+  },
+  "international_talks/S12E01_Meditazione_in_Piedi_e_Seduta": {
+    "score": 4,
+    "note": "Mentions body scanning and sensations but focuses on bojjhaṅga"
+  },
+  "international_talks/S12E02_Meditazione_guidata_dettagliata_sometimes_use_save_as": {
+    "score": 5,
+    "note": "Covers bodily sensations and emotional states in vipassana practice"
+  },
+  "international_talks/S12E03_Mahasi_Instructions_and_Metta_Chant": {
+    "score": 3,
+    "note": "Basic vipassana instructions, minimal focus on feeling specifically"
+  },
+  "international_talks/S12E04_The_Hindrances": {
+    "score": 4,
+    "note": "Explores emotional states and restlessness but not feeling centrally"
+  },
+  "international_talks/S12E05_Factors_of_Enlightenment": {
+    "score": 3,
+    "note": "Mentions pīti and emotional balance but focuses on bojjhaṅga"
+  },
+  "international_talks/S12E06_Dependent_Origination": {
+    "score": 2,
+    "note": "Complex doctrine teaching, minimal focus on feeling specifically"
+  },
+  "international_talks/S12E07_Kamma": {
+    "score": 2,
+    "note": "Focuses on causation and natural laws, not feeling"
+  },
+  "international_talks/S12E08_Metta_Guidata": {
+    "score": 4,
+    "note": "Loving-kindness practice involves emotional cultivation and feeling states"
+  },
+  "international_talks/S12E09_c_corpo_med_guidata": {
+    "score": 6,
+    "note": "Explores relationship with body, attachment, and emotional responses"
+  },
+  "international_talks/S12E10_Intro_Guarig_corpo_med_guidata": {
+    "score": 5,
+    "note": "Body-focused meditation with emotional healing and compassionate feeling"
+  },
+  "youtube_channel/S01E01_Basics_for_Insight_Meditation_01": {
+    "score": 5,
+    "note": "Covers bodily sensations and emotions in meditation observation"
+  },
+  "youtube_channel/S01E02_70th_Birthday_Bhante_Bodhidhammas_Life_story": {
+    "score": 1,
+    "note": "Personal biography, not about feeling in meditation context"
+  },
+  "youtube_channel/S01E03_Talk_Starting_Inaugural_Lockdown_Evening_Meditations_290320": {
+    "score": 3,
+    "note": "Mentions unwholesome mental states but not feeling specifically"
+  },
+  "youtube_channel/S01E04_02_First_Three_Noble_Truths": {
+    "score": 4,
+    "note": "Discusses dukkha and craving but not feeling as turning point"
+  },
+  "youtube_channel/S01E05_01_MN9_Discourse_on_Right_View_Wholesome_and_Unwholesome_Kamma": {
+    "score": 2,
+    "note": "Focuses on ethical actions, minimal feeling content"
+  },
+  "youtube_channel/S01E06_Evening_Lockdown_Meditation": {
+    "score": 4,
+    "note": "Includes loving-kindness and contemplative emotional practices"
+  },
+  "youtube_channel/S01E07_03_Coronavirus_and_the_Contemplation_of_Death": {
+    "score": 3,
+    "note": "Addresses fear emotions but focuses on death contemplation"
+  },
+  "youtube_channel/S01E08_04_Contemplation_of_Death_Living_more_awake": {
+    "score": 2,
+    "note": "Death contemplation practice, not about feeling specifically"
+  },
+  "youtube_channel/S01E09_05_Contemplation_of_Death_again": {
+    "score": 2,
+    "note": "Continues death contemplation theme, minimal feeling focus"
+  },
+  "youtube_channel/S01E10_06_Renunciation_and_Buddhas_First_Occasion_to_Teach": {
+    "score": 3,
+    "note": "Mentions emotional transformation but focuses on renunciation"
+  },
+  "youtube_channel/S01E11_07_Setting_the_Wheel_of_the_Dhamma_in_Motion": {
+    "score": 2,
+    "note": "Historical teaching context, not about feeling practice"
+  },
+  "youtube_channel/S01E12_08_Mindfulness_at_work_And_Right_View_Right_Attitude": {
+    "score": 2,
+    "note": "Work mindfulness and path factors, not feeling specifically"
+  },
+  "youtube_channel/S01E13_09_Right_Speech_Action_and_Livelihood": {
+    "score": 1,
+    "note": "Ethical conduct teachings, not about feeling"
+  },
+  "youtube_channel/S01E14_10_Grief": {
+    "score": 7,
+    "note": "Directly explores emotional states, grief, sorrow and attachment"
+  },
+  "youtube_channel/S01E15_11_The_Nutriments_Food_Contact_Volition_and_Consciousness": {
+    "score": 6,
+    "note": "Contact nutriment directly relates to feeling and sensory experience"
+  },
+  "youtube_channel/S01E16_12_The_Investigation_of_Eating": {
+    "score": 4,
+    "note": "Mentions feeling through mindful consumption and attachment awareness"
+  },
+  "youtube_channel/S01E17_13_Discourse_on_the_Taints_MN_2_Overcome_by_seeing": {
+    "score": 2,
+    "note": "Focuses on views and seeing, minimal feeling content"
+  },
+  "youtube_channel/S01E18_14_Not-self_Revisited_The_story_of_Sati_MN38": {
+    "score": 2,
+    "note": "About consciousness and identity, not feeling specifically"
+  },
+  "youtube_channel/S01E19_16_Investigating_Not-self_-_The_Pratice": {
+    "score": 3,
+    "note": "Mentions deconstructing experiences into sensations, some feeling relevance"
+  },
+  "youtube_channel/S01E20_17_Questions_See_Description": {
+    "score": 3,
+    "note": "Discusses anger, compassion, grief - emotional states related"
+  },
+  "youtube_channel/S01E21_18_Overcoming_the_Taints_by_Restraint": {
+    "score": 3,
+    "note": "Covers sensory engagement and conditioning, some feeling"
+  },
+  "youtube_channel/S01E22_19_Overcoming_the_Taints_by_Using": {
+    "score": 2,
+    "note": "About requisites and mindful use, minimal feeling"
+  },
+  "youtube_channel/S01E23_20_Overcoming_the_Taints_by_Endurance": {
+    "score": 4,
+    "note": "About enduring unpleasant experiences and reactive patterns"
+  },
+  "youtube_channel/S01E24_21a_Overcoming_the_Taints_by_Removing_1": {
+    "score": 3,
+    "note": "Addresses unwholesome thoughts and mental states"
+  },
+  "youtube_channel/S01E25_21b_Overcoming_the_Taints_by_Removing_2": {
+    "score": 4,
+    "note": "About experiencing emotions fully and mental purification"
+  },
+  "youtube_channel/S01E26_22_Overcoming_the_Taints_by_Developing": {
+    "score": 3,
+    "note": "Covers enlightenment factors including rapture and equanimity"
+  },
+  "youtube_channel/S01E27_23_The_Ten_Fetters": {
+    "score": 2,
+    "note": "About fetters binding to suffering, minimal feeling"
+  },
+  "youtube_channel/S01E28_24_Society": {
+    "score": 1,
+    "note": "Social harmony focus, not about feeling"
+  },
+  "youtube_channel/S01E29_25_Reflections_for_an_Harmonious_Society": {
+    "score": 1,
+    "note": "Social ethics focus, not about feeling"
+  },
+  "youtube_channel/S01E30_26_More_Reflections": {
+    "score": 2,
+    "note": "Community values, mentions sympathetic joy briefly"
+  },
+  "youtube_channel/S01E31_27_What_makes_a_Society_Strong": {
+    "score": 1,
+    "note": "Societal principles, not about feeling"
+  },
+  "youtube_channel/S01E32_28_The_Six_Sense_Bases_MN137": {
+    "score": 5,
+    "note": "About consciousness and sense experience, some feeling"
+  },
+  "youtube_channel/S01E33_29_Senses_Bases_Cont": {
+    "score": 7,
+    "note": "Directly examines pleasant, unpleasant, neutral contact through senses"
+  },
+  "youtube_channel/S01E34_Metta_Forgiveness_and_Determination_Practice": {
+    "score": 4,
+    "note": "Loving-kindness practice involves emotional cultivation and goodwill"
+  },
+  "youtube_channel/S01E35_01_Reiki_with_Bryan_Lester": {
+    "score": 2,
+    "note": "Energy work and healing, minimal feeling focus"
+  },
+  "youtube_channel/S01E36_Some_Pointers_for_Metta": {
+    "score": 4,
+    "note": "About goodwill attitude and emotional cultivation"
+  },
+  "youtube_channel/S01E37_Bodycare_Practice_-_Metta_towards_the_Body": {
+    "score": 3,
+    "note": "Body relationship and loving-kindness, some feeling"
+  },
+  "youtube_channel/S01E38_02_Reiki_with_Bryan": {
+    "score": 1,
+    "note": "Reiki history and Buddhist origins, not feeling"
+  },
+  "youtube_channel/S01E39_Body_as_Meditation_Object": {
+    "score": 3,
+    "note": "Body provides pain or pleasure, some feeling"
+  },
+  "youtube_channel/S01E40_The_Basics_of_Insight_Meditation_03": {
+    "score": 4,
+    "note": "Pure awareness and direct visceral experience"
+  },
+  "youtube_channel/S01E41_03_Reiki_with_Bryan": {
+    "score": 2,
+    "note": "About Reiki healing, minimal connection to Buddhist feelings"
+  },
+  "youtube_channel/S01E42_33_Kalama_Sutta_AN_365": {
+    "score": 1,
+    "note": "About discernment and evaluation, not about feelings"
+  },
+  "youtube_channel/S01E43_35_Canki_Sutta_MN95": {
+    "score": 1,
+    "note": "About truth claims and experience, not feelings"
+  },
+  "youtube_channel/S01E44_34_Kalama_Discourse_cont": {
+    "score": 1,
+    "note": "Continues Kalama Sutta on inquiry, not feelings"
+  },
+  "youtube_channel/S01E45_36_Canki_Sutta_cont": {
+    "score": 1,
+    "note": "About discovering truth through investigation, not feelings"
+  },
+  "youtube_channel/S01E46_37_Shorter_Discourse_on_Gosinga": {
+    "score": 1,
+    "note": "About harmonious community living, not feelings"
+  },
+  "youtube_channel/S01E47_Gaia_Standing_and_Sitting_Guided_Meditation": {
+    "score": 3,
+    "note": "Meditation practice may involve awareness of feelings"
+  },
+  "youtube_channel/S01E48_38_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 4,
+    "note": "Introduces Satipatthana including feelings as second foundation"
+  },
+  "youtube_channel/S01E49_31b_The_Body": {
+    "score": 2,
+    "note": "About body awareness, mentions relationship to sensations"
+  },
+  "youtube_channel/S01E50_39_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 3,
+    "note": "Body contemplation practices, may touch on feelings"
+  },
+  "youtube_channel/S01E51_40_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 4,
+    "note": "Four elements meditation involves deconstructing painful sensations"
+  },
+  "youtube_channel/S01E52_41_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 8,
+    "note": "Explores second foundation: contemplation of feelings vedana"
+  },
+  "youtube_channel/S01E53_42_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 3,
+    "note": "Fourth foundation mind objects, less focus on feelings"
+  },
+  "youtube_channel/S01E54_43_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 2,
+    "note": "Concludes with Four Noble Truths, minimal feelings focus"
+  },
+  "youtube_channel/S01E55_44_The_Relay_of_Chariots_MN24": {
+    "score": 1,
+    "note": "About seven purifications stages, not specifically feelings"
+  },
+  "youtube_channel/S01E56_45_The_Relay_of_Chariots_MN24": {
+    "score": 2,
+    "note": "Progressive insight stages, may mention feeling experiences"
+  },
+  "youtube_channel/S01E57_50_Dog_Ascetic_Discourse_MN57": {
+    "score": 1,
+    "note": "About kamma and ascetic practices, not feelings"
+  },
+  "youtube_channel/S01E58_Gratitude_Generosity_Renunciation": {
+    "score": 1,
+    "note": "About gratitude and generosity practices, not feelings"
+  },
+  "youtube_channel/S01E59_Spanish_Introduction_-_Refuges_and_Precepts_Standing_ans_Sitting_Meditation": {
+    "score": 2,
+    "note": "Meditation practice may involve awareness of feelings"
+  },
+  "youtube_channel/S01E60_Saddha_Confidence_and_Trust": {
+    "score": 1,
+    "note": "About confidence as spiritual faculty, not feelings"
+  },
+  "youtube_channel/S01E61_Dhp_188_-_192_The_Role_of_Confidence": {
+    "score": 1,
+    "note": "About taking refuge and confidence, not feelings"
+  },
+  "youtube_channel/S01E62_Dhp_153_154_The_Buddhas_Victory_Verses": {
+    "score": 1,
+    "note": "About Buddha's awakening and self-view, not feelings"
+  },
+  "youtube_channel/S01E63_Dhp_4_Hatred_is_not_overcome_with_hatred": {
+    "score": 1,
+    "note": "About gratitude and renunciation, not feelings specifically"
+  },
+  "youtube_channel/S01E64_Dhp_21_-_23": {
+    "score": 1,
+    "note": "About diligence and heedfulness, not feelings"
+  },
+  "youtube_channel/S01E65_Dhp_Chapter_3_-_verses_33_34_The_Unruly_Mind": {
+    "score": 1,
+    "note": "About training the unsteady mind, not feelings"
+  },
+  "youtube_channel/S01E66_Dhp_01_02_Mind_is_the_forerunner": {
+    "score": 2,
+    "note": "About mind and mental phenomena, not feeling specifically"
+  },
+  "youtube_channel/S01E67_Dhp_No4_Hatred_is_not_pacified_by_hatred": {
+    "score": 3,
+    "note": "Mentions emotional responses but focuses on hatred cycles"
+  },
+  "youtube_channel/S01E68_Dhp_256_157_Judgmental_v_Judicious": {
+    "score": 2,
+    "note": "About judgment and discernment, not feeling as turning point"
+  },
+  "youtube_channel/S01E69_Dhp_46_How_to_view_the_Body": {
+    "score": 1,
+    "note": "Body contemplation, minimal relevance to feeling as turning point"
+  },
+  "youtube_channel/S01E70_The_Four_Noble_Truths": {
+    "score": 4,
+    "note": "Discusses dukkha and reactions but not feeling specifically"
+  },
+  "youtube_channel/S01E71_The_NIne_Qualities_of_the_Buddha": {
+    "score": 0,
+    "note": "About Buddha's qualities, unrelated to feeling"
+  },
+  "youtube_channel/S01E72_Dhp_360_362_Restraint": {
+    "score": 3,
+    "note": "Sense restraint touches on feeling but not main focus"
+  },
+  "youtube_channel/S01E73_Dhp_90_The_Arahant": {
+    "score": 2,
+    "note": "Liberation from bonds, minimal feeling discussion"
+  },
+  "youtube_channel/S01E74_Vita_Quotidiana": {
+    "score": 1,
+    "note": "Daily practice integration, not about feeling specifically"
+  },
+  "youtube_channel/S01E75_Dukkha_Unsatifactoriness_and_Sila_Morality_and_Ethics": {
+    "score": 3,
+    "note": "Discusses suffering roots but not feeling as turning point"
+  },
+  "youtube_channel/S01E76_Dependent_Origination_and_the_Role_of_Desire_and_the_Only_Choice": {
+    "score": 8,
+    "note": "Focuses on vedana to tanha transition, crucial turning point"
+  },
+  "youtube_channel/S01E77_Kamma_and_Rebirth": {
+    "score": 2,
+    "note": "About ethical responses to circumstances, not feeling specifically"
+  },
+  "youtube_channel/S01E78_Gratitude_Generosity_and_Renunciation": {
+    "score": 1,
+    "note": "About generosity practice, not feeling as turning point"
+  },
+  "youtube_channel/S01E79_Facets_of_a_Love": {
+    "score": 2,
+    "note": "About love and relationships, not feeling specifically"
+  },
+  "youtube_channel/S01E80_Apamado_DHP_22_23_24": {
+    "score": 1,
+    "note": "About vigilance and conscientiousness, not feeling"
+  },
+  "youtube_channel/S01E81_Ageing": {
+    "score": 2,
+    "note": "Impermanence contemplation, minimal feeling discussion"
+  },
+  "youtube_channel/S01E82_Dhp_152_153_The_Inner_Critic": {
+    "score": 2,
+    "note": "About criticism and judgment, not feeling specifically"
+  },
+  "youtube_channel/S01E83_Sympathy_Empathy_and_Compassion": {
+    "score": 4,
+    "note": "Discusses emotional responses to suffering, some feeling relevance"
+  },
+  "youtube_channel/S01E84_DHP_314-317_From_the_Chapter_on_Hell": {
+    "score": 1,
+    "note": "Wrong views and shame, not about feeling"
+  },
+  "youtube_channel/S01E85_Non-Violence_is_not_Pacificism": {
+    "score": 1,
+    "note": "About non-violence philosophy, not feeling"
+  },
+  "youtube_channel/S01E86_Neoliberalism_and_Mindfulness": {
+    "score": 1,
+    "note": "Mindfulness appropriation critique, not about feeling"
+  },
+  "youtube_channel/S01E87_The_Buddha_and_War": {
+    "score": 1,
+    "note": "Buddha's approach to war, not about feeling"
+  },
+  "youtube_channel/S01E88_Need_Sufficiency_and_Greed": {
+    "score": 2,
+    "note": "Basic needs vs wants, minimal feeling discussion"
+  },
+  "youtube_channel/S01E89_Social_Conditioning_or_Karma": {
+    "score": 2,
+    "note": "Conditioning vs personal karma, not feeling specifically"
+  },
+  "youtube_channel/S01E90_Climate_Emergency": {
+    "score": 3,
+    "note": "Emotional responses to crisis but not feeling doctrine"
+  },
+  "youtube_channel/S01E91_Reset_for_Autumn": {
+    "score": 3,
+    "note": "Mentions vipassana process with difficult experiences, brief feeling reference"
+  },
+  "youtube_channel/S01E92_Identity_and_Not-Self": {
+    "score": 4,
+    "note": "Discusses emotional reactivity and suffering from identification patterns"
+  },
+  "youtube_channel/S01E93_The_Contemplation_of_Death": {
+    "score": 2,
+    "note": "Death contemplation practice, minimal focus on feeling specifically"
+  },
+  "youtube_channel/S01E94_To_Love_or_To_Be_Loved_That_is_the_question": {
+    "score": 3,
+    "note": "Explores motivations behind loving actions, touches on emotional patterns"
+  },
+  "youtube_channel/S01E95_The_Bases_of_Success": {
+    "score": 2,
+    "note": "Four bases of success, minimal feeling-specific content"
+  },
+  "youtube_channel/S01E96_Bahiya_of_the_Bark_Cloth": {
+    "score": 5,
+    "note": "Direct experience teaching, relates to sense contact and awareness"
+  },
+  "youtube_channel/S01E97_The_Discourse_on_Bahiya_of_the_Bark_Cloth_Ud110": {
+    "score": 6,
+    "note": "Six sense bases teaching, directly relevant to feeling processes"
+  },
+  "youtube_channel/S01E98_Joy": {
+    "score": 4,
+    "note": "Cultivation of joy, emotional states and healthy vs unhealthy feelings"
+  },
+  "youtube_channel/S01E99_Is_the_Buddha_and_athiest": {
+    "score": 1,
+    "note": "Theological discussion, no feeling-related content"
+  },
+  "youtube_channel/S01E100_Fear_and_Courage": {
+    "score": 5,
+    "note": "Fear as fundamental emotional state, courage development in practice"
+  },
+  "youtube_channel/S01E101_Patience": {
+    "score": 4,
+    "note": "Patient forbearance with difficult feelings and inner reactivity"
+  },
+  "youtube_channel/S01E102_Equanimity_-_The_most_important_of_all_virtues": {
+    "score": 6,
+    "note": "Equanimity as balance for emotional states and virtue foundation"
+  },
+  "youtube_channel/S01E103_Compassion_and_its_subtle_enemies": {
+    "score": 5,
+    "note": "Compassion as feeling response, trembling with others' suffering"
+  },
+  "youtube_channel/S01E104_Good_Friendship_Good_Companionship_Good_Comradship_is_the_whole_of_the_Spiritual": {
+    "score": 2,
+    "note": "Spiritual friendship focus, minimal feeling-specific discussion"
+  },
+  "youtube_channel/S01E105_The_Five_Constant_Contemplations": {
+    "score": 3,
+    "note": "Heart-practice contemplations, some emotional processing mentioned"
+  },
+  "youtube_channel/S01E106_Retreat_Start_Standing_and_Walking_Meditation": {
+    "score": 3,
+    "note": "Meditation instruction with awareness factors, basic feeling awareness"
+  },
+  "youtube_channel/S01E107_The_Discourse_Developing_Loving_Kindness": {
+    "score": 4,
+    "note": "Metta cultivation, emotional development and loving feelings"
+  },
+  "youtube_channel/S01E108_The_Importance_of_Tranquillity": {
+    "score": 4,
+    "note": "Tranquillity effects on body-mind, calming emotional states"
+  },
+  "youtube_channel/S01E109_The_Crucial_Importance_of_Desire_and_Intention": {
+    "score": 7,
+    "note": "Craving, desire, intention - core to feeling and reaction patterns"
+  },
+  "youtube_channel/S01E110_Satipanya_Opening_Ceremony_30th_June_2007": {
+    "score": 0,
+    "note": "Ceremonial event, no teaching content on feeling"
+  },
+  "youtube_channel/S01E111_Ceremony_to_Bless_the_Stupa_June_26th_2011_Pt_1": {
+    "score": 0,
+    "note": "Ceremonial chanting, no teaching content on feeling"
+  },
+  "youtube_channel/S01E112_Ceremony_to_Bless_the_Stupa_June_26th_2011_Pt_2": {
+    "score": 0,
+    "note": "Ceremonial chanting continuation, no teaching content"
+  },
+  "youtube_channel/S01E113_Ceremony_to_Bless_the_Stupa_June_26th_2011_Pt_3": {
+    "score": 1,
+    "note": "Brief meditation guidance, minimal feeling-specific content"
+  },
+  "youtube_channel/S01E114_15_The_Discourse_on_Not-self_SN22659": {
+    "score": 8,
+    "note": "Five khandhas including vedana, fundamental to feeling understanding"
+  },
+  "youtube_channel/S01E115_Upali_is_converted_by_the_Buddha_MN56": {
+    "score": 4,
+    "note": "Mental actions and kamma, relates to intention behind feelings"
+  },
+  "youtube_channel/S01E116_Contemplating_the_Unpleasantness_of_the_Body_Why_and_How": {
+    "score": 4,
+    "note": "Body contemplation relates to feeling but not central focus"
+  },
+  "youtube_channel/S01E117_The_Buddhas_Alter_Ego": {
+    "score": 0,
+    "note": "About leadership qualities, unrelated to feeling"
+  },
+  "youtube_channel/S01E118_The_Unattractive_Nature_of_the_Body": {
+    "score": 4,
+    "note": "Body meditation touches feeling but not primary theme"
+  },
+  "youtube_channel/S01E119_The_Four_Great_Elements": {
+    "score": 3,
+    "note": "Elements as meditation objects, mentions feeling peripherally"
+  },
+  "youtube_channel/S01E120_The_Specific_Law_of_Conditionality": {
+    "score": 2,
+    "note": "Conditioned arising foundation, minimal feeling focus"
+  },
+  "youtube_channel/S01E121_The_Dangers_of_Indulgence": {
+    "score": 5,
+    "note": "Sensual pleasures and attachment relate to feeling"
+  },
+  "youtube_channel/S01E122_Reflections_and_Contemplative_Practice_of_Kamma": {
+    "score": 2,
+    "note": "Karma contemplation, not specifically about feeling"
+  },
+  "youtube_channel/S01E123_Forgiveness": {
+    "score": 6,
+    "note": "Emotional responses and feeling patterns central theme"
+  },
+  "youtube_channel/S01E124_The_Basics_of_Insight_Meditation_02": {
+    "score": 4,
+    "note": "Vipassana basics touch feeling but broader scope"
+  },
+  "youtube_channel/S01E125_Dukkha_-_Basic_Premise_of_the_Buddhadhamma": {
+    "score": 7,
+    "note": "Dukkha as unsatisfactory feeling fundamental to teaching"
+  },
+  "youtube_channel/S01E126_Non-Violence_is_not_Pacifism": {
+    "score": 1,
+    "note": "Ethics and violence, minimal feeling connection"
+  },
+  "youtube_channel/S01E127_The_Eight_Worldly_Conditions": {
+    "score": 8,
+    "note": "Pleasure/pain pair directly addresses feeling as turning point"
+  },
+  "youtube_channel/S01E128_The_Paradox_of_Fear": {
+    "score": 6,
+    "note": "Fear emotions and feeling responses central focus"
+  },
+  "youtube_channel/S01E129_Renunciation_The_Path_to_Liberation": {
+    "score": 5,
+    "note": "Sensual restraint relates to feeling but broader"
+  },
+  "youtube_channel/S01E130_The_Buddha_as_a_Teacher_The_Discourse_on_Malunkyaputta": {
+    "score": 1,
+    "note": "Teaching methods, not about feeling"
+  },
+  "youtube_channel/S01E131_What_was_the_Great_Discovery_by_the_Buddha": {
+    "score": 2,
+    "note": "Buddha's awakening, minimal feeling focus"
+  },
+  "youtube_channel/S01E132_Where_do_the_elements_cease_without_remainder": {
+    "score": 2,
+    "note": "Consciousness and nibbana, not feeling specific"
+  },
+  "youtube_channel/S01E133_Extinguishing_the_Housebuilder": {
+    "score": 3,
+    "note": "Liberation process mentions feeling peripherally"
+  },
+  "youtube_channel/S01E134_Hope_Aspiration_Expectation": {
+    "score": 4,
+    "note": "Emotional attitudes relate to feeling but broader"
+  },
+  "youtube_channel/S01E135_Topics_of_Discussion": {
+    "score": 1,
+    "note": "Communication skills, not about feeling"
+  },
+  "youtube_channel/S01E136_Practising_the_Five_Remembrances": {
+    "score": 5,
+    "note": "Contemplations evoke feeling responses but broader focus"
+  },
+  "youtube_channel/S01E137_Revsing_the_Basics": {
+    "score": 3,
+    "note": "Vipassana basics mention feeling characteristics"
+  },
+  "youtube_channel/S01E138_The_Necessity_of_Joy": {
+    "score": 7,
+    "note": "Joy as feeling state central to teaching"
+  },
+  "youtube_channel/S01E139_Polarisation": {
+    "score": 3,
+    "note": "Identity and emotions touch feeling but broader"
+  },
+  "youtube_channel/S01E140_Dullness_and_Lethargy": {
+    "score": 5,
+    "note": "Mental states relate to feeling but specific hindrance"
+  },
+  "bhante_essays/S01E01_Refuges_and_Precepts": {
+    "score": 0,
+    "note": "Foundational chants, no focus on feeling or vedanā"
+  },
+  "bhante_essays/S01E02_Puja_Chantings": {
+    "score": 0,
+    "note": "Traditional chantings, no discussion of feeling as turning point"
+  },
+  "bhante_essays/S01E03_Recommended_Reading_for_Beginners": {
+    "score": 0,
+    "note": "Reading list, no content on feeling or vedanā"
+  },
+  "bhante_essays/S01E04_in_PDF_format": {
+    "score": 2,
+    "note": "Daily mindfulness practice, minimal connection to feeling specifically"
+  },
+  "bhante_essays/S01E05_in_MS_Word_format": {
+    "score": 0,
+    "note": "No description provided, cannot assess relevance"
+  },
+  "bhante_essays/S02E01_Neoliberalism_and_BuddhaDhamma": {
+    "score": 0,
+    "note": "Economic critique, no focus on feeling or vedanā"
+  },
+  "bhante_essays/S02E02_Investigative_Eating": {
+    "score": 4,
+    "note": "Explores attachment through sensual experience, some feeling awareness"
+  },
+  "bhante_essays/S02E03_Reflections_on_the_Teaching_and_Practice_of_Not-self": {
+    "score": 5,
+    "note": "Examines five khandhas including vedanā, substantial feeling discussion"
+  },
+  "bhante_essays/S02E04_Vipassana_as_taught_by_the_Mahasi_Sayadaw_of_Burma": {
+    "score": 3,
+    "note": "Meditation method, noting technique touches on feeling observation"
+  },
+  "bhante_essays/S02E05_Is_Armed_Intervention_Ever_Justified": {
+    "score": 0,
+    "note": "Ethics of war, no connection to feeling practice"
+  },
+  "bhante_essays/S02E06_Free_will_is_it_available_or_useful": {
+    "score": 1,
+    "note": "Philosophy of control, minimal connection to feeling"
+  },
+  "bhante_essays/S02E07_Could_I_be_a_fundamentalist_even_a_terrorist": {
+    "score": 0,
+    "note": "Psychology of fundamentalism, no feeling focus"
+  },
+  "bhante_essays/S02E08_Perfection_Elitism_and_Excellence": {
+    "score": 2,
+    "note": "Personal reflection on perfectionism, some emotional awareness"
+  },
+  "bhante_essays/S02E09_What_benefit_is_there_in_becoming_a_temporary_monastic": {
+    "score": 0,
+    "note": "Temporary ordination benefits, no feeling discussion"
+  },
+  "bhante_essays/S02E10_The_Unlucky_Death_of_a_Two_Year_Old_Boy": {
+    "score": 1,
+    "note": "Death contemplation, minimal connection to feeling practice"
+  },
+  "bhante_essays/S02E11_Expectation_Aspiration_and_Hope": {
+    "score": 3,
+    "note": "Mental attitudes toward future, some emotional awareness"
+  },
+  "bhante_essays/S02E12_Assisted_Suicide_PDF_document": {
+    "score": 0,
+    "note": "Medical ethics, no focus on feeling or vedanā"
+  },
+  "bhante_essays/S02E13_Vipassana_Therapy_and_Medicinal_Drugs_PDF_document": {
+    "score": 2,
+    "note": "Meditation and therapy integration, minimal feeling focus"
+  },
+  "bhante_essays/S02E14_Conditionality_and_KammaPDF_document": {
+    "score": 0,
+    "note": "Conditionality and karma laws, no feeling discussion"
+  },
+  "bhante_essays/S02E15_Affectionate_Awareness": {
+    "score": 6,
+    "note": "Working with difficult emotions, substantial feeling-based meditation practice"
+  },
+  "bhante_essays/S02E16_Climate_Crisis_A_Personal_Reflection": {
+    "score": 1,
+    "note": "Climate crisis reflection, minimal connection to feeling"
+  },
+  "bhante_essays/S03E01_The_First_Noble_Truth_of_Suffering_--_Dukkha": {
+    "score": 2,
+    "note": "First Noble Truth, touches on suffering experience"
+  },
+  "bhante_essays/S03E02_The_First_Noble_Truth_of_Suffering_--_The_Five_Aggregates": {
+    "score": 5,
+    "note": "Five aggregates including vedanā, substantial feeling discussion"
+  },
+  "bhante_essays/S03E03_The_First_Noble_Truth_of_Suffering_--_The_Three_Characteristics": {
+    "score": 3,
+    "note": "Three characteristics, includes dukkha and experiential understanding"
+  },
+  "bhante_essays/S03E04_The_Second_Noble_Truth_--_Desire": {
+    "score": 4,
+    "note": "Craving as cause, explores relationship between desire and feeling"
+  },
+  "bhante_essays/S03E05_The_Second_Noble_Truth_--_The_Wheel_of_Dependent_Origination": {
+    "score": 4,
+    "note": "Mentions feeling in dependent origination but not primary focus"
+  },
+  "bhante_essays/S03E06_The_Second_Noble_Truth_--_Kamma_Vipaka": {
+    "score": 3,
+    "note": "Touches on mental conditioning but feeling not emphasized"
+  },
+  "bhante_essays/S03E07_The_Fourth_Noble_Truth_--_Morality": {
+    "score": 2,
+    "note": "Morality foundation, minimal connection to feeling as turning point"
+  },
+  "bhante_essays/S03E08_The_Fourth_Noble_Truth_--_Perfections": {
+    "score": 2,
+    "note": "Virtue development, not specifically about feeling as pivot"
+  },
+  "bhante_essays/S03E09_The_Fourth_Noble_Truth_--_Right_Understanding": {
+    "score": 3,
+    "note": "Wisdom development, feeling mentioned but not central theme"
+  },
+  "bhante_essays/S03E10_The_Fourth_Noble_Truth_--_Mental_Development": {
+    "score": 5,
+    "note": "Meditation practice involves observing feelings but not main focus"
+  },
+  "bhante_essays/S03E11_Meditation_in_Ordinary_Daily_Life": {
+    "score": 4,
+    "note": "Mindfulness practice includes feeling awareness but not primary"
+  },
+  "bhante_essays/S04E01_Meditation_in_Ordinary_Daily_Life": {
+    "score": 4,
+    "note": "Daily mindfulness includes feeling observation but not central"
+  },
+  "bhante_essays/S05E01_Buddha_Day_Evening_with_Italy": {
+    "score": 1,
+    "note": "Ceremonial content, no connection to feeling as turning"
+  },
+  "tips_of_the_day/S01E01_At_the_end_of_the_day_1": {
+    "score": 3,
+    "note": "Evening reflection touches emotions but not feeling focus"
+  },
+  "tips_of_the_day/S01E02_At_the_end_of_the_day_2": {
+    "score": 2,
+    "note": "Mindful routines, minimal connection to feeling as pivot"
+  },
+  "tips_of_the_day/S01E03_At_the_end_of_the_day": {
+    "score": 5,
+    "note": "Neutral feelings emphasized as meditation object for sleep"
+  },
+  "tips_of_the_day/S01E04_Upon_Awakening": {
+    "score": 7,
+    "note": "Working with arising moods and feelings as meditation"
+  },
+  "tips_of_the_day/S01E05_Morning_Meditation_One_of_Four_Ritual": {
+    "score": 2,
+    "note": "Ritual preparation, not about feeling as turning point"
+  },
+  "tips_of_the_day/S01E06_Morning_Meditation_Default_Position_Abiding_in_Calm_Open_Attentiveness": {
+    "score": 4,
+    "note": "Awareness practice includes feeling but not primary focus"
+  },
+  "tips_of_the_day/S01E07_Morning_Meditation_Vipassana_1_Developing_a_steady_attention": {
+    "score": 4,
+    "note": "Pleasant breath sensations mentioned but not feeling focus"
+  },
+  "tips_of_the_day/S01E08_Morning_Meditation_Vipassana_2_Developing_Insight": {
+    "score": 5,
+    "note": "Insight practice involves feeling observation but not central"
+  },
+  "tips_of_the_day/S01E09_Morning_Meditation_Metta_Developing_Goodwill_the_Theory": {
+    "score": 3,
+    "note": "Emotional attitudes discussed but not feeling as pivot"
+  },
+  "tips_of_the_day/S01E10_Discourse_on_Metta": {
+    "score": 3,
+    "note": "Loving-kindness practice, emotional states but not feeling focus"
+  },
+  "tips_of_the_day/S01E11_Morning_Meditation_Developing_Goodwill_and_Forgiveness_the_Exercise": {
+    "score": 3,
+    "note": "Emotional cultivation but not about feeling as turning"
+  },
+  "tips_of_the_day/S01E12_Morning_Meditation_Resolution": {
+    "score": 2,
+    "note": "Intention practice, minimal connection to feeling as pivot"
+  },
+  "tips_of_the_day/S01E13_Developing_the_Perfection_of_Determination": {
+    "score": 2,
+    "note": "Determination practice, not about feeling as turning point"
+  },
+  "tips_of_the_day/S01E14_Breakfast_at_last": {
+    "score": 4,
+    "note": "Mindful eating includes pleasant feelings but not primary"
+  },
+  "tips_of_the_day/S01E15_Traveling_to_and_from_work": {
+    "score": 3,
+    "note": "Mental conditioning mentioned but feeling not emphasized"
+  },
+  "tips_of_the_day/S01E16_Back_Home": {
+    "score": 4,
+    "note": "Mental states and transitions but feeling not central"
+  },
+  "tips_of_the_day/S02E01_Relations_Friends_Acquaintances_and_Spiritual_Companions": {
+    "score": 2,
+    "note": "About relationship patterns, not feeling as turning point"
+  },
+  "tips_of_the_day/S02E02_Contemplating_Relations_Friends_Acquaintances_and_Spiritual_Companions": {
+    "score": 1,
+    "note": "Focuses on relationship types, minimal feeling content"
+  },
+  "tips_of_the_day/S02E03_Intimate_Relationships_The_Erotic_the_Romantic_and_Love": {
+    "score": 4,
+    "note": "Explores different feelings in relationships, some turning points"
+  },
+  "tips_of_the_day/S02E04_Celibacy": {
+    "score": 3,
+    "note": "Mentions transforming sexual feelings, limited turning point focus"
+  },
+  "tips_of_the_day/S02E05_When_does_love_become_control": {
+    "score": 5,
+    "note": "Examines how feelings transform from love to control"
+  },
+  "tips_of_the_day/S03E01_Work": {
+    "score": 1,
+    "note": "About work spirituality, not feeling transformation"
+  },
+  "tips_of_the_day/S03E02_Success_and_Failure_Trial_and_Error": {
+    "score": 6,
+    "note": "Reframing emotional attachment to outcomes, transformative shift"
+  },
+  "tips_of_the_day/S03E03_Creating_Space_1": {
+    "score": 2,
+    "note": "Work practices, mentions emotional states briefly"
+  },
+  "tips_of_the_day/S03E04_Creating_Space_2": {
+    "score": 4,
+    "note": "Cultivating equanimity with persistent mental states"
+  },
+  "tips_of_the_day/S03E05_Creating_Space_3": {
+    "score": 3,
+    "note": "Maintaining equanimity with others' emotional states"
+  },
+  "tips_of_the_day/S03E06_The_Limits_of_Power_and_Mission_Creep": {
+    "score": 2,
+    "note": "About ego control, not feeling transformation"
+  },
+  "tips_of_the_day/S04E01_Not_an_Emotion": {
+    "score": 8,
+    "note": "Directly examines emotions vs happiness, key turning point"
+  },
+  "tips_of_the_day/S04E02_Relationships": {
+    "score": 3,
+    "note": "Happiness through relationships, some feeling content"
+  },
+  "tips_of_the_day/S04E03_Being_Good_rather_than_Being_Good_At": {
+    "score": 4,
+    "note": "Transforming attitudes from achievement to character"
+  },
+  "tips_of_the_day/S04E04_Whats_wrong_with_a_bit_of_attachment": {
+    "score": 7,
+    "note": "Attachment as suffering cause, letting go reveals happiness"
+  },
+  "tips_of_the_day/S04E05_Sacrifice_the_more_we_give_the_greater_the_return": {
+    "score": 3,
+    "note": "Transformation through sacrifice, some feeling aspects"
+  },
+  "tips_of_the_day/S04E06_Not_what_we_believe_but_how_we_live": {
+    "score": 1,
+    "note": "About practice vs beliefs, not feeling"
+  },
+  "tips_of_the_day/S04E07_Towards_the_Greatest_Happiness": {
+    "score": 6,
+    "note": "Conventional vs unconditioned happiness, transformative insight"
+  },
+  "tips_of_the_day/S05E01_New_Year_Resolution": {
+    "score": 2,
+    "note": "Spiritual growth reflection, minimal feeling focus"
+  },
+  "tips_of_the_day/S05E02_Neighbourly_Sounds": {
+    "score": 5,
+    "note": "Transforming irritation into acceptance and equanimity"
+  },
+  "tips_of_the_day/S05E03_Sickness": {
+    "score": 6,
+    "note": "Illness transforming fear into wisdom, awakening opportunity"
+  },
+  "tips_of_the_day/S05E04_The_Tough_Nut": {
+    "score": 4,
+    "note": "Working with craving patterns using mindfulness"
+  },
+  "tips_of_the_day/S05E05_Impulsive_or_Spontaneous": {
+    "score": 3,
+    "note": "Distinguishing impulsive reactions from genuine spontaneity"
+  },
+  "tips_of_the_day/S05E06_Joy": {
+    "score": 7,
+    "note": "Cultivating joy vs excitement, transforming emotional experience"
+  },
+  "tips_of_the_day/S05E07_Thankyou": {
+    "score": 4,
+    "note": "Gratitude transforming criticism tendency into appreciation"
+  },
+  "tips_of_the_day/S05E08_Need_Sufficiency_and_Greed": {
+    "score": 2,
+    "note": "About material desires, not feeling as turning point"
+  },
+  "tips_of_the_day/S05E09_What_values_govern_our_lives": {
+    "score": 1,
+    "note": "About values and motivation, minimal feeling discussion"
+  },
+  "tips_of_the_day/S05E10_Values_in_mine_own_eyes": {
+    "score": 1,
+    "note": "About self-acceptance and values, not feeling specifically"
+  },
+  "tips_of_the_day/S05E11_Living_in_the_Now_Planning_for_the_Future": {
+    "score": 1,
+    "note": "About time and planning, not feeling"
+  },
+  "tips_of_the_day/S05E12_Music": {
+    "score": 4,
+    "note": "Discusses emotional states and transformation through music"
+  },
+  "tips_of_the_day/S05E13_Time": {
+    "score": 2,
+    "note": "About time perception, mentions equanimous awareness briefly"
+  },
+  "tips_of_the_day/S05E14_Our_Daily_Breaks": {
+    "score": 3,
+    "note": "Mentions investigating intention and mindful awareness"
+  },
+  "tips_of_the_day/S05E15_On_the_Virtue_of_Visiting_a_Cemetery": {
+    "score": 3,
+    "note": "Death contemplation affects feelings, not primary focus"
+  },
+  "tips_of_the_day/S05E16_Pity_Sorrow_and_Compassion": {
+    "score": 7,
+    "note": "Directly examines different emotional responses and feelings"
+  },
+  "tips_of_the_day/S05E17_Why_are_we_asked_to_observe_-_impermanence": {
+    "score": 5,
+    "note": "Vipassana observation includes feeling as one khandha"
+  },
+  "tips_of_the_day/S05E18_Sublimation": {
+    "score": 6,
+    "note": "About transformation of mental states through awareness"
+  },
+  "tips_of_the_day/S05E19_Righteous_Anger_Plain_Anger": {
+    "score": 6,
+    "note": "Working with anger emotion through mindfulness practice"
+  },
+  "tips_of_the_day/S05E20_A_Pets_Endgame": {
+    "score": 2,
+    "note": "About animal ethics, mentions compassionate feelings briefly"
+  },
+  "tips_of_the_day/S05E21_Downers": {
+    "score": 8,
+    "note": "Directly about transforming relationship with difficult emotions"
+  },
+  "tips_of_the_day/S05E22_Discipline_Self-discipline": {
+    "score": 2,
+    "note": "About training methods, not feeling specifically"
+  },
+  "tips_of_the_day/S05E23_Fairness_and_Equality": {
+    "score": 1,
+    "note": "About justice concepts, not feeling"
+  },
+  "tips_of_the_day/S05E24_Unforgivingness": {
+    "score": 6,
+    "note": "About hatred emotion and dissolving anger through insight"
+  },
+  "tips_of_the_day/S05E25_My_body_is_Mother_Earth": {
+    "score": 2,
+    "note": "Four elements meditation, not feeling focus"
+  },
+  "tips_of_the_day/S05E26_Dealing_with_Intense_Emotions_and_Moods_in_Ordinary_Daily_Life": {
+    "score": 9,
+    "note": "Primarily about working skillfully with intense emotions"
+  },
+  "tips_of_the_day/S05E27_How_much_pain_physical_or_mental_should_we_suffer": {
+    "score": 7,
+    "note": "About relationship with pain and suffering feelings"
+  },
+  "tips_of_the_day/S05E28_Judging_or_Judgemental": {
+    "score": 4,
+    "note": "Distinguishes emotional reactions from skillful discernment"
+  },
+  "tips_of_the_day/S05E29_The_absurd_and_the_Sublime_A_Mid-summer_Contemplation": {
+    "score": 2,
+    "note": "Philosophical about meaning, not feeling specifically"
+  },
+  "tips_of_the_day/S05E30_If_there_is_no_self_who_bears_the_karma": {
+    "score": 1,
+    "note": "About anatta and karma, not feeling"
+  },
+  "tips_of_the_day/S05E31_Overwhelmed_by_All_the_Violence_in_the_World": {
+    "score": 6,
+    "note": "About managing overwhelming emotions and despair"
+  },
+  "tips_of_the_day/S05E32_Legal_Moral_Ethical": {
+    "score": 1,
+    "note": "About moral conduct, not feeling"
+  },
+  "tips_of_the_day/S05E33_The_Consumer_in_Us_All": {
+    "score": 2,
+    "note": "About consumerism mindset, not feeling as turning point"
+  },
+  "tips_of_the_day/S05E34_Barriers_or_Boundaries": {
+    "score": 4,
+    "note": "Touches on aversive reactions and emotional responses"
+  },
+  "tips_of_the_day/S05E35_Isolation_Loneliness_and_Solitude": {
+    "score": 5,
+    "note": "Explores painful feelings and their transformation through practice"
+  },
+  "tips_of_the_day/S05E36_Envy_Jealousy_and_Appreciative_Joy": {
+    "score": 6,
+    "note": "Directly addresses transforming unwholesome feelings into wholesome ones"
+  },
+  "tips_of_the_day/S05E37_Unwholesome_Karmic_Results_as_Fate": {
+    "score": 3,
+    "note": "Mentions suffering patterns but focuses on unconscious tendencies"
+  },
+  "tips_of_the_day/S05E38_Ideology_leads_to_strife": {
+    "score": 2,
+    "note": "About attachment to views, not feeling transformation"
+  },
+  "tips_of_the_day/S05E39_The_Sacred_Its_Meaning_and_the_Role_of_Free_Speech": {
+    "score": 1,
+    "note": "About sacred symbols and speech, not feelings"
+  },
+  "tips_of_the_day/S05E40_Awareness_Compassion_and_Wisdom": {
+    "score": 5,
+    "note": "Explores awareness of suffering transforming into genuine compassion"
+  },
+  "tips_of_the_day/S05E41_To_become_or_not_to_become": {
+    "score": 3,
+    "note": "About craving types but not feeling transformation specifically"
+  },
+  "tips_of_the_day/S05E42_Appamāda_Diligent": {
+    "score": 1,
+    "note": "About diligence and effort, not feelings"
+  },
+  "tips_of_the_day/S05E43_Aim_and_Objective_in_Present_Time": {
+    "score": 2,
+    "note": "About present moment awareness, minimal feeling focus"
+  },
+  "tips_of_the_day/S05E44_Money_and_Power": {
+    "score": 0,
+    "note": "About economics and distributism, unrelated to feelings"
+  },
+  "tips_of_the_day/S05E45_Passive_Aggression": {
+    "score": 4,
+    "note": "Addresses anger patterns and skillful emotional responses"
+  },
+  "tips_of_the_day/S05E46_In_what_way_should_Buddhadhamma_affect_our_politics": {
+    "score": 1,
+    "note": "About political engagement, not feelings"
+  },
+  "tips_of_the_day/S05E47_Practice_makes_perfect": {
+    "score": 2,
+    "note": "About practice discipline, mentions insights arising naturally"
+  },
+  "tips_of_the_day/S05E48_Right_Speech": {
+    "score": 3,
+    "note": "Touches on emotional motivations behind wrong speech"
+  },
+  "tips_of_the_day/S05E49_Equanimity": {
+    "score": 7,
+    "note": "Equanimity as foundation preventing emotional corruption, key turning"
+  },
+  "tips_of_the_day/S05E50_Shame": {
+    "score": 6,
+    "note": "Working skillfully with shame through vipassana practice"
+  },
+  "tips_of_the_day/S05E51_Guilt": {
+    "score": 6,
+    "note": "Distinguishing healthy from unhealthy guilt, transforming through understanding"
+  },
+  "tips_of_the_day/S05E52_Gratitude_Generosity_Renunciation": {
+    "score": 3,
+    "note": "About generosity requiring emotional letting go"
+  },
+  "tips_of_the_day/S05E53_Excitement_Boredom_Contentment": {
+    "score": 8,
+    "note": "Directly about transforming excitement-boredom cycle into contentment"
+  },
+  "tips_of_the_day/S05E54_Silence": {
+    "score": 4,
+    "note": "About finding refuge from mental-emotional disturbance"
+  },
+  "tips_of_the_day/S05E55_Courage_Fortitude_and_Resilience": {
+    "score": 5,
+    "note": "Crisis as opportunity for transformation, emotional resilience"
+  },
+  "tips_of_the_day/S05E56_One_of_the_Hindrances_is_Sceptical_Doubt": {
+    "score": 4,
+    "note": "About transforming paralyzing doubt into healthy questioning"
+  },
+  "tips_of_the_day/S05E57_Scientism_meets_Buddhism_Buddhadhamma": {
+    "score": 2,
+    "note": "About phenomenological vs empirical approaches, minimal feeling focus"
+  },
+  "tips_of_the_day/S05E58_What_is_our_basic_disposition_to_life": {
+    "score": 4,
+    "note": "Mentions character types but not feeling as turning point"
+  },
+  "tips_of_the_day/S05E59_Fear": {
+    "score": 8,
+    "note": "Explores fear as fundamental emotion and transformation through facing it"
+  },
+  "tips_of_the_day/S05E60_Beauty": {
+    "score": 3,
+    "note": "Discusses aesthetic feelings but not as spiritual turning point"
+  },
+  "tips_of_the_day/S05E61_The_Wisdom_of_Uncertainty": {
+    "score": 2,
+    "note": "About conditionality and anxiety reduction, not feeling transformation"
+  },
+  "tips_of_the_day/S05E62_Patience": {
+    "score": 5,
+    "note": "Addresses emotional responses but focuses on virtue development"
+  },
+  "tips_of_the_day/S05E63_Overcoming_the_Corruptions_of_Generosity": {
+    "score": 3,
+    "note": "Mentions psychological corruptions but not feeling transformation"
+  },
+  "tips_of_the_day/S05E64_The_World_is_in_a_terrible_state": {
+    "score": 4,
+    "note": "Addresses despair and emotional responses to global crises"
+  },
+  "tips_of_the_day/S05E65_The_Treasure_of_Things": {
+    "score": 3,
+    "note": "Discusses gratitude and joy but not transformative feeling"
+  },
+  "tips_of_the_day/S05E66_Equanimity_Carl": {
+    "score": 6,
+    "note": "Explores equanimity as key to reducing suffering and transformation"
+  },
+  "tips_of_the_day/S05E67_The_years_where_do_they_go_New_Year_Encouragement_Noirin": {
+    "score": 4,
+    "note": "About endings and cessation but not feeling transformation"
+  },
+  "tips_of_the_day/S05E68_Understand_and_See_things_as_they_really_are": {
+    "score": 2,
+    "note": "About perception and understanding, not feeling transformation"
+  },
+  "tips_of_the_day/S05E69_Constant_Curiosity_Carl": {
+    "score": 5,
+    "note": "Discusses observing reactions and attachments in daily life"
+  },
+  "tips_of_the_day/S05E70_Kamma_Noirin": {
+    "score": 3,
+    "note": "About cause and effect, mentions transformative shift briefly"
+  },
+  "tips_of_the_day/S05E71_Progress": {
+    "score": 3,
+    "note": "About spiritual progress but not feeling as turning point"
+  },
+  "tips_of_the_day/S05E72_Who_Decides_Carl": {
+    "score": 2,
+    "note": "About decision-making and not-self, not feeling transformation"
+  },
+  "tips_of_the_day/S05E73_Delusion_caring_for_illusion": {
+    "score": 2,
+    "note": "About not-self teaching, not feeling as turning point"
+  },
+  "tips_of_the_day/S05E74_The_world_is_not_in_a_good_place": {
+    "score": 4,
+    "note": "Addresses emotional responses to global crises and finding peace"
+  },
+  "tips_of_the_day/S05E75_Happy_New_Year": {
+    "score": 2,
+    "note": "About resolutions and Right Resolve, not feeling transformation"
+  },
+  "tips_of_the_day/S05E76_Sickness": {
+    "score": 6,
+    "note": "Illness as gateway to insight and transformation through awareness"
+  },
+  "tips_of_the_day/S05E77_Yearning_for_a_Better_World": {
+    "score": 4,
+    "note": "About metta practice and emotional responses to world"
+  },
+  "tips_of_the_day/S05E78_Balancing_Lay_and_Spiritual_Life": {
+    "score": 3,
+    "note": "Addresses feeling tired and frazzled but not transformation"
+  },
+  "tips_of_the_day/S05E79_Wildflower_Wisdom": {
+    "score": 5,
+    "note": "Chronicles emotional journey from aversion to curiosity and balance"
+  },
+  "tips_of_the_day/S05E80_Dealing_with_the_Stories_that_Make_Us_Suffer": {
+    "score": 7,
+    "note": "Directly addresses transforming suffering through mindful investigation of emotions"
+  },
+  "tips_of_the_day/S05E81_The_Wisdom_and_Virtues_of_Insecurity": {
+    "score": 4,
+    "note": "About navigating uncertainty with equanimity, not feeling transformation"
+  },
+  "tips_of_the_day/S05E82_As_Winter_Approaches": {
+    "score": 5,
+    "note": "Personal reflection using bodily feelings and grief as practice"
+  },
+  "tips_of_the_day/S05E83_Guidelines_For_a_New_Years_Resolution": {
+    "score": 2,
+    "note": "General spiritual development, no specific focus on feeling"
+  },
+  "tips_of_the_day/S05E84_Coronavirus_Messenger_from_the_Gods": {
+    "score": 4,
+    "note": "Examines emotional reactions to crisis, some feeling awareness"
+  },
+  "tips_of_the_day/S05E85_Quench_all_Resentments": {
+    "score": 5,
+    "note": "Working with negative feelings like resentment and anger"
+  },
+  "tips_of_the_day/S05E86_Exiting_Lockdown": {
+    "score": 6,
+    "note": "Mindful awareness of expectations and emotional attachments during transitions"
+  },
+  "tips_of_the_day/S05E87_Committing_to_the_Path": {
+    "score": 3,
+    "note": "Right Intention practice, mentions moment-to-moment awareness briefly"
+  },
+  "tips_of_the_day/S05E88_Beauty": {
+    "score": 4,
+    "note": "Attachment to beauty creating suffering, some feeling exploration"
+  },
+  "tips_of_the_day/S05E89_Motivation_for_Practice": {
+    "score": 3,
+    "note": "Explores motivations and expectations, limited feeling focus"
+  },
+  "tips_of_the_day/S05E90_All_in_the_Mind": {
+    "score": 7,
+    "note": "Mental reactions vs physical experiences, six sense spheres"
+  },
+  "tips_of_the_day/S05E91_Perfection_Elitism_and_Excellence": {
+    "score": 4,
+    "note": "Perfectionism creating suffering, emotional patterns of self-criticism"
+  },
+  "tips_of_the_day/S05E92_Material_World": {
+    "score": 3,
+    "note": "First khandha exploration, some attachment and identity feelings"
+  },
+  "tips_of_the_day/S05E93_Inner_Voices": {
+    "score": 2,
+    "note": "Different thinking patterns, not specifically about feeling"
+  },
+  "tips_of_the_day/S05E94_Full_Catastrophe_Ethics": {
+    "score": 3,
+    "note": "Emotional responses to climate change, limited feeling focus"
+  },
+  "tips_of_the_day/S05E95_On_Learning_how_to_be_with_Climate_and_Social_Breakdown": {
+    "score": 5,
+    "note": "Climate anxiety and grief, emotional responses to crisis"
+  },
+  "tips_of_the_day/S05E96_Living_in_the_here_and_now_Bhante_Bodhidhamma": {
+    "score": 6,
+    "note": "Right Awareness vs present-moment awareness, ethical feeling engagement"
+  },
+  "tips_of_the_day/S05E97_Being_Human_Bhante_Bodhidhamma": {
+    "score": 2,
+    "note": "Spiritual community and relationships, not feeling-focused"
+  },
+  "tips_of_the_day/S05E98_Sympathy_Empathy_Compassion_Bhante_Bodhidhamma": {
+    "score": 6,
+    "note": "Heart resonating with suffering, emotional responses to others"
+  },
+  "tips_of_the_day/S05E99_Non-Violence_is_not_Pacificism_Bhante_Bodhidhamma": {
+    "score": 3,
+    "note": "Empathy and compassion basis for non-violence, limited feeling"
+  },
+  "tips_of_the_day/S05E100_Neoliberalism_and_Buddhadhamma_Bhante_Bodhidhamma": {
+    "score": 2,
+    "note": "Economic critique, not specifically about feeling or emotions"
+  },
+  "tips_of_the_day/S05E101_Dullness_and_Lethargy_Our_Two_Very_Good_Friends_Carl_Fooks": {
+    "score": 7,
+    "note": "Working skillfully with mental states, feeling awareness in meditation"
+  },
+  "tips_of_the_day/S05E102_Preparing_for_Climate_Change_-_First_Ethical_Maxim_Noirin_Sheahan": {
+    "score": 4,
+    "note": "Confronting overwhelming feelings about climate change reality"
+  },
+  "tips_of_the_day/S05E103_Red_Lines_Sila_-_Third_Ethical_Maxim_Noirin_Sheahan": {
+    "score": 2,
+    "note": "Ethical boundaries, not specifically about feeling awareness"
+  },
+  "tips_of_the_day/S05E104_Radical_Hope_Saddha_-_Second_Ethical_Maxim_Noirin_Sheahan": {
+    "score": 5,
+    "note": "Present-moment awareness regardless of feelings, saddhā cultivation"
+  },
+  "tips_of_the_day/S05E105_New_Year_Resolutions_and_the_Third_Maxim_Noirin_Sheahan": {
+    "score": 4,
+    "note": "Psychological dynamics of temptation and resistance feelings"
+  },
+  "tips_of_the_day/S05E106_4th_Maxim_i_Opportunity_Knocks_Noirin_Sheahan": {
+    "score": 6,
+    "note": "Dukkha as gateway, transforming anxiety into skillful engagement"
+  },
+  "tips_of_the_day/S05E107_4th_Maxim_ii_Spiral_to_Freedom_Noirin_Sheahan": {
+    "score": 8,
+    "note": "Dukkha to liberation spiral, gladness, rapture, tranquillity progression"
+  },
+  "tips_of_the_day/S05E108_Fourth_Maxim_iii_Path_to_Transcendence_Noirin_Sheahan": {
+    "score": 7,
+    "note": "Explores how dukkha transforms through mindful investigation into liberation"
+  },
+  "tips_of_the_day/S05E109_Equanimity_The_Most_Important_Virtue_Bhante_Bodhidhamma": {
+    "score": 5,
+    "note": "Discusses equanimity as emotional freedom from bias and preference"
+  },
+  "tips_of_the_day/S05E110_The_Danger_of_Nihilism_Bhante_Bodhidhamma": {
+    "score": 2,
+    "note": "Mentions despair but focuses on nihilism and societal issues"
+  },
+  "tips_of_the_day/S05E111_Neo-Fascism_Bhante_Bodhidhamma": {
+    "score": 1,
+    "note": "Political analysis with minimal relevance to feeling as turning"
+  },
+  "tips_of_the_day/S05E112_The_Gift_of_Joy_Mudita_Bhante_Bodhidhamma": {
+    "score": 6,
+    "note": "Explores joy as spiritual practice and emotional transformation"
+  },
+  "tips_of_the_day/S05E113_We_just_follow_circumstance_Bhante_Bodhidhamma": {
+    "score": 4,
+    "note": "Contrasts reactive responses with fearless acceptance of circumstances"
+  },
+  "tips_of_the_day/S05E114_To_Love_or_To_Be_Loved_That_is_the_Question_Bhante_Bodhidhamma": {
+    "score": 3,
+    "note": "Examines motivations behind love but not feeling as turning"
+  },
+  "tips_of_the_day/S05E115_Samsara_doomed_to_suffer_over_and_over_again_Bhante_Bodhidhamma": {
+    "score": 2,
+    "note": "Historical reflection on suffering cycles, minimal feeling focus"
+  },
+  "tips_of_the_day/S05E116_Compassion_To_Care_Bhante_Bodhidhamma": {
+    "score": 5,
+    "note": "Explores compassion as empathic response and skillful action"
+  },
+  "tips_of_the_day/S05E117_Compassion_A_Path_of_Liberation_Bhante_Bodhidhamma": {
+    "score": 6,
+    "note": "Shows how compassion transforms selfishness into generosity and liberation"
+  },
+  "tips_of_the_day/S05E118_Fifth_Maxim_Develop_the_Body_and_Mind_Noirin_Sheahan": {
+    "score": 4,
+    "note": "Training body and mind to deal with despair"
+  },
+  "tips_of_the_day/S05E119_The_Buddhas_Alter_Ego_The_World_Conquering_Monarch_Bhante_Bodhidhamma": {
+    "score": 1,
+    "note": "Political teaching about righteous leadership, not feeling transformation"
+  },
+  "tips_of_the_day/S05E120_There_is_a_Body_Exploring_the_Mind-Body_Relationship_Noirin_Sheahan": {
+    "score": 4,
+    "note": "Body awareness practice but not specifically about feeling"
+  },
+  "tips_of_the_day/S05E121_Self-love_and_Self-Acceptance_Bhante_Bodhidhamma": {
+    "score": 7,
+    "note": "Transforming self-hatred into acceptance as foundation for metta"
+  },
+  "tips_of_the_day/S05E122_The_Crucial_Role_of_Desire_and_Intention_Bhante_Bodhidhamma": {
+    "score": 5,
+    "note": "Distinguishes wholesome and unwholesome desires affecting spiritual progress"
+  },
+  "tips_of_the_day/S05E123_Mindfulness_meets_Metta_Noirin_Sheahan": {
+    "score": 4,
+    "note": "How mindfulness naturally develops goodwill through embodied awareness"
+  },
+  "tips_of_the_day/S05E124_Surely_meditation_shouldnt_feel_like_this_Noirin_Sheahan": {
+    "score": 8,
+    "note": "Emotional difficulties in meditation as opportunities for transformation"
+  },
+  "tips_of_the_day/S05E125_The_Fire_Sermon": {
+    "score": 7,
+    "note": "Non-reactivity to feelings leads to freedom from burning"
+  },
+  "tips_of_the_day/S05E126_Why_spend_a_week_or_more_on_retreat": {
+    "score": 2,
+    "note": "Retreat benefits but not specifically about feeling transformation"
+  },
+  "tips_of_the_day/S05E127_Nibanna_is_Close_at_Hand": {
+    "score": 5,
+    "note": "Awakening transforms relationship to human concerns and feelings"
+  },
+  "tips_of_the_day/S05E128_AI_Art": {
+    "score": 1,
+    "note": "Art and AI discussion, minimal relevance to feeling"
+  },
+  "tips_of_the_day/S05E129_A_Field_of_Barley": {
+    "score": 8,
+    "note": "Journey through desire, aversion, grief using Eightfold Path"
+  },
+  "tips_of_the_day/S05E130_War": {
+    "score": 3,
+    "note": "Emphasizes equanimity over moral outrage in conflict"
+  },
+  "tips_of_the_day/S05E131_The_Enlightenment_and_its_Demise": {
+    "score": 1,
+    "note": "Historical analysis with minimal relevance to feeling transformation"
+  },
+  "tips_of_the_day/S05E132_The_Enlightenment_and_Possible_Salvation": {
+    "score": 2,
+    "note": "Buddhist solutions to modern crises but not feeling-focused"
+  },
+  "tips_of_the_day/S05E133_Sixth_Maxim_Act_for_the_Future_Generations_of_All_Species": {
+    "score": 2,
+    "note": "About climate ethics, not feeling as turning point"
+  },
+  "tips_of_the_day/S05E134_Cultivating_Metta_for_Future_Generations": {
+    "score": 3,
+    "note": "Mentions embodied awareness but focuses on metta cultivation"
+  },
+  "retreat_talks/S01E01_Detailed_Guided_Meditation": {
+    "score": 2,
+    "note": "General meditation instruction, minimal feeling-specific content"
+  },
+  "retreat_talks/S01E02_Starting_a_Retreat": {
+    "score": 1,
+    "note": "Retreat opening ceremony, not about feeling"
+  },
+  "retreat_talks/S01E03_Abiding_in_the_Present_Moment_Developing_Equanimity": {
+    "score": 2,
+    "note": "About present moment awareness, not feeling specifically"
+  },
+  "retreat_talks/S01E04_Detailed_Guided_Meditation": {
+    "score": 2,
+    "note": "General vipassana instruction, not feeling-focused"
+  },
+  "retreat_talks/S01E05_Assisted_Meditation": {
+    "score": 2,
+    "note": "Standard meditation guidance, not feeling-specific"
+  },
+  "retreat_talks/S01E06_Heartcare_Metta_Meditation": {
+    "score": 1,
+    "note": "About metta practice, not vedana feeling"
+  },
+  "retreat_talks/S01E07_Bodycare_Meditation": {
+    "score": 1,
+    "note": "About body relationship, not vedana feeling"
+  },
+  "retreat_talks/S02E01_Eating_meditation": {
+    "score": 4,
+    "note": "Explores pleasure and attachment, touches on feeling"
+  },
+  "retreat_talks/S02E02_Morning_Chant_with_Refuges_and_Precepts": {
+    "score": 0,
+    "note": "Traditional chanting, unrelated to feeling"
+  },
+  "retreat_talks/S02E03_Evening_Metta_Chant": {
+    "score": 0,
+    "note": "Metta chanting, not about vedana feeling"
+  },
+  "retreat_talks/S03E01_The_Technique": {
+    "score": 2,
+    "note": "General meditation technique, not feeling-specific"
+  },
+  "retreat_talks/S03E02_The_Hindrances": {
+    "score": 3,
+    "note": "Discusses mental obstacles, some feeling-related content"
+  },
+  "retreat_talks/S03E03_The_Factors_of_Enlightenment": {
+    "score": 2,
+    "note": "About awakening factors, not feeling specifically"
+  },
+  "retreat_talks/S03E04_The_Pleasure_Syndrome_dukkha": {
+    "score": 7,
+    "note": "Explores pleasure-pain cycle through dependent origination"
+  },
+  "retreat_talks/S03E05_The_Characteristic_of_Impermanence": {
+    "score": 1,
+    "note": "About impermanence, not feeling"
+  },
+  "retreat_talks/S03E06_Anatta_Not_self": {
+    "score": 1,
+    "note": "About not-self, not feeling"
+  },
+  "retreat_talks/S03E07_Living_Life_according_to_the_Dhamma": {
+    "score": 1,
+    "note": "About daily life practice, not feeling"
+  },
+  "retreat_talks/S03E08_Mahasi_Talk": {
+    "score": 2,
+    "note": "General meditation instructions, not feeling-focused"
+  },
+  "retreat_talks/S03E09_Vedana_Feeling": {
+    "score": 9,
+    "note": "Directly about vedana feeling in Buddhist psychology"
+  },
+  "retreat_talks/S03E10_Is_Awareness_Enough": {
+    "score": 2,
+    "note": "About awareness role, not feeling specifically"
+  },
+  "retreat_talks/S03E11_Eroticism_Romance_Love_Distraction_and_Boredom": {
+    "score": 5,
+    "note": "Explores sensual feelings and emotional reactions"
+  },
+  "retreat_talks/S03E12_The_Perfections_Turned_Inward": {
+    "score": 1,
+    "note": "About spiritual perfections, not feeling"
+  },
+  "retreat_talks/S03E13_Faith": {
+    "score": 1,
+    "note": "About faith as spiritual faculty, not feeling"
+  },
+  "retreat_talks/S03E14_Revising_the_principles_of_vipassana": {
+    "score": 4,
+    "note": "Mentions conditioned responses and experience but not feeling specifically"
+  },
+  "retreat_talks/S03E15_Fear": {
+    "score": 7,
+    "note": "Explores fear as bodily sensations before conceptualization - feeling focus"
+  },
+  "retreat_talks/S03E16_Foregiveness": {
+    "score": 3,
+    "note": "Touches on emotional reactions but not feeling as turning point"
+  },
+  "retreat_talks/S03E17_The_Gratification_the_Danger_and_the_Escape": {
+    "score": 5,
+    "note": "Discusses gratification and psychological development but limited feeling focus"
+  },
+  "retreat_talks/S03E18_Karma": {
+    "score": 2,
+    "note": "About will and conditionality, minimal feeling content"
+  },
+  "retreat_talks/S03E19_Rebirth": {
+    "score": 3,
+    "note": "Mentions mental states at death but not feeling specifically"
+  },
+  "retreat_talks/S03E20_The_Illimitables": {
+    "score": 4,
+    "note": "Heart practices complement insight but not feeling as turning point"
+  },
+  "retreat_talks/S04E01_The_Ten_Fetters": {
+    "score": 3,
+    "note": "About progressive elimination of fetters, minimal feeling focus"
+  },
+  "retreat_talks/S04E02_The_Awakening": {
+    "score": 4,
+    "note": "Three characteristics and insights but not feeling specifically"
+  },
+  "retreat_talks/S04E03_The_Years_of_Teaching_and_Parinibbana": {
+    "score": 2,
+    "note": "Buddha's teaching years and compassion, minimal feeling content"
+  },
+  "retreat_talks/S04E04_Ethical_Behaviour_and_the_Awakening_are_one": {
+    "score": 2,
+    "note": "About wisdom and ethics integration, not feeling focus"
+  },
+  "retreat_talks/S04E05_The_Buddha_as_Exemplar_and_Archetype": {
+    "score": 2,
+    "note": "Buddha's life stages as archetype, minimal feeling content"
+  },
+  "retreat_talks/S04E06_Meditation_and_Ordinary_Daily_Life": {
+    "score": 4,
+    "note": "Six sense doors and consciousness but not feeling specifically"
+  },
+  "retreat_talks/S04E07_Free_Will": {
+    "score": 6,
+    "note": "Contact leads to feeling and perception - substantial feeling discussion"
+  },
+  "retreat_talks/S04E08_Karma_Specific_Conditionality_the_Five_Laws_ethical_behaviou": {
+    "score": 2,
+    "note": "About conditionality and five laws, minimal feeling focus"
+  },
+  "retreat_talks/S04E09_Right_Livelihood": {
+    "score": 2,
+    "note": "About work and spiritual practice, not feeling focus"
+  },
+  "retreat_talks/S04E10_Chi_Gong_min_guidance": {
+    "score": 3,
+    "note": "Bodily awareness practice but not feeling as turning point"
+  }
+}

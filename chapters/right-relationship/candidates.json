@@ -1,0 +1,3174 @@
+{
+  "guided_meditations/S01E01_Introducing_Vipassana_Insight_Meditation": {
+    "score": 1,
+    "note": "Basic meditation instruction, no relationship focus"
+  },
+  "guided_meditations/S01E02_Vipassana_Guidelines": {
+    "score": 1,
+    "note": "Technical meditation guidelines, no relationship content"
+  },
+  "guided_meditations/S01E03_45_minute_Detailed_Guided_Meditation": {
+    "score": 1,
+    "note": "Standard vipassana practice, no relationship themes"
+  },
+  "guided_meditations/S01E04_45_minute_Assisted_Meditation": {
+    "score": 1,
+    "note": "Meditation technique instruction, no relationship focus"
+  },
+  "guided_meditations/S01E05_30_minute_Bodycare_Meditation": {
+    "score": 7,
+    "note": "Healing relationship with body through loving-kindness"
+  },
+  "guided_meditations/S01E06_30_minute_Heartcare_Meditation": {
+    "score": 8,
+    "note": "Comprehensive metta practice including forgiveness work"
+  },
+  "guided_meditations/S01E07_Abiding_in_the_Present_Moment_Developing_Equanimity": {
+    "score": 2,
+    "note": "Equanimity practice, minimal relationship content"
+  },
+  "guided_meditations/S01E08_Just_Metta": {
+    "score": 8,
+    "note": "Loving-kindness to all beings including difficult people"
+  },
+  "guided_meditations/S01E09_Investigative_Eating": {
+    "score": 4,
+    "note": "Mindful relationship with food and pleasure"
+  },
+  "guided_meditations/S01E10_Mahasi_Sayadaw_Introductory_Talk": {
+    "score": 1,
+    "note": "Technical vipassana instruction, no relationship focus"
+  },
+  "guided_meditations/S02E01_Why_Chant": {
+    "score": 2,
+    "note": "Chanting instruction, minimal relationship content"
+  },
+  "guided_meditations/S02E02_Morning_Chant": {
+    "score": 3,
+    "note": "Traditional chants including metta, some relationship elements"
+  },
+  "guided_meditations/S02E03_Evening_Chant": {
+    "score": 6,
+    "note": "Metta practice extending goodwill to all beings"
+  },
+  "guided_meditations/S02E04_Refuges_and_Precepts": {
+    "score": 4,
+    "note": "Ethical foundation affecting relationships with others"
+  },
+  "guided_meditations/S02E05_Evening_Metta_Chant": {
+    "score": 7,
+    "note": "Loving-kindness to all beings in all directions"
+  },
+  "guided_meditations/S02E06_Metta_Discourse": {
+    "score": 8,
+    "note": "Classical metta sutta on loving-kindness cultivation"
+  },
+  "dhammabytes/S01E01_01_Views_about_Spiritual_Paths": {
+    "score": 2,
+    "note": "Approaches to teachings, minimal relationship focus"
+  },
+  "dhammabytes/S01E02_02_Discourse_to_the_Kalamas": {
+    "score": 3,
+    "note": "Discernment teaching, some relationship to authority"
+  },
+  "dhammabytes/S01E03_03_Desire_the_Root_of_Suffering": {
+    "score": 6,
+    "note": "Attachment in relationships as source of suffering"
+  },
+  "dhammabytes/S01E04_04_How_to_Test_the_Buddha": {
+    "score": 4,
+    "note": "Teacher-student relationship and spiritual investigation"
+  },
+  "dhammabytes/S02E01_01_Introducing_the_Buddha": {
+    "score": 2,
+    "note": "Buddha's identity, minimal relationship content"
+  },
+  "dhammabytes/S02E02_02_The_Birth_of_the_Buddha": {
+    "score": 1,
+    "note": "Birth narrative, no relationship focus"
+  },
+  "dhammabytes/S02E03_03_The_Bodhisatta_Leaves_Home": {
+    "score": 3,
+    "note": "Leaving relationships for spiritual quest"
+  },
+  "dhammabytes/S02E04_04_The_Essence_of_the_Awakening": {
+    "score": 2,
+    "note": "Dependent origination, minimal relationship content"
+  },
+  "dhammabytes/S03E01_Anusaya_-_Latent_Tendencies": {
+    "score": 4,
+    "note": "Psychological tendencies affecting relationships with others"
+  },
+  "dhammabytes/S03E02_Asava-Taints_Ogha-Floods_Yoga-Yokes": {
+    "score": 2,
+    "note": "Mental taints discussion, minimal relationship focus"
+  },
+  "dhammabytes/S03E03_Buddha": {
+    "score": 1,
+    "note": "Buddha qualities exploration, no relationship content"
+  },
+  "dhammabytes/S03E04_Dukkha_-_A_Hard_Place": {
+    "score": 2,
+    "note": "Suffering types analysis, limited relationship relevance"
+  },
+  "dhammabytes/S03E05_Hetu_-_The_Unwholesome_Roots": {
+    "score": 4,
+    "note": "Explores fundamental delusion creating separation from world"
+  },
+  "dhammabytes/S03E06_Panya_-_Wisdom_and_Intuitive_Intelligence": {
+    "score": 2,
+    "note": "Wisdom development focus, minimal relationship content"
+  },
+  "dhammabytes/S03E07_Puja_-_Devotional_Attention": {
+    "score": 3,
+    "note": "Heart's involvement in practice, some relational aspects"
+  },
+  "dhammabytes/S03E08_Samyojana_-_The_first_three_Fetters": {
+    "score": 2,
+    "note": "Liberation stages focus, limited relationship discussion"
+  },
+  "dhammabytes/S03E09_Samyojana_-_The_last_seven_Fetters": {
+    "score": 2,
+    "note": "Advanced practitioner fetters, minimal relationship content"
+  },
+  "dhammabytes/S03E10_Sati_-_Knowing": {
+    "score": 2,
+    "note": "Awareness cultivation focus, limited relationship relevance"
+  },
+  "dhammabytes/S03E11_Sati_in_Daily_Life": {
+    "score": 4,
+    "note": "Integration of awareness into daily interactions"
+  },
+  "dhammabytes/S03E12_Sila_-_Good_Conduct": {
+    "score": 6,
+    "note": "Ethical conduct foundation for compassionate living"
+  },
+  "dhammabytes/S04E01_01_Dana_Generosity": {
+    "score": 7,
+    "note": "Generosity as relational virtue, giving dynamics"
+  },
+  "dhammabytes/S04E02_02_Sila_Virtuous_Conduct": {
+    "score": 6,
+    "note": "Ethical conduct in relationships and interactions"
+  },
+  "dhammabytes/S04E03_03_Nekkhamma_Renunciation": {
+    "score": 4,
+    "note": "Understanding attachment in relationships through letting go"
+  },
+  "dhammabytes/S04E04_04_Panya_Intuitive_Intelligence_and_Wisdom": {
+    "score": 3,
+    "note": "Wisdom about relating to world, some relevance"
+  },
+  "dhammabytes/S04E05_05_Viriya_Effort": {
+    "score": 2,
+    "note": "Effort in practice, minimal relationship focus"
+  },
+  "dhammabytes/S04E06_06_Khanti_Patience": {
+    "score": 5,
+    "note": "Patience with conditions, accepting others as they are"
+  },
+  "dhammabytes/S04E07_07_Sacca_Honesty": {
+    "score": 6,
+    "note": "Truthfulness in relationships and self-honesty"
+  },
+  "dhammabytes/S04E08_08_Adhitthana_Resolution": {
+    "score": 3,
+    "note": "Commitment in practice, some relational applications"
+  },
+  "dhammabytes/S05E01_Metta_-_Love": {
+    "score": 9,
+    "note": "Loving-kindness as foundation of right relationship"
+  },
+  "dhammabytes/S05E02_Karuna_-_Compassion": {
+    "score": 8,
+    "note": "Compassion practice, understanding others' suffering"
+  },
+  "dhammabytes/S05E03_Mudita_-_Pure_Joy": {
+    "score": 8,
+    "note": "Sympathetic joy, celebrating others without envy"
+  },
+  "dhammabytes/S05E04_Upekkha_-_Equanimity": {
+    "score": 7,
+    "note": "Equanimous response to life's vicissitudes"
+  },
+  "dhammabytes/S06E01_Buddha_as_Refuge": {
+    "score": 2,
+    "note": "Buddha qualities exploration, minimal relationship content"
+  },
+  "dhammabytes/S06E02_Dhamma_as_Refuge": {
+    "score": 2,
+    "note": "Dhamma qualities focus, limited relationship relevance"
+  },
+  "dhammabytes/S06E03_Sangha_as_Refuge": {
+    "score": 7,
+    "note": "Explores community relationships and qualities of noble disciples"
+  },
+  "dhammabytes/S07E01_Khandha_The_Aggregates": {
+    "score": 2,
+    "note": "Technical teaching on aggregates, minimal relationship content"
+  },
+  "dhammabytes/S07E02_Rupa_Corporeality": {
+    "score": 1,
+    "note": "Focused on body experience, not interpersonal relationships"
+  },
+  "dhammabytes/S07E03_Vedana_Feeling": {
+    "score": 2,
+    "note": "About internal feelings, limited relationship relevance"
+  },
+  "dhammabytes/S07E04_Sanya_Perception_Vedana_Feeling": {
+    "score": 2,
+    "note": "Internal mental processes, not interpersonal dynamics"
+  },
+  "dhammabytes/S07E05_Sankhara_Volitional_Conditioning": {
+    "score": 3,
+    "note": "Mentions actions affecting relationships but primarily internal"
+  },
+  "dhammabytes/S07E06_Summing_up": {
+    "score": 1,
+    "note": "Summary of aggregates, minimal relationship content"
+  },
+  "dhammabytes/S08E01_1_Avijja_-_not-knowing": {
+    "score": 2,
+    "note": "About ignorance and suffering, limited relationship focus"
+  },
+  "dhammabytes/S08E02_2_Nama_Rupa_Body_Mind": {
+    "score": 1,
+    "note": "Technical teaching on body-mind, not relationships"
+  },
+  "dhammabytes/S08E03_3_Salayatana_Vedana_Phasa_Six_senses_Contact_Feeling": {
+    "score": 2,
+    "note": "About sensory contact, minimal interpersonal relationship content"
+  },
+  "dhammabytes/S08E04_4_Tanha_Upadana_Bhava_Craving_Grasping_Becoming": {
+    "score": 3,
+    "note": "Discusses grasping and becoming, affects relationship patterns"
+  },
+  "dhammabytes/S08E05_5_paticca_samuppada_dependent_origination_to_samsara": {
+    "score": 2,
+    "note": "Technical dependent origination, limited relationship relevance"
+  },
+  "dhammabytes/S08E06_6_Another_model_of_Dependent_Orgination": {
+    "score": 2,
+    "note": "Alternative model of causation, minimal relationship focus"
+  },
+  "dhammabytes/S09E01_1_Indulgence": {
+    "score": 3,
+    "note": "Discusses pursuit of pleasures affecting relationship dynamics"
+  },
+  "dhammabytes/S09E02_2_Self-Mortification": {
+    "score": 4,
+    "note": "Addresses self-hatred and repression affecting relationships"
+  },
+  "dhammabytes/S09E03_3_The_First_Noble_Truth_of_Suffering": {
+    "score": 3,
+    "note": "Suffering includes separation from loved ones"
+  },
+  "dhammabytes/S09E04_4_Second_Noble_TruthThe_Cause_of_Suffering": {
+    "score": 3,
+    "note": "Craving affects how we relate to others"
+  },
+  "dhammabytes/S09E05_5_The_Third_Noble_TruthThe_End_of_Suffering": {
+    "score": 2,
+    "note": "Liberation teaching, limited direct relationship content"
+  },
+  "dhammabytes/S09E06_6_The_Fourth_Noble_Truth_The_Eightfold_Path": {
+    "score": 5,
+    "note": "Eightfold path includes right speech and ethical conduct"
+  },
+  "dhammabytes/S09E07_7_The_Buddhas_Enlightenment_becomes_universal": {
+    "score": 2,
+    "note": "About enlightenment, minimal relationship focus"
+  },
+  "dhammabytes/S10E01_1_Not-self_-_Control": {
+    "score": 2,
+    "note": "Not-self teaching, limited direct relationship application"
+  },
+  "dhammabytes/S10E02_2_Not-self_-_Impermanence_and_Suffering": {
+    "score": 2,
+    "note": "Impermanence teaching, affects relationships but not primary"
+  },
+  "dhammabytes/S10E03_3_Not-self_-_Recap_and_Metaphors": {
+    "score": 1,
+    "note": "Metaphors for not-self, minimal relationship content"
+  },
+  "dhammabytes/S11E01_01_Sickness_Ageing_and_Death": {
+    "score": 4,
+    "note": "Mortality affects relationships, includes dialogue with king"
+  },
+  "dhammabytes/S11E02_02_Divine_Messengers": {
+    "score": 5,
+    "note": "Emphasizes respect for parents, elders, and teachers"
+  },
+  "dhammabytes/S11E03_03_The_Two_Darts": {
+    "score": 5,
+    "note": "Discusses skillful vs unskillful reactions to life experiences"
+  },
+  "dhammabytes/S11E04_04_The_Eight_Worldy_Conditions": {
+    "score": 6,
+    "note": "Explores right relationship to life's ups and downs"
+  },
+  "dhammabytes/S11E05_05_Clinging_causes_Anxiety_plus": {
+    "score": 4,
+    "note": "Touches on relationship to self and identity"
+  },
+  "dhammabytes/S11E06_06_Mahakassapa_Explains_the_Cause_of_Conflict": {
+    "score": 7,
+    "note": "Directly addresses causes of conflict in relationships"
+  },
+  "dhammabytes/S11E07_07_Envy_and_Niggardliness_the_Cause_of_Conflict": {
+    "score": 7,
+    "note": "Explores how emotions create conflict despite peaceful intentions"
+  },
+  "dhammabytes/S11E08_08_Detailed_Sequence_Leading_to_Conflict": {
+    "score": 6,
+    "note": "Shows psychological chain leading to interpersonal conflict"
+  },
+  "dhammabytes/S11E09_09_Power": {
+    "score": 5,
+    "note": "Discusses power dynamics and control in relationships"
+  },
+  "dhammabytes/S11E10_10_Samsara_Onward_Going": {
+    "score": 2,
+    "note": "Primarily about cyclical existence, minimal relationship content"
+  },
+  "dhammabytes/S11E11_11_Rounds_of_Becoming": {
+    "score": 2,
+    "note": "Focuses on samsara concept, not interpersonal relationships"
+  },
+  "dhammabytes/S11E12_12_Short_Review_of_the_Human_Condition": {
+    "score": 4,
+    "note": "Reviews suffering including relationship to unavoidable difficulties"
+  },
+  "dhammabytes/S12E01_1_Righteous_Governement_and_Righteous_Ruler": {
+    "score": 6,
+    "note": "Explores righteous leadership and relationship to Dhamma"
+  },
+  "dhammabytes/S12E02_2_The_Ruler": {
+    "score": 5,
+    "note": "Discusses governance and leadership relationships"
+  },
+  "dhammabytes/S12E03_3_The_Six_Directions_Ritual_as_useless_or_meaningful": {
+    "score": 8,
+    "note": "Transforms ritual into meaningful practice of loving-kindness relationships"
+  },
+  "dhammabytes/S12E04_4_Parents_and_Chidren": {
+    "score": 9,
+    "note": "Directly about family relationships and mutual duties"
+  },
+  "dhammabytes/S12E05_5_Husbands_and_Wives": {
+    "score": 9,
+    "note": "Specifically about marriage relationships and ethical conduct"
+  },
+  "dhammabytes/S12E06_6_What_makes_for_a_Good_Life": {
+    "score": 7,
+    "note": "Includes good friendship and balanced relationships"
+  },
+  "dhammabytes/S12E07_7_Use_of_wealth_for_Happiness": {
+    "score": 6,
+    "note": "Discusses extending happiness to family and community"
+  },
+  "dhammabytes/S12E08_8_Virtues_of_a_Good_Spouse": {
+    "score": 8,
+    "note": "About relationship qualities and harmonious domestic life"
+  },
+  "foundation_course/S01E01_The_First_Noble_Truth_-_Dukkha_Dukkha": {
+    "score": 3,
+    "note": "Mentions separation from loved ones as suffering"
+  },
+  "foundation_course/S01E02_The_First_Noble_Truth_-_Conditioned_States": {
+    "score": 2,
+    "note": "Focuses on aggregates, minimal relationship content"
+  },
+  "foundation_course/S01E03_The_First_Noble_Truth_-_The_Three_Characteristics": {
+    "score": 2,
+    "note": "About three characteristics, not interpersonal relationships"
+  },
+  "foundation_course/S01E04_The_Second_Noble_Truth_-_The_Cause_of_Suffering_-_Desire": {
+    "score": 3,
+    "note": "Mentions attachment to possessions and roles"
+  },
+  "foundation_course/S01E05_The_Second_Noble_Truth_-_The_Wheel_of_Dependent_Origination": {
+    "score": 2,
+    "note": "About dependent origination, minimal relationship focus"
+  },
+  "foundation_course/S01E06_The_Second_Noble_Truth_-_Kamma": {
+    "score": 4,
+    "note": "Discusses how inner dispositions create world relationships"
+  },
+  "foundation_course/S01E07_The_Fourth_Noble_Truth_-_Morality_-_Sila": {
+    "score": 5,
+    "note": "Morality as foundation affects all relationships"
+  },
+  "foundation_course/S01E08_The_Fourth_Noble_Truth_-_Positive_Morality_-_Parami": {
+    "score": 7,
+    "note": "Explores virtues like loving-kindness that shape right relationships"
+  },
+  "foundation_course/S01E09_The_Fourth_Noble_Truth_-_Right_Understanding": {
+    "score": 3,
+    "note": "Mentions right understanding as foundation but not relationship focus"
+  },
+  "foundation_course/S01E10_The_Fourth_Noble_Truth_-_Mental_Development_-_Samadhi": {
+    "score": 2,
+    "note": "Focuses on meditation practice, minimal relationship content"
+  },
+  "foundation_course/S02E01_Moods_Emotions_and_Feelings": {
+    "score": 5,
+    "note": "Explores emotional patterns that affect how we relate"
+  },
+  "foundation_course/S02E02_Guilt_-_Real_and_Unreal": {
+    "score": 4,
+    "note": "Examines guilt's impact on self-relationship and conscience"
+  },
+  "foundation_course/S02E03_The_End_of_Guilt": {
+    "score": 4,
+    "note": "Addresses compassionate approach to moral lapses and self-relationship"
+  },
+  "foundation_course/S02E04_Right_Intention": {
+    "score": 6,
+    "note": "Explores intentions of non-harm and loving-kindness toward others"
+  },
+  "foundation_course/S02E05_The_Divine_Abodes": {
+    "score": 9,
+    "note": "Primarily about loving-kindness, compassion, joy, equanimity in relationships"
+  },
+  "foundation_course/S02E06_Faith_or_Belief": {
+    "score": 3,
+    "note": "Discusses faith but not specifically about relationships"
+  },
+  "foundation_course/S02E07_Wheel_of_Dependent_Origination": {
+    "score": 2,
+    "note": "Focuses on causation and liberation, minimal relationship content"
+  },
+  "foundation_course/S02E08_Kamma": {
+    "score": 3,
+    "note": "Discusses moral actions but not specifically relational context"
+  },
+  "foundation_course/S02E09_The_Sangha": {
+    "score": 8,
+    "note": "Explores Buddhist community structure and spiritual relationships"
+  },
+  "foundation_course/S02E10_The_Four_Paths_and_the_Four_Fruits": {
+    "score": 2,
+    "note": "Focuses on awakening stages, minimal relationship content"
+  },
+  "foundation_course/S02E11_The_Noble_Silence": {
+    "score": 1,
+    "note": "About meditation retreat practice, not relationships"
+  },
+  "dharma_talks/S01E01_Why_Meditate": {
+    "score": 2,
+    "note": "Focuses on meditation purpose, minimal relationship content"
+  },
+  "dharma_talks/S01E02_The_Mahasi_Method": {
+    "score": 1,
+    "note": "Technical meditation instruction, not about relationships"
+  },
+  "dharma_talks/S01E03_Starting_a_Personal_Retreat": {
+    "score": 1,
+    "note": "Retreat guidance, not focused on relationships"
+  },
+  "dharma_talks/S01E04_Faith": {
+    "score": 3,
+    "note": "Explores faith as spiritual quality, some trust elements"
+  },
+  "dharma_talks/S01E05_Ritual_in_Spiritual_Practice": {
+    "score": 4,
+    "note": "Discusses devotional practices that involve relationship to Triple Gem"
+  },
+  "dharma_talks/S01E06_Is_Awareness_Enough": {
+    "score": 2,
+    "note": "About awareness and awakening, minimal relationship focus"
+  },
+  "dharma_talks/S01E07_Developing_the_Spiritual_Faculties": {
+    "score": 3,
+    "note": "Mentions faith and equanimity but not relationship focus"
+  },
+  "dharma_talks/S01E08_Spiritual_Faculties_and_Factors_of_Enlightenment": {
+    "score": 3,
+    "note": "Discusses spiritual qualities but not specifically relational"
+  },
+  "dharma_talks/S01E09_The_Hindrances": {
+    "score": 4,
+    "note": "Explores mental obstacles including anger that affect relationships"
+  },
+  "dharma_talks/S01E10_The_Buddha_and_the_Hindrances": {
+    "score": 3,
+    "note": "Discusses hindrances including ill-will but not relationship focus"
+  },
+  "dharma_talks/S01E11_Dullness_Lethargy_Restlessness_and_Pain": {
+    "score": 2,
+    "note": "Practical meditation guidance, minimal relationship content"
+  },
+  "dharma_talks/S01E12_Eroticism_Romance_Love_Distraction_and_Boredom": {
+    "score": 8,
+    "note": "Explores skillful vs unskillful relationship to romantic love and attachment"
+  },
+  "dharma_talks/S01E13_The_Ten_Fetters": {
+    "score": 3,
+    "note": "Mentions relationship to suffering but focuses on liberation stages"
+  },
+  "dharma_talks/S01E14_Vedana_Feeling": {
+    "score": 4,
+    "note": "Discusses relationship between physical sensations and mental reactions"
+  },
+  "dharma_talks/S01E15_Fear": {
+    "score": 5,
+    "note": "Addresses relationship to difficult emotions and fear itself"
+  },
+  "dharma_talks/S01E16_Foregiveness": {
+    "score": 9,
+    "note": "Primarily about transforming relationship to harm and forgiveness"
+  },
+  "dharma_talks/S01E17_The_Illimitables": {
+    "score": 8,
+    "note": "Focuses on heart practices for relating to others"
+  },
+  "dharma_talks/S01E18_The_Perfections_Turned_Inward": {
+    "score": 7,
+    "note": "Explores compassionate relationship with oneself during practice"
+  },
+  "dharma_talks/S02E01_Survey_of_Theravada_Buddhism": {
+    "score": 2,
+    "note": "General overview with minimal relationship focus"
+  },
+  "dharma_talks/S02E02_Impermanence_and_Not-self": {
+    "score": 4,
+    "note": "Touches on ego-attachment and relationship to control"
+  },
+  "dharma_talks/S02E03_Ethical_Behaviour_and_the_Awakening_are_one": {
+    "score": 6,
+    "note": "Discusses relationship between wisdom and ethical conduct"
+  },
+  "dharma_talks/S02E04_Wheel_of_Dependent_Origination": {
+    "score": 4,
+    "note": "Explains psychological relationships in suffering and liberation"
+  },
+  "dharma_talks/S02E05_Free_Will": {
+    "score": 3,
+    "note": "Mentions relationship to choice and control briefly"
+  },
+  "dharma_talks/S02E06_Kamma": {
+    "score": 4,
+    "note": "Discusses relationship between intention and circumstances"
+  },
+  "dharma_talks/S02E07_Rebirth": {
+    "score": 2,
+    "note": "Focuses on death process with minimal relationship content"
+  },
+  "dharma_talks/S02E08_Premodern_Modern_Postmodernism_And_Buddhism": {
+    "score": 6,
+    "note": "Examines teacher-student relationship across different worldviews"
+  },
+  "dharma_talks/S02E09_The_Buddha_as_Exemplar_and_Archetype": {
+    "score": 3,
+    "note": "Mentions spiritual relationship template but focuses on development"
+  },
+  "dharma_talks/S02E10_Buddhist_View_of_Christs_Teaching": {
+    "score": 7,
+    "note": "Explores detachment as foundation for genuine compassionate relationship"
+  },
+  "dharma_talks/S02E11_Just_War": {
+    "score": 5,
+    "note": "Addresses relationship to violence and conflict responses"
+  },
+  "dharma_talks/S02E12_The_Gratification_the_Danger_and_the_Escape": {
+    "score": 6,
+    "note": "Examines relationship to pleasure seeking and attachment patterns"
+  },
+  "dharma_talks/S03E01_Bodhisatta_Before_Taking_Human_Birth": {
+    "score": 5,
+    "note": "Discusses relationship to spiritual authority and teachers"
+  },
+  "dharma_talks/S03E02_Bodhisattas_Birth_to_Renunciation": {
+    "score": 3,
+    "note": "Mentions worldly vs spiritual relationship choices"
+  },
+  "dharma_talks/S03E03_Bodhisattas_Training_to_the_Awakening": {
+    "score": 3,
+    "note": "Touches on relationship to pleasure and spiritual training"
+  },
+  "dharma_talks/S03E04_The_Awakening": {
+    "score": 4,
+    "note": "Discusses wrong relationship with phenomenal world causing suffering"
+  },
+  "dharma_talks/S03E05_The_Years_of_Teaching_and_Parinibbana": {
+    "score": 4,
+    "note": "Shows Buddha's compassionate relationship and skillful teaching methods"
+  },
+  "dharma_talks/S04E01_Meditation_and_Daily_Life": {
+    "score": 6,
+    "note": "Explores relationship between meditation practice and daily activities"
+  },
+  "dharma_talks/S04E02_Meditation_and_the_Weekly_Group": {
+    "score": 4,
+    "note": "Group meditation context touches on relationships briefly"
+  },
+  "dharma_talks/S04E03_The_Eightfold_Path_and_Daily_Life": {
+    "score": 5,
+    "note": "Ethical conduct aspects relate to right relationship"
+  },
+  "dharma_talks/S04E04_Right_Livelihood": {
+    "score": 6,
+    "note": "Work relationships and ethical professional conduct discussed"
+  },
+  "dharma_talks/S05E01_1_Starting_a_Retreat": {
+    "score": 3,
+    "note": "Precepts mention harmlessness but focus is meditation"
+  },
+  "dharma_talks/S05E02_Starting_a_Retreat": {
+    "score": 2,
+    "note": "Primarily meditation instruction with minimal relationship content"
+  },
+  "dharma_talks/S05E03_A_Detailed_Guided_Meditation": {
+    "score": 1,
+    "note": "Pure meditation instruction, no relationship focus"
+  },
+  "dharma_talks/S05E04_Investigative_Eating_Meditation_-_an_explanation": {
+    "score": 3,
+    "note": "Touches on desire patterns affecting relationships"
+  },
+  "dharma_talks/S05E05_2_The_Mahasi_Technique": {
+    "score": 2,
+    "note": "Meditation technique with minimal relationship relevance"
+  },
+  "dharma_talks/S05E06_Basics_of_Insight_Meditation_02_2025Video": {
+    "score": 2,
+    "note": "Buddha's departure from family mentioned briefly"
+  },
+  "dharma_talks/S05E07_Basics_of_Insight_Meditation_04_2026Video": {
+    "score": 1,
+    "note": "Pure insight meditation teaching, no relationship focus"
+  },
+  "dharma_talks/S05E08_4_The_Hindrances_The_Psychotherapy_of_Vipassana": {
+    "score": 4,
+    "note": "Psychological patterns that affect relationships discussed"
+  },
+  "dharma_talks/S05E09_5_Right_Awareness_Introto_Vipassana": {
+    "score": 2,
+    "note": "Buddha's spiritual journey, minimal relationship content"
+  },
+  "dharma_talks/S05E10_6_The_Seven_Factors_of_Awakening": {
+    "score": 2,
+    "note": "Spiritual qualities development, limited relationship relevance"
+  },
+  "dharma_talks/S05E11_7_The_Ethical_Psychology_of_the_Buddha_Dependent_Origination": {
+    "score": 4,
+    "note": "Psychology of suffering creation affects all relationships"
+  },
+  "dharma_talks/S05E12_8_The_Law_of_Kamma": {
+    "score": 5,
+    "note": "Ethical action and intention directly impact relationships"
+  },
+  "dharma_talks/S05E13_8_Living_Life_according_to_the_Dhamma": {
+    "score": 7,
+    "note": "Right Speech and ethical conduct in relationships"
+  },
+  "dharma_talks/S05E14_Guided_Metta": {
+    "score": 8,
+    "note": "Loving-kindness practice directly develops right relationship"
+  },
+  "dharma_talks/S05E15_Guided_Bodycare": {
+    "score": 3,
+    "note": "Self-relationship through body awareness and metta"
+  },
+  "dharma_talks/S06E01_Developing_the_Factors_of_Enlightenment": {
+    "score": 2,
+    "note": "Spiritual development with minimal relationship focus"
+  },
+  "dharma_talks/S06E02_Exploring_Dukkha": {
+    "score": 3,
+    "note": "Understanding suffering patterns affecting relationships"
+  },
+  "dharma_talks/S06E03_Question_Answer_Session": {
+    "score": 5,
+    "note": "Engaged Buddhism and balancing practice with relationships"
+  },
+  "dharma_talks/S06E04_Revising_the_Principles_of_Meditation": {
+    "score": 2,
+    "note": "Meditation principles with limited relationship content"
+  },
+  "dharma_talks/S06E05_The_Hindrances": {
+    "score": 4,
+    "note": "Mental patterns that obstruct healthy relationships"
+  },
+  "dharma_talks/S07E01_Practice_into_Daily_Life_Xmas_2006": {
+    "score": 5,
+    "note": "Integrating practice into daily life and relationships"
+  },
+  "dharma_talks/S07E02_New_Year_Reflections": {
+    "score": 6,
+    "note": "Service, celibacy, and relationship patterns discussed"
+  },
+  "dharma_talks/S08E01_QA_Resistance_Rebirth_and_Moral_Justice_What_suffers_Mindfulness_Apps_Spiritual": {
+    "score": 3,
+    "note": "Mentions moral justice and relationships in passing"
+  },
+  "dharma_talks/S09E01_01_The_Body_-_The_Buddhas_World_View_and_the_role_of_Materiality_rupaTo_play_the": {
+    "score": 1,
+    "note": "Focus on materiality and elements, minimal relationship content"
+  },
+  "dharma_talks/S09E02_02_The_Body_-_Kayagasati_Sutta_MN131To_play_the_media_you_will_need_to_either_up": {
+    "score": 1,
+    "note": "Body meditation focus, no relationship themes"
+  },
+  "dharma_talks/S09E03_Feeling_vedanaTo_play_the_media_you_will_need_to_either_update_your_browser_to_a": {
+    "score": 2,
+    "note": "Feelings condition experience but not relationship-focused"
+  },
+  "dharma_talks/S09E04_Dependent_Origination_leading_to_awakening_in_ordinary_Daily_lifeTo_play_the_med": {
+    "score": 3,
+    "note": "Daily life interactions mentioned but not relationship-centered"
+  },
+  "dharma_talks/S09E05_To_play_the_media_you_will_need_to_either_update_your_browser_to_a_recent_versio": {
+    "score": 2,
+    "note": "Self-identity creates suffering, minimal relationship content"
+  },
+  "dharma_talks/S09E06_To_play_the_media_you_will_need_to_either_update_your_browser_to_a_recent_versio": {
+    "score": 4,
+    "note": "Spiritual companions and associating with wise people"
+  },
+  "dharma_talks/S09E07_Ethics_Not-self_and_LiberationTo_play_the_media_you_will_need_to_either_update_y": {
+    "score": 5,
+    "note": "Ethics and conduct in relationships, interconnected liberation"
+  },
+  "dharma_talks/S09E08_Roads_to_PowerTo_play_the_media_you_will_need_to_either_update_your_browser_to_a": {
+    "score": 2,
+    "note": "Spiritual development factors, minimal relationship focus"
+  },
+  "dharma_talks/S09E09_New_Year_address_on_the_qualities_needed_to_succeed_The_Roads_to_SuccessTo_play": {
+    "score": 3,
+    "note": "Success qualities for daily life and practice"
+  },
+  "dharma_talks/S09E10_The_First_Discourse_on_Turning_the_Wheel_of_the_DhammaTo_play_the_media_you_will": {
+    "score": 2,
+    "note": "Buddha's encounter with companions, minimal relationship focus"
+  },
+  "dharma_talks/S09E11_Scientism_Romanticism_Psychotherapy_-_and_BuddhadhammaTo_play_the_media_you_wi": {
+    "score": 3,
+    "note": "Cultural filters affecting Buddhist relationships and understanding"
+  },
+  "dharma_talks/S09E12_Kamma_Rebirth_and_Transcendence_A_top_down_view_of_the_BuddhadhammaTo_play_the": {
+    "score": 2,
+    "note": "Transcendent perspective, minimal relationship content"
+  },
+  "dharma_talks/S09E13_The_Discourse_to_the_Kalama_Discernment_the_Ethical_Life_and_Fake_NewsTo_play_t": {
+    "score": 4,
+    "note": "Ethical foundation and discernment in relationships"
+  },
+  "dharma_talks/S10E01_Buddha_Day_Address_What_was_the_mindset_of_the_Bodhisatta_when_he_left_his_famil": {
+    "score": 6,
+    "note": "Buddha leaving family relationships for spiritual quest"
+  },
+  "dharma_talks/S10E02_Spiritual_progress_-_stop_tryingTo_play_the_media_you_will_need_to_either_update": {
+    "score": 1,
+    "note": "Spiritual seeking paradox, no relationship focus"
+  },
+  "dharma_talks/S10E04_The_Need_for_Sangha_community_and_Qs_about_Ordinary_Daily_LifeTo_play_the_media": {
+    "score": 8,
+    "note": "Spiritual community relationships and mutual support systems"
+  },
+  "dharma_talks/S11E01_Mae_Chee_Kaew_and_ResolutionsTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 1,
+    "note": "Liberation insights, minimal relationship content"
+  },
+  "dharma_talks/S11E02_The_Three_CharacteristicsTo_play_the_media_you_will_need_to_either_update_your_b": {
+    "score": 1,
+    "note": "Fundamental Buddhist characteristics, no relationship focus"
+  },
+  "dharma_talks/S11E03_Buddha_Day_Address_May_2015To_play_the_media_you_will_need_to_either_update_your": {
+    "score": 3,
+    "note": "Buddha's compassionate motivation for all beings"
+  },
+  "dharma_talks/S11E04_DeconstructionTo_play_the_media_you_will_need_to_either_update_your_browser_to_a": {
+    "score": 1,
+    "note": "Experience deconstruction, no relationship themes"
+  },
+  "dharma_talks/S11E05_Love_and_All_ThatTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 9,
+    "note": "Love, attachment, wholesome vs unwholesome relationships"
+  },
+  "dharma_talks/S11E06_Ethics_Not-self_and_LiberationTo_play_the_media_you_will_need_to_either_update_y": {
+    "score": 5,
+    "note": "Ethics and liberation interconnection, relationship implications"
+  },
+  "dharma_talks/S12E01_Contol_and_loss_of_PowerTo_play_the_media_you_will_need_to_either_update_your_br": {
+    "score": 3,
+    "note": "Control in relationships and letting go"
+  },
+  "dharma_talks/S12E02_QA_Detachment_Engagement_Motivation_DevotionTo_play_the_media_you_will_need_to_e": {
+    "score": 6,
+    "note": "Balancing detachment with emotional engagement in relationships"
+  },
+  "dharma_talks/S12E03_Basics_for_MeditationTo_play_the_media_you_will_need_to_either_update_your_brows": {
+    "score": 2,
+    "note": "Meditation fundamentals, no specific relationship focus"
+  },
+  "dharma_talks/S12E04_Kamma_RevisitedTo_play_the_media_you_will_need_to_either_update_your_browser_to": {
+    "score": 4,
+    "note": "Discusses ethical choices and causality affecting relationships"
+  },
+  "dharma_talks/S12E05_Daily_Life_ReinforcedTo_play_the_media_you_will_need_to_either_update_your_brows": {
+    "score": 6,
+    "note": "Ten pāramīs include mettā and practical relationship virtues"
+  },
+  "dharma_talks/S12E06_RefinementSublimation_and_the_Eightfold_PathTo_play_the_media_you_will_need_to_e": {
+    "score": 5,
+    "note": "Ethical refinement and conduct affecting daily relationships"
+  },
+  "dharma_talks/S12E07_No_Inherent_BeingTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 4,
+    "note": "Interconnectedness teaching relevant to relationship understanding"
+  },
+  "dharma_talks/S12E08_Kamma_and_Free_WillTo_play_the_media_you_will_need_to_either_update_your_browser": {
+    "score": 5,
+    "note": "Ten pāramīs as practical virtues for relationships"
+  },
+  "dharma_talks/S12E09_Comments_on_a_Statement_by_Mae_Chee_KaewTo_play_the_media_you_will_need_to_eithe": {
+    "score": 2,
+    "note": "Four Noble Truths focus, minimal relationship content"
+  },
+  "dharma_talks/S12E10_Reiki_10_06_2015To_play_the_media_you_will_need_to_either_update_your_browser_to": {
+    "score": 6,
+    "note": "Compassionate healing and energy work with others"
+  },
+  "dharma_talks/S12E11_Intro_Talk_to_BodycareTo_play_the_media_you_will_need_to_either_update_your_brow": {
+    "score": 1,
+    "note": "Vipassanā meditation introduction, no relationship focus"
+  },
+  "dharma_talks/S12E12_Dependent_Origination_and_the_Quality_of_Right_AwarenessTo_play_the_media_you_wi": {
+    "score": 3,
+    "note": "Dependent origination touches on relational conditioning"
+  },
+  "dharma_talks/S12E13_Talk_at_the_Re-opening_of_the_Golden_Buddha_Centre_in_TotnesTo_play_the_media_yo": {
+    "score": 2,
+    "note": "Spiritual journey focus, minimal relationship content"
+  },
+  "dharma_talks/S12E14_The_Prognosis_is_Very_GoodTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 3,
+    "note": "Four Noble Truths with some identity relationship themes"
+  },
+  "dharma_talks/S13E01_Importance_of_Resolution_plusTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 2,
+    "note": "Buddhist psychology focus, minimal relationship content"
+  },
+  "dharma_talks/S13E02_Christmas_Talk_re_the_PathTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 7,
+    "note": "Mettā, karma, ethical relationships with beings"
+  },
+  "dharma_talks/S13E03_Right_RelationshipTo_play_the_media_you_will_need_to_either_update_your_browser": {
+    "score": 10,
+    "note": "Directly addresses right relationship through ten pāramīs"
+  },
+  "dharma_talks/S13E04_How_to_critique_the_Dhamma_and_BuddhaTo_play_the_media_you_will_need_to_either_u": {
+    "score": 3,
+    "note": "Teacher-student relationship dynamics in spiritual inquiry"
+  },
+  "dharma_talks/S13E05_An_Attempt_to_Understand_the_teaching_of_Not-SelfTo_play_the_media_you_will_need": {
+    "score": 3,
+    "note": "Not-self teaching affects understanding of relationships"
+  },
+  "dharma_talks/S13E06_Talk_to_the_European_Teachers_Meeting_How_I_came_to_establish_a_non-communityTo": {
+    "score": 4,
+    "note": "Community building and teacher relationships"
+  },
+  "dharma_talks/S14E01_HappinessTo_play_the_media_you_will_need_to_either_update_your_browser_to_a_rece": {
+    "score": 4,
+    "note": "Attachment to relationships creates suffering cycle"
+  },
+  "dharma_talks/S14E02_The_Body_and_the_Discourse_on_How_to_Establish_Right_AwarenessTo_play_the_media": {
+    "score": 2,
+    "note": "Body contemplation focus, minimal relationship content"
+  },
+  "dharma_talks/S14E03_QA_session_Family_Distractions_Selfish_to_Meditate_Negative_Emotions_Sufferin": {
+    "score": 8,
+    "note": "Family relationships, meditation selfishness, emotional handling"
+  },
+  "dharma_talks/S14E04_Mindfulness_TimeTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 3,
+    "note": "Mindfulness practice affects relational responses"
+  },
+  "dharma_talks/S14E05_Monks_Daily_Life_Not-SelfTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 4,
+    "note": "Monastic community relationships and daily practice"
+  },
+  "dharma_talks/S14E06_Retreats_Attachment_Children_and_SufferingTo_play_the_media_you_will_need_to_e": {
+    "score": 8,
+    "note": "Parent-child attachment and relationship suffering"
+  },
+  "dharma_talks/S15E01_New_Year_Revision_of_Buddhadhamma_Theory_and_PracticeTo_play_the_media_you_will": {
+    "score": 3,
+    "note": "Self-created suffering affects all relationships"
+  },
+  "dharma_talks/S15E02_Hope_to_InspireTo_play_the_media_you_will_need_to_either_update_your_browser_to": {
+    "score": 2,
+    "note": "Focuses on meditation factors, minimal relationship content"
+  },
+  "dharma_talks/S15E03_Talk_at_Opening_of_centre_in_GhentTo_play_the_media_you_will_need_to_either_upda": {
+    "score": 7,
+    "note": "Substantially discusses sangha community and spiritual relationships"
+  },
+  "dharma_talks/S15E04_The_Problem_of_IdentityTo_play_the_media_you_will_need_to_either_update_your_bro": {
+    "score": 1,
+    "note": "About identity and suffering, not relationships"
+  },
+  "dharma_talks/S15E05_The_body_as_Meditative_ObjectTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 3,
+    "note": "Mentions relationship with body, primarily meditation focused"
+  },
+  "dharma_talks/S16E01_1_Starting_a_RetreatTo_play_the_media_you_will_need_to_either_update_your_browse": {
+    "score": 4,
+    "note": "Discusses refuges and precepts, foundational spiritual relationships"
+  },
+  "dharma_talks/S16E02_The_Principles_and_Problems_of_VipassanaTo_play_the_media_you_will_need_to_eithe": {
+    "score": 2,
+    "note": "Vipassana principles, minimal relationship content"
+  },
+  "dharma_talks/S16E03_Not-Self_Indulgence_and_allTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 1,
+    "note": "About kamma and not-self, not relationships"
+  },
+  "dharma_talks/S16E04_Impulsive_or_SpontaneousTo_play_the_media_you_will_need_to_either_update_your_br": {
+    "score": 3,
+    "note": "Discusses wise responses, touches on relational wisdom"
+  },
+  "dharma_talks/S16E05_The_Body_and_the_Three_CharacteristicsTo_play_the_media_you_will_need_to_either": {
+    "score": 2,
+    "note": "Body contemplation and characteristics, minimal relationship focus"
+  },
+  "dharma_talks/S16E06_Why_noting_without_stopTo_play_the_media_you_will_need_to_either_update_your_bro": {
+    "score": 1,
+    "note": "Technical meditation instruction, not about relationships"
+  },
+  "dharma_talks/S16E07_Why_we_need_a_techniqueTo_play_the_media_you_will_need_to_either_update_your_bro": {
+    "score": 1,
+    "note": "Meditation technique explanation, not relationship focused"
+  },
+  "dharma_talks/S16E08_Subliminal_Inclinations_Defilements_and_HindrancesTo_play_the_media_you_will_nee": {
+    "score": 2,
+    "note": "Mental purification, minimal relationship content"
+  },
+  "dharma_talks/S16E09_Questions_and_Answers_A_Dolly_MixtureTo_play_the_media_you_will_need_to_either_u": {
+    "score": 3,
+    "note": "Mixed topics, may include some relational guidance"
+  },
+  "dharma_talks/S16E10_Importance_of_Metta_24_minTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 8,
+    "note": "Primarily about loving-kindness and heart connection"
+  },
+  "dharma_talks/S16E11_The_Kamma_of_LiberationTo_play_the_media_you_will_need_to_either_update_your_bro": {
+    "score": 2,
+    "note": "Kamma and liberation, minimal relationship focus"
+  },
+  "dharma_talks/S16E12_The_Karma_Concerning_LiberationTo_play_the_media_you_will_need_to_either_update": {
+    "score": 2,
+    "note": "Karma and liberation, minimal relationship content"
+  },
+  "dharma_talks/S17E01_Dignity_and_the_Qualities_of_a_RulerTo_play_the_media_you_will_need_to_either_up": {
+    "score": 5,
+    "note": "Royal qualities include relational virtues like kindness"
+  },
+  "dharma_talks/S17E02_Practice_in_Ordinary_Daily_LifeTo_play_the_media_you_will_need_to_either_update": {
+    "score": 4,
+    "note": "Daily practice includes emotional and relational aspects"
+  },
+  "dharma_talks/S17E03_Samatha-VipassanaTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 1,
+    "note": "Meditation types, not about relationships"
+  },
+  "dharma_talks/S17E04_Vipassana_and_or_TherapyTo_play_the_media_you_will_need_to_either_update_your_br": {
+    "score": 3,
+    "note": "Contrasts approaches to suffering, some relational elements"
+  },
+  "dharma_talks/S17E05_Buddha_Day_Address_with_Refuges_and_PreceptsTo_play_the_media_you_will_need_to_e": {
+    "score": 4,
+    "note": "Refuges ceremony establishes spiritual relationships"
+  },
+  "dharma_talks/S17E06_Daily_Rythms_Fetters_Hindrances_and_Inclinations_RebirthTo_play_the_media_you_wi": {
+    "score": 2,
+    "note": "Mixed topics, minimal relationship focus"
+  },
+  "dharma_talks/S17E07_Metta_Applied_and_Sustained_Thought_BuddhamindTo_play_the_media_you_will_need_to": {
+    "score": 7,
+    "note": "Substantially discusses metta and heart-centered practice"
+  },
+  "dharma_talks/S17E08_Equanimity_-_Foundation_of_all_VirtueTo_play_the_media_you_will_need_to_either_u": {
+    "score": 4,
+    "note": "Equanimity affects how we relate to views"
+  },
+  "dharma_talks/S17E09_The_Mahasi_MethodTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 1,
+    "note": "Technical meditation method, not relationship focused"
+  },
+  "dharma_talks/S17E10_The_Sufferings_of_the_Pleasure_SyndromeTo_play_the_media_you_will_need_to_either": {
+    "score": 4,
+    "note": "Touches on relationship with pleasure and craving"
+  },
+  "dharma_talks/S17E11_There_is_no_separation_between_vipassana_and_ordinary_daily_lifeTo_play_the_medi": {
+    "score": 6,
+    "note": "Discusses relationship between meditation practice and daily living"
+  },
+  "dharma_talks/S17E12_Q_A_Rebirth_Identification_Emotions_etcTo_play_the_media_you_will_need_to_eithe": {
+    "score": 5,
+    "note": "Addresses identification and emotional relationships in practice"
+  },
+  "dharma_talks/S17E13_Why_didnt_the_Buddha_return_to_lay_lifeTo_play_the_media_you_will_need_to_either": {
+    "score": 7,
+    "note": "Explores relationship between monastic and lay spiritual life"
+  },
+  "dharma_talks/S17E14_Revising_the_principles_of_vipassanaTo_play_the_media_you_will_need_to_either_up": {
+    "score": 3,
+    "note": "Mentions relationship with mental states in passing"
+  },
+  "dharma_talks/S17E15_Dukkha_Unsatisfactoriness_et_alTo_play_the_media_you_will_need_to_either_update": {
+    "score": 4,
+    "note": "Discusses our relationship to suffering and experience"
+  },
+  "dharma_talks/S17E16_Encouragement_October_09To_play_the_media_you_will_need_to_either_update_your_br": {
+    "score": 3,
+    "note": "Touches on awareness and investigation relationship"
+  },
+  "dharma_talks/S17E17_The_practice_and_the_pitfalls_of_metta_goodwill_practiceTo_play_the_media_you_wi": {
+    "score": 8,
+    "note": "Primarily about developing right relationship through loving-kindness"
+  },
+  "dharma_talks/S18E01_How_Vipassana_relates_to_Daily_LifeTo_play_the_media_you_will_need_to_either_upd": {
+    "score": 6,
+    "note": "Explores relationship between meditation and everyday activities"
+  },
+  "dharma_talks/S18E02_Samatha_and_-_or_VipassanaTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 4,
+    "note": "Discusses relationship between concentration and insight practices"
+  },
+  "dharma_talks/S18E03_Metta_Developing_GoodwillTo_play_the_media_you_will_need_to_either_update_your_b": {
+    "score": 9,
+    "note": "Primarily about developing goodwill as default relationship"
+  },
+  "dharma_talks/S18E04_Karma_Dependent_Origination_Virtue_and_LiberationTo_play_the_media_you_will_need": {
+    "score": 5,
+    "note": "Explores relationship with pleasure, attachment and liberation"
+  },
+  "dharma_talks/S18E05_Enthusiam_and_other_questionsTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 3,
+    "note": "Mentions spiritual qualities and path relationship"
+  },
+  "dharma_talks/S18E06_Faith_and_the_Spiritual_LifeTo_play_the_media_you_will_need_to_either_update_you": {
+    "score": 5,
+    "note": "Explores relationship questions and spiritual confidence"
+  },
+  "dharma_talks/S18E07_Revising_the_principles_of_vipassanaTo_play_the_media_you_will_need_to_either_up": {
+    "score": 3,
+    "note": "Touches on relationship with mental conditioning"
+  },
+  "dharma_talks/S18E08_The_Buddhas_Quest_-_A_Public_TalkTo_play_the_media_you_will_need_to_either_updat": {
+    "score": 2,
+    "note": "Focuses on Buddha's journey, minimal relationship content"
+  },
+  "dharma_talks/S18E09_The_problem_lies_in_the_lookingTo_play_the_media_you_will_need_to_either_update": {
+    "score": 4,
+    "note": "Discusses relationship with perception and hindrances"
+  },
+  "dharma_talks/S18E10_There_is_no_reason_for_beingTo_play_the_media_you_will_need_to_either_update_you": {
+    "score": 3,
+    "note": "Touches on relationship between being and becoming"
+  },
+  "dharma_talks/S18E11_Towards_a_whole_life_practiceTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 7,
+    "note": "Explores transforming relationships through compassion and loving-kindness"
+  },
+  "dharma_talks/S19E01_httpswwwsatipanyaorgukwp-contentuploads202004Evening-Lockdown-Meditationmp4": {
+    "score": 6,
+    "note": "Guided practice in compassion and loving relationship"
+  },
+  "dharma_talks/S19E02_httpswwwsatipanyaorgukwp-contentuploads20200401-MN9-Discourse-on-Right-View-Whol": {
+    "score": 5,
+    "note": "Explores wholesome relationships through ethical conduct"
+  },
+  "dharma_talks/S19E03_httpswwwsatipanyaorgukwp-contentuploads20200402-First-Three-Noble-Truthsmp4": {
+    "score": 4,
+    "note": "Discusses relationship with suffering and clinging"
+  },
+  "dharma_talks/S19E04_httpswwwsatipanyaorgukwp-contentuploads20200403-Coronavirus-and-the-Contemplatio": {
+    "score": 4,
+    "note": "Explores relationship with mortality and fear"
+  },
+  "dharma_talks/S19E05_httpswwwsatipanyaorgukwp-contentuploads20200404-Contemplation-of-Death-Living-mo": {
+    "score": 4,
+    "note": "Discusses relationship with death and present moment"
+  },
+  "dharma_talks/S19E06_httpswwwsatipanyaorgukwp-contentuploads20200405-Contemplation-of-Death-againmp4": {
+    "score": 4,
+    "note": "Continues exploring relationship with mortality and frugality"
+  },
+  "dharma_talks/S19E07_httpswwwsatipanyaorgukwp-contentuploads20200406-Renunciation-and-Buddhas-First-O": {
+    "score": 2,
+    "note": "About renunciation and Buddha's teaching journey, minimal relationship content"
+  },
+  "dharma_talks/S19E09_httpswwwsatipanyaorgukwp-contentuploads20200408-Mindfulness-at-work-And-Right-Vi": {
+    "score": 3,
+    "note": "Covers Right View and Right Attitude, touches on relationships"
+  },
+  "dharma_talks/S19E10_httpswwwsatipanyaorgukwp-contentuploads20200409-Right-Speech-Action-and-Liveliho": {
+    "score": 7,
+    "note": "Right Speech central to relationships, discusses timing and listening"
+  },
+  "dharma_talks/S19E11_httpswwwsatipanyaorgukwp-contentuploads20200410-Grief-1mp4": {
+    "score": 6,
+    "note": "Explores grief, attachment, loss in relationships and interconnectedness"
+  },
+  "dharma_talks/S19E12_httpswwwsatipanyaorgukwp-contentuploads20200411-The-Nutriments-Food-Contact-Voli": {
+    "score": 1,
+    "note": "About four nutriments sustaining existence, not relationship focused"
+  },
+  "dharma_talks/S19E13_httpswwwsatipanyaorgukwp-contentuploads20200412-The-Investigation-of-Eating-1mp4": {
+    "score": 1,
+    "note": "About eating meditation and food as nutriment"
+  },
+  "dharma_talks/S19E14_httpswwwsatipanyaorgukwp-contentuploads20200413-Discourse-on-the-Taints-MN-2-Ove": {
+    "score": 2,
+    "note": "About overcoming mental taints through right seeing"
+  },
+  "dharma_talks/S19E16_httpswwwsatipanyaorgukwp-contentuploads20200415-The-Discourse-on-Not-self-SN2265": {
+    "score": 2,
+    "note": "About not-self teaching through five aggregates"
+  },
+  "dharma_talks/S19E18_httpswwwsatipanyaorgukwp-contentuploads20200417-Questions-See-Descriptionmp4": {
+    "score": 4,
+    "note": "Q&A includes anger vs assertiveness in relationships"
+  },
+  "dharma_talks/S19E19_httpswwwsatipanyaorgukwp-contentuploads20200418-Overcoming-the-Taints-by-Restrai": {
+    "score": 2,
+    "note": "About sense restraint and overcoming mental defilements"
+  },
+  "dharma_talks/S19E20_httpswwwsatipanyaorgukwp-contentuploads20200419-Overcoming-the-Taints-by-Usingmp": {
+    "score": 1,
+    "note": "About wise use of material requisites"
+  },
+  "dharma_talks/S19E21_httpswwwsatipanyaorgukwp-contentuploads20200420-Overcoming-the-Taints-by-Enduran": {
+    "score": 3,
+    "note": "About patient endurance, mentions dealing with harsh words"
+  },
+  "dharma_talks/S19E22_httpswwwsatipanyaorgukwp-contentuploads20200423-The-Ten-Fettersmp4": {
+    "score": 2,
+    "note": "About ten fetters binding to existence"
+  },
+  "dharma_talks/S20E01_Refuges_and_Precepts_with_Metta": {
+    "score": 4,
+    "note": "Traditional ceremony with metta meditation for loving relationships"
+  },
+  "dharma_talks/S21E01_Video": {
+    "score": 1,
+    "note": "About dullness and lethargy hindrance in meditation"
+  },
+  "dharma_talks/S21E02_Video": {
+    "score": 5,
+    "note": "Explores polarization and division through Buddhist psychology lens"
+  },
+  "dharma_talks/S21E03_Video": {
+    "score": 4,
+    "note": "About sympathetic joy, one of four relationship virtues"
+  },
+  "dharma_talks/S21E04_Video": {
+    "score": 3,
+    "note": "Five daily remembrances include separation from loved ones"
+  },
+  "dharma_talks/S22E01_2022_Dec_11_To_Love_or_To_Be_Loved_That_is_the_question": {
+    "score": 8,
+    "note": "Directly explores loving vs being loved in relationships"
+  },
+  "dharma_talks/S22E02_Love_and_Relationship": {
+    "score": 9,
+    "note": "Primarily about Buddhist understanding of love and relationship"
+  },
+  "dharma_talks/S22E03_Forgiveness_is_fundamental_to_purify_the_heart_Resentment_is_a_poison_Guilt_sham": {
+    "score": 8,
+    "note": "Forgiveness practice essential for healing relationships"
+  },
+  "dharma_talks/S22E04_The_introduction": {
+    "score": 7,
+    "note": "Introduces forgiveness as fundamental attitude for relationships"
+  },
+  "dharma_talks/S22E05_Karaniya_Metta_Sutta": {
+    "score": 6,
+    "note": "Loving-kindness discourse foundational for right relationship"
+  },
+  "dharma_talks/S23E01_Video": {
+    "score": 7,
+    "note": "Skillful conversation guidance for navigating relationship discussions"
+  },
+  "dharma_talks/S23E02_We_often_hear_about_suffering_and_the_end_of_suffering_We_practice_metta_But_wha": {
+    "score": 5,
+    "note": "Joy cultivation includes appreciative joy in relationships"
+  },
+  "dharma_talks/S23E03_2024_Jan_21_The_importance_of_Tranquillity_Passaddhi": {
+    "score": 2,
+    "note": "Tranquillity supports relationships but not primary focus"
+  },
+  "dharma_talks/S23E04_Patient_Forebearance": {
+    "score": 7,
+    "note": "Patient forbearance essential for handling difficult relationships skillfully"
+  },
+  "dharma_talks/S23E05_Equanimity": {
+    "score": 6,
+    "note": "Equanimity prevents brahmavihara from falling into attachment patterns"
+  },
+  "dharma_talks/S23E06_Sympathy_Empathy_and_Compassion": {
+    "score": 8,
+    "note": "Directly explores skillful ways of relating to suffering"
+  },
+  "dharma_talks/S23E07_2023_June_11_Fear_and_Courage": {
+    "score": 4,
+    "note": "Social courage mentioned but not primary relationship focus"
+  },
+  "dharma_talks/S23E08_Apologies_I_tried_to_cover_too_much_ground_However_tit_will_appear_as_a_Tip_on_t": {
+    "score": 7,
+    "note": "Compassion and avoiding pitfalls in compassionate relationships"
+  },
+  "dharma_talks/S23E09_2023_Oct_01_Good_Friendship_Companionship_Good_Comradeship_is_the_Whole_of_the_S": {
+    "score": 9,
+    "note": "Spiritual friendship as entire spiritual life - core relationship teaching"
+  },
+  "dharma_talks/S23E10_2021_Gratitude_Generosity_and_Renunciation": {
+    "score": 5,
+    "note": "Gratitude involves recognizing relationships but not primary focus"
+  },
+  "dharma_talks/S23E11_2022_Jul_17_Need_Sufficiency_and_Greed_-": {
+    "score": 2,
+    "note": "Basic needs discussion, minimal relationship content"
+  },
+  "dharma_talks/S23E12_2025_Apr_06_Renunciation": {
+    "score": 3,
+    "note": "Renunciation affects relationships but not main theme"
+  },
+  "dharma_talks/S23E13_Video": {
+    "score": 1,
+    "note": "Faith and aspiration, minimal relationship content"
+  },
+  "dharma_talks/S24E02_The_Buddha_and_War": {
+    "score": 4,
+    "note": "Non-violence as way of relating mentioned"
+  },
+  "dharma_talks/S24E03_2025_May_04_The_Buddha_as_a_Teacher": {
+    "score": 6,
+    "note": "Teacher-student relationship and skillful guidance methods"
+  },
+  "dharma_talks/S25E01_2025_June_08_What_was_the_Buddhas_great_disovery": {
+    "score": 1,
+    "note": "Buddha's discovery, minimal relationship content"
+  },
+  "dharma_talks/S25E02_Video": {
+    "score": 1,
+    "note": "Nibbana teaching, minimal relationship content"
+  },
+  "dharma_talks/S25E03_Video": {
+    "score": 1,
+    "note": "Consciousness and nibbana, minimal relationship content"
+  },
+  "dharma_talks/S26E01_2024_April24_Contemplating_the_Unpleasantness_of_the_Body": {
+    "score": 2,
+    "note": "Body contemplation, minimal relationship focus"
+  },
+  "dharma_talks/S26E02_2024_June_23_The_Unattractive_Nature_of_the_Body": {
+    "score": 2,
+    "note": "Body contemplation, minimal relationship focus"
+  },
+  "dharma_talks/S26E03_I_own_my_actions_I_inherit_the_results_of_my_actions_I_am_born_of_my_actions_I_f": {
+    "score": 6,
+    "note": "Forming relations through actions directly addresses relationship dynamics"
+  },
+  "dharma_talks/S26E04_Karma_and_Rebirth": {
+    "score": 3,
+    "note": "Ethical responses mentioned but not relationship focus"
+  },
+  "dharma_talks/S26E05_2023_Nov_26_The_Five_Regular_Contemplations": {
+    "score": 4,
+    "note": "Separation from loved ones contemplation touches relationships"
+  },
+  "dharma_talks/S26E06_2022_Nov_06_The_Contemplation_of_Death": {
+    "score": 2,
+    "note": "Death contemplation, minimal relationship content"
+  },
+  "dharma_talks/S26E07_The_Eight_Worldly_Winds": {
+    "score": 3,
+    "note": "Praise and blame affect relationships peripherally"
+  },
+  "dharma_talks/S27E01_The_Paradox_of_Fear": {
+    "score": 4,
+    "note": "Fear from attachment to people mentioned"
+  },
+  "dharma_talks/S27E02_2025_Jan_12_Dukkha_-_the_Buddha_grounds_his_teaching_on_this_word": {
+    "score": 1,
+    "note": "Foundational teaching on suffering, minimal relationship content"
+  },
+  "dharma_talks/S27E03_2024_Feb_25_The_crucial_role_of_Desire_and_Intention": {
+    "score": 4,
+    "note": "Discusses wholesome vs unwholesome desire, relevant to relationships"
+  },
+  "dharma_talks/S27E04_2024_July_14_The_Four_Great_Elements": {
+    "score": 1,
+    "note": "Meditation on elements, minimal relationship content"
+  },
+  "dharma_talks/S27E05_2024_August_18_The_Specific_Law_of_Conditionality": {
+    "score": 3,
+    "note": "Conditionality principles apply to relationships but not main focus"
+  },
+  "dharma_talks/S27E06_2024_September_15_The_Dangers_of_Indulgence": {
+    "score": 2,
+    "note": "Attachment patterns affect relationships but not directly addressed"
+  },
+  "dharma_talks/S27E07_2023_Jan_08_The_Four_Bases_of_Power": {
+    "score": 2,
+    "note": "Spiritual qualities that support relationships but not main theme"
+  },
+  "dharma_talks/S27E08_Video": {
+    "score": 3,
+    "note": "Transformation of suffering relevant to relationship dynamics"
+  },
+  "dharma_talks/S27E09_2023_Oct_29_The_Spiral_Path": {
+    "score": 3,
+    "note": "Liberation path affects how we relate to others"
+  },
+  "dharma_talks/S27E10_2021_Four_Noble_Truths": {
+    "score": 2,
+    "note": "Foundational teaching affects all relationships but not specific focus"
+  },
+  "dharma_talks/S27E11_Dukkha_Unsatisfactoriness_and_Sila_Morality_and_Ethics_-": {
+    "score": 7,
+    "note": "Ethics and precepts directly address right relationship with beings"
+  },
+  "dharma_talks/S27E12_Dependent_Origination_the_Role_of_desire_and_the_only_Choice": {
+    "score": 4,
+    "note": "How desire creates identity affects all our relationships"
+  },
+  "dharma_talks/S27E13_2022_Oct_09_Identity_and_Not-Self": {
+    "score": 5,
+    "note": "Role identification directly impacts how we relate to others"
+  },
+  "dharma_talks/S28E02_Right_Livelihood": {
+    "score": 6,
+    "note": "Right lifestyle encompasses ethical work and spiritual friendship"
+  },
+  "dharma_talks/S28E03_2022_Sep_11_Rest_for_Autumn": {
+    "score": 2,
+    "note": "Daily practice guidance, minimal relationship focus"
+  },
+  "dharma_talks/S29E01_Bahiya_of_the_Bark_Cloth": {
+    "score": 1,
+    "note": "Direct awareness teaching, not about relationships"
+  },
+  "dharma_talks/S29E02_2023_March_05": {
+    "score": 1,
+    "note": "Meditation instruction on direct awareness, minimal relationship content"
+  },
+  "dharma_talks/S29E03_": {
+    "score": 4,
+    "note": "Mental action and kamma affects how we relate"
+  },
+  "dharma_talks/S30E01_2022_Aug_14_Climate_Emergency_and_the_Role_of_the_Dhamma_Video": {
+    "score": 5,
+    "note": "Compassionate response to crisis involves right relationship principles"
+  },
+  "dharma_talks/S30E02_Non-Violence_v_Pacifism": {
+    "score": 6,
+    "note": "Non-violence directly addresses right relationship with all beings"
+  },
+  "dharma_talks/S30E03_2022_Apr_17_Noliberalism_and_Mindfulness": {
+    "score": 4,
+    "note": "Critiques individualism, touches on compassion and social relationships"
+  },
+  "dharma_talks/S30E04_2022_Jun_19_Social_Conditionng_or_Karma_-_Our_social_conditioning_is_a_given_but": {
+    "score": 7,
+    "note": "Social conditioning and noble friendship directly address right relationships"
+  },
+  "dharma_talks/S31E01_Buddha_Day_Address_His_Training_The_Fetters": {
+    "score": 3,
+    "note": "Fetters include relationship attachments but not main focus"
+  },
+  "dharma_talks/S31E02_ood_Friendhship_Good_Companionship_Good_Comradeship_-_Ubuntu": {
+    "score": 9,
+    "note": "Entirely about spiritual friendship and interconnected relationships"
+  },
+  "dharma_talks/S31E03_Dependent_Origination_Revisited": {
+    "score": 3,
+    "note": "Process affects relationships but not specifically about right relationship"
+  },
+  "dharma_talks/S31E04_Karma-_Specific_Conditionality_the_Five_Laws_ethical_behaviour_social_karma-Neol": {
+    "score": 6,
+    "note": "Ethics and social karma directly relate to right relationships"
+  },
+  "dharma_talks/S31E05_No_more_ideologies": {
+    "score": 5,
+    "note": "Buddhist ethics as alternative to ideologies affects social relationships"
+  },
+  "dharma_talks/S31E06_The_Mahasi_Technique_and_What_We_Need_to_Understand_to_Practice_Vipassana": {
+    "score": 2,
+    "note": "Meditation technique focus, minimal relationship content"
+  },
+  "dharma_talks/S31E07_Dependent_Orignation_and_how_all_other_importnant_teachings_are_included": {
+    "score": 4,
+    "note": "Dependent origination touches on relational aspects of existence"
+  },
+  "dharma_talks/S31E08_The_Axial_Age_and_the_Momentous_Discovery_of_the_Buddha": {
+    "score": 1,
+    "note": "Historical context, no relationship focus"
+  },
+  "dharma_talks/S31E09_Dependent_Orgination_is_based_on_Not-Knowing_and_Innocence": {
+    "score": 4,
+    "note": "Explores relationship to life's changes through dependent origination"
+  },
+  "dharma_talks/S31E10_Khanda_the_Agregates_as_Person_and_Sati_Awareness": {
+    "score": 3,
+    "note": "Touches on relationship between awareness and psychophysical experience"
+  },
+  "dharma_talks/S31E11_Misunderstanding_re_the_Self_Karma_and_transcendence": {
+    "score": 3,
+    "note": "Self-understanding affects relationships but not primary focus"
+  },
+  "dharma_talks/S31E12_QA_Kamma_FreeWill_Mettaattachment_Momentary_Concentration_khanika_samadhi": {
+    "score": 5,
+    "note": "Discusses metta/attachment relationship dynamics directly"
+  },
+  "dharma_talks/S31E13_QA_Emotions_AwarenessDelusionInsight_MasculineFeminine_Sense-of-Self_Porridge": {
+    "score": 4,
+    "note": "Masculine/feminine differences in practice touches relational aspects"
+  },
+  "dharma_talks/S32E01_Angulimala_A_Monologue_005449_219_MB": {
+    "score": 6,
+    "note": "Story explores transformation, redemption, and human relationships"
+  },
+  "international_talks/S01E01_Méditation_Guidée_Debout_et_Assise": {
+    "score": 1,
+    "note": "Guided meditation practice, no relationship content"
+  },
+  "international_talks/S01E02_Meditation_Guidee_Detaillee": {
+    "score": 1,
+    "note": "Detailed meditation instructions, no relationship focus"
+  },
+  "international_talks/S01E03_Méditation_Guidée_Debout_et_Assise": {
+    "score": 1,
+    "note": "Guided meditation practice, no relationship content"
+  },
+  "international_talks/S01E04_Trois_compréhensions_nécessaires": {
+    "score": 2,
+    "note": "Basic vipassana understandings, minimal relationship content"
+  },
+  "international_talks/S01E05_Méditation_Debout": {
+    "score": 1,
+    "note": "Standing meditation practice, no relationship focus"
+  },
+  "international_talks/S01E06_Méditation_Assise": {
+    "score": 1,
+    "note": "Sitting meditation guidance, no relationship content"
+  },
+  "international_talks/S02E01_La_conscience_juste_les_obstacles_comme_chemin_vers_la_libération_et_les_trois_c": {
+    "score": 3,
+    "note": "Working with obstacles touches on relating to difficulties"
+  },
+  "international_talks/S02E02_How_we_use_the_self_and_what_does_it_mean_for_not-self": {
+    "score": 4,
+    "note": "Self-understanding fundamental to how we relate to others"
+  },
+  "international_talks/S03E01_The_Hindrances": {
+    "score": 3,
+    "note": "Hindrances affect how we relate to experience"
+  },
+  "international_talks/S03E02_Non-soi": {
+    "score": 3,
+    "note": "Not-self understanding affects relational dynamics"
+  },
+  "international_talks/S04E01_La_Libre_Volunté": {
+    "score": 2,
+    "note": "Free will discussion, minimal relationship focus"
+  },
+  "international_talks/S05E01_Le_Dhamma_dans_la_vie_quotidienne_ordinaire": {
+    "score": 6,
+    "note": "Daily life dhamma practice includes generosity and relationships"
+  },
+  "international_talks/S05E02_Scientisme_Romatisme_Bouddhisme": {
+    "score": 2,
+    "note": "Philosophical approaches, minimal relationship content"
+  },
+  "international_talks/S07E01_Une_tentative_de_comprendre_le_non-soi": {
+    "score": 3,
+    "note": "Not-self understanding affects how we relate"
+  },
+  "international_talks/S07E02_Retour_à_lessentiel": {
+    "score": 4,
+    "note": "Four noble truths include relationship to suffering"
+  },
+  "international_talks/S08E01_Bonheur": {
+    "score": 5,
+    "note": "Happiness through generosity and ethics affects relationships"
+  },
+  "international_talks/S08E02_LEsprit_Concevoir_et_les_Empêches": {
+    "score": 3,
+    "note": "Mentions hindrances affecting relationships but focuses on meditation"
+  },
+  "international_talks/S09E01_Metta_Bhavana_Bienveillance_15_minLausanne_Oct_2010": {
+    "score": 8,
+    "note": "Loving-kindness practice directly develops right relationship with others"
+  },
+  "international_talks/S09E02_Nous_causons_de_la_souffrance_pour_nous_memeLausanne_Oct_2010": {
+    "score": 4,
+    "note": "Self-responsibility touches relationship but primarily about personal suffering"
+  },
+  "international_talks/S09E03_Le_Kamma_de_la_LiberationLausanne_Oct_2010": {
+    "score": 2,
+    "note": "Kamma theory background but not specifically about relationships"
+  },
+  "international_talks/S10E01_Les_Bases_de_Vipassana": {
+    "score": 1,
+    "note": "Basic vipassana instruction, minimal relationship content"
+  },
+  "international_talks/S10E02_Progres_et_dautres_sujets": {
+    "score": 5,
+    "note": "Equanimity and compassion relevant to right relationship"
+  },
+  "international_talks/S10E03_Questions_and_des_Questions_Plus": {
+    "score": 4,
+    "note": "Addresses practical relationship questions including vegetarianism ethics"
+  },
+  "international_talks/S10E04_Dependant_Origination_Belgium_Jan_2006": {
+    "score": 3,
+    "note": "Dependent origination explains relational suffering but theoretical focus"
+  },
+  "international_talks/S10E05_The_Purpose_of_Meditation_Belgium_Jan_2006": {
+    "score": 2,
+    "note": "Craving-aversion cycle affects relationships but meditation-focused"
+  },
+  "international_talks/S10E06_Why_the_Present_Moment_is_So_Important_Geneva_May_2006": {
+    "score": 3,
+    "note": "Present moment awareness improves relationships but general focus"
+  },
+  "international_talks/S10E07_QA_Concerning_States_of_Mind_-_Sankhara_Geneva_May_2006": {
+    "score": 2,
+    "note": "Mental formations affect relationships but technical psychology focus"
+  },
+  "international_talks/S10E08_Concerning_Buddhist_Psychology_Geneva_May_2006": {
+    "score": 3,
+    "note": "Attachment psychology relevant to relationships but general focus"
+  },
+  "international_talks/S10E09_Concerning_Metta_and_Other_Questions_Geneva_May_2006": {
+    "score": 7,
+    "note": "Metta meditation and mind-body connection directly support relationships"
+  },
+  "international_talks/S10E10_Le_Methode_de_Mahasi_Vipassana_Lausanne_Oct_2009": {
+    "score": 1,
+    "note": "Technical meditation instruction, minimal relationship content"
+  },
+  "international_talks/S10E11_Les_Empeches_de_Vipassana_Lausanne_Oct_2009": {
+    "score": 3,
+    "note": "Hindrances affect relationships but meditation practice focus"
+  },
+  "international_talks/S10E12_Les_Facteurs_de_Liberation_Lausanne_Oct_2009": {
+    "score": 4,
+    "note": "Spiritual faculties and awakening factors support right relationship"
+  },
+  "international_talks/S10E13_Psychologie_de_Buddha_Lausanne_Oct_2009": {
+    "score": 3,
+    "note": "Buddhist psychology explains relational patterns but theoretical focus"
+  },
+  "international_talks/S11E01_Entering_the_Course": {
+    "score": 5,
+    "note": "Precepts and refuges establish foundation for right relationship"
+  },
+  "international_talks/S11E02_The_Mahasi_Method": {
+    "score": 2,
+    "note": "Meditation technique with minimal direct relationship content"
+  },
+  "international_talks/S11E03_The_Joyful_Aspects_of_Meditation": {
+    "score": 4,
+    "note": "Confidence and awakening factors support healthy relationships"
+  },
+  "international_talks/S11E04_The_Wheel_of_Dependent_Origination": {
+    "score": 4,
+    "note": "Shows how conditioning creates relational suffering patterns"
+  },
+  "international_talks/S11E05_The_Perfections": {
+    "score": 6,
+    "note": "Generosity and renunciation directly relate to right relationship"
+  },
+  "international_talks/S11E06_Karma": {
+    "score": 3,
+    "note": "Karma affects relationships but focuses on universal laws"
+  },
+  "international_talks/S11E07_Evening_Metta_Chant_and_Instructions": {
+    "score": 8,
+    "note": "Loving-kindness practice directly cultivates right relationship with all"
+  },
+  "international_talks/S11E08_Morning_Chant": {
+    "score": 2,
+    "note": "Traditional chanting with minimal relationship-specific content"
+  },
+  "international_talks/S12E01_Meditazione_in_Piedi_e_Seduta": {
+    "score": 2,
+    "note": "Meditation practice, no relationship focus"
+  },
+  "international_talks/S12E02_Meditazione_guidata_dettagliata_sometimes_use_save_as": {
+    "score": 2,
+    "note": "Vipassana instructions, no relationship content"
+  },
+  "international_talks/S12E03_Mahasi_Instructions_and_Metta_Chant": {
+    "score": 3,
+    "note": "Includes metta practice, brief relationship element"
+  },
+  "international_talks/S12E04_The_Hindrances": {
+    "score": 2,
+    "note": "Meditation obstacles, no relationship focus"
+  },
+  "international_talks/S12E05_Factors_of_Enlightenment": {
+    "score": 2,
+    "note": "Enlightenment factors, no relationship content"
+  },
+  "international_talks/S12E06_Dependent_Origination": {
+    "score": 3,
+    "note": "Causation teaching, mentions conditioning patterns"
+  },
+  "international_talks/S12E07_Kamma": {
+    "score": 4,
+    "note": "Cause-effect relationships, some relational implications"
+  },
+  "international_talks/S12E08_Metta_Guidata": {
+    "score": 7,
+    "note": "Loving-kindness meditation, directly about right relationship"
+  },
+  "international_talks/S12E09_c_corpo_med_guidata": {
+    "score": 6,
+    "note": "Body relationship meditation, attachment and healing"
+  },
+  "international_talks/S12E10_Intro_Guarig_corpo_med_guidata": {
+    "score": 5,
+    "note": "Healing meditation with compassionate body relationship"
+  },
+  "youtube_channel/S01E01_Basics_for_Insight_Meditation_01": {
+    "score": 2,
+    "note": "Basic meditation, no relationship focus"
+  },
+  "youtube_channel/S01E02_70th_Birthday_Bhante_Bodhidhammas_Life_story": {
+    "score": 3,
+    "note": "Life story, some relationship elements"
+  },
+  "youtube_channel/S01E03_Talk_Starting_Inaugural_Lockdown_Evening_Meditations_290320": {
+    "score": 4,
+    "note": "Community support during isolation, relationship aspects"
+  },
+  "youtube_channel/S01E04_02_First_Three_Noble_Truths": {
+    "score": 3,
+    "note": "Noble Truths, mentions craving and attachment"
+  },
+  "youtube_channel/S01E05_01_MN9_Discourse_on_Right_View_Wholesome_and_Unwholesome_Kamma": {
+    "score": 4,
+    "note": "Ethical actions, foundation for right relationship"
+  },
+  "youtube_channel/S01E06_Evening_Lockdown_Meditation": {
+    "score": 6,
+    "note": "Loving-kindness practice, cultivating right relationships"
+  },
+  "youtube_channel/S01E07_03_Coronavirus_and_the_Contemplation_of_Death": {
+    "score": 2,
+    "note": "Death contemplation, no relationship focus"
+  },
+  "youtube_channel/S01E08_04_Contemplation_of_Death_Living_more_awake": {
+    "score": 2,
+    "note": "Death meditation, no relationship content"
+  },
+  "youtube_channel/S01E09_05_Contemplation_of_Death_again": {
+    "score": 2,
+    "note": "Death contemplation, no relationship focus"
+  },
+  "youtube_channel/S01E10_06_Renunciation_and_Buddhas_First_Occasion_to_Teach": {
+    "score": 3,
+    "note": "Renunciation practice, some relational implications"
+  },
+  "youtube_channel/S01E11_07_Setting_the_Wheel_of_the_Dhamma_in_Motion": {
+    "score": 3,
+    "note": "First teaching, mentions avoiding extremes"
+  },
+  "youtube_channel/S01E12_08_Mindfulness_at_work_And_Right_View_Right_Attitude": {
+    "score": 4,
+    "note": "Right attitude, foundation for proper relationships"
+  },
+  "youtube_channel/S01E13_09_Right_Speech_Action_and_Livelihood": {
+    "score": 8,
+    "note": "Right speech and action, directly about relationship ethics"
+  },
+  "youtube_channel/S01E14_10_Grief": {
+    "score": 6,
+    "note": "Grief and attachment, working with relationship loss"
+  },
+  "youtube_channel/S01E15_11_The_Nutriments_Food_Contact_Volition_and_Consciousness": {
+    "score": 4,
+    "note": "Contact and attachment, some relationship implications"
+  },
+  "youtube_channel/S01E16_12_The_Investigation_of_Eating": {
+    "score": 4,
+    "note": "Touches on right relationship with food and consumption"
+  },
+  "youtube_channel/S01E17_13_Discourse_on_the_Taints_MN_2_Overcome_by_seeing": {
+    "score": 2,
+    "note": "Primarily about overcoming mental taints, minimal relationship focus"
+  },
+  "youtube_channel/S01E18_14_Not-self_Revisited_The_story_of_Sati_MN38": {
+    "score": 2,
+    "note": "About not-self teaching, minimal relationship content"
+  },
+  "youtube_channel/S01E19_16_Investigating_Not-self_-_The_Pratice": {
+    "score": 1,
+    "note": "Meditation techniques for not-self, no relationship focus"
+  },
+  "youtube_channel/S01E20_17_Questions_See_Description": {
+    "score": 5,
+    "note": "Addresses anger vs assertiveness and compassion in relationships"
+  },
+  "youtube_channel/S01E21_18_Overcoming_the_Taints_by_Restraint": {
+    "score": 3,
+    "note": "Sense restraint affects how we relate to world"
+  },
+  "youtube_channel/S01E22_19_Overcoming_the_Taints_by_Using": {
+    "score": 4,
+    "note": "Right relationship with material necessities and consumption"
+  },
+  "youtube_channel/S01E23_20_Overcoming_the_Taints_by_Endurance": {
+    "score": 4,
+    "note": "Patient endurance in relationships and social situations"
+  },
+  "youtube_channel/S01E24_21a_Overcoming_the_Taints_by_Removing_1": {
+    "score": 3,
+    "note": "Managing unwholesome thoughts affects relationships with others"
+  },
+  "youtube_channel/S01E25_21b_Overcoming_the_Taints_by_Removing_2": {
+    "score": 3,
+    "note": "Mental purification impacts how we relate to others"
+  },
+  "youtube_channel/S01E26_22_Overcoming_the_Taints_by_Developing": {
+    "score": 2,
+    "note": "Enlightenment factors development, minimal relationship focus"
+  },
+  "youtube_channel/S01E27_23_The_Ten_Fetters": {
+    "score": 3,
+    "note": "Fetters like ill-will affect relationships with others"
+  },
+  "youtube_channel/S01E28_24_Society": {
+    "score": 7,
+    "note": "Social harmony and relationships in Buddhist governance"
+  },
+  "youtube_channel/S01E29_25_Reflections_for_an_Harmonious_Society": {
+    "score": 8,
+    "note": "Creating harmony through relationships with nature and others"
+  },
+  "youtube_channel/S01E30_26_More_Reflections": {
+    "score": 6,
+    "note": "Truth and interdependence in community relationships"
+  },
+  "youtube_channel/S01E31_27_What_makes_a_Society_Strong": {
+    "score": 7,
+    "note": "Seven principles for harmonious societal relationships"
+  },
+  "youtube_channel/S01E32_28_The_Six_Sense_Bases_MN137": {
+    "score": 2,
+    "note": "Buddhist psychology of senses, minimal relationship focus"
+  },
+  "youtube_channel/S01E33_29_Senses_Bases_Cont": {
+    "score": 2,
+    "note": "Continuation of sense bases teaching, minimal relationship content"
+  },
+  "youtube_channel/S01E34_Metta_Forgiveness_and_Determination_Practice": {
+    "score": 9,
+    "note": "Loving-kindness and forgiveness directly about right relationships"
+  },
+  "youtube_channel/S01E35_01_Reiki_with_Bryan_Lester": {
+    "score": 3,
+    "note": "Healing practices that involve relating to others"
+  },
+  "youtube_channel/S01E36_Some_Pointers_for_Metta": {
+    "score": 9,
+    "note": "Metta as goodwill directly teaches right relationship"
+  },
+  "youtube_channel/S01E37_Bodycare_Practice_-_Metta_towards_the_Body": {
+    "score": 6,
+    "note": "Right relationship with one's own body through metta"
+  },
+  "youtube_channel/S01E38_02_Reiki_with_Bryan": {
+    "score": 3,
+    "note": "Healing practices involving relationship with others"
+  },
+  "youtube_channel/S01E39_Body_as_Meditation_Object": {
+    "score": 5,
+    "note": "Developing skillful relationship with the physical body"
+  },
+  "youtube_channel/S01E40_The_Basics_of_Insight_Meditation_03": {
+    "score": 2,
+    "note": "Vipassana meditation techniques, minimal relationship focus"
+  },
+  "youtube_channel/S01E41_03_Reiki_with_Bryan": {
+    "score": 4,
+    "note": "Mentions compassion and healing relationships but focuses on Reiki"
+  },
+  "youtube_channel/S01E42_33_Kalama_Sutta_AN_365": {
+    "score": 5,
+    "note": "Discusses evaluating teachings and sources, relates to relationship with information"
+  },
+  "youtube_channel/S01E43_35_Canki_Sutta_MN95": {
+    "score": 4,
+    "note": "Examines relationship to truth claims and spiritual authority"
+  },
+  "youtube_channel/S01E44_34_Kalama_Discourse_cont": {
+    "score": 5,
+    "note": "Continues exploration of relationship to spiritual authority and teachings"
+  },
+  "youtube_channel/S01E45_36_Canki_Sutta_cont": {
+    "score": 4,
+    "note": "Focuses on relationship to truth through investigation versus faith"
+  },
+  "youtube_channel/S01E46_37_Shorter_Discourse_on_Gosinga": {
+    "score": 9,
+    "note": "Primarily about harmonious community relationships and mutual appreciation"
+  },
+  "youtube_channel/S01E47_Gaia_Standing_and_Sitting_Guided_Meditation": {
+    "score": 2,
+    "note": "Meditation practice with minimal relationship content"
+  },
+  "youtube_channel/S01E48_38_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 3,
+    "note": "Mindfulness practice with some mention of right awareness"
+  },
+  "youtube_channel/S01E49_31b_The_Body": {
+    "score": 7,
+    "note": "Substantially discusses right relationship with the body and attachment"
+  },
+  "youtube_channel/S01E50_39_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 3,
+    "note": "Body contemplation practices with some relationship to body themes"
+  },
+  "youtube_channel/S01E51_40_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 2,
+    "note": "Elements meditation and death contemplation, minimal relationship content"
+  },
+  "youtube_channel/S01E52_41_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 3,
+    "note": "Mindfulness of feelings and mind states, some relational aspects"
+  },
+  "youtube_channel/S01E53_42_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 2,
+    "note": "Mind objects contemplation, minimal direct relationship content"
+  },
+  "youtube_channel/S01E54_43_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 3,
+    "note": "Four Noble Truths and path, some relationship to suffering"
+  },
+  "youtube_channel/S01E55_44_The_Relay_of_Chariots_MN24": {
+    "score": 5,
+    "note": "Meeting of disciples shows spiritual relationship and mutual respect"
+  },
+  "youtube_channel/S01E56_45_The_Relay_of_Chariots_MN24": {
+    "score": 2,
+    "note": "Technical meditation stages, minimal relationship content"
+  },
+  "youtube_channel/S01E57_50_Dog_Ascetic_Discourse_MN57": {
+    "score": 4,
+    "note": "Examines relationship to spiritual practices and wrong views"
+  },
+  "youtube_channel/S01E58_Gratitude_Generosity_Renunciation": {
+    "score": 8,
+    "note": "Substantially explores right relationship through gratitude and giving back"
+  },
+  "youtube_channel/S01E59_Spanish_Introduction_-_Refuges_and_Precepts_Standing_ans_Sitting_Meditation": {
+    "score": 3,
+    "note": "Refuges and precepts relate to spiritual relationship"
+  },
+  "youtube_channel/S01E60_Saddha_Confidence_and_Trust": {
+    "score": 6,
+    "note": "Explores trust and confidence as foundation for spiritual relationship"
+  },
+  "youtube_channel/S01E61_Dhp_188_-_192_The_Role_of_Confidence": {
+    "score": 6,
+    "note": "Discusses taking refuge and confidence in spiritual relationship"
+  },
+  "youtube_channel/S01E62_Dhp_153_154_The_Buddhas_Victory_Verses": {
+    "score": 3,
+    "note": "Touches on relationship to self-view and understanding"
+  },
+  "youtube_channel/S01E63_Dhp_4_Hatred_is_not_overcome_with_hatred": {
+    "score": 8,
+    "note": "Explores virtuous relationships through gratitude, generosity, and renunciation"
+  },
+  "youtube_channel/S01E64_Dhp_21_-_23": {
+    "score": 3,
+    "note": "Diligence in practice, some relationship to spiritual effort"
+  },
+  "youtube_channel/S01E65_Dhp_Chapter_3_-_verses_33_34_The_Unruly_Mind": {
+    "score": 4,
+    "note": "Training relationship with one's own mind and mental states"
+  },
+  "youtube_channel/S01E66_Dhp_01_02_Mind_is_the_forerunner": {
+    "score": 4,
+    "note": "Mentions wholesome thoughts affecting speech and actions"
+  },
+  "youtube_channel/S01E67_Dhp_No4_Hatred_is_not_pacified_by_hatred": {
+    "score": 8,
+    "note": "Directly addresses breaking cycles of conflict in relationships"
+  },
+  "youtube_channel/S01E68_Dhp_256_157_Judgmental_v_Judicious": {
+    "score": 7,
+    "note": "Explores righteous judgment and wise discernment in relationships"
+  },
+  "youtube_channel/S01E69_Dhp_46_How_to_view_the_Body": {
+    "score": 2,
+    "note": "Body contemplation, minimal relationship content"
+  },
+  "youtube_channel/S01E70_The_Four_Noble_Truths": {
+    "score": 3,
+    "note": "Foundational teaching, mentions reactions creating additional suffering"
+  },
+  "youtube_channel/S01E71_The_NIne_Qualities_of_the_Buddha": {
+    "score": 2,
+    "note": "Buddha qualities, minimal relationship focus"
+  },
+  "youtube_channel/S01E72_Dhp_360_362_Restraint": {
+    "score": 5,
+    "note": "Restraint practice affects how we relate to others"
+  },
+  "youtube_channel/S01E73_Dhp_90_The_Arahant": {
+    "score": 3,
+    "note": "Mentions bonds that must be released including ill will"
+  },
+  "youtube_channel/S01E74_Vita_Quotidiana": {
+    "score": 6,
+    "note": "Covers relationships and workplace stress through Dhamma principles"
+  },
+  "youtube_channel/S01E75_Dukkha_Unsatifactoriness_and_Sila_Morality_and_Ethics": {
+    "score": 5,
+    "note": "Ethics foundation affects all relationships and interactions"
+  },
+  "youtube_channel/S01E76_Dependent_Origination_and_the_Role_of_Desire_and_the_Only_Choice": {
+    "score": 4,
+    "note": "Choice points in reactive patterns affect relationships"
+  },
+  "youtube_channel/S01E77_Kamma_and_Rebirth": {
+    "score": 4,
+    "note": "How we choose to respond affects relationships"
+  },
+  "youtube_channel/S01E78_Gratitude_Generosity_and_Renunciation": {
+    "score": 6,
+    "note": "Generosity without expectations fundamental to right relationship"
+  },
+  "youtube_channel/S01E79_Facets_of_a_Love": {
+    "score": 9,
+    "note": "Directly explores genuine human connection and relationship qualities"
+  },
+  "youtube_channel/S01E80_Apamado_DHP_22_23_24": {
+    "score": 2,
+    "note": "Vigilance in practice, minimal relationship content"
+  },
+  "youtube_channel/S01E81_Ageing": {
+    "score": 2,
+    "note": "Impermanence and aging, minimal relationship focus"
+  },
+  "youtube_channel/S01E82_Dhp_152_153_The_Inner_Critic": {
+    "score": 7,
+    "note": "Seeing others faults while missing own affects relationships"
+  },
+  "youtube_channel/S01E83_Sympathy_Empathy_and_Compassion": {
+    "score": 8,
+    "note": "Skillful ways of relating to suffering in relationships"
+  },
+  "youtube_channel/S01E84_DHP_314-317_From_the_Chapter_on_Hell": {
+    "score": 3,
+    "note": "Wrong views and shame, some relationship implications"
+  },
+  "youtube_channel/S01E85_Non-Violence_is_not_Pacificism": {
+    "score": 6,
+    "note": "Non-violence as practical approach to conflict resolution"
+  },
+  "youtube_channel/S01E86_Neoliberalism_and_Mindfulness": {
+    "score": 4,
+    "note": "Contrasts genuine compassion with exploitative systems"
+  },
+  "youtube_channel/S01E87_The_Buddha_and_War.": {
+    "score": 5,
+    "note": "Buddha's approach to conflict and intervention"
+  },
+  "youtube_channel/S01E88_Need_Sufficiency_and_Greed": {
+    "score": 3,
+    "note": "Simple living affects relationships through reduced anxiety"
+  },
+  "youtube_channel/S01E89_Social_Conditioning_or_Karma": {
+    "score": 7,
+    "note": "How conditioning shapes relationships and social interactions"
+  },
+  "youtube_channel/S01E90_Climate_Emergency": {
+    "score": 5,
+    "note": "Maintaining goodwill amid crisis affects all relationships"
+  },
+  "youtube_channel/S01E91_Reset_for_Autumn": {
+    "score": 2,
+    "note": "Mentions sustainable practice but focuses on meditation routine"
+  },
+  "youtube_channel/S01E92_Identity_and_Not-Self": {
+    "score": 4,
+    "note": "Touches on role identification affecting relationships indirectly"
+  },
+  "youtube_channel/S01E93_The_Contemplation_of_Death": {
+    "score": 1,
+    "note": "Death contemplation practice, minimal relationship content"
+  },
+  "youtube_channel/S01E94_To_Love_or_To_Be_Loved_That_is_the_question": {
+    "score": 9,
+    "note": "Directly examines loving relationships and motivations behind love"
+  },
+  "youtube_channel/S01E95_The_Bases_of_Success": {
+    "score": 2,
+    "note": "Success principles, minimal relationship focus"
+  },
+  "youtube_channel/S01E96_Bahiya_of_the_Bark_Cloth": {
+    "score": 1,
+    "note": "Direct experience teaching, not about relationships"
+  },
+  "youtube_channel/S01E97_The_Discourse_on_Bahiya_of_the_Bark_Cloth_Ud110": {
+    "score": 1,
+    "note": "Pure awareness practice, not relationship focused"
+  },
+  "youtube_channel/S01E98_Joy": {
+    "score": 4,
+    "note": "Muditā includes appreciating others' happiness, relationship element"
+  },
+  "youtube_channel/S01E99_Is_the_Buddha_and_athiest": {
+    "score": 1,
+    "note": "Theological discussion, not about interpersonal relationships"
+  },
+  "youtube_channel/S01E100_Fear_and_Courage": {
+    "score": 3,
+    "note": "Social courage mentioned but not primary focus"
+  },
+  "youtube_channel/S01E101_Patience": {
+    "score": 5,
+    "note": "Patience with difficult people directly addresses relationship dynamics"
+  },
+  "youtube_channel/S01E102_Equanimity_-_The_most_important_of_all_virtues": {
+    "score": 4,
+    "note": "Equanimity supports healthy relationships by preventing attachment"
+  },
+  "youtube_channel/S01E103_Compassion_and_its_subtle_enemies": {
+    "score": 6,
+    "note": "Compassion practice directly relates to caring relationships"
+  },
+  "youtube_channel/S01E104_Good_Friendship_Good_Companionship_Good_Comradship_is_the_whole_of_the_Spiritual": {
+    "score": 10,
+    "note": "Entirely about spiritual friendship as foundation of practice"
+  },
+  "youtube_channel/S01E105_The_Five_Constant_Contemplations": {
+    "score": 3,
+    "note": "Separation contemplation touches on attachment to relationships"
+  },
+  "youtube_channel/S01E106_Retreat_Start_Standing_and_Walking_Meditation": {
+    "score": 0,
+    "note": "Meditation instruction only, no relationship content"
+  },
+  "youtube_channel/S01E107_The_Discourse_Developing_Loving_Kindness": {
+    "score": 8,
+    "note": "Loving-kindness practice directly cultivates positive relationship attitudes"
+  },
+  "youtube_channel/S01E108_The_Importance_of_Tranquillity": {
+    "score": 2,
+    "note": "Tranquillity practice, minimal relationship application"
+  },
+  "youtube_channel/S01E109_The_Crucial_Importance_of_Desire_and_Intention": {
+    "score": 3,
+    "note": "Intention affects relationships but not primary focus"
+  },
+  "youtube_channel/S01E110_Satipanya_Opening_Ceremony_30th_June_2007": {
+    "score": 2,
+    "note": "Community ceremony but not about relationship principles"
+  },
+  "youtube_channel/S01E111_Ceremony_to_Bless_the_Stupa_June_26th_2011_Pt_1": {
+    "score": 1,
+    "note": "Ceremonial chanting, no relationship teaching"
+  },
+  "youtube_channel/S01E112_Ceremony_to_Bless_the_Stupa_June_26th_2011_Pt_2": {
+    "score": 1,
+    "note": "Ceremonial chanting, no relationship teaching"
+  },
+  "youtube_channel/S01E113_Ceremony_to_Bless_the_Stupa_June_26th_2011_Pt_3": {
+    "score": 3,
+    "note": "Interfaith gathering shows community relationships"
+  },
+  "youtube_channel/S01E114_15_The_Discourse_on_Not-self_SN22659": {
+    "score": 2,
+    "note": "Not-self teaching affects relationships but not primary focus"
+  },
+  "youtube_channel/S01E115_Upali_is_converted_by_the_Buddha_MN56": {
+    "score": 3,
+    "note": "Shows Buddha's skillful relationship with potential convert"
+  },
+  "youtube_channel/S01E116_Contemplating_the_Unpleasantness_of_the_Body_Why_and_How": {
+    "score": 7,
+    "note": "Explores wrong relationship with body, developing healthy detachment"
+  },
+  "youtube_channel/S01E117_The_Buddhas_Alter_Ego": {
+    "score": 6,
+    "note": "Discusses righteous leadership qualities and royal virtues"
+  },
+  "youtube_channel/S01E118_The_Unattractive_Nature_of_the_Body": {
+    "score": 6,
+    "note": "Examines relationship with physical form and balancing contemplation"
+  },
+  "youtube_channel/S01E119_The_Four_Great_Elements": {
+    "score": 3,
+    "note": "Mentions relationship to physical phenomena through meditation objects"
+  },
+  "youtube_channel/S01E120_The_Specific_Law_of_Conditionality": {
+    "score": 2,
+    "note": "Fundamental principle but not specifically about relationships"
+  },
+  "youtube_channel/S01E121_The_Dangers_of_Indulgence": {
+    "score": 5,
+    "note": "Explores healthy relationship between body and sensual pleasures"
+  },
+  "youtube_channel/S01E122_Reflections_and_Contemplative_Practice_of_Kamma": {
+    "score": 6,
+    "note": "Examines moral responsibility and forming relationships through actions"
+  },
+  "youtube_channel/S01E123_Forgiveness": {
+    "score": 9,
+    "note": "Primarily about forgiveness in relationships and emotional healing"
+  },
+  "youtube_channel/S01E124_The_Basics_of_Insight_Meditation_02": {
+    "score": 2,
+    "note": "Meditation fundamentals, minimal relationship focus"
+  },
+  "youtube_channel/S01E125_Dukkha_-_Basic_Premise_of_the_Buddhadhamma": {
+    "score": 2,
+    "note": "Foundational concept but not specifically about relationships"
+  },
+  "youtube_channel/S01E126_Non-Violence_is_not_Pacifism": {
+    "score": 5,
+    "note": "Explores ethical relationships in conflict situations"
+  },
+  "youtube_channel/S01E127_The_Eight_Worldly_Conditions": {
+    "score": 4,
+    "note": "Discusses relationship to praise, blame and worldly conditions"
+  },
+  "youtube_channel/S01E128_The_Paradox_of_Fear": {
+    "score": 3,
+    "note": "Mentions fear arising from attachment in relationships"
+  },
+  "youtube_channel/S01E129_Renunciation_The_Path_to_Liberation": {
+    "score": 5,
+    "note": "Explores wise restraint in relationship to sensual experiences"
+  },
+  "youtube_channel/S01E130_The_Buddha_as_a_Teacher_The_Discourse_on_Malunkyaputta": {
+    "score": 4,
+    "note": "Demonstrates teacher-student relationship and pedagogical approach"
+  },
+  "youtube_channel/S01E131_What_was_the_Great_Discovery_by_the_Buddha": {
+    "score": 1,
+    "note": "About Buddha's discovery, minimal relationship content"
+  },
+  "youtube_channel/S01E132_Where_do_the_elements_cease_without_remainder": {
+    "score": 1,
+    "note": "Philosophical discourse about elements and consciousness"
+  },
+  "youtube_channel/S01E133_Extinguishing_the_Housebuilder": {
+    "score": 2,
+    "note": "About liberation process, minimal relationship focus"
+  },
+  "youtube_channel/S01E134_Hope_Aspiration_Expectation": {
+    "score": 3,
+    "note": "Discusses proper relationship to spiritual aspirations"
+  },
+  "youtube_channel/S01E135_Topics_of_Discussion": {
+    "score": 8,
+    "note": "Primarily about skillful conversation and dialogue in relationships"
+  },
+  "youtube_channel/S01E136_Practising_the_Five_Remembrances": {
+    "score": 5,
+    "note": "Includes contemplation on separation from loved ones"
+  },
+  "youtube_channel/S01E137_Revsing_the_Basics": {
+    "score": 2,
+    "note": "Meditation fundamentals, minimal relationship content"
+  },
+  "youtube_channel/S01E138_The_Necessity_of_Joy": {
+    "score": 6,
+    "note": "Sympathetic joy cultivation affects relationships with others"
+  },
+  "youtube_channel/S01E139_Polarisation": {
+    "score": 7,
+    "note": "Examines social relationships, division and overcoming polarization"
+  },
+  "youtube_channel/S01E140_Dullness_and_Lethargy": {
+    "score": 1,
+    "note": "About meditation hindrance, no relationship focus"
+  },
+  "bhante_essays/S01E01_Refuges_and_Precepts": {
+    "score": 7,
+    "note": "Precepts establish ethical foundation for right relationships"
+  },
+  "bhante_essays/S01E02_Puja_Chantings": {
+    "score": 5,
+    "note": "Establishes relationship with Triple Gem and community"
+  },
+  "bhante_essays/S01E03_Recommended_Reading_for_Beginners": {
+    "score": 2,
+    "note": "Reading list with minimal relationship focus"
+  },
+  "bhante_essays/S01E04_in_PDF_format": {
+    "score": 6,
+    "note": "Art of listening and relationships in daily practice"
+  },
+  "bhante_essays/S01E05_in_MS_Word_format": {
+    "score": 0,
+    "note": "No content description available"
+  },
+  "bhante_essays/S02E01_Neoliberalism_and_BuddhaDhamma": {
+    "score": 4,
+    "note": "Critiques competitive individualism, promotes compassionate interdependence"
+  },
+  "bhante_essays/S02E02_Investigative_Eating": {
+    "score": 3,
+    "note": "Mentions relationship to food and sensual pleasures"
+  },
+  "bhante_essays/S02E03_Reflections_on_the_Teaching_and_Practice_of_Not-self": {
+    "score": 2,
+    "note": "Challenges concept of self in relationships"
+  },
+  "bhante_essays/S02E04_Vipassana_as_taught_by_the_Mahasi_Sayadaw_of_Burma": {
+    "score": 1,
+    "note": "Meditation technique with minimal relationship content"
+  },
+  "bhante_essays/S02E05_Is_Armed_Intervention_Ever_Justified": {
+    "score": 5,
+    "note": "Ethics of force versus violence in relationships"
+  },
+  "bhante_essays/S02E06_Free_will_is_it_available_or_useful": {
+    "score": 2,
+    "note": "Self-control concepts affecting interpersonal dynamics"
+  },
+  "bhante_essays/S02E07_Could_I_be_a_fundamentalist_even_a_terrorist": {
+    "score": 4,
+    "note": "Psychological roots of rigid ideological positions"
+  },
+  "bhante_essays/S02E08_Perfection_Elitism_and_Excellence": {
+    "score": 3,
+    "note": "Self-judgment affecting relationships with others"
+  },
+  "bhante_essays/S02E09_What_benefit_is_there_in_becoming_a_temporary_monastic": {
+    "score": 4,
+    "note": "Community relationships and respect for sangha"
+  },
+  "bhante_essays/S02E10_The_Unlucky_Death_of_a_Two_Year_Old_Boy": {
+    "score": 2,
+    "note": "Death contemplation with minimal relationship focus"
+  },
+  "bhante_essays/S02E11_Expectation_Aspiration_and_Hope": {
+    "score": 3,
+    "note": "Ego expectations affecting spiritual relationships"
+  },
+  "bhante_essays/S02E12_Assisted_Suicide_PDF_document": {
+    "score": 3,
+    "note": "End-of-life ethics affecting family relationships"
+  },
+  "bhante_essays/S02E13_Vipassana_Therapy_and_Medicinal_Drugs_PDF_document": {
+    "score": 5,
+    "note": "Teacher-student relationships and therapeutic support"
+  },
+  "bhante_essays/S02E14_Conditionality_and_KammaPDF_document": {
+    "score": 2,
+    "note": "Causal relationships with minimal interpersonal focus"
+  },
+  "bhante_essays/S02E15_Affectionate_Awareness": {
+    "score": 8,
+    "note": "Compassionate relationship with difficult emotions and states"
+  },
+  "bhante_essays/S02E16_Climate_Crisis_A_Personal_Reflection": {
+    "score": 2,
+    "note": "Environmental crisis with minimal relationship focus"
+  },
+  "bhante_essays/S03E01_The_First_Noble_Truth_of_Suffering_--_Dukkha": {
+    "score": 2,
+    "note": "Suffering analysis with minimal relationship content"
+  },
+  "bhante_essays/S03E02_The_First_Noble_Truth_of_Suffering_--_The_Five_Aggregates": {
+    "score": 1,
+    "note": "Analytical framework with minimal relationship focus"
+  },
+  "bhante_essays/S03E03_The_First_Noble_Truth_of_Suffering_--_The_Three_Characteristics": {
+    "score": 1,
+    "note": "Universal characteristics with minimal relationship content"
+  },
+  "bhante_essays/S03E04_The_Second_Noble_Truth_--_Desire": {
+    "score": 3,
+    "note": "Craving and attachment affecting relationships"
+  },
+  "bhante_essays/S03E05_The_Second_Noble_Truth_--_The_Wheel_of_Dependent_Origination": {
+    "score": 4,
+    "note": "Mentions interdependent relationships but focuses on suffering causation"
+  },
+  "bhante_essays/S03E06_The_Second_Noble_Truth_--_Kamma_Vipaka": {
+    "score": 5,
+    "note": "Discusses interdependent relationships and workplace conflicts in context"
+  },
+  "bhante_essays/S03E07_The_Fourth_Noble_Truth_--_Morality": {
+    "score": 6,
+    "note": "Substantially covers moral foundation for right relationships"
+  },
+  "bhante_essays/S03E08_The_Fourth_Noble_Truth_--_Perfections": {
+    "score": 7,
+    "note": "Loving-kindness and virtues directly support right relationships"
+  },
+  "bhante_essays/S03E09_The_Fourth_Noble_Truth_--_Right_Understanding": {
+    "score": 3,
+    "note": "Mentions compassionate action but primarily about wisdom"
+  },
+  "bhante_essays/S03E10_The_Fourth_Noble_Truth_--_Mental_Development": {
+    "score": 2,
+    "note": "Focuses on meditation practice, minimal relationship content"
+  },
+  "bhante_essays/S03E11_Meditation_in_Ordinary_Daily_Life": {
+    "score": 4,
+    "note": "Daily mindfulness affects relationships but not primary focus"
+  },
+  "bhante_essays/S04E01_Meditation_in_Ordinary_Daily_Life": {
+    "score": 4,
+    "note": "Emotional equanimity relevant to relationships but secondary"
+  },
+  "bhante_essays/S05E01_Buddha_Day_Evening_with_Italy": {
+    "score": 5,
+    "note": "Community gathering and ethical precepts support right relationships"
+  },
+  "tips_of_the_day/S01E01_At_the_end_of_the_day_1": {
+    "score": 6,
+    "note": "Making amends and forgiveness directly address relationship repair"
+  },
+  "tips_of_the_day/S01E02_At_the_end_of_the_day_2": {
+    "score": 2,
+    "note": "Personal bedtime practice, minimal relationship content"
+  },
+  "tips_of_the_day/S01E03_At_the_end_of_the_day": {
+    "score": 3,
+    "note": "Mentions metta practice but focuses on sleep preparation"
+  },
+  "tips_of_the_day/S01E04_Upon_Awakening": {
+    "score": 2,
+    "note": "Personal morning practice, minimal relationship content"
+  },
+  "tips_of_the_day/S01E05_Morning_Meditation_One_of_Four_Ritual": {
+    "score": 2,
+    "note": "Personal ritual practice, minimal relationship content"
+  },
+  "tips_of_the_day/S01E06_Morning_Meditation_Default_Position_Abiding_in_Calm_Open_Attentiveness": {
+    "score": 3,
+    "note": "Calm attentiveness supports relationships but not primary focus"
+  },
+  "tips_of_the_day/S01E07_Morning_Meditation_Vipassana_1_Developing_a_steady_attention": {
+    "score": 2,
+    "note": "Meditation technique focus, minimal relationship content"
+  },
+  "tips_of_the_day/S01E08_Morning_Meditation_Vipassana_2_Developing_Insight": {
+    "score": 3,
+    "note": "Right Attitude relevant to relationships but secondary"
+  },
+  "tips_of_the_day/S01E09_Morning_Meditation_Metta_Developing_Goodwill_the_Theory": {
+    "score": 8,
+    "note": "Directly addresses goodwill and compassionate re-engagement with world"
+  },
+  "tips_of_the_day/S01E10_Discourse_on_Metta": {
+    "score": 9,
+    "note": "Primarily about loving-kindness in relationships and daily life"
+  },
+  "tips_of_the_day/S01E11_Morning_Meditation_Developing_Goodwill_and_Forgiveness_the_Exercise": {
+    "score": 9,
+    "note": "Directly teaches loving-kindness and forgiveness toward all beings"
+  },
+  "tips_of_the_day/S01E12_Morning_Meditation_Resolution": {
+    "score": 4,
+    "note": "Daily intentions affect relationships but broader focus"
+  },
+  "tips_of_the_day/S01E13_Developing_the_Perfection_of_Determination": {
+    "score": 3,
+    "note": "Personal determination practice, minimal direct relationship content"
+  },
+  "tips_of_the_day/S01E14_Breakfast_at_last": {
+    "score": 2,
+    "note": "Mindful eating practice, minimal relationship content"
+  },
+  "tips_of_the_day/S01E15_Traveling_to_and_from_work": {
+    "score": 3,
+    "note": "Mentions idle conversation but focuses on personal practice"
+  },
+  "tips_of_the_day/S01E16_Back_Home": {
+    "score": 5,
+    "note": "Transition practices affect home relationships and family dynamics"
+  },
+  "tips_of_the_day/S02E01_Relations_Friends_Acquaintances_and_Spiritual_Companions": {
+    "score": 9,
+    "note": "Primarily about relationship deterioration patterns and mechanisms"
+  },
+  "tips_of_the_day/S02E02_Contemplating_Relations_Friends_Acquaintances_and_Spiritual_Companions": {
+    "score": 9,
+    "note": "Explores different relationship types and spiritual friendship importance"
+  },
+  "tips_of_the_day/S02E03_Intimate_Relationships_The_Erotic_the_Romantic_and_Love": {
+    "score": 9,
+    "note": "Examines three dimensions of intimate relationships thoroughly"
+  },
+  "tips_of_the_day/S02E04_Celibacy": {
+    "score": 6,
+    "note": "Discusses relationships through lens of celibacy and universal love"
+  },
+  "tips_of_the_day/S02E05_When_does_love_become_control": {
+    "score": 8,
+    "note": "Explores corruption of love through control in relationships"
+  },
+  "tips_of_the_day/S03E01_Work": {
+    "score": 3,
+    "note": "Mentions workplace relationships within Right Livelihood context"
+  },
+  "tips_of_the_day/S03E02_Success_and_Failure_Trial_and_Error": {
+    "score": 2,
+    "note": "Focuses on personal approach to challenges, minimal relationship content"
+  },
+  "tips_of_the_day/S03E03_Creating_Space_1": {
+    "score": 2,
+    "note": "Work practices with minimal relationship focus"
+  },
+  "tips_of_the_day/S03E04_Creating_Space_2": {
+    "score": 3,
+    "note": "Mentions workplace emotional interactions briefly"
+  },
+  "tips_of_the_day/S03E05_Creating_Space_3": {
+    "score": 5,
+    "note": "Addresses workplace interpersonal interactions and maintaining equanimity"
+  },
+  "tips_of_the_day/S03E06_The_Limits_of_Power_and_Mission_Creep": {
+    "score": 4,
+    "note": "Discusses workplace boundaries and considering others' positions"
+  },
+  "tips_of_the_day/S04E01_Not_an_Emotion": {
+    "score": 1,
+    "note": "Focuses on emotions and happiness, minimal relationship content"
+  },
+  "tips_of_the_day/S04E02_Relationships": {
+    "score": 9,
+    "note": "Directly examines happiness through nurturing deep relationships"
+  },
+  "tips_of_the_day/S04E03_Being_Good_rather_than_Being_Good_At": {
+    "score": 2,
+    "note": "Character development with minimal relationship focus"
+  },
+  "tips_of_the_day/S04E04_Whats_wrong_with_a_bit_of_attachment": {
+    "score": 3,
+    "note": "Discusses attachment affecting relationships with experiences"
+  },
+  "tips_of_the_day/S04E05_Sacrifice_the_more_we_give_the_greater_the_return": {
+    "score": 3,
+    "note": "Mentions selfless offering for others within sacrifice theme"
+  },
+  "tips_of_the_day/S04E06_Not_what_we_believe_but_how_we_live": {
+    "score": 1,
+    "note": "Focuses on practice over beliefs, minimal relationship content"
+  },
+  "tips_of_the_day/S04E07_Towards_the_Greatest_Happiness": {
+    "score": 2,
+    "note": "Mentions relationships as conditional happiness source briefly"
+  },
+  "tips_of_the_day/S05E01_New_Year_Resolution": {
+    "score": 3,
+    "note": "Includes forgiveness and virtue affecting relationships"
+  },
+  "tips_of_the_day/S05E02_Neighbourly_Sounds": {
+    "score": 6,
+    "note": "Practical guidance for dealing with neighbor relationships"
+  },
+  "tips_of_the_day/S05E03_Sickness": {
+    "score": 1,
+    "note": "Focuses on illness and spiritual awakening"
+  },
+  "tips_of_the_day/S05E04_The_Tough_Nut": {
+    "score": 1,
+    "note": "Addresses personal habits and cravings"
+  },
+  "tips_of_the_day/S05E05_Impulsive_or_Spontaneous": {
+    "score": 4,
+    "note": "Discusses behavior patterns affecting daily interactions"
+  },
+  "tips_of_the_day/S05E06_Joy": {
+    "score": 2,
+    "note": "Cultivating joy with minimal relationship focus"
+  },
+  "tips_of_the_day/S05E07_Thankyou": {
+    "score": 3,
+    "note": "Gratitude practice including appreciation for others"
+  },
+  "tips_of_the_day/S05E08_Need_Sufficiency_and_Greed": {
+    "score": 6,
+    "note": "Explores relationship with material possessions through Buddhist framework"
+  },
+  "tips_of_the_day/S05E09_What_values_govern_our_lives": {
+    "score": 7,
+    "note": "Examines relationships based on validation versus wholesome values"
+  },
+  "tips_of_the_day/S05E10_Values_in_mine_own_eyes": {
+    "score": 8,
+    "note": "Contrasts validation-seeking relationships with authentic care for others"
+  },
+  "tips_of_the_day/S05E11_Living_in_the_Now_Planning_for_the_Future": {
+    "score": 3,
+    "note": "Mentions relationship to time but not interpersonal relationships"
+  },
+  "tips_of_the_day/S05E12_Music": {
+    "score": 2,
+    "note": "About music's effects, minimal relationship content"
+  },
+  "tips_of_the_day/S05E13_Time": {
+    "score": 4,
+    "note": "Explores relationship with time, some relevance to equanimity"
+  },
+  "tips_of_the_day/S05E14_Our_Daily_Breaks": {
+    "score": 3,
+    "note": "Mentions sharing joy with beings but focuses on practice"
+  },
+  "tips_of_the_day/S05E15_On_the_Virtue_of_Visiting_a_Cemetery": {
+    "score": 2,
+    "note": "Death contemplation, minimal relationship focus"
+  },
+  "tips_of_the_day/S05E16_Pity_Sorrow_and_Compassion": {
+    "score": 8,
+    "note": "Directly examines emotional responses to others' suffering"
+  },
+  "tips_of_the_day/S05E17_Why_are_we_asked_to_observe_-_impermanence": {
+    "score": 2,
+    "note": "Meditation practice, minimal relationship content"
+  },
+  "tips_of_the_day/S05E18_Sublimation": {
+    "score": 5,
+    "note": "Transformation includes selfishness to generosity, aversion to love"
+  },
+  "tips_of_the_day/S05E19_Righteous_Anger_Plain_Anger": {
+    "score": 7,
+    "note": "Practical guidance for anger in relationships and interactions"
+  },
+  "tips_of_the_day/S05E20_A_Pets_Endgame": {
+    "score": 6,
+    "note": "Explores compassionate relationship with dying animals"
+  },
+  "tips_of_the_day/S05E21_Downers": {
+    "score": 4,
+    "note": "Personal emotional work, some relationship to others mentioned"
+  },
+  "tips_of_the_day/S05E22_Discipline_Self-discipline": {
+    "score": 5,
+    "note": "Self-relationship through gentle training versus harsh criticism"
+  },
+  "tips_of_the_day/S05E23_Fairness_and_Equality": {
+    "score": 5,
+    "note": "Explores fairness concepts affecting interpersonal relationships"
+  },
+  "tips_of_the_day/S05E24_Unforgivingness": {
+    "score": 8,
+    "note": "Directly addresses forgiveness and resentment in relationships"
+  },
+  "tips_of_the_day/S05E25_My_body_is_Mother_Earth": {
+    "score": 6,
+    "note": "Explores relationship with nature and earth"
+  },
+  "tips_of_the_day/S05E26_Dealing_with_Intense_Emotions_and_Moods_in_Ordinary_Daily_Life": {
+    "score": 5,
+    "note": "Emotional regulation affects relationships but not primary focus"
+  },
+  "tips_of_the_day/S05E27_How_much_pain_physical_or_mental_should_we_suffer": {
+    "score": 3,
+    "note": "Self-relationship regarding pain endurance"
+  },
+  "tips_of_the_day/S05E28_Judging_or_Judgemental": {
+    "score": 7,
+    "note": "Distinguishes skillful discernment from harmful judgment of others"
+  },
+  "tips_of_the_day/S05E29_The_absurd_and_the_Sublime_A_Mid-summer_Contemplation": {
+    "score": 2,
+    "note": "Existential philosophy, minimal relationship content"
+  },
+  "tips_of_the_day/S05E30_If_there_is_no_self_who_bears_the_karma": {
+    "score": 3,
+    "note": "Philosophical doctrine, touches on self-relationship"
+  },
+  "tips_of_the_day/S05E31_Overwhelmed_by_All_the_Violence_in_the_World": {
+    "score": 6,
+    "note": "Guidance for relating to global suffering with compassion"
+  },
+  "tips_of_the_day/S05E32_Legal_Moral_Ethical": {
+    "score": 6,
+    "note": "Explores ethical conduct affecting relationships with others"
+  },
+  "tips_of_the_day/S05E33_The_Consumer_in_Us_All": {
+    "score": 4,
+    "note": "Touches on spiritual relationships but focuses on consumerism"
+  },
+  "tips_of_the_day/S05E34_Barriers_or_Boundaries": {
+    "score": 8,
+    "note": "Directly addresses healthy boundaries in relationships and interactions"
+  },
+  "tips_of_the_day/S05E35_Isolation_Loneliness_and_Solitude": {
+    "score": 6,
+    "note": "Explores relationship to self and dependency on others"
+  },
+  "tips_of_the_day/S05E36_Envy_Jealousy_and_Appreciative_Joy": {
+    "score": 7,
+    "note": "Addresses unwholesome emotions that damage relationships with others"
+  },
+  "tips_of_the_day/S05E37_Unwholesome_Karmic_Results_as_Fate": {
+    "score": 5,
+    "note": "Mentions relationship patterns but focuses on karmic cycles"
+  },
+  "tips_of_the_day/S05E38_Ideology_leads_to_strife": {
+    "score": 6,
+    "note": "Discusses how views create conflict in relationships"
+  },
+  "tips_of_the_day/S05E39_The_Sacred_Its_Meaning_and_the_Role_of_Free_Speech": {
+    "score": 5,
+    "note": "Touches on respectful communication but focuses on sacred"
+  },
+  "tips_of_the_day/S05E40_Awareness_Compassion_and_Wisdom": {
+    "score": 7,
+    "note": "Explores compassionate relationship to others' suffering and skillful action"
+  },
+  "tips_of_the_day/S05E41_To_become_or_not_to_become": {
+    "score": 2,
+    "note": "Philosophical discussion of craving types, minimal relationship content"
+  },
+  "tips_of_the_day/S05E42_Appamāda_Diligent": {
+    "score": 3,
+    "note": "General spiritual practice guidance, mentions relationships briefly"
+  },
+  "tips_of_the_day/S05E43_Aim_and_Objective_in_Present_Time": {
+    "score": 3,
+    "note": "Present moment awareness, minimal direct relationship content"
+  },
+  "tips_of_the_day/S05E44_Money_and_Power": {
+    "score": 4,
+    "note": "Economic relationships and social justice but not interpersonal"
+  },
+  "tips_of_the_day/S05E45_Passive_Aggression": {
+    "score": 9,
+    "note": "Directly addresses destructive relationship patterns and skillful responses"
+  },
+  "tips_of_the_day/S05E46_In_what_way_should_Buddhadhamma_affect_our_politics": {
+    "score": 4,
+    "note": "Political engagement relationships but not interpersonal focus"
+  },
+  "tips_of_the_day/S05E47_Practice_makes_perfect": {
+    "score": 2,
+    "note": "Spiritual practice methodology, minimal relationship content"
+  },
+  "tips_of_the_day/S05E48_Right_Speech": {
+    "score": 9,
+    "note": "Essential foundation for right relationship through ethical communication"
+  },
+  "tips_of_the_day/S05E49_Equanimity": {
+    "score": 6,
+    "note": "Key virtue for maintaining balanced relationships with others"
+  },
+  "tips_of_the_day/S05E50_Shame": {
+    "score": 5,
+    "note": "Ethical development affecting relationships but focuses on shame"
+  },
+  "tips_of_the_day/S05E51_Guilt": {
+    "score": 4,
+    "note": "Mentions harm to others but focuses on guilt"
+  },
+  "tips_of_the_day/S05E52_Gratitude_Generosity_Renunciation": {
+    "score": 7,
+    "note": "Explores generous relationship to others through unconditional giving"
+  },
+  "tips_of_the_day/S05E53_Excitement_Boredom_Contentment": {
+    "score": 3,
+    "note": "Internal states affecting relationships but not primary focus"
+  },
+  "tips_of_the_day/S05E54_Silence": {
+    "score": 3,
+    "note": "Inner cultivation that supports relationships but not main theme"
+  },
+  "tips_of_the_day/S05E55_Courage_Fortitude_and_Resilience": {
+    "score": 4,
+    "note": "Personal development affecting relationships but focuses on resilience"
+  },
+  "tips_of_the_day/S05E56_One_of_the_Hindrances_is_Sceptical_Doubt": {
+    "score": 2,
+    "note": "Spiritual practice obstacle, minimal relationship content"
+  },
+  "tips_of_the_day/S05E57_Scientism_meets_Buddhism_Buddhadhamma": {
+    "score": 2,
+    "note": "Philosophical approach to Buddhism, minimal relationship content"
+  },
+  "tips_of_the_day/S05E58_What_is_our_basic_disposition_to_life": {
+    "score": 4,
+    "note": "Character types affect relationships but not primary focus"
+  },
+  "tips_of_the_day/S05E59_Fear": {
+    "score": 5,
+    "note": "Self-protective mechanisms impact relationships, compassion development mentioned"
+  },
+  "tips_of_the_day/S05E60_Beauty": {
+    "score": 2,
+    "note": "Aesthetic appreciation tangentially relates to relational harmony"
+  },
+  "tips_of_the_day/S05E61_The_Wisdom_of_Uncertainty": {
+    "score": 3,
+    "note": "Understanding conditions reduces anxiety in relationships"
+  },
+  "tips_of_the_day/S05E62_Patience": {
+    "score": 7,
+    "note": "Khanti directly addresses maintaining loving-kindness under provocation"
+  },
+  "tips_of_the_day/S05E63_Overcoming_the_Corruptions_of_Generosity": {
+    "score": 6,
+    "note": "Explores conceit and judgment corrupting giving relationships"
+  },
+  "tips_of_the_day/S05E64_The_World_is_in_a_terrible_state": {
+    "score": 4,
+    "note": "Metta practice for world conditions relates to relationships"
+  },
+  "tips_of_the_day/S05E65_The_Treasure_of_Things": {
+    "score": 2,
+    "note": "Mindful object appreciation only indirectly relates to relationships"
+  },
+  "tips_of_the_day/S05E66_Equanimity_Carl": {
+    "score": 4,
+    "note": "Equanimity supports healthy non-interference in relationships"
+  },
+  "tips_of_the_day/S05E67_The_years_where_do_they_go_New_Year_Encouragement_Noirin": {
+    "score": 1,
+    "note": "Endings and cessation not directly about relationships"
+  },
+  "tips_of_the_day/S05E68_Understand_and_See_things_as_they_really_are": {
+    "score": 2,
+    "note": "Clear perception foundation for relationships but not focus"
+  },
+  "tips_of_the_day/S05E69_Constant_Curiosity_Carl": {
+    "score": 3,
+    "note": "Investigating reactions includes relational attachments and triggers"
+  },
+  "tips_of_the_day/S05E70_Kamma_Noirin": {
+    "score": 4,
+    "note": "Cause and effect principles apply to relational dynamics"
+  },
+  "tips_of_the_day/S05E71_Progress": {
+    "score": 6,
+    "note": "Explicitly discusses moving from selfishness to harmony"
+  },
+  "tips_of_the_day/S05E72_Who_Decides_Carl": {
+    "score": 2,
+    "note": "Decision-making investigation tangentially relates to relationship choices"
+  },
+  "tips_of_the_day/S05E73_Delusion_caring_for_illusion": {
+    "score": 3,
+    "note": "Self-understanding affects how we relate to others"
+  },
+  "tips_of_the_day/S05E74_The_world_is_not_in_a_good_place": {
+    "score": 3,
+    "note": "Buddhist response to global crises includes relational aspects"
+  },
+  "tips_of_the_day/S05E75_Happy_New_Year": {
+    "score": 2,
+    "note": "Right Resolve applies to relationship intentions but indirect"
+  },
+  "tips_of_the_day/S05E76_Sickness": {
+    "score": 1,
+    "note": "Illness as spiritual teacher not primarily about relationships"
+  },
+  "tips_of_the_day/S05E77_Yearning_for_a_Better_World": {
+    "score": 5,
+    "note": "Metta practice for collective transformation involves relational goodwill"
+  },
+  "tips_of_the_day/S05E78_Balancing_Lay_and_Spiritual_Life": {
+    "score": 4,
+    "note": "Balancing practice with family and work relationships"
+  },
+  "tips_of_the_day/S05E79_Wildflower_Wisdom": {
+    "score": 3,
+    "note": "Environmental engagement as relational practice with nature"
+  },
+  "tips_of_the_day/S05E80_Dealing_with_the_Stories_that_Make_Us_Suffer": {
+    "score": 8,
+    "note": "Directly addresses relationship conflicts and mental narratives"
+  },
+  "tips_of_the_day/S05E81_The_Wisdom_and_Virtues_of_Insecurity": {
+    "score": 2,
+    "note": "Uncertainty navigation indirectly supports relationship resilience"
+  },
+  "tips_of_the_day/S05E82_As_Winter_Approaches": {
+    "score": 3,
+    "note": "Grief and memory involve relational aspects but not primary"
+  },
+  "tips_of_the_day/S05E83_Guidelines_For_a_New_Years_Resolution": {
+    "score": 7,
+    "note": "Social well-being aspect directly addresses healthy relationships"
+  },
+  "tips_of_the_day/S05E84_Coronavirus_Messenger_from_the_Gods": {
+    "score": 4,
+    "note": "Mentions social transformation and human responses"
+  },
+  "tips_of_the_day/S05E85_Quench_all_Resentments": {
+    "score": 8,
+    "note": "Directly about healing relationships through dissolving resentment"
+  },
+  "tips_of_the_day/S05E86_Exiting_Lockdown": {
+    "score": 3,
+    "note": "Brief mention of re-entering social life"
+  },
+  "tips_of_the_day/S05E87_Committing_to_the_Path": {
+    "score": 2,
+    "note": "Personal spiritual commitment, minimal relationship focus"
+  },
+  "tips_of_the_day/S05E88_Beauty": {
+    "score": 3,
+    "note": "Touches on craving admiration from others"
+  },
+  "tips_of_the_day/S05E89_Motivation_for_Practice": {
+    "score": 1,
+    "note": "Individual practice focus, no relationship content"
+  },
+  "tips_of_the_day/S05E90_All_in_the_Mind": {
+    "score": 2,
+    "note": "Individual mental experience, minimal relationship aspect"
+  },
+  "tips_of_the_day/S05E91_Perfection_Elitism_and_Excellence": {
+    "score": 5,
+    "note": "Discusses comparisons and competition with others"
+  },
+  "tips_of_the_day/S05E92_Material_World": {
+    "score": 2,
+    "note": "Individual relationship with possessions, not interpersonal"
+  },
+  "tips_of_the_day/S05E93_Inner_Voices": {
+    "score": 4,
+    "note": "Partner relationship example, adapting to individual differences"
+  },
+  "tips_of_the_day/S05E94_Full_Catastrophe_Ethics": {
+    "score": 3,
+    "note": "Ethical preparation mentions maintaining integrity with others"
+  },
+  "tips_of_the_day/S05E95_On_Learning_how_to_be_with_Climate_and_Social_Breakdown": {
+    "score": 4,
+    "note": "Social breakdown and community engagement themes"
+  },
+  "tips_of_the_day/S05E96_Living_in_the_here_and_now_Bhante_Bodhidhamma": {
+    "score": 6,
+    "note": "Ethical wholesome relationship as foundation for awareness"
+  },
+  "tips_of_the_day/S05E97_Being_Human_Bhante_Bodhidhamma": {
+    "score": 9,
+    "note": "Primarily about spiritual community and relational humanity"
+  },
+  "tips_of_the_day/S05E98_Sympathy_Empathy_Compassion_Bhante_Bodhidhamma": {
+    "score": 8,
+    "note": "Compassionate response and relating to others' suffering"
+  },
+  "tips_of_the_day/S05E99_Non-Violence_is_not_Pacificism_Bhante_Bodhidhamma": {
+    "score": 6,
+    "note": "Moral principles in relationship and conflict situations"
+  },
+  "tips_of_the_day/S05E100_Neoliberalism_and_Buddhadhamma_Bhante_Bodhidhamma": {
+    "score": 5,
+    "note": "Critiques competitive individualism, promotes interdependence"
+  },
+  "tips_of_the_day/S05E101_Dullness_and_Lethargy_Our_Two_Very_Good_Friends_Carl_Fooks": {
+    "score": 1,
+    "note": "Individual meditation experience, no relationship content"
+  },
+  "tips_of_the_day/S05E102_Preparing_for_Climate_Change_-_First_Ethical_Maxim_Noirin_Sheahan": {
+    "score": 2,
+    "note": "Individual contemplation practice, minimal relationship aspect"
+  },
+  "tips_of_the_day/S05E103_Red_Lines_Sila_-_Third_Ethical_Maxim_Noirin_Sheahan": {
+    "score": 6,
+    "note": "Ethical boundaries in relationships during scarcity"
+  },
+  "tips_of_the_day/S05E104_Radical_Hope_Saddha_-_Second_Ethical_Maxim_Noirin_Sheahan": {
+    "score": 2,
+    "note": "Individual spiritual trust, minimal relationship focus"
+  },
+  "tips_of_the_day/S05E105_New_Year_Resolutions_and_the_Third_Maxim_Noirin_Sheahan": {
+    "score": 3,
+    "note": "Personal boundary practice for future ethical challenges"
+  },
+  "tips_of_the_day/S05E106_4th_Maxim_i_Opportunity_Knocks_Noirin_Sheahan": {
+    "score": 2,
+    "note": "Individual spiritual development through climate anxiety"
+  },
+  "tips_of_the_day/S05E107_4th_Maxim_ii_Spiral_to_Freedom_Noirin_Sheahan": {
+    "score": 2,
+    "note": "Individual liberation path, minimal relationship content"
+  },
+  "tips_of_the_day/S05E108_Fourth_Maxim_iii_Path_to_Transcendence_Noirin_Sheahan": {
+    "score": 2,
+    "note": "Climate ethics focus, minimal relationship content"
+  },
+  "tips_of_the_day/S05E109_Equanimity_The_Most_Important_Virtue_Bhante_Bodhidhamma": {
+    "score": 4,
+    "note": "Equanimity supports balanced relationships but not primary focus"
+  },
+  "tips_of_the_day/S05E110_The_Danger_of_Nihilism_Bhante_Bodhidhamma": {
+    "score": 3,
+    "note": "Mentions re-engagement with world, minimal relationship focus"
+  },
+  "tips_of_the_day/S05E111_Neo-Fascism_Bhante_Bodhidhamma": {
+    "score": 5,
+    "note": "Group identity and democratic models relevant to relationships"
+  },
+  "tips_of_the_day/S05E112_The_Gift_of_Joy_Mudita_Bhante_Bodhidhamma": {
+    "score": 6,
+    "note": "Appreciative joy directly addresses relationships with others"
+  },
+  "tips_of_the_day/S05E113_We_just_follow_circumstance_Bhante_Bodhidhamma": {
+    "score": 4,
+    "note": "Compassionate response to others in crisis situations"
+  },
+  "tips_of_the_day/S05E114_To_Love_or_To_Be_Loved_That_is_the_Question_Bhante_Bodhidhamma": {
+    "score": 9,
+    "note": "Directly examines motivations and dynamics in loving relationships"
+  },
+  "tips_of_the_day/S05E115_Samsara_doomed_to_suffer_over_and_over_again_Bhante_Bodhidhamma": {
+    "score": 3,
+    "note": "Historical conflicts mentioned, minimal relationship focus"
+  },
+  "tips_of_the_day/S05E116_Compassion_To_Care_Bhante_Bodhidhamma": {
+    "score": 7,
+    "note": "Compassion as foundation for right relationship with others"
+  },
+  "tips_of_the_day/S05E117_Compassion_A_Path_of_Liberation_Bhante_Bodhidhamma": {
+    "score": 7,
+    "note": "Compassion connecting us with all beings through not-self"
+  },
+  "tips_of_the_day/S05E118_Fifth_Maxim_Develop_the_Body_and_Mind_Noirin_Sheahan": {
+    "score": 2,
+    "note": "Climate preparation focus, minimal relationship content"
+  },
+  "tips_of_the_day/S05E119_The_Buddhas_Alter_Ego_The_World_Conquering_Monarch_Bhante_Bodhidhamma": {
+    "score": 4,
+    "note": "Ethical governance models relevant to right relationship"
+  },
+  "tips_of_the_day/S05E120_There_is_a_Body_Exploring_the_Mind-Body_Relationship_Noirin_Sheahan": {
+    "score": 5,
+    "note": "Mind-body relationship exploration, some relationship relevance"
+  },
+  "tips_of_the_day/S05E121_Self-love_and_Self-Acceptance_Bhante_Bodhidhamma": {
+    "score": 8,
+    "note": "Self-relationship as foundation for loving others properly"
+  },
+  "tips_of_the_day/S05E122_The_Crucial_Role_of_Desire_and_Intention_Bhante_Bodhidhamma": {
+    "score": 3,
+    "note": "Intention in actions, minimal direct relationship focus"
+  },
+  "tips_of_the_day/S05E123_Mindfulness_meets_Metta_Noirin_Sheahan": {
+    "score": 7,
+    "note": "Goodwill and connection with others through awareness"
+  },
+  "tips_of_the_day/S05E124_Surely_meditation_shouldnt_feel_like_this_Noirin_Sheahan": {
+    "score": 3,
+    "note": "Meditation guidance, minimal relationship focus"
+  },
+  "tips_of_the_day/S05E125_The_Fire_Sermon": {
+    "score": 2,
+    "note": "Sensory non-reactivity, minimal relationship content"
+  },
+  "tips_of_the_day/S05E126_Why_spend_a_week_or_more_on_retreat": {
+    "score": 1,
+    "note": "Retreat practice benefits, no relationship focus"
+  },
+  "tips_of_the_day/S05E127_Nibanna_is_Close_at_Hand": {
+    "score": 5,
+    "note": "Brahmavihāras and connection with ordinary life"
+  },
+  "tips_of_the_day/S05E128_AI_Art": {
+    "score": 4,
+    "note": "Human connection through authentic art communication"
+  },
+  "tips_of_the_day/S05E129_A_Field_of_Barley": {
+    "score": 3,
+    "note": "Personal reflection on attachment, minimal relationship focus"
+  },
+  "tips_of_the_day/S05E130_War": {
+    "score": 4,
+    "note": "Equanimity in divisive times, some relationship relevance"
+  },
+  "tips_of_the_day/S05E131_The_Enlightenment_and_its_Demise": {
+    "score": 3,
+    "note": "Cultural analysis, mentions social disconnection briefly"
+  },
+  "tips_of_the_day/S05E132_The_Enlightenment_and_Possible_Salvation": {
+    "score": 5,
+    "note": "Individualism vs social nature, Buddhist solutions"
+  },
+  "tips_of_the_day/S05E133_Sixth_Maxim_Act_for_the_Future_Generations_of_All_Species": {
+    "score": 7,
+    "note": "Explores right relationship with future generations through metta"
+  },
+  "tips_of_the_day/S05E134_Cultivating_Metta_for_Future_Generations": {
+    "score": 6,
+    "note": "Develops loving relationship with future beings through embodied practice"
+  },
+  "retreat_talks/S01E01_Detailed_Guided_Meditation": {
+    "score": 2,
+    "note": "Technical meditation instruction, minimal relationship focus"
+  },
+  "retreat_talks/S01E02_Starting_a_Retreat": {
+    "score": 4,
+    "note": "Includes metta meditation and ethical foundations for relationships"
+  },
+  "retreat_talks/S01E03_Abiding_in_the_Present_Moment_Developing_Equanimity": {
+    "score": 3,
+    "note": "Equanimity relevant to relationships but not primary focus"
+  },
+  "retreat_talks/S01E04_Detailed_Guided_Meditation": {
+    "score": 2,
+    "note": "Technical vipassana instruction, minimal relationship content"
+  },
+  "retreat_talks/S01E05_Assisted_Meditation": {
+    "score": 2,
+    "note": "Mindfulness practice instruction, not relationship focused"
+  },
+  "retreat_talks/S01E06_Heartcare_Metta_Meditation": {
+    "score": 9,
+    "note": "Comprehensive loving-kindness practice for all beings"
+  },
+  "retreat_talks/S01E07_Bodycare_Meditation": {
+    "score": 6,
+    "note": "Transforms relationship with body through metta practice"
+  },
+  "retreat_talks/S02E01_Eating_meditation": {
+    "score": 4,
+    "note": "Explores skillful relationship to pleasure and attachment"
+  },
+  "retreat_talks/S02E02_Morning_Chant_with_Refuges_and_Precepts": {
+    "score": 5,
+    "note": "Includes metta sutta and ethical foundations"
+  },
+  "retreat_talks/S02E03_Evening_Metta_Chant": {
+    "score": 8,
+    "note": "Traditional loving-kindness practice extending to all beings"
+  },
+  "retreat_talks/S03E01_The_Technique": {
+    "score": 2,
+    "note": "Meditation technique instruction, minimal relationship focus"
+  },
+  "retreat_talks/S03E02_The_Hindrances": {
+    "score": 3,
+    "note": "Working with mental obstacles, some relationship relevance"
+  },
+  "retreat_talks/S03E03_The_Factors_of_Enlightenment": {
+    "score": 3,
+    "note": "Positive mental qualities, some relationship application"
+  },
+  "retreat_talks/S03E04_The_Pleasure_Syndrome_dukkha": {
+    "score": 4,
+    "note": "Explores attachment patterns relevant to relationships"
+  },
+  "retreat_talks/S03E05_The_Characteristic_of_Impermanence": {
+    "score": 3,
+    "note": "Impermanence teaching with some relationship implications"
+  },
+  "retreat_talks/S03E06_Anatta_Not_self": {
+    "score": 4,
+    "note": "Not-self teaching affects understanding of relationships"
+  },
+  "retreat_talks/S03E07_Living_Life_according_to_the_Dhamma": {
+    "score": 7,
+    "note": "Covers ethical conduct and right relationship principles"
+  },
+  "retreat_talks/S03E08_Mahasi_Talk": {
+    "score": 2,
+    "note": "Technical meditation instructions, minimal relationship content"
+  },
+  "retreat_talks/S03E09_Vedana_Feeling": {
+    "score": 4,
+    "note": "Understanding feelings affects how we relate"
+  },
+  "retreat_talks/S03E10_Is_Awareness_Enough": {
+    "score": 3,
+    "note": "Spiritual development factors, some relationship relevance"
+  },
+  "retreat_talks/S03E11_Eroticism_Romance_Love_Distraction_and_Boredom": {
+    "score": 8,
+    "note": "Directly addresses romantic relationships and sexual attraction"
+  },
+  "retreat_talks/S03E12_The_Perfections_Turned_Inward": {
+    "score": 5,
+    "note": "Self-care and spiritual qualities affecting relationships"
+  },
+  "retreat_talks/S03E13_Faith": {
+    "score": 3,
+    "note": "Faith development with some relationship applications"
+  },
+  "retreat_talks/S03E14_Revising_the_principles_of_vipassana": {
+    "score": 4,
+    "note": "Mentions relationship with experience, not interpersonal relationships"
+  },
+  "retreat_talks/S03E15_Fear": {
+    "score": 2,
+    "note": "Individual fear work, minimal relationship content"
+  },
+  "retreat_talks/S03E16_Foregiveness": {
+    "score": 8,
+    "note": "Directly addresses forgiveness and victim-perpetrator relationship dynamics"
+  },
+  "retreat_talks/S03E17_The_Gratification_the_Danger_and_the_Escape": {
+    "score": 3,
+    "note": "General framework, touches on relationship with world"
+  },
+  "retreat_talks/S03E18_Karma": {
+    "score": 4,
+    "note": "Mentions interconnectedness but focuses on individual will"
+  },
+  "retreat_talks/S03E19_Rebirth": {
+    "score": 1,
+    "note": "About death and rebirth, not relationships"
+  },
+  "retreat_talks/S03E20_The_Illimitables": {
+    "score": 9,
+    "note": "Four brahmavihara are foundational to right relationship"
+  },
+  "retreat_talks/S04E01_The_Ten_Fetters": {
+    "score": 2,
+    "note": "Individual liberation path, minimal relationship focus"
+  },
+  "retreat_talks/S04E02_The_Awakening": {
+    "score": 1,
+    "note": "Buddha's personal awakening experience"
+  },
+  "retreat_talks/S04E03_The_Years_of_Teaching_and_Parinibbana": {
+    "score": 5,
+    "note": "Shows compassionate teaching relationships with students"
+  },
+  "retreat_talks/S04E04_Ethical_Behaviour_and_the_Awakening_are_one": {
+    "score": 6,
+    "note": "Ethics directly relates to right relationship"
+  },
+  "retreat_talks/S04E05_The_Buddha_as_Exemplar_and_Archetype": {
+    "score": 2,
+    "note": "Individual spiritual journey, not relationship focused"
+  },
+  "retreat_talks/S04E06_Meditation_and_Ordinary_Daily_Life": {
+    "score": 7,
+    "note": "Integrating practice into daily interactions and relationships"
+  },
+  "retreat_talks/S04E07_Free_Will": {
+    "score": 2,
+    "note": "Philosophical exploration, minimal relationship content"
+  },
+  "retreat_talks/S04E08_Karma_Specific_Conditionality_the_Five_Laws_ethical_behaviou": {
+    "score": 6,
+    "note": "Social karma and ethical behavior affect relationships"
+  },
+  "retreat_talks/S04E09_Right_Livelihood": {
+    "score": 7,
+    "note": "Work relationships and dealing with difficult colleagues"
+  },
+  "retreat_talks/S04E10_Chi_Gong_min_guidance": {
+    "score": 0,
+    "note": "Physical movement practice, no relationship content"
+  },
+  "youtube_channel/S01E87_The_Buddha_and_War": {
+    "score": 7,
+    "note": "Explores Buddha's approach to conflict resolution and interpersonal dynamics"
+  }
+}

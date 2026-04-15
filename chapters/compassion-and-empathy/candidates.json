@@ -1,0 +1,3170 @@
+{
+  "guided_meditations/S01E01_Introducing_Vipassana_Insight_Meditation": {
+    "score": 1,
+    "note": "Basic meditation instruction, no compassion/empathy focus"
+  },
+  "guided_meditations/S01E02_Vipassana_Guidelines": {
+    "score": 1,
+    "note": "Technical meditation guidelines, no compassion/empathy content"
+  },
+  "guided_meditations/S01E03_45_minute_Detailed_Guided_Meditation": {
+    "score": 1,
+    "note": "Standard vipassana practice, no compassion/empathy elements"
+  },
+  "guided_meditations/S01E04_45_minute_Assisted_Meditation": {
+    "score": 1,
+    "note": "Basic vipassana meditation, no compassion/empathy focus"
+  },
+  "guided_meditations/S01E05_30_minute_Bodycare_Meditation": {
+    "score": 8,
+    "note": "Metta practice for body, healing relationship through compassion"
+  },
+  "guided_meditations/S01E06_30_minute_Heartcare_Meditation": {
+    "score": 9,
+    "note": "Complete metta practice, forgiveness, loving-kindness to all beings"
+  },
+  "guided_meditations/S01E07_Abiding_in_the_Present_Moment_Developing_Equanimity": {
+    "score": 3,
+    "note": "Equanimity practice, mentions compassion indirectly through non-reactivity"
+  },
+  "guided_meditations/S01E08_Just_Metta": {
+    "score": 9,
+    "note": "Pure loving-kindness meditation, universal compassion development"
+  },
+  "guided_meditations/S01E09_Investigative_Eating": {
+    "score": 1,
+    "note": "Mindful eating practice, no compassion/empathy focus"
+  },
+  "guided_meditations/S01E10_Mahasi_Sayadaw_Introductory_Talk": {
+    "score": 1,
+    "note": "Technical vipassana instruction, no compassion/empathy content"
+  },
+  "guided_meditations/S02E01_Why_Chant": {
+    "score": 2,
+    "note": "Chanting instruction, minimal compassion/empathy relevance"
+  },
+  "guided_meditations/S02E02_Morning_Chant": {
+    "score": 4,
+    "note": "Includes metta meditation within traditional chanting practice"
+  },
+  "guided_meditations/S02E03_Evening_Chant": {
+    "score": 6,
+    "note": "Features metta bhavana and loving-kindness to beings"
+  },
+  "guided_meditations/S02E04_Refuges_and_Precepts": {
+    "score": 2,
+    "note": "Basic liturgy, precepts touch on non-harm"
+  },
+  "guided_meditations/S02E05_Evening_Metta_Chant": {
+    "score": 9,
+    "note": "Pure loving-kindness chant extending goodwill universally"
+  },
+  "guided_meditations/S02E06_Metta_Discourse": {
+    "score": 9,
+    "note": "Classical Metta Sutta, foundational compassion teaching"
+  },
+  "dhammabytes/S01E01_01_Views_about_Spiritual_Paths": {
+    "score": 1,
+    "note": "Spiritual approaches discussion, no compassion/empathy focus"
+  },
+  "dhammabytes/S01E02_02_Discourse_to_the_Kalamas": {
+    "score": 2,
+    "note": "Epistemology teaching, minimal compassion/empathy relevance"
+  },
+  "dhammabytes/S01E03_03_Desire_the_Root_of_Suffering": {
+    "score": 3,
+    "note": "Suffering analysis, touches on attachment and relationships"
+  },
+  "dhammabytes/S01E04_04_How_to_Test_the_Buddha": {
+    "score": 1,
+    "note": "Teacher investigation method, no compassion/empathy content"
+  },
+  "dhammabytes/S02E01_01_Introducing_the_Buddha": {
+    "score": 1,
+    "note": "Buddha's identity across cultures, no compassion focus"
+  },
+  "dhammabytes/S02E02_02_The_Birth_of_the_Buddha": {
+    "score": 1,
+    "note": "Birth narrative, no compassion/empathy content"
+  },
+  "dhammabytes/S02E03_03_The_Bodhisatta_Leaves_Home": {
+    "score": 2,
+    "note": "Renunciation story, minimal compassion/empathy relevance"
+  },
+  "dhammabytes/S02E04_04_The_Essence_of_the_Awakening": {
+    "score": 2,
+    "note": "Dependent origination insight, minimal compassion relevance"
+  },
+  "dhammabytes/S03E01_Anusaya_-_Latent_Tendencies": {
+    "score": 2,
+    "note": "Psychological tendencies, minimal direct compassion/empathy content"
+  },
+  "dhammabytes/S03E02_Asava-Taints_Ogha-Floods_Yoga-Yokes": {
+    "score": 1,
+    "note": "Mental taints discussion, no compassion focus"
+  },
+  "dhammabytes/S03E03_Buddha": {
+    "score": 2,
+    "note": "Buddha qualities mentioned, minimal compassion content"
+  },
+  "dhammabytes/S03E04_Dukkha_-_A_Hard_Place": {
+    "score": 3,
+    "note": "Suffering understanding could relate to compassion development"
+  },
+  "dhammabytes/S03E05_Hetu_-_The_Unwholesome_Roots": {
+    "score": 2,
+    "note": "Psychology of suffering, indirect compassion relevance"
+  },
+  "dhammabytes/S03E06_Panya_-_Wisdom_and_Intuitive_Intelligence": {
+    "score": 1,
+    "note": "Wisdom focus, no direct compassion discussion"
+  },
+  "dhammabytes/S03E07_Puja_-_Devotional_Attention": {
+    "score": 2,
+    "note": "Devotional heart qualities, minimal compassion content"
+  },
+  "dhammabytes/S03E08_Samyojana_-_The_first_three_Fetters": {
+    "score": 1,
+    "note": "Liberation stages, no compassion emphasis"
+  },
+  "dhammabytes/S03E09_Samyojana_-_The_last_seven_Fetters": {
+    "score": 1,
+    "note": "Advanced liberation stages, no compassion focus"
+  },
+  "dhammabytes/S03E10_Sati_-_Knowing": {
+    "score": 1,
+    "note": "Awareness practice, no compassion discussion"
+  },
+  "dhammabytes/S03E11_Sati_in_Daily_Life": {
+    "score": 2,
+    "note": "Mindful engagement mentions care, minimal compassion"
+  },
+  "dhammabytes/S03E12_Sila_-_Good_Conduct": {
+    "score": 4,
+    "note": "Ethical conduct transforms harm into compassion"
+  },
+  "dhammabytes/S04E01_01_Dana_Generosity": {
+    "score": 5,
+    "note": "Generosity practice relates to compassionate giving"
+  },
+  "dhammabytes/S04E02_02_Sila_Virtuous_Conduct": {
+    "score": 4,
+    "note": "Protecting life, ethical compassion foundation"
+  },
+  "dhammabytes/S04E03_03_Nekkhamma_Renunciation": {
+    "score": 1,
+    "note": "Renunciation practice, no compassion emphasis"
+  },
+  "dhammabytes/S04E04_04_Panya_Intuitive_Intelligence_and_Wisdom": {
+    "score": 1,
+    "note": "Wisdom development, no compassion focus"
+  },
+  "dhammabytes/S04E05_05_Viriya_Effort": {
+    "score": 1,
+    "note": "Effort in practice, no compassion discussion"
+  },
+  "dhammabytes/S04E06_06_Khanti_Patience": {
+    "score": 3,
+    "note": "Patience reduces suffering, relates to compassion"
+  },
+  "dhammabytes/S04E07_07_Sacca_Honesty": {
+    "score": 1,
+    "note": "Truthfulness practice, no compassion emphasis"
+  },
+  "dhammabytes/S04E08_08_Adhitthana_Resolution": {
+    "score": 1,
+    "note": "Resolution practice, no compassion focus"
+  },
+  "dhammabytes/S05E01_Metta_-_Love": {
+    "score": 7,
+    "note": "Loving-kindness practice, foundation for compassion"
+  },
+  "dhammabytes/S05E02_Karuna_-_Compassion": {
+    "score": 10,
+    "note": "Directly about compassion practice and understanding"
+  },
+  "dhammabytes/S05E03_Mudita_-_Pure_Joy": {
+    "score": 6,
+    "note": "Sympathetic joy, part of compassionate heart"
+  },
+  "dhammabytes/S05E04_Upekkha_-_Equanimity": {
+    "score": 4,
+    "note": "Equanimity balances compassion, prevents overwhelm"
+  },
+  "dhammabytes/S06E01_Buddha_as_Refuge": {
+    "score": 2,
+    "note": "Buddha qualities, minimal compassion content"
+  },
+  "dhammabytes/S06E02_Dhamma_as_Refuge": {
+    "score": 1,
+    "note": "Dhamma refuge, no compassion emphasis"
+  },
+  "dhammabytes/S06E03_Sangha_as_Refuge": {
+    "score": 4,
+    "note": "Mentions respect and reverence for noble disciples"
+  },
+  "dhammabytes/S07E01_Khandha_The_Aggregates": {
+    "score": 1,
+    "note": "Technical teaching on aggregates, minimal compassion content"
+  },
+  "dhammabytes/S07E02_Rupa_Corporeality": {
+    "score": 1,
+    "note": "Technical analysis of body experience, no compassion focus"
+  },
+  "dhammabytes/S07E03_Vedana_Feeling": {
+    "score": 2,
+    "note": "Discusses feelings but not compassionate response to them"
+  },
+  "dhammabytes/S07E04_Sanya_Perception_Vedana_Feeling": {
+    "score": 2,
+    "note": "Technical teaching on perception and feeling mechanisms"
+  },
+  "dhammabytes/S07E05_Sankhara_Volitional_Conditioning": {
+    "score": 3,
+    "note": "Touches on intentional actions but not compassion specifically"
+  },
+  "dhammabytes/S07E06_Summing_up": {
+    "score": 1,
+    "note": "Summary of aggregates teaching, minimal compassion content"
+  },
+  "dhammabytes/S08E01_1_Avijja_-_not-knowing": {
+    "score": 4,
+    "note": "Discusses innocent ignorance with understanding rather than judgment"
+  },
+  "dhammabytes/S08E02_2_Nama_Rupa_Body_Mind": {
+    "score": 1,
+    "note": "Technical teaching on body-mind complex, no compassion focus"
+  },
+  "dhammabytes/S08E03_3_Salayatana_Vedana_Phasa_Six_senses_Contact_Feeling": {
+    "score": 1,
+    "note": "Technical analysis of sense processes, minimal compassion content"
+  },
+  "dhammabytes/S08E04_4_Tanha_Upadana_Bhava_Craving_Grasping_Becoming": {
+    "score": 2,
+    "note": "Explains suffering mechanisms but not compassionate response"
+  },
+  "dhammabytes/S08E05_5_paticca_samuppada_dependent_origination_to_samsara": {
+    "score": 2,
+    "note": "Technical teaching on dependent origination, minimal compassion focus"
+  },
+  "dhammabytes/S08E06_6_Another_model_of_Dependent_Orgination": {
+    "score": 3,
+    "note": "Shows path from suffering to liberation through wise reflection"
+  },
+  "dhammabytes/S09E01_1_Indulgence": {
+    "score": 2,
+    "note": "Discusses avoiding extremes but not compassion specifically"
+  },
+  "dhammabytes/S09E02_2_Self-Mortification": {
+    "score": 5,
+    "note": "Addresses self-hatred and psychological self-judgment with understanding"
+  },
+  "dhammabytes/S09E03_3_The_First_Noble_Truth_of_Suffering": {
+    "score": 6,
+    "note": "Explores suffering with understanding and wise relationship to pain"
+  },
+  "dhammabytes/S09E04_4_Second_Noble_TruthThe_Cause_of_Suffering": {
+    "score": 3,
+    "note": "Explains causes of suffering but not compassionate response"
+  },
+  "dhammabytes/S09E05_5_The_Third_Noble_TruthThe_End_of_Suffering": {
+    "score": 4,
+    "note": "Offers hope for liberation from suffering"
+  },
+  "dhammabytes/S09E06_6_The_Fourth_Noble_Truth_The_Eightfold_Path": {
+    "score": 3,
+    "note": "Presents path to end suffering, includes ethical conduct"
+  },
+  "dhammabytes/S09E07_7_The_Buddhas_Enlightenment_becomes_universal": {
+    "score": 2,
+    "note": "Focuses on enlightenment process, minimal compassion content"
+  },
+  "dhammabytes/S10E01_1_Not-self_-_Control": {
+    "score": 2,
+    "note": "Technical teaching on not-self, minimal compassion focus"
+  },
+  "dhammabytes/S10E02_2_Not-self_-_Impermanence_and_Suffering": {
+    "score": 3,
+    "note": "Addresses suffering through understanding impermanence"
+  },
+  "dhammabytes/S10E03_3_Not-self_-_Recap_and_Metaphors": {
+    "score": 2,
+    "note": "Uses metaphors to explain not-self, minimal compassion content"
+  },
+  "dhammabytes/S11E01_01_Sickness_Ageing_and_Death": {
+    "score": 7,
+    "note": "Addresses facing harsh realities with understanding and acceptance"
+  },
+  "dhammabytes/S11E02_02_Divine_Messengers": {
+    "score": 6,
+    "note": "Explores shared human condition and mindful awareness of suffering"
+  },
+  "dhammabytes/S11E03_03_The_Two_Darts": {
+    "score": 4,
+    "note": "Discusses suffering and reactions, touches on compassionate understanding"
+  },
+  "dhammabytes/S11E04_04_The_Eight_Worldy_Conditions": {
+    "score": 3,
+    "note": "Mentions understanding others' experiences but not primarily compassion"
+  },
+  "dhammabytes/S11E05_05_Clinging_causes_Anxiety_plus": {
+    "score": 2,
+    "note": "Focuses on personal suffering, minimal compassion content"
+  },
+  "dhammabytes/S11E06_06_Mahakassapa_Explains_the_Cause_of_Conflict": {
+    "score": 3,
+    "note": "Explains conflict causes, indirectly relates to compassionate understanding"
+  },
+  "dhammabytes/S11E07_07_Envy_and_Niggardliness_the_Cause_of_Conflict": {
+    "score": 3,
+    "note": "Addresses conflict roots, touches on understanding others' motivations"
+  },
+  "dhammabytes/S11E08_08_Detailed_Sequence_Leading_to_Conflict": {
+    "score": 3,
+    "note": "Explains psychological processes behind conflict, relates to empathy"
+  },
+  "dhammabytes/S11E09_09_Power": {
+    "score": 2,
+    "note": "Discusses power dynamics, minimal direct compassion content"
+  },
+  "dhammabytes/S11E10_10_Samsara_Onward_Going": {
+    "score": 2,
+    "note": "Focuses on cyclical existence, limited compassion discussion"
+  },
+  "dhammabytes/S11E11_11_Rounds_of_Becoming": {
+    "score": 2,
+    "note": "Continues samsara theme, minimal compassion or empathy content"
+  },
+  "dhammabytes/S11E12_12_Short_Review_of_the_Human_Condition": {
+    "score": 4,
+    "note": "Reviews suffering and understanding, touches on compassionate awareness"
+  },
+  "dhammabytes/S12E01_1_Righteous_Governement_and_Righteous_Ruler": {
+    "score": 5,
+    "note": "Discusses caring leadership and protection of others"
+  },
+  "dhammabytes/S12E02_2_The_Ruler": {
+    "score": 5,
+    "note": "Explores compassionate governance and wise economic policy"
+  },
+  "dhammabytes/S12E03_3_The_Six_Directions_Ritual_as_useless_or_meaningful": {
+    "score": 6,
+    "note": "Focuses on loving-kindness in relationships and directions"
+  },
+  "dhammabytes/S12E04_4_Parents_and_Chidren": {
+    "score": 6,
+    "note": "Examines mutual care and compassion in family relationships"
+  },
+  "dhammabytes/S12E05_5_Husbands_and_Wives": {
+    "score": 5,
+    "note": "Discusses caring relationships and mutual support in marriage"
+  },
+  "dhammabytes/S12E06_6_What_makes_for_a_Good_Life": {
+    "score": 4,
+    "note": "Includes good friendship and caring for others"
+  },
+  "dhammabytes/S12E07_7_Use_of_wealth_for_Happiness": {
+    "score": 5,
+    "note": "Emphasizes using wealth to create happiness for others"
+  },
+  "dhammabytes/S12E08_8_Virtues_of_a_Good_Spouse": {
+    "score": 4,
+    "note": "Discusses harmonious relationships and caring domestic life"
+  },
+  "foundation_course/S01E01_The_First_Noble_Truth_-_Dukkha_Dukkha": {
+    "score": 3,
+    "note": "Addresses suffering understanding, foundation for developing compassion"
+  },
+  "foundation_course/S01E02_The_First_Noble_Truth_-_Conditioned_States": {
+    "score": 2,
+    "note": "Technical analysis of experience, minimal compassion content"
+  },
+  "foundation_course/S01E03_The_First_Noble_Truth_-_The_Three_Characteristics": {
+    "score": 2,
+    "note": "Focuses on impermanence and not-self, limited compassion"
+  },
+  "foundation_course/S01E04_The_Second_Noble_Truth_-_The_Cause_of_Suffering_-_Desire": {
+    "score": 3,
+    "note": "Understanding suffering causes can inform compassionate response"
+  },
+  "foundation_course/S01E05_The_Second_Noble_Truth_-_The_Wheel_of_Dependent_Origination": {
+    "score": 3,
+    "note": "Explains suffering mechanisms, basis for compassionate understanding"
+  },
+  "foundation_course/S01E06_The_Second_Noble_Truth_-_Kamma": {
+    "score": 2,
+    "note": "Discusses moral causation, limited direct compassion content"
+  },
+  "foundation_course/S01E07_The_Fourth_Noble_Truth_-_Morality_-_Sila": {
+    "score": 4,
+    "note": "Morality includes non-harming and caring for others"
+  },
+  "foundation_course/S01E08_The_Fourth_Noble_Truth_-_Positive_Morality_-_Parami": {
+    "score": 7,
+    "note": "Discusses mettā (loving-kindness) as one of ten perfections"
+  },
+  "foundation_course/S01E09_The_Fourth_Noble_Truth_-_Right_Understanding": {
+    "score": 2,
+    "note": "Focuses on wisdom and understanding, minimal compassion content"
+  },
+  "foundation_course/S01E10_The_Fourth_Noble_Truth_-_Mental_Development_-_Samadhi": {
+    "score": 2,
+    "note": "Meditation technique focused, minimal compassion/empathy discussion"
+  },
+  "foundation_course/S02E01_Moods_Emotions_and_Feelings": {
+    "score": 4,
+    "note": "Explores emotional patterns but not specifically compassion/empathy"
+  },
+  "foundation_course/S02E02_Guilt_-_Real_and_Unreal": {
+    "score": 5,
+    "note": "Discusses compassionate approach to guilt and self-judgment"
+  },
+  "foundation_course/S02E03_The_End_of_Guilt": {
+    "score": 6,
+    "note": "Demonstrates compassionate Buddhist approach to moral transgressions"
+  },
+  "foundation_course/S02E04_Right_Intention": {
+    "score": 6,
+    "note": "Covers transformation of ill-will into non-aversion and harmlessness"
+  },
+  "foundation_course/S02E05_The_Divine_Abodes": {
+    "score": 9,
+    "note": "Primarily about loving-kindness, compassion, sympathetic joy, equanimity"
+  },
+  "foundation_course/S02E06_Faith_or_Belief": {
+    "score": 1,
+    "note": "Focuses on faith versus belief, minimal compassion content"
+  },
+  "foundation_course/S02E07_Wheel_of_Dependent_Origination": {
+    "score": 2,
+    "note": "Technical teaching on causation, minimal compassion discussion"
+  },
+  "foundation_course/S02E08_Kamma": {
+    "score": 2,
+    "note": "Explains karmic law, minimal direct compassion/empathy content"
+  },
+  "foundation_course/S02E09_The_Sangha": {
+    "score": 3,
+    "note": "Community structure discussion, mentions compassionate organization briefly"
+  },
+  "foundation_course/S02E10_The_Four_Paths_and_the_Four_Fruits": {
+    "score": 2,
+    "note": "Technical stages of awakening, minimal compassion focus"
+  },
+  "foundation_course/S02E11_The_Noble_Silence": {
+    "score": 2,
+    "note": "Meditation technique and hindrances, minimal compassion content"
+  },
+  "dharma_talks/S01E01_Why_Meditate": {
+    "score": 2,
+    "note": "Meditation purpose and technique, minimal compassion discussion"
+  },
+  "dharma_talks/S01E02_The_Mahasi_Method": {
+    "score": 1,
+    "note": "Technical meditation instruction, no compassion/empathy focus"
+  },
+  "dharma_talks/S01E03_Starting_a_Personal_Retreat": {
+    "score": 2,
+    "note": "Retreat guidance, minimal compassion/empathy content"
+  },
+  "dharma_talks/S01E04_Faith": {
+    "score": 2,
+    "note": "Explores faith as spiritual faculty, minimal compassion focus"
+  },
+  "dharma_talks/S01E05_Ritual_in_Spiritual_Practice": {
+    "score": 2,
+    "note": "Ritual and ceremony discussion, minimal compassion content"
+  },
+  "dharma_talks/S01E06_Is_Awareness_Enough": {
+    "score": 2,
+    "note": "Awareness and awakening factors, minimal compassion discussion"
+  },
+  "dharma_talks/S01E07_Developing_the_Spiritual_Faculties": {
+    "score": 3,
+    "note": "Spiritual faculties including equanimity, mentions compassion briefly"
+  },
+  "dharma_talks/S01E08_Spiritual_Faculties_and_Factors_of_Enlightenment": {
+    "score": 3,
+    "note": "Spiritual qualities discussion, mentions compassion in passing"
+  },
+  "dharma_talks/S01E09_The_Hindrances": {
+    "score": 3,
+    "note": "Mental obstacles in meditation, mentions ill-will briefly"
+  },
+  "dharma_talks/S01E10_The_Buddha_and_the_Hindrances": {
+    "score": 3,
+    "note": "Buddha's journey and hindrances, mentions ill-will transformation"
+  },
+  "dharma_talks/S01E11_Dullness_Lethargy_Restlessness_and_Pain": {
+    "score": 2,
+    "note": "Practical meditation guidance, minimal compassion/empathy focus"
+  },
+  "dharma_talks/S01E12_Eroticism_Romance_Love_Distraction_and_Boredom": {
+    "score": 2,
+    "note": "Focuses on attachment and lust, minimal compassion content"
+  },
+  "dharma_talks/S01E13_The_Ten_Fetters": {
+    "score": 1,
+    "note": "Technical teaching on fetters, no compassion focus"
+  },
+  "dharma_talks/S01E14_Vedana_Feeling": {
+    "score": 3,
+    "note": "Mentions healing but primarily about feeling-tone psychology"
+  },
+  "dharma_talks/S01E15_Fear": {
+    "score": 4,
+    "note": "Self-compassion implied in working skillfully with difficult emotions"
+  },
+  "dharma_talks/S01E16_Foregiveness": {
+    "score": 7,
+    "note": "Forgiveness directly relates to compassion through psychological understanding"
+  },
+  "dharma_talks/S01E17_The_Illimitables": {
+    "score": 9,
+    "note": "Primary focus on compassion as one of four brahmavihāras"
+  },
+  "dharma_talks/S01E18_The_Perfections_Turned_Inward": {
+    "score": 8,
+    "note": "Self-compassion and loving-kindness as core spiritual practices"
+  },
+  "dharma_talks/S02E01_Survey_of_Theravada_Buddhism": {
+    "score": 2,
+    "note": "Comprehensive overview, compassion mentioned but not emphasized"
+  },
+  "dharma_talks/S02E02_Impermanence_and_Not-self": {
+    "score": 1,
+    "note": "Focuses on impermanence and not-self, minimal compassion"
+  },
+  "dharma_talks/S02E03_Ethical_Behaviour_and_the_Awakening_are_one": {
+    "score": 5,
+    "note": "Compassionate action from wisdom, but ethics-focused"
+  },
+  "dharma_talks/S02E04_Wheel_of_Dependent_Origination": {
+    "score": 1,
+    "note": "Technical teaching on dependent origination psychology"
+  },
+  "dharma_talks/S02E05_Free_Will": {
+    "score": 1,
+    "note": "Philosophical exploration of free will, no compassion"
+  },
+  "dharma_talks/S02E06_Kamma": {
+    "score": 2,
+    "note": "Kamma teaching with minimal compassion references"
+  },
+  "dharma_talks/S02E07_Rebirth": {
+    "score": 1,
+    "note": "Rebirth doctrine explanation, no compassion focus"
+  },
+  "dharma_talks/S02E08_Premodern_Modern_Postmodernism_And_Buddhism": {
+    "score": 1,
+    "note": "Cultural analysis of worldviews, no compassion content"
+  },
+  "dharma_talks/S02E09_The_Buddha_as_Exemplar_and_Archetype": {
+    "score": 2,
+    "note": "Buddha's journey template, minimal compassion emphasis"
+  },
+  "dharma_talks/S02E10_Buddhist_View_of_Christs_Teaching": {
+    "score": 6,
+    "note": "Love and compassion central to Christ-Buddha comparison"
+  },
+  "dharma_talks/S02E11_Just_War": {
+    "score": 4,
+    "note": "Violence vs compassion, but war-focused rather than compassion"
+  },
+  "dharma_talks/S02E12_The_Gratification_the_Danger_and_the_Escape": {
+    "score": 1,
+    "note": "Framework of pleasure-seeking, no compassion focus"
+  },
+  "dharma_talks/S03E01_Bodhisatta_Before_Taking_Human_Birth": {
+    "score": 2,
+    "note": "Buddha archetype, surrender themes, minimal compassion"
+  },
+  "dharma_talks/S03E02_Bodhisattas_Birth_to_Renunciation": {
+    "score": 1,
+    "note": "Buddha's early life, no compassion emphasis"
+  },
+  "dharma_talks/S03E03_Bodhisattas_Training_to_the_Awakening": {
+    "score": 1,
+    "note": "Buddha's training journey, no compassion focus"
+  },
+  "dharma_talks/S03E04_The_Awakening": {
+    "score": 1,
+    "note": "Buddha's awakening experience, technical Four Noble Truths"
+  },
+  "dharma_talks/S03E05_The_Years_of_Teaching_and_Parinibbana": {
+    "score": 6,
+    "note": "Buddha's compassion motivating teaching, skillful compassionate responses"
+  },
+  "dharma_talks/S04E01_Meditation_and_Daily_Life": {
+    "score": 3,
+    "note": "Service and mindful living, some compassion implications"
+  },
+  "dharma_talks/S04E02_Meditation_and_the_Weekly_Group": {
+    "score": 4,
+    "note": "Mentions love/heat aspect of path, generosity vs selfishness"
+  },
+  "dharma_talks/S04E03_The_Eightfold_Path_and_Daily_Life": {
+    "score": 2,
+    "note": "Brief mention of ethical conduct, no compassion focus"
+  },
+  "dharma_talks/S04E04_Right_Livelihood": {
+    "score": 3,
+    "note": "Touches on avoiding harm to others in work"
+  },
+  "dharma_talks/S05E01_1_Starting_a_Retreat": {
+    "score": 6,
+    "note": "Includes loving-kindness meditation practice and harmlessness precepts"
+  },
+  "dharma_talks/S05E02_Starting_a_Retreat": {
+    "score": 1,
+    "note": "Focuses on meditation technique, no compassion content"
+  },
+  "dharma_talks/S05E03_A_Detailed_Guided_Meditation": {
+    "score": 1,
+    "note": "Technical meditation instruction, no compassion emphasis"
+  },
+  "dharma_talks/S05E04_Investigative_Eating_Meditation_-_an_explanation": {
+    "score": 2,
+    "note": "Mentions freedom from suffering, no direct compassion"
+  },
+  "dharma_talks/S05E05_2_The_Mahasi_Technique": {
+    "score": 1,
+    "note": "Technical meditation method, no compassion content"
+  },
+  "dharma_talks/S05E06_Basics_of_Insight_Meditation_02_2025Video": {
+    "score": 2,
+    "note": "Explores suffering nature, minimal compassion focus"
+  },
+  "dharma_talks/S05E07_Basics_of_Insight_Meditation_04_2026Video": {
+    "score": 2,
+    "note": "Discusses suffering characteristics, no direct compassion"
+  },
+  "dharma_talks/S05E08_4_The_Hindrances_The_Psychotherapy_of_Vipassana": {
+    "score": 3,
+    "note": "Addresses ill-will hindrance, therapeutic approach to suffering"
+  },
+  "dharma_talks/S05E09_5_Right_Awareness_Introto_Vipassana": {
+    "score": 2,
+    "note": "Mentions existential crisis, minimal compassion content"
+  },
+  "dharma_talks/S05E10_6_The_Seven_Factors_of_Awakening": {
+    "score": 2,
+    "note": "Mentions joy and equanimity, no direct compassion"
+  },
+  "dharma_talks/S05E11_7_The_Ethical_Psychology_of_the_Buddha_Dependent_Origination": {
+    "score": 3,
+    "note": "Explores suffering creation, ethical psychology framework"
+  },
+  "dharma_talks/S05E12_8_The_Law_of_Kamma": {
+    "score": 3,
+    "note": "Discusses ethical dimension, consciousness and suffering"
+  },
+  "dharma_talks/S05E13_8_Living_Life_according_to_the_Dhamma": {
+    "score": 5,
+    "note": "Covers Right Speech with kindness, assertiveness vs aggression"
+  },
+  "dharma_talks/S05E14_Guided_Metta": {
+    "score": 9,
+    "note": "Comprehensive loving-kindness meditation practice and forgiveness work"
+  },
+  "dharma_talks/S05E15_Guided_Bodycare": {
+    "score": 7,
+    "note": "Develops metta toward body, transforms attachment into appreciation"
+  },
+  "dharma_talks/S06E01_Developing_the_Factors_of_Enlightenment": {
+    "score": 2,
+    "note": "Mentions joy and equanimity factors, no compassion"
+  },
+  "dharma_talks/S06E02_Exploring_Dukkha": {
+    "score": 4,
+    "note": "Explores suffering and transcendent awareness, some empathy"
+  },
+  "dharma_talks/S06E03_Question_Answer_Session": {
+    "score": 4,
+    "note": "Discusses service to others, engaged Buddhism social responsibility"
+  },
+  "dharma_talks/S06E04_Revising_the_Principles_of_Meditation": {
+    "score": 2,
+    "note": "Pure awareness practice, minimal compassion content"
+  },
+  "dharma_talks/S06E05_The_Hindrances": {
+    "score": 3,
+    "note": "Addresses aversion and wanting cycles, transformation process"
+  },
+  "dharma_talks/S07E01_Practice_into_Daily_Life_Xmas_2006": {
+    "score": 2,
+    "note": "Daily awareness practice, minimal compassion focus"
+  },
+  "dharma_talks/S07E02_New_Year_Reflections": {
+    "score": 6,
+    "note": "Service undertaking emphasizes putting others' welfare first"
+  },
+  "dharma_talks/S08E01_QA_Resistance_Rebirth_and_Moral_Justice_What_suffers_Mindfulness_Apps_Spiritual": {
+    "score": 2,
+    "note": "Mentions moral justice and suffering but not compassion/empathy focus"
+  },
+  "dharma_talks/S09E01_01_The_Body_-_The_Buddhas_World_View_and_the_role_of_Materiality_rupaTo_play_the": {
+    "score": 1,
+    "note": "Technical analysis of materiality, no compassion/empathy content"
+  },
+  "dharma_talks/S09E02_02_The_Body_-_Kayagasati_Sutta_MN131To_play_the_media_you_will_need_to_either_up": {
+    "score": 1,
+    "note": "Body meditation techniques, minimal compassion/empathy discussion"
+  },
+  "dharma_talks/S09E03_Feeling_vedanaTo_play_the_media_you_will_need_to_either_update_your_browser_to_a": {
+    "score": 2,
+    "note": "Explores feelings and suffering but not compassion/empathy specifically"
+  },
+  "dharma_talks/S09E04_Dependent_Origination_leading_to_awakening_in_ordinary_Daily_lifeTo_play_the_med": {
+    "score": 2,
+    "note": "Liberation from suffering focus, minimal compassion/empathy content"
+  },
+  "dharma_talks/S09E05_To_play_the_media_you_will_need_to_either_update_your_browser_to_a_recent_versio": {
+    "score": 1,
+    "note": "Nibbana and awakening focus, no compassion/empathy emphasis"
+  },
+  "dharma_talks/S09E06_To_play_the_media_you_will_need_to_either_update_your_browser_to_a_recent_versio": {
+    "score": 3,
+    "note": "Supreme blessings include virtues but limited compassion/empathy focus"
+  },
+  "dharma_talks/S09E07_Ethics_Not-self_and_LiberationTo_play_the_media_you_will_need_to_either_update_y": {
+    "score": 2,
+    "note": "Ethics and liberation focus, minimal compassion/empathy content"
+  },
+  "dharma_talks/S09E08_Roads_to_PowerTo_play_the_media_you_will_need_to_either_update_your_browser_to_a": {
+    "score": 1,
+    "note": "37 factors of awakening, technical spiritual development"
+  },
+  "dharma_talks/S09E09_New_Year_address_on_the_qualities_needed_to_succeed_The_Roads_to_SuccessTo_play": {
+    "score": 1,
+    "note": "Spiritual success factors, no compassion/empathy emphasis"
+  },
+  "dharma_talks/S09E10_The_First_Discourse_on_Turning_the_Wheel_of_the_DhammaTo_play_the_media_you_will": {
+    "score": 2,
+    "note": "Four Noble Truths and Eightfold Path, minimal compassion content"
+  },
+  "dharma_talks/S09E11_Scientism_Romanticism_Psychotherapy_-_and_BuddhadhammaTo_play_the_media_you_wi": {
+    "score": 1,
+    "note": "Cultural analysis of Buddhism, no compassion/empathy focus"
+  },
+  "dharma_talks/S09E12_Kamma_Rebirth_and_Transcendence_A_top_down_view_of_the_BuddhadhammaTo_play_the": {
+    "score": 1,
+    "note": "Transcendence and rebirth focus, no compassion/empathy content"
+  },
+  "dharma_talks/S09E13_The_Discourse_to_the_Kalama_Discernment_the_Ethical_Life_and_Fake_NewsTo_play_t": {
+    "score": 2,
+    "note": "Ethical discernment and harmful effects, minimal compassion focus"
+  },
+  "dharma_talks/S10E01_Buddha_Day_Address_What_was_the_mindset_of_the_Bodhisatta_when_he_left_his_famil": {
+    "score": 4,
+    "note": "Buddha's compassionate motivation for seeking liberation for all beings"
+  },
+  "dharma_talks/S10E02_Spiritual_progress_-_stop_tryingTo_play_the_media_you_will_need_to_either_update": {
+    "score": 1,
+    "note": "Spiritual seeking paradox, no compassion/empathy emphasis"
+  },
+  "dharma_talks/S10E04_The_Need_for_Sangha_community_and_Qs_about_Ordinary_Daily_LifeTo_play_the_media": {
+    "score": 3,
+    "note": "Community support and mutual care, some compassion elements"
+  },
+  "dharma_talks/S11E01_Mae_Chee_Kaew_and_ResolutionsTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 1,
+    "note": "Liberation teachings, no compassion/empathy focus"
+  },
+  "dharma_talks/S11E02_The_Three_CharacteristicsTo_play_the_media_you_will_need_to_either_update_your_b": {
+    "score": 1,
+    "note": "Three characteristics analysis, no compassion/empathy content"
+  },
+  "dharma_talks/S11E03_Buddha_Day_Address_May_2015To_play_the_media_you_will_need_to_either_update_your": {
+    "score": 4,
+    "note": "Buddha's compassionate motivation and systematic teaching for all beings"
+  },
+  "dharma_talks/S11E04_DeconstructionTo_play_the_media_you_will_need_to_either_update_your_browser_to_a": {
+    "score": 1,
+    "note": "Technical deconstruction of experience, no compassion/empathy focus"
+  },
+  "dharma_talks/S11E05_Love_and_All_ThatTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 7,
+    "note": "Loving-kindness, attachment vs love, wholesome relationships - substantial compassion content"
+  },
+  "dharma_talks/S11E06_Ethics_Not-self_and_LiberationTo_play_the_media_you_will_need_to_either_update_y": {
+    "score": 2,
+    "note": "Ethics and liberation connection, minimal compassion/empathy content"
+  },
+  "dharma_talks/S12E01_Contol_and_loss_of_PowerTo_play_the_media_you_will_need_to_either_update_your_br": {
+    "score": 1,
+    "note": "Control and letting go, no compassion/empathy emphasis"
+  },
+  "dharma_talks/S12E02_QA_Detachment_Engagement_Motivation_DevotionTo_play_the_media_you_will_need_to_e": {
+    "score": 4,
+    "note": "Balancing detachment with emotional engagement and heart practices"
+  },
+  "dharma_talks/S12E03_Basics_for_MeditationTo_play_the_media_you_will_need_to_either_update_your_brows": {
+    "score": 1,
+    "note": "Meditation fundamentals, no specific compassion/empathy focus"
+  },
+  "dharma_talks/S12E04_Kamma_RevisitedTo_play_the_media_you_will_need_to_either_update_your_browser_to": {
+    "score": 2,
+    "note": "Kamma discussion, minimal compassion content"
+  },
+  "dharma_talks/S12E05_Daily_Life_ReinforcedTo_play_the_media_you_will_need_to_either_update_your_brows": {
+    "score": 5,
+    "note": "Ten pāramīs include mettā, loving-kindness as perfection"
+  },
+  "dharma_talks/S12E06_RefinementSublimation_and_the_Eightfold_PathTo_play_the_media_you_will_need_to_e": {
+    "score": 3,
+    "note": "Mentions hatred transforming to opposite through meditation"
+  },
+  "dharma_talks/S12E07_No_Inherent_BeingTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 2,
+    "note": "Interconnectedness discussed but not compassion focus"
+  },
+  "dharma_talks/S12E08_Kamma_and_Free_WillTo_play_the_media_you_will_need_to_either_update_your_browser": {
+    "score": 4,
+    "note": "Ten pāramīs including mettā, loving-kindness mentioned"
+  },
+  "dharma_talks/S12E09_Comments_on_a_Statement_by_Mae_Chee_KaewTo_play_the_media_you_will_need_to_eithe": {
+    "score": 1,
+    "note": "Four Noble Truths focus, minimal compassion content"
+  },
+  "dharma_talks/S12E10_Reiki_10_06_2015To_play_the_media_you_will_need_to_either_update_your_browser_to": {
+    "score": 7,
+    "note": "Compassionate healing techniques, kindness cultivation, energy work"
+  },
+  "dharma_talks/S12E11_Intro_Talk_to_BodycareTo_play_the_media_you_will_need_to_either_update_your_brow": {
+    "score": 1,
+    "note": "Vipassanā meditation introduction, no compassion focus"
+  },
+  "dharma_talks/S12E12_Dependent_Origination_and_the_Quality_of_Right_AwarenessTo_play_the_media_you_wi": {
+    "score": 1,
+    "note": "Dependent origination teaching, no compassion emphasis"
+  },
+  "dharma_talks/S12E13_Talk_at_the_Re-opening_of_the_Golden_Buddha_Centre_in_TotnesTo_play_the_media_yo": {
+    "score": 1,
+    "note": "Buddha's awakening journey, minimal compassion content"
+  },
+  "dharma_talks/S12E14_The_Prognosis_is_Very_GoodTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 1,
+    "note": "Four Noble Truths exploration, no compassion focus"
+  },
+  "dharma_talks/S13E01_Importance_of_Resolution_plusTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 2,
+    "note": "Resolution and psychology, minimal compassion content"
+  },
+  "dharma_talks/S13E02_Christmas_Talk_re_the_PathTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 6,
+    "note": "Christmas goodwill connects to mettā, loving-kindness emphasis"
+  },
+  "dharma_talks/S13E03_Right_RelationshipTo_play_the_media_you_will_need_to_either_update_your_browser": {
+    "score": 7,
+    "note": "Ten pāramīs in relationships, generosity, forbearance, compassionate connections"
+  },
+  "dharma_talks/S13E04_How_to_critique_the_Dhamma_and_BuddhaTo_play_the_media_you_will_need_to_either_u": {
+    "score": 1,
+    "note": "Kālāma Sutta on inquiry, no compassion focus"
+  },
+  "dharma_talks/S13E05_An_Attempt_to_Understand_the_teaching_of_Not-SelfTo_play_the_media_you_will_need": {
+    "score": 1,
+    "note": "Not-self teaching, no compassion emphasis"
+  },
+  "dharma_talks/S13E06_Talk_to_the_European_Teachers_Meeting_How_I_came_to_establish_a_non-communityTo": {
+    "score": 1,
+    "note": "Personal story of establishing center, minimal compassion"
+  },
+  "dharma_talks/S14E01_HappinessTo_play_the_media_you_will_need_to_either_update_your_browser_to_a_rece": {
+    "score": 2,
+    "note": "Happiness and well-being, minimal compassion content"
+  },
+  "dharma_talks/S14E02_The_Body_and_the_Discourse_on_How_to_Establish_Right_AwarenessTo_play_the_media": {
+    "score": 1,
+    "note": "Body contemplation in Satipaṭṭhāna, no compassion focus"
+  },
+  "dharma_talks/S14E03_QA_session_Family_Distractions_Selfish_to_Meditate_Negative_Emotions_Sufferin": {
+    "score": 4,
+    "note": "Addresses selfishness concerns, service heart, handling emotions"
+  },
+  "dharma_talks/S14E04_Mindfulness_TimeTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 2,
+    "note": "Mindfulness and suffering, minimal compassion content"
+  },
+  "dharma_talks/S14E05_Monks_Daily_Life_Not-SelfTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 2,
+    "note": "Monastic life and practice, minimal compassion focus"
+  },
+  "dharma_talks/S14E06_Retreats_Attachment_Children_and_SufferingTo_play_the_media_you_will_need_to_e": {
+    "score": 3,
+    "note": "Parent-child attachment, relationships, some empathy discussion"
+  },
+  "dharma_talks/S15E01_New_Year_Revision_of_Buddhadhamma_Theory_and_PracticeTo_play_the_media_you_will": {
+    "score": 1,
+    "note": "Suffering analysis through khandhas, no compassion emphasis"
+  },
+  "dharma_talks/S15E02_Hope_to_InspireTo_play_the_media_you_will_need_to_either_update_your_browser_to": {
+    "score": 2,
+    "note": "Focuses on meditation factors, minimal compassion content"
+  },
+  "dharma_talks/S15E03_Talk_at_Opening_of_centre_in_GhentTo_play_the_media_you_will_need_to_either_upda": {
+    "score": 4,
+    "note": "Community support implies compassion but not primary focus"
+  },
+  "dharma_talks/S15E04_The_Problem_of_IdentityTo_play_the_media_you_will_need_to_either_update_your_bro": {
+    "score": 1,
+    "note": "About identity and suffering, no compassion emphasis"
+  },
+  "dharma_talks/S15E05_The_body_as_Meditative_ObjectTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 1,
+    "note": "Body meditation focus, no compassion content mentioned"
+  },
+  "dharma_talks/S16E01_1_Starting_a_RetreatTo_play_the_media_you_will_need_to_either_update_your_browse": {
+    "score": 2,
+    "note": "Precepts include non-harming but not compassion focused"
+  },
+  "dharma_talks/S16E02_The_Principles_and_Problems_of_VipassanaTo_play_the_media_you_will_need_to_eithe": {
+    "score": 1,
+    "note": "Vipassana principles, no compassion emphasis"
+  },
+  "dharma_talks/S16E03_Not-Self_Indulgence_and_allTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 1,
+    "note": "Karma and not-self teaching, no compassion focus"
+  },
+  "dharma_talks/S16E04_Impulsive_or_SpontaneousTo_play_the_media_you_will_need_to_either_update_your_br": {
+    "score": 3,
+    "note": "Perfections may include compassion but not primary theme"
+  },
+  "dharma_talks/S16E05_The_Body_and_the_Three_CharacteristicsTo_play_the_media_you_will_need_to_either": {
+    "score": 1,
+    "note": "Three characteristics teaching, no compassion content"
+  },
+  "dharma_talks/S16E06_Why_noting_without_stopTo_play_the_media_you_will_need_to_either_update_your_bro": {
+    "score": 0,
+    "note": "Technical meditation instruction only"
+  },
+  "dharma_talks/S16E07_Why_we_need_a_techniqueTo_play_the_media_you_will_need_to_either_update_your_bro": {
+    "score": 0,
+    "note": "Meditation technique explanation only"
+  },
+  "dharma_talks/S16E08_Subliminal_Inclinations_Defilements_and_HindrancesTo_play_the_media_you_will_nee": {
+    "score": 2,
+    "note": "Mental purification therapy, minimal compassion content"
+  },
+  "dharma_talks/S16E09_Questions_and_Answers_A_Dolly_MixtureTo_play_the_media_you_will_need_to_either_u": {
+    "score": 1,
+    "note": "Mixed Q&A, no specific compassion focus"
+  },
+  "dharma_talks/S16E10_Importance_of_Metta_24_minTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 9,
+    "note": "Primarily about loving-kindness practice and heart connection"
+  },
+  "dharma_talks/S16E11_The_Kamma_of_LiberationTo_play_the_media_you_will_need_to_either_update_your_bro": {
+    "score": 1,
+    "note": "Karma teaching, no compassion emphasis"
+  },
+  "dharma_talks/S16E12_The_Karma_Concerning_LiberationTo_play_the_media_you_will_need_to_either_update": {
+    "score": 1,
+    "note": "Karma and liberation, no compassion focus"
+  },
+  "dharma_talks/S17E01_Dignity_and_the_Qualities_of_a_RulerTo_play_the_media_you_will_need_to_either_up": {
+    "score": 6,
+    "note": "Includes kindness, non-violence, patience as royal qualities"
+  },
+  "dharma_talks/S17E02_Practice_in_Ordinary_Daily_LifeTo_play_the_media_you_will_need_to_either_update": {
+    "score": 2,
+    "note": "Emotional healing focus, minimal compassion content"
+  },
+  "dharma_talks/S17E03_Samatha-VipassanaTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 1,
+    "note": "Meditation types explanation, no compassion emphasis"
+  },
+  "dharma_talks/S17E04_Vipassana_and_or_TherapyTo_play_the_media_you_will_need_to_either_update_your_br": {
+    "score": 1,
+    "note": "Buddhist psychology vs therapy, no compassion focus"
+  },
+  "dharma_talks/S17E05_Buddha_Day_Address_with_Refuges_and_PreceptsTo_play_the_media_you_will_need_to_e": {
+    "score": 5,
+    "note": "Buddha's compassionate action after awakening mentioned"
+  },
+  "dharma_talks/S17E06_Daily_Rythms_Fetters_Hindrances_and_Inclinations_RebirthTo_play_the_media_you_wi": {
+    "score": 1,
+    "note": "Technical meditation and rebirth topics"
+  },
+  "dharma_talks/S17E07_Metta_Applied_and_Sustained_Thought_BuddhamindTo_play_the_media_you_will_need_to": {
+    "score": 8,
+    "note": "Brahmavihāras including metta and compassion extensively discussed"
+  },
+  "dharma_talks/S17E08_Equanimity_-_Foundation_of_all_VirtueTo_play_the_media_you_will_need_to_either_u": {
+    "score": 3,
+    "note": "Equanimity as virtue, compassion mentioned in passing"
+  },
+  "dharma_talks/S17E09_The_Mahasi_MethodTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 0,
+    "note": "Technical meditation method only"
+  },
+  "dharma_talks/S17E10_The_Sufferings_of_the_Pleasure_SyndromeTo_play_the_media_you_will_need_to_either": {
+    "score": 2,
+    "note": "Focuses on suffering from sensual desire, minimal compassion content"
+  },
+  "dharma_talks/S17E11_There_is_no_separation_between_vipassana_and_ordinary_daily_lifeTo_play_the_medi": {
+    "score": 1,
+    "note": "About meditation and daily life integration, no compassion focus"
+  },
+  "dharma_talks/S17E12_Q_A_Rebirth_Identification_Emotions_etcTo_play_the_media_you_will_need_to_eithe": {
+    "score": 2,
+    "note": "Covers emotions and suffering mechanics, limited compassion discussion"
+  },
+  "dharma_talks/S17E13_Why_didnt_the_Buddha_return_to_lay_lifeTo_play_the_media_you_will_need_to_either": {
+    "score": 1,
+    "note": "About monastic vs lay life, minimal compassion content"
+  },
+  "dharma_talks/S17E14_Revising_the_principles_of_vipassanaTo_play_the_media_you_will_need_to_either_up": {
+    "score": 1,
+    "note": "Vipassana meditation principles, no specific compassion focus"
+  },
+  "dharma_talks/S17E15_Dukkha_Unsatisfactoriness_et_alTo_play_the_media_you_will_need_to_either_update": {
+    "score": 2,
+    "note": "About suffering and aggregates, minimal compassion discussion"
+  },
+  "dharma_talks/S17E16_Encouragement_October_09To_play_the_media_you_will_need_to_either_update_your_br": {
+    "score": 1,
+    "note": "Right awareness and meditation practice, no compassion focus"
+  },
+  "dharma_talks/S17E17_The_practice_and_the_pitfalls_of_metta_goodwill_practiceTo_play_the_media_you_wi": {
+    "score": 9,
+    "note": "Primarily about metta loving-kindness practice and compassion development"
+  },
+  "dharma_talks/S18E01_How_Vipassana_relates_to_Daily_LifeTo_play_the_media_you_will_need_to_either_upd": {
+    "score": 1,
+    "note": "Vipassana and daily life integration, no compassion focus"
+  },
+  "dharma_talks/S18E02_Samatha_and_-_or_VipassanaTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 1,
+    "note": "Concentration vs insight meditation, no compassion content"
+  },
+  "dharma_talks/S18E03_Metta_Developing_GoodwillTo_play_the_media_you_will_need_to_either_update_your_b": {
+    "score": 9,
+    "note": "Primarily about metta practice and developing goodwill toward beings"
+  },
+  "dharma_talks/S18E04_Karma_Dependent_Origination_Virtue_and_LiberationTo_play_the_media_you_will_need": {
+    "score": 2,
+    "note": "About karma and liberation, minimal compassion discussion"
+  },
+  "dharma_talks/S18E05_Enthusiam_and_other_questionsTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 1,
+    "note": "Spiritual enthusiasm and confidence, no compassion focus"
+  },
+  "dharma_talks/S18E06_Faith_and_the_Spiritual_LifeTo_play_the_media_you_will_need_to_either_update_you": {
+    "score": 1,
+    "note": "About faith in Buddhist practice, no compassion content"
+  },
+  "dharma_talks/S18E07_Revising_the_principles_of_vipassanaTo_play_the_media_you_will_need_to_either_up": {
+    "score": 1,
+    "note": "Vipassana meditation principles, no specific compassion focus"
+  },
+  "dharma_talks/S18E08_The_Buddhas_Quest_-_A_Public_TalkTo_play_the_media_you_will_need_to_either_updat": {
+    "score": 1,
+    "note": "Buddha's spiritual journey, no compassion focus"
+  },
+  "dharma_talks/S18E09_The_problem_lies_in_the_lookingTo_play_the_media_you_will_need_to_either_update": {
+    "score": 1,
+    "note": "About perception and suffering, no compassion content"
+  },
+  "dharma_talks/S18E10_There_is_no_reason_for_beingTo_play_the_media_you_will_need_to_either_update_you": {
+    "score": 1,
+    "note": "Being vs becoming, no compassion focus"
+  },
+  "dharma_talks/S18E11_Towards_a_whole_life_practiceTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 7,
+    "note": "Discusses metta, compassion, and brahmavihāras as spiritual qualities"
+  },
+  "dharma_talks/S19E01_httpswwwsatipanyaorgukwp-contentuploads202004Evening-Lockdown-Meditationmp4": {
+    "score": 8,
+    "note": "Guided compassion meditation and metta practice during lockdown"
+  },
+  "dharma_talks/S19E02_httpswwwsatipanyaorgukwp-contentuploads20200401-MN9-Discourse-on-Right-View-Whol": {
+    "score": 2,
+    "note": "About wholesome actions, mentions compassion roots briefly"
+  },
+  "dharma_talks/S19E03_httpswwwsatipanyaorgukwp-contentuploads20200402-First-Three-Noble-Truthsmp4": {
+    "score": 2,
+    "note": "Four Noble Truths teaching, minimal compassion content"
+  },
+  "dharma_talks/S19E04_httpswwwsatipanyaorgukwp-contentuploads20200403-Coronavirus-and-the-Contemplatio": {
+    "score": 3,
+    "note": "Death contemplation practice, touches on compassionate response"
+  },
+  "dharma_talks/S19E05_httpswwwsatipanyaorgukwp-contentuploads20200404-Contemplation-of-Death-Living-mo": {
+    "score": 2,
+    "note": "Death contemplation practice, minimal compassion discussion"
+  },
+  "dharma_talks/S19E06_httpswwwsatipanyaorgukwp-contentuploads20200405-Contemplation-of-Death-againmp4": {
+    "score": 2,
+    "note": "Death contemplation and frugal living, minimal compassion content"
+  },
+  "dharma_talks/S19E07_httpswwwsatipanyaorgukwp-contentuploads20200406-Renunciation-and-Buddhas-First-O": {
+    "score": 6,
+    "note": "Discusses liberating energy for compassion through renunciation practice"
+  },
+  "dharma_talks/S19E09_httpswwwsatipanyaorgukwp-contentuploads20200408-Mindfulness-at-work-And-Right-Vi": {
+    "score": 2,
+    "note": "Mentions speaking from mettā but focuses on mindfulness"
+  },
+  "dharma_talks/S19E10_httpswwwsatipanyaorgukwp-contentuploads20200409-Right-Speech-Action-and-Liveliho": {
+    "score": 4,
+    "note": "Discusses speaking from mettā and ethical conduct foundations"
+  },
+  "dharma_talks/S19E11_httpswwwsatipanyaorgukwp-contentuploads20200410-Grief-1mp4": {
+    "score": 8,
+    "note": "Compassionate exploration of grief, sorrow, and empathetic responses"
+  },
+  "dharma_talks/S19E12_httpswwwsatipanyaorgukwp-contentuploads20200411-The-Nutriments-Food-Contact-Voli": {
+    "score": 1,
+    "note": "Focuses on four nutriments teaching, minimal compassion content"
+  },
+  "dharma_talks/S19E13_httpswwwsatipanyaorgukwp-contentuploads20200412-The-Investigation-of-Eating-1mp4": {
+    "score": 1,
+    "note": "About eating meditation and food as nutriment"
+  },
+  "dharma_talks/S19E14_httpswwwsatipanyaorgukwp-contentuploads20200413-Discourse-on-the-Taints-MN-2-Ove": {
+    "score": 1,
+    "note": "Focuses on overcoming mental taints through right seeing"
+  },
+  "dharma_talks/S19E16_httpswwwsatipanyaorgukwp-contentuploads20200415-The-Discourse-on-Not-self-SN2265": {
+    "score": 1,
+    "note": "Explores not-self teaching through five aggregates analysis"
+  },
+  "dharma_talks/S19E18_httpswwwsatipanyaorgukwp-contentuploads20200417-Questions-See-Descriptionmp4": {
+    "score": 3,
+    "note": "Touches on anger versus assertiveness and emotional responses"
+  },
+  "dharma_talks/S19E19_httpswwwsatipanyaorgukwp-contentuploads20200418-Overcoming-the-Taints-by-Restrai": {
+    "score": 1,
+    "note": "About sense restraint and overcoming mental defilements"
+  },
+  "dharma_talks/S19E20_httpswwwsatipanyaorgukwp-contentuploads20200419-Overcoming-the-Taints-by-Usingmp": {
+    "score": 1,
+    "note": "About wise use of material requisites and moderation"
+  },
+  "dharma_talks/S19E21_httpswwwsatipanyaorgukwp-contentuploads20200420-Overcoming-the-Taints-by-Enduran": {
+    "score": 4,
+    "note": "Discusses patient endurance and transforming relationship with suffering"
+  },
+  "dharma_talks/S19E22_httpswwwsatipanyaorgukwp-contentuploads20200423-The-Ten-Fettersmp4": {
+    "score": 1,
+    "note": "Examines ten fetters binding to existence and liberation"
+  },
+  "dharma_talks/S20E01_Refuges_and_Precepts_with_Metta": {
+    "score": 7,
+    "note": "Traditional ceremony followed by loving-kindness meditation practice"
+  },
+  "dharma_talks/S21E01_Video": {
+    "score": 1,
+    "note": "About overcoming dullness and lethargy hindrance in meditation"
+  },
+  "dharma_talks/S21E02_Video": {
+    "score": 3,
+    "note": "Addresses polarization through Buddhist psychology and not-self teaching"
+  },
+  "dharma_talks/S21E03_Video": {
+    "score": 8,
+    "note": "Explores sympathetic joy as divine abode and compassion practice"
+  },
+  "dharma_talks/S21E04_Video": {
+    "score": 2,
+    "note": "Five daily remembrances on aging, death, separation balanced"
+  },
+  "dharma_talks/S22E01_2022_Dec_11_To_Love_or_To_Be_Loved_That_is_the_question": {
+    "score": 9,
+    "note": "Primarily explores loving-kindness and developing capacity for love"
+  },
+  "dharma_talks/S22E02_Love_and_Relationship": {
+    "score": 9,
+    "note": "Examines love, care, kindness as foundations for relationships"
+  },
+  "dharma_talks/S22E03_Forgiveness_is_fundamental_to_purify_the_heart_Resentment_is_a_poison_Guilt_sham": {
+    "score": 8,
+    "note": "Comprehensive forgiveness practice for healing and compassionate self-awareness"
+  },
+  "dharma_talks/S22E04_The_introduction": {
+    "score": 7,
+    "note": "Introduces forgiveness as fundamental attitude alongside gratitude practice"
+  },
+  "dharma_talks/S22E05_Karaniya_Metta_Sutta": {
+    "score": 9,
+    "note": "In-depth study of Buddha's foundational loving-kindness discourse"
+  },
+  "dharma_talks/S23E01_Video": {
+    "score": 4,
+    "note": "Skillful conversation guidance for navigating discussions with compassion"
+  },
+  "dharma_talks/S23E02_We_often_hear_about_suffering_and_the_end_of_suffering_We_practice_metta_But_wha": {
+    "score": 7,
+    "note": "Explores cultivating appreciative joy as divine abode practice"
+  },
+  "dharma_talks/S23E03_2024_Jan_21_The_importance_of_Tranquillity_Passaddhi": {
+    "score": 2,
+    "note": "Mentions tranquillity's connection to equanimity, minimal compassion content"
+  },
+  "dharma_talks/S23E04_Patient_Forebearance": {
+    "score": 4,
+    "note": "Patient forbearance relates to compassion but not primary focus"
+  },
+  "dharma_talks/S23E05_Equanimity": {
+    "score": 5,
+    "note": "Equanimity prevents compassion from becoming pity, substantial discussion"
+  },
+  "dharma_talks/S23E06_Sympathy_Empathy_and_Compassion": {
+    "score": 9,
+    "note": "Directly examines compassion, empathy, and skillful responses to suffering"
+  },
+  "dharma_talks/S23E07_2023_June_11_Fear_and_Courage": {
+    "score": 2,
+    "note": "Focuses on fear and courage, minimal compassion content"
+  },
+  "dharma_talks/S23E08_Apologies_I_tried_to_cover_too_much_ground_However_tit_will_appear_as_a_Tip_on_t": {
+    "score": 8,
+    "note": "Explores karuṇā compassion as fourth brahmavihāra with personal stories"
+  },
+  "dharma_talks/S23E09_2023_Oct_01_Good_Friendship_Companionship_Good_Comradeship_is_the_Whole_of_the_S": {
+    "score": 4,
+    "note": "Spiritual friendship relates to compassion but not primary focus"
+  },
+  "dharma_talks/S23E10_2021_Gratitude_Generosity_and_Renunciation": {
+    "score": 3,
+    "note": "Generosity connects to compassion but not main theme"
+  },
+  "dharma_talks/S23E11_2022_Jul_17_Need_Sufficiency_and_Greed_-": {
+    "score": 1,
+    "note": "Focuses on basic needs and simplicity, minimal compassion content"
+  },
+  "dharma_talks/S23E12_2025_Apr_06_Renunciation": {
+    "score": 1,
+    "note": "About renunciation practice, not compassion or empathy"
+  },
+  "dharma_talks/S23E13_Video": {
+    "score": 1,
+    "note": "About faith, hope, and aspiration, not compassion"
+  },
+  "dharma_talks/S24E02_The_Buddha_and_War": {
+    "score": 3,
+    "note": "Non-violence relates to compassion but war is main focus"
+  },
+  "dharma_talks/S24E03_2025_May_04_The_Buddha_as_a_Teacher": {
+    "score": 2,
+    "note": "Teaching methods may involve compassion but not main theme"
+  },
+  "dharma_talks/S25E01_2025_June_08_What_was_the_Buddhas_great_disovery": {
+    "score": 1,
+    "note": "About Buddha's discovery of unconditioned dimension, not compassion"
+  },
+  "dharma_talks/S25E02_Video": {
+    "score": 0,
+    "note": "About nibbāna and four elements, unrelated to compassion"
+  },
+  "dharma_talks/S25E03_Video": {
+    "score": 0,
+    "note": "About nibbāna as consciousness, unrelated to compassion"
+  },
+  "dharma_talks/S26E01_2024_April24_Contemplating_the_Unpleasantness_of_the_Body": {
+    "score": 1,
+    "note": "Body contemplation practice, minimal compassion content"
+  },
+  "dharma_talks/S26E02_2024_June_23_The_Unattractive_Nature_of_the_Body": {
+    "score": 1,
+    "note": "Body contemplation practice, minimal compassion content"
+  },
+  "dharma_talks/S26E03_I_own_my_actions_I_inherit_the_results_of_my_actions_I_am_born_of_my_actions_I_f": {
+    "score": 2,
+    "note": "Karma contemplation may touch on compassion but not main focus"
+  },
+  "dharma_talks/S26E04_Karma_and_Rebirth": {
+    "score": 2,
+    "note": "Ethical conduct relates to compassion but not primary theme"
+  },
+  "dharma_talks/S26E05_2023_Nov_26_The_Five_Regular_Contemplations": {
+    "score": 1,
+    "note": "Death and impermanence contemplations, minimal compassion content"
+  },
+  "dharma_talks/S26E06_2022_Nov_06_The_Contemplation_of_Death": {
+    "score": 1,
+    "note": "Death contemplation practice, minimal compassion content"
+  },
+  "dharma_talks/S26E07_The_Eight_Worldly_Winds": {
+    "score": 1,
+    "note": "Worldly conditions and equanimity, minimal compassion content"
+  },
+  "dharma_talks/S27E01_The_Paradox_of_Fear": {
+    "score": 2,
+    "note": "Fear and attachment, may touch compassion but not main theme"
+  },
+  "dharma_talks/S27E02_2025_Jan_12_Dukkha_-_the_Buddha_grounds_his_teaching_on_this_word": {
+    "score": 3,
+    "note": "Understanding suffering relates to compassion but dukkha is focus"
+  },
+  "dharma_talks/S27E03_2024_Feb_25_The_crucial_role_of_Desire_and_Intention": {
+    "score": 2,
+    "note": "Focuses on desire/intention, minimal compassion content"
+  },
+  "dharma_talks/S27E04_2024_July_14_The_Four_Great_Elements": {
+    "score": 1,
+    "note": "Meditation technique focus, no compassion discussion"
+  },
+  "dharma_talks/S27E05_2024_August_18_The_Specific_Law_of_Conditionality": {
+    "score": 1,
+    "note": "Causality teaching, no compassion/empathy content"
+  },
+  "dharma_talks/S27E06_2024_September_15_The_Dangers_of_Indulgence": {
+    "score": 1,
+    "note": "Middle path teaching, no compassion focus"
+  },
+  "dharma_talks/S27E07_2023_Jan_08_The_Four_Bases_of_Power": {
+    "score": 1,
+    "note": "Spiritual development factors, no compassion content"
+  },
+  "dharma_talks/S27E08_Video": {
+    "score": 2,
+    "note": "Liberation path, minimal compassion discussion"
+  },
+  "dharma_talks/S27E09_2023_Oct_29_The_Spiral_Path": {
+    "score": 2,
+    "note": "Transcendent path teaching, minimal compassion content"
+  },
+  "dharma_talks/S27E10_2021_Four_Noble_Truths": {
+    "score": 2,
+    "note": "Core Buddhist teaching, minimal compassion focus"
+  },
+  "dharma_talks/S27E11_Dukkha_Unsatisfactoriness_and_Sila_Morality_and_Ethics_-": {
+    "score": 4,
+    "note": "Ethics and relationships, some compassion elements"
+  },
+  "dharma_talks/S27E12_Dependent_Origination_the_Role_of_desire_and_the_only_Choice": {
+    "score": 1,
+    "note": "Dependent origination focus, no compassion content"
+  },
+  "dharma_talks/S27E13_2022_Oct_09_Identity_and_Not-Self": {
+    "score": 2,
+    "note": "Not-self teaching, minimal compassion discussion"
+  },
+  "dharma_talks/S28E02_Right_Livelihood": {
+    "score": 3,
+    "note": "Ethical living includes compassionate considerations"
+  },
+  "dharma_talks/S28E03_2022_Sep_11_Rest_for_Autumn": {
+    "score": 3,
+    "note": "Gentle guidance with affectionate awareness"
+  },
+  "dharma_talks/S29E01_Bahiya_of_the_Bark_Cloth": {
+    "score": 1,
+    "note": "Direct awareness teaching, no compassion focus"
+  },
+  "dharma_talks/S29E02_2023_March_05": {
+    "score": 1,
+    "note": "Meditation instruction, no compassion content"
+  },
+  "dharma_talks/S29E03_": {
+    "score": 2,
+    "note": "Mental action teaching, minimal compassion discussion"
+  },
+  "dharma_talks/S30E01_2022_Aug_14_Climate_Emergency_and_the_Role_of_the_Dhamma_Video": {
+    "score": 7,
+    "note": "Climate response with loving-kindness and compassion"
+  },
+  "dharma_talks/S30E02_Non-Violence_v_Pacifism": {
+    "score": 6,
+    "note": "Non-violence rooted in compassion and wisdom"
+  },
+  "dharma_talks/S30E03_2022_Apr_17_Noliberalism_and_Mindfulness": {
+    "score": 4,
+    "note": "Critiques systems lacking compassion and generosity"
+  },
+  "dharma_talks/S30E04_2022_Jun_19_Social_Conditionng_or_Karma_-_Our_social_conditioning_is_a_given_but": {
+    "score": 4,
+    "note": "Social responsibility and purifying unwholesome attitudes"
+  },
+  "dharma_talks/S31E01_Buddha_Day_Address_His_Training_The_Fetters": {
+    "score": 2,
+    "note": "Buddha's path and fetters, minimal compassion"
+  },
+  "dharma_talks/S31E02_ood_Friendhship_Good_Companionship_Good_Comradeship_-_Ubuntu": {
+    "score": 8,
+    "note": "Spiritual friendship and Ubuntu interconnectedness philosophy"
+  },
+  "dharma_talks/S31E03_Dependent_Origination_Revisited": {
+    "score": 1,
+    "note": "Dependent origination mechanics, no compassion focus"
+  },
+  "dharma_talks/S31E04_Karma-_Specific_Conditionality_the_Five_Laws_ethical_behaviour_social_karma-Neol": {
+    "score": 3,
+    "note": "Ethics and social systems, some compassion"
+  },
+  "dharma_talks/S31E05_No_more_ideologies": {
+    "score": 3,
+    "note": "Buddhist ethics alternative, some compassion elements"
+  },
+  "dharma_talks/S31E06_The_Mahasi_Technique_and_What_We_Need_to_Understand_to_Practice_Vipassana": {
+    "score": 1,
+    "note": "Meditation technique focus, no compassion/empathy content"
+  },
+  "dharma_talks/S31E07_Dependent_Orignation_and_how_all_other_importnant_teachings_are_included": {
+    "score": 2,
+    "note": "Dependent origination mechanics, minimal compassion discussion"
+  },
+  "dharma_talks/S31E08_The_Axial_Age_and_the_Momentous_Discovery_of_the_Buddha": {
+    "score": 1,
+    "note": "Historical context focus, no compassion/empathy themes"
+  },
+  "dharma_talks/S31E09_Dependent_Orgination_is_based_on_Not-Knowing_and_Innocence": {
+    "score": 3,
+    "note": "Mentions innocence concept, touches on compassionate understanding"
+  },
+  "dharma_talks/S31E10_Khanda_the_Agregates_as_Person_and_Sati_Awareness": {
+    "score": 1,
+    "note": "Aggregates analysis, no compassion/empathy content"
+  },
+  "dharma_talks/S31E11_Misunderstanding_re_the_Self_Karma_and_transcendence": {
+    "score": 1,
+    "note": "Self and karma focus, no compassion themes"
+  },
+  "dharma_talks/S31E12_QA_Kamma_FreeWill_Mettaattachment_Momentary_Concentration_khanika_samadhi": {
+    "score": 5,
+    "note": "Discusses metta practice and attachment issues"
+  },
+  "dharma_talks/S31E13_QA_Emotions_AwarenessDelusionInsight_MasculineFeminine_Sense-of-Self_Porridge": {
+    "score": 2,
+    "note": "Emotions in meditation, minimal compassion content"
+  },
+  "dharma_talks/S32E01_Angulimala_A_Monologue_005449_219_MB": {
+    "score": 7,
+    "note": "Redemption story demonstrates compassion and transformation"
+  },
+  "international_talks/S01E01_Méditation_Guidée_Debout_et_Assise": {
+    "score": 1,
+    "note": "Meditation instruction, no compassion/empathy themes"
+  },
+  "international_talks/S01E02_Meditation_Guidee_Detaillee": {
+    "score": 2,
+    "note": "Mentions benevolent observation, minimal compassion focus"
+  },
+  "international_talks/S01E03_Méditation_Guidée_Debout_et_Assise": {
+    "score": 1,
+    "note": "Meditation practice, no compassion content"
+  },
+  "international_talks/S01E04_Trois_compréhensions_nécessaires": {
+    "score": 1,
+    "note": "Vipassana understanding, no compassion themes"
+  },
+  "international_talks/S01E05_Méditation_Debout": {
+    "score": 1,
+    "note": "Standing meditation, no compassion/empathy content"
+  },
+  "international_talks/S01E06_Méditation_Assise": {
+    "score": 1,
+    "note": "Sitting meditation instruction, no compassion themes"
+  },
+  "international_talks/S02E01_La_conscience_juste_les_obstacles_comme_chemin_vers_la_libération_et_les_trois_c": {
+    "score": 2,
+    "note": "Obstacles as path, minimal compassion discussion"
+  },
+  "international_talks/S02E02_How_we_use_the_self_and_what_does_it_mean_for_not-self": {
+    "score": 1,
+    "note": "Self/not-self teaching, no compassion focus"
+  },
+  "international_talks/S03E01_The_Hindrances": {
+    "score": 2,
+    "note": "Working with difficult states, minimal compassion content"
+  },
+  "international_talks/S03E02_Non-soi": {
+    "score": 1,
+    "note": "Not-self teaching, no compassion themes"
+  },
+  "international_talks/S04E01_La_Libre_Volunté": {
+    "score": 1,
+    "note": "Free will philosophy, no compassion content"
+  },
+  "international_talks/S05E01_Le_Dhamma_dans_la_vie_quotidienne_ordinaire": {
+    "score": 4,
+    "note": "Generosity in daily life, touches compassion themes"
+  },
+  "international_talks/S05E02_Scientisme_Romatisme_Bouddhisme": {
+    "score": 1,
+    "note": "Philosophical approaches, no compassion focus"
+  },
+  "international_talks/S07E01_Une_tentative_de_comprendre_le_non-soi": {
+    "score": 1,
+    "note": "Not-self analysis, no compassion content"
+  },
+  "international_talks/S07E02_Retour_à_lessentiel": {
+    "score": 2,
+    "note": "Four noble truths, minimal compassion discussion"
+  },
+  "international_talks/S08E01_Bonheur": {
+    "score": 4,
+    "note": "Happiness through generosity and heart purification"
+  },
+  "international_talks/S08E02_LEsprit_Concevoir_et_les_Empêches": {
+    "score": 2,
+    "note": "Mentions ill-will hindrance but focuses on conceptual mind"
+  },
+  "international_talks/S09E01_Metta_Bhavana_Bienveillance_15_minLausanne_Oct_2010": {
+    "score": 9,
+    "note": "Primarily about loving-kindness and compassion meditation practice"
+  },
+  "international_talks/S09E02_Nous_causons_de_la_souffrance_pour_nous_memeLausanne_Oct_2010": {
+    "score": 3,
+    "note": "Mentions aversion hindrance but focuses on self-created suffering"
+  },
+  "international_talks/S09E03_Le_Kamma_de_la_LiberationLausanne_Oct_2010": {
+    "score": 1,
+    "note": "About karma and not-self, minimal compassion content"
+  },
+  "international_talks/S10E01_Les_Bases_de_Vipassana": {
+    "score": 1,
+    "note": "Foundational vipassana teaching, no compassion focus"
+  },
+  "international_talks/S10E02_Progres_et_dautres_sujets": {
+    "score": 4,
+    "note": "Discusses equanimity preventing compassion from becoming sadness"
+  },
+  "international_talks/S10E03_Questions_and_des_Questions_Plus": {
+    "score": 2,
+    "note": "Q&A format, equanimity mentioned but not compassion focus"
+  },
+  "international_talks/S10E04_Dependant_Origination_Belgium_Jan_2006": {
+    "score": 1,
+    "note": "About dependent origination, no compassion emphasis"
+  },
+  "international_talks/S10E05_The_Purpose_of_Meditation_Belgium_Jan_2006": {
+    "score": 1,
+    "note": "About meditation purpose and dukkha, minimal compassion"
+  },
+  "international_talks/S10E06_Why_the_Present_Moment_is_So_Important_Geneva_May_2006": {
+    "score": 1,
+    "note": "Present moment awareness focus, no compassion content"
+  },
+  "international_talks/S10E07_QA_Concerning_States_of_Mind_-_Sankhara_Geneva_May_2006": {
+    "score": 1,
+    "note": "Technical abhidhamma discussion, no compassion focus"
+  },
+  "international_talks/S10E08_Concerning_Buddhist_Psychology_Geneva_May_2006": {
+    "score": 1,
+    "note": "Buddhist psychology and suffering cycle, minimal compassion"
+  },
+  "international_talks/S10E09_Concerning_Metta_and_Other_Questions_Geneva_May_2006": {
+    "score": 7,
+    "note": "Substantially discusses metta meditation and mind-body healing"
+  },
+  "international_talks/S10E10_Le_Methode_de_Mahasi_Vipassana_Lausanne_Oct_2009": {
+    "score": 1,
+    "note": "Mahasi vipassana method, no compassion emphasis"
+  },
+  "international_talks/S10E11_Les_Empeches_de_Vipassana_Lausanne_Oct_2009": {
+    "score": 2,
+    "note": "Five hindrances including aversion, but technical focus"
+  },
+  "international_talks/S10E12_Les_Facteurs_de_Liberation_Lausanne_Oct_2009": {
+    "score": 1,
+    "note": "Spiritual faculties and awakening factors, minimal compassion"
+  },
+  "international_talks/S10E13_Psychologie_de_Buddha_Lausanne_Oct_2009": {
+    "score": 1,
+    "note": "Buddhist psychology through dependent origination, no compassion"
+  },
+  "international_talks/S11E01_Entering_the_Course": {
+    "score": 1,
+    "note": "Retreat opening and precepts, minimal compassion content"
+  },
+  "international_talks/S11E02_The_Mahasi_Method": {
+    "score": 1,
+    "note": "Mahasi meditation technique, no compassion focus"
+  },
+  "international_talks/S11E03_The_Joyful_Aspects_of_Meditation": {
+    "score": 2,
+    "note": "Awakening factors and confidence, minimal compassion mention"
+  },
+  "international_talks/S11E04_The_Wheel_of_Dependent_Origination": {
+    "score": 1,
+    "note": "Dependent origination mechanics, no compassion emphasis"
+  },
+  "international_talks/S11E05_The_Perfections": {
+    "score": 3,
+    "note": "Discusses generosity perfection but not compassion specifically"
+  },
+  "international_talks/S11E06_Karma": {
+    "score": 1,
+    "note": "Karma and universal laws, no compassion focus"
+  },
+  "international_talks/S11E07_Evening_Metta_Chant_and_Instructions": {
+    "score": 8,
+    "note": "Traditional loving-kindness chanting and meditation instructions"
+  },
+  "international_talks/S11E08_Morning_Chant": {
+    "score": 1,
+    "note": "Traditional Pali chanting, no specific compassion content"
+  },
+  "international_talks/S12E01_Meditazione_in_Piedi_e_Seduta": {
+    "score": 2,
+    "note": "Meditation practice, no specific compassion/empathy focus"
+  },
+  "international_talks/S12E02_Meditazione_guidata_dettagliata_sometimes_use_save_as": {
+    "score": 2,
+    "note": "Vipassana instructions, equanimity mentioned but not compassion focus"
+  },
+  "international_talks/S12E03_Mahasi_Instructions_and_Metta_Chant": {
+    "score": 6,
+    "note": "Includes metta chanting, substantial compassion practice component"
+  },
+  "international_talks/S12E04_The_Hindrances": {
+    "score": 3,
+    "note": "Mentions emotional understanding but primarily about meditation obstacles"
+  },
+  "international_talks/S12E05_Factors_of_Enlightenment": {
+    "score": 2,
+    "note": "Spiritual factors discussion, minimal compassion/empathy content"
+  },
+  "international_talks/S12E06_Dependent_Origination": {
+    "score": 1,
+    "note": "Doctrinal teaching on causation, no compassion focus"
+  },
+  "international_talks/S12E07_Kamma": {
+    "score": 2,
+    "note": "Karma and natural laws, minimal compassion content"
+  },
+  "international_talks/S12E08_Metta_Guidata": {
+    "score": 9,
+    "note": "Guided loving-kindness meditation, primarily about compassion practice"
+  },
+  "international_talks/S12E09_c_corpo_med_guidata": {
+    "score": 6,
+    "note": "Body meditation with metta, substantial compassion toward body"
+  },
+  "international_talks/S12E10_Intro_Guarig_corpo_med_guidata": {
+    "score": 7,
+    "note": "Healing meditation combining metta with body compassion"
+  },
+  "youtube_channel/S01E01_Basics_for_Insight_Meditation_01": {
+    "score": 1,
+    "note": "Basic meditation principles, no compassion focus"
+  },
+  "youtube_channel/S01E02_70th_Birthday_Bhante_Bodhidhammas_Life_story": {
+    "score": 2,
+    "note": "Personal biography, minimal compassion/empathy themes"
+  },
+  "youtube_channel/S01E03_Talk_Starting_Inaugural_Lockdown_Evening_Meditations_290320": {
+    "score": 4,
+    "note": "Community support and brahmavihara practices mentioned"
+  },
+  "youtube_channel/S01E04_02_First_Three_Noble_Truths": {
+    "score": 1,
+    "note": "Doctrinal teaching on suffering, no compassion focus"
+  },
+  "youtube_channel/S01E05_01_MN9_Discourse_on_Right_View_Wholesome_and_Unwholesome_Kamma": {
+    "score": 2,
+    "note": "Ethics teaching, minimal compassion content"
+  },
+  "youtube_channel/S01E06_Evening_Lockdown_Meditation": {
+    "score": 6,
+    "note": "Includes loving-kindness meditation and self-compassion practice"
+  },
+  "youtube_channel/S01E07_03_Coronavirus_and_the_Contemplation_of_Death": {
+    "score": 2,
+    "note": "Death contemplation, minimal compassion focus"
+  },
+  "youtube_channel/S01E08_04_Contemplation_of_Death_Living_more_awake": {
+    "score": 1,
+    "note": "Death meditation teaching, no compassion emphasis"
+  },
+  "youtube_channel/S01E09_05_Contemplation_of_Death_again": {
+    "score": 2,
+    "note": "Death contemplation with some practical compassion advice"
+  },
+  "youtube_channel/S01E10_06_Renunciation_and_Buddhas_First_Occasion_to_Teach": {
+    "score": 3,
+    "note": "Renunciation and peace, mentions compassion transformation briefly"
+  },
+  "youtube_channel/S01E11_07_Setting_the_Wheel_of_the_Dhamma_in_Motion": {
+    "score": 1,
+    "note": "First teaching discourse, doctrinal focus"
+  },
+  "youtube_channel/S01E12_08_Mindfulness_at_work_And_Right_View_Right_Attitude": {
+    "score": 2,
+    "note": "Mindfulness and path factors, minimal compassion content"
+  },
+  "youtube_channel/S01E13_09_Right_Speech_Action_and_Livelihood": {
+    "score": 4,
+    "note": "Ethical conduct with kindness and listening compassionately"
+  },
+  "youtube_channel/S01E14_10_Grief": {
+    "score": 7,
+    "note": "Compassionate teaching on grief, empathy and skillful responses"
+  },
+  "youtube_channel/S01E15_11_The_Nutriments_Food_Contact_Volition_and_Consciousness": {
+    "score": 1,
+    "note": "Doctrinal teaching on nutriments, no compassion focus"
+  },
+  "youtube_channel/S01E16_12_The_Investigation_of_Eating": {
+    "score": 2,
+    "note": "Focuses on mindful eating practice, minimal compassion content"
+  },
+  "youtube_channel/S01E17_13_Discourse_on_the_Taints_MN_2_Overcome_by_seeing": {
+    "score": 1,
+    "note": "About overcoming mental taints through insight, not compassion"
+  },
+  "youtube_channel/S01E18_14_Not-self_Revisited_The_story_of_Sati_MN38": {
+    "score": 1,
+    "note": "Explores not-self teaching through Sati's story, unrelated"
+  },
+  "youtube_channel/S01E19_16_Investigating_Not-self_-_The_Pratice": {
+    "score": 1,
+    "note": "Vipassana techniques for investigating not-self, not compassion"
+  },
+  "youtube_channel/S01E20_17_Questions_See_Description": {
+    "score": 6,
+    "note": "Discusses compassion versus grief and anger versus assertiveness"
+  },
+  "youtube_channel/S01E21_18_Overcoming_the_Taints_by_Restraint": {
+    "score": 1,
+    "note": "About sense restraint and mental taints, minimal compassion"
+  },
+  "youtube_channel/S01E22_19_Overcoming_the_Taints_by_Using": {
+    "score": 1,
+    "note": "Wise use of requisites, not about compassion"
+  },
+  "youtube_channel/S01E23_20_Overcoming_the_Taints_by_Endurance": {
+    "score": 2,
+    "note": "Patient endurance practice, touches on compassionate responses"
+  },
+  "youtube_channel/S01E24_21a_Overcoming_the_Taints_by_Removing_1": {
+    "score": 4,
+    "note": "Mentions wholesome thoughts of goodwill and compassion"
+  },
+  "youtube_channel/S01E25_21b_Overcoming_the_Taints_by_Removing_2": {
+    "score": 2,
+    "note": "Mental purification methods, minimal compassion focus"
+  },
+  "youtube_channel/S01E26_22_Overcoming_the_Taints_by_Developing": {
+    "score": 1,
+    "note": "Seven enlightenment factors, not specifically about compassion"
+  },
+  "youtube_channel/S01E27_23_The_Ten_Fetters": {
+    "score": 1,
+    "note": "Ten fetters binding to samsara, unrelated"
+  },
+  "youtube_channel/S01E28_24_Society": {
+    "score": 3,
+    "note": "Social harmony and ethics, mentions compassion briefly"
+  },
+  "youtube_channel/S01E29_25_Reflections_for_an_Harmonious_Society": {
+    "score": 4,
+    "note": "Care for others and animals, touches compassion"
+  },
+  "youtube_channel/S01E30_26_More_Reflections": {
+    "score": 4,
+    "note": "Sympathetic joy and interdependence, relates to compassion"
+  },
+  "youtube_channel/S01E31_27_What_makes_a_Society_Strong": {
+    "score": 3,
+    "note": "Protecting vulnerable mentioned, some compassion elements"
+  },
+  "youtube_channel/S01E32_28_The_Six_Sense_Bases_MN137": {
+    "score": 1,
+    "note": "Buddhist psychology of sense bases, unrelated"
+  },
+  "youtube_channel/S01E33_29_Senses_Bases_Cont": {
+    "score": 1,
+    "note": "Continuation of sense bases teaching, unrelated"
+  },
+  "youtube_channel/S01E34_Metta_Forgiveness_and_Determination_Practice": {
+    "score": 9,
+    "note": "Primarily about loving-kindness meditation and forgiveness practice"
+  },
+  "youtube_channel/S01E35_01_Reiki_with_Bryan_Lester": {
+    "score": 5,
+    "note": "Healing practices with compassionate intent and energy"
+  },
+  "youtube_channel/S01E36_Some_Pointers_for_Metta": {
+    "score": 9,
+    "note": "Entirely focused on developing loving-kindness and goodwill"
+  },
+  "youtube_channel/S01E37_Bodycare_Practice_-_Metta_towards_the_Body": {
+    "score": 8,
+    "note": "Metta meditation specifically directed toward the body"
+  },
+  "youtube_channel/S01E38_02_Reiki_with_Bryan": {
+    "score": 4,
+    "note": "Healing practices with compassionate Buddhist foundations"
+  },
+  "youtube_channel/S01E39_Body_as_Meditation_Object": {
+    "score": 2,
+    "note": "Body meditation techniques, minimal compassion content"
+  },
+  "youtube_channel/S01E40_The_Basics_of_Insight_Meditation_03": {
+    "score": 1,
+    "note": "Vipassana meditation basics, not about compassion"
+  },
+  "youtube_channel/S01E41_03_Reiki_with_Bryan": {
+    "score": 6,
+    "note": "Explores Reiki healing practices with compassion and self-healing focus"
+  },
+  "youtube_channel/S01E42_33_Kalama_Sutta_AN_365": {
+    "score": 2,
+    "note": "Focuses on discernment and critical thinking, minimal compassion content"
+  },
+  "youtube_channel/S01E43_35_Canki_Sutta_MN95": {
+    "score": 1,
+    "note": "About challenging truth claims and direct experience, not compassion"
+  },
+  "youtube_channel/S01E44_34_Kalama_Discourse_cont": {
+    "score": 2,
+    "note": "Continues discernment teaching, mentions ethical living but not compassion"
+  },
+  "youtube_channel/S01E45_36_Canki_Sutta_cont": {
+    "score": 1,
+    "note": "About discovering truth through investigation, not compassion or empathy"
+  },
+  "youtube_channel/S01E46_37_Shorter_Discourse_on_Gosinga": {
+    "score": 7,
+    "note": "Substantially discusses harmonious community living and mutual appreciation"
+  },
+  "youtube_channel/S01E47_Gaia_Standing_and_Sitting_Guided_Meditation": {
+    "score": 3,
+    "note": "Meditation practice with some awareness cultivation but not compassion-focused"
+  },
+  "youtube_channel/S01E48_38_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 2,
+    "note": "Foundational mindfulness teaching, minimal direct compassion or empathy content"
+  },
+  "youtube_channel/S01E49_31b_The_Body": {
+    "score": 3,
+    "note": "Body awareness teaching, touches on right relationship but not compassion"
+  },
+  "youtube_channel/S01E50_39_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 2,
+    "note": "Body contemplation practices, not primarily about compassion or empathy"
+  },
+  "youtube_channel/S01E51_40_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 2,
+    "note": "Four elements and death contemplation, not compassion-focused"
+  },
+  "youtube_channel/S01E52_41_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 2,
+    "note": "Feelings and mind foundations, not primarily about compassion"
+  },
+  "youtube_channel/S01E53_42_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 2,
+    "note": "Mind objects contemplation, hindrances and aggregates, not compassion-focused"
+  },
+  "youtube_channel/S01E54_43_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 2,
+    "note": "Four Noble Truths and Eightfold Path, not primarily compassion"
+  },
+  "youtube_channel/S01E55_44_The_Relay_of_Chariots_MN24": {
+    "score": 2,
+    "note": "Seven purifications and awakening stages, not compassion-focused"
+  },
+  "youtube_channel/S01E56_45_The_Relay_of_Chariots_MN24": {
+    "score": 2,
+    "note": "Progressive insight meditation stages, not about compassion or empathy"
+  },
+  "youtube_channel/S01E57_50_Dog_Ascetic_Discourse_MN57": {
+    "score": 1,
+    "note": "About kamma and ascetic practices, not compassion or empathy"
+  },
+  "youtube_channel/S01E58_Gratitude_Generosity_Renunciation": {
+    "score": 8,
+    "note": "Primarily about gratitude and generosity, core compassionate practices"
+  },
+  "youtube_channel/S01E59_Spanish_Introduction_-_Refuges_and_Precepts_Standing_ans_Sitting_Meditation": {
+    "score": 3,
+    "note": "Basic meditation instruction with precepts, some compassion in precepts"
+  },
+  "youtube_channel/S01E60_Saddha_Confidence_and_Trust": {
+    "score": 2,
+    "note": "About spiritual confidence and trust, not compassion or empathy"
+  },
+  "youtube_channel/S01E61_Dhp_188_-_192_The_Role_of_Confidence": {
+    "score": 2,
+    "note": "Taking refuge and confidence, not primarily about compassion"
+  },
+  "youtube_channel/S01E62_Dhp_153_154_The_Buddhas_Victory_Verses": {
+    "score": 1,
+    "note": "Buddha's awakening verses and self-understanding, not compassion-focused"
+  },
+  "youtube_channel/S01E63_Dhp_4_Hatred_is_not_overcome_with_hatred": {
+    "score": 8,
+    "note": "Gratitude, generosity, renunciation trilogy - core compassionate practices"
+  },
+  "youtube_channel/S01E64_Dhp_21_-_23": {
+    "score": 2,
+    "note": "About diligence and spiritual effort, not compassion or empathy"
+  },
+  "youtube_channel/S01E65_Dhp_Chapter_3_-_verses_33_34_The_Unruly_Mind": {
+    "score": 2,
+    "note": "Mind training and mental stability, not compassion-focused"
+  },
+  "youtube_channel/S01E66_Dhp_01_02_Mind_is_the_forerunner": {
+    "score": 2,
+    "note": "Focuses on mind and karma, minimal compassion content"
+  },
+  "youtube_channel/S01E67_Dhp_No4_Hatred_is_not_pacified_by_hatred": {
+    "score": 7,
+    "note": "Directly addresses overcoming hatred with non-hatred and compassion"
+  },
+  "youtube_channel/S01E68_Dhp_256_157_Judgmental_v_Judicious": {
+    "score": 6,
+    "note": "Discusses compassion as quality of good judgment"
+  },
+  "youtube_channel/S01E69_Dhp_46_How_to_view_the_Body": {
+    "score": 1,
+    "note": "About body contemplation and impermanence, not compassion"
+  },
+  "youtube_channel/S01E70_The_Four_Noble_Truths": {
+    "score": 3,
+    "note": "Foundational teaching mentions suffering but not compassion focus"
+  },
+  "youtube_channel/S01E71_The_NIne_Qualities_of_the_Buddha": {
+    "score": 2,
+    "note": "About Buddha's qualities, minimal compassion discussion"
+  },
+  "youtube_channel/S01E72_Dhp_360_362_Restraint": {
+    "score": 1,
+    "note": "About sense restraint, not compassion or empathy"
+  },
+  "youtube_channel/S01E73_Dhp_90_The_Arahant": {
+    "score": 1,
+    "note": "About arahant qualities, not compassion focus"
+  },
+  "youtube_channel/S01E74_Vita_Quotidiana": {
+    "score": 3,
+    "note": "Daily practice integration, mentions relationships briefly"
+  },
+  "youtube_channel/S01E75_Dukkha_Unsatifactoriness_and_Sila_Morality_and_Ethics": {
+    "score": 2,
+    "note": "About suffering and ethics, minimal compassion content"
+  },
+  "youtube_channel/S01E76_Dependent_Origination_and_the_Role_of_Desire_and_the_Only_Choice": {
+    "score": 1,
+    "note": "About dependent origination and desire, not compassion"
+  },
+  "youtube_channel/S01E77_Kamma_and_Rebirth": {
+    "score": 2,
+    "note": "About karma and ethics, minimal compassion discussion"
+  },
+  "youtube_channel/S01E78_Gratitude_Generosity_and_Renunciation": {
+    "score": 5,
+    "note": "Generosity relates to compassion but not primary focus"
+  },
+  "youtube_channel/S01E79_Facets_of_a_Love": {
+    "score": 6,
+    "note": "About love and relationships, touches on compassionate connection"
+  },
+  "youtube_channel/S01E80_Apamado_DHP_22_23_24": {
+    "score": 1,
+    "note": "About vigilance and spiritual practice, not compassion"
+  },
+  "youtube_channel/S01E81_Ageing": {
+    "score": 2,
+    "note": "About aging and impermanence, minimal compassion content"
+  },
+  "youtube_channel/S01E82_Dhp_152_153_The_Inner_Critic": {
+    "score": 4,
+    "note": "About self-criticism versus compassion toward others' faults"
+  },
+  "youtube_channel/S01E83_Sympathy_Empathy_and_Compassion": {
+    "score": 9,
+    "note": "Directly explores sympathy, empathy and compassion distinctions"
+  },
+  "youtube_channel/S01E84_DHP_314-317_From_the_Chapter_on_Hell": {
+    "score": 1,
+    "note": "About wrong views and hell realms, not compassion"
+  },
+  "youtube_channel/S01E85_Non-Violence_is_not_Pacificism": {
+    "score": 5,
+    "note": "Non-violence relates to compassion but focuses on conflict"
+  },
+  "youtube_channel/S01E86_Neoliberalism_and_Mindfulness": {
+    "score": 4,
+    "note": "Contrasts genuine compassion with corporate mindfulness appropriation"
+  },
+  "youtube_channel/S01E87_The_Buddha_and_War.": {
+    "score": 4,
+    "note": "Non-violence and compassionate response to conflict situations"
+  },
+  "youtube_channel/S01E88_Need_Sufficiency_and_Greed": {
+    "score": 2,
+    "note": "About simplicity and needs, minimal compassion focus"
+  },
+  "youtube_channel/S01E89_Social_Conditioning_or_Karma": {
+    "score": 3,
+    "note": "Social relationships mentioned but not compassion focus"
+  },
+  "youtube_channel/S01E90_Climate_Emergency": {
+    "score": 6,
+    "note": "Maintaining goodwill and compassion amid global crisis"
+  },
+  "youtube_channel/S01E91_Reset_for_Autumn": {
+    "score": 4,
+    "note": "Mentions affectionate awareness but focuses on meditation routine"
+  },
+  "youtube_channel/S01E92_Identity_and_Not-Self": {
+    "score": 2,
+    "note": "Primarily about not-self teaching, minimal compassion content"
+  },
+  "youtube_channel/S01E93_The_Contemplation_of_Death": {
+    "score": 1,
+    "note": "Death contemplation practice, no compassion focus"
+  },
+  "youtube_channel/S01E94_To_Love_or_To_Be_Loved_That_is_the_question": {
+    "score": 7,
+    "note": "Explores loving motivations and heart-based love practice"
+  },
+  "youtube_channel/S01E95_The_Bases_of_Success": {
+    "score": 1,
+    "note": "About spiritual success factors, not compassion"
+  },
+  "youtube_channel/S01E96_Bahiya_of_the_Bark_Cloth": {
+    "score": 1,
+    "note": "Direct experience teaching, no compassion content"
+  },
+  "youtube_channel/S01E97_The_Discourse_on_Bahiya_of_the_Bark_Cloth_Ud110": {
+    "score": 1,
+    "note": "Pure awareness teaching, not about compassion"
+  },
+  "youtube_channel/S01E98_Joy": {
+    "score": 5,
+    "note": "Covers muditā sympathetic joy, related to compassion"
+  },
+  "youtube_channel/S01E99_Is_the_Buddha_and_athiest": {
+    "score": 0,
+    "note": "Theological discussion, unrelated to compassion"
+  },
+  "youtube_channel/S01E100_Fear_and_Courage": {
+    "score": 3,
+    "note": "Mentions giving fear a hug, minimal compassion"
+  },
+  "youtube_channel/S01E101_Patience": {
+    "score": 4,
+    "note": "Patience relates to compassion but not primary focus"
+  },
+  "youtube_channel/S01E102_Equanimity_-_The_most_important_of_all_virtues": {
+    "score": 5,
+    "note": "Discusses how equanimity prevents compassion becoming pity"
+  },
+  "youtube_channel/S01E103_Compassion_and_its_subtle_enemies": {
+    "score": 10,
+    "note": "Entirely about compassion, empathy, and their obstacles"
+  },
+  "youtube_channel/S01E104_Good_Friendship_Good_Companionship_Good_Comradship_is_the_whole_of_the_Spiritual": {
+    "score": 6,
+    "note": "Spiritual friendship involves compassionate connection with others"
+  },
+  "youtube_channel/S01E105_The_Five_Constant_Contemplations": {
+    "score": 2,
+    "note": "Contemplations on human condition, minimal compassion"
+  },
+  "youtube_channel/S01E106_Retreat_Start_Standing_and_Walking_Meditation": {
+    "score": 1,
+    "note": "Meditation instruction, no compassion focus"
+  },
+  "youtube_channel/S01E107_The_Discourse_Developing_Loving_Kindness": {
+    "score": 8,
+    "note": "Loving-kindness closely related to compassion practice"
+  },
+  "youtube_channel/S01E108_The_Importance_of_Tranquillity": {
+    "score": 1,
+    "note": "About tranquillity factor, not compassion"
+  },
+  "youtube_channel/S01E109_The_Crucial_Importance_of_Desire_and_Intention": {
+    "score": 2,
+    "note": "About intention and karma, minimal compassion"
+  },
+  "youtube_channel/S01E110_Satipanya_Opening_Ceremony_30th_June_2007": {
+    "score": 1,
+    "note": "Ceremonial event, not teaching content"
+  },
+  "youtube_channel/S01E111_Ceremony_to_Bless_the_Stupa_June_26th_2011_Pt_1": {
+    "score": 1,
+    "note": "Ceremonial chanting, not teaching content"
+  },
+  "youtube_channel/S01E112_Ceremony_to_Bless_the_Stupa_June_26th_2011_Pt_2": {
+    "score": 2,
+    "note": "Includes metta chanting but primarily ceremonial"
+  },
+  "youtube_channel/S01E113_Ceremony_to_Bless_the_Stupa_June_26th_2011_Pt_3": {
+    "score": 2,
+    "note": "Multi-faith gathering, some compassionate themes"
+  },
+  "youtube_channel/S01E114_15_The_Discourse_on_Not-self_SN22659": {
+    "score": 1,
+    "note": "Not-self teaching, no compassion focus"
+  },
+  "youtube_channel/S01E115_Upali_is_converted_by_the_Buddha_MN56": {
+    "score": 2,
+    "note": "About karma and mental actions, minimal compassion"
+  },
+  "youtube_channel/S01E116_Contemplating_the_Unpleasantness_of_the_Body_Why_and_How": {
+    "score": 1,
+    "note": "Body contemplation practice, minimal compassion content"
+  },
+  "youtube_channel/S01E117_The_Buddhas_Alter_Ego": {
+    "score": 4,
+    "note": "Discusses compassionate leadership qualities and non-violence"
+  },
+  "youtube_channel/S01E118_The_Unattractive_Nature_of_the_Body": {
+    "score": 2,
+    "note": "Body meditation with gratitude balance, limited compassion focus"
+  },
+  "youtube_channel/S01E119_The_Four_Great_Elements": {
+    "score": 0,
+    "note": "Technical meditation instruction, no compassion content"
+  },
+  "youtube_channel/S01E120_The_Specific_Law_of_Conditionality": {
+    "score": 1,
+    "note": "Philosophical teaching on causation, minimal compassion relevance"
+  },
+  "youtube_channel/S01E121_The_Dangers_of_Indulgence": {
+    "score": 2,
+    "note": "Middle path teaching, some self-compassion implications"
+  },
+  "youtube_channel/S01E122_Reflections_and_Contemplative_Practice_of_Kamma": {
+    "score": 3,
+    "note": "Moral responsibility practice, touches on compassionate action"
+  },
+  "youtube_channel/S01E123_Forgiveness": {
+    "score": 8,
+    "note": "Directly addresses forgiveness practice, highly relevant to compassion"
+  },
+  "youtube_channel/S01E124_The_Basics_of_Insight_Meditation_02": {
+    "score": 1,
+    "note": "Meditation fundamentals, minimal compassion content"
+  },
+  "youtube_channel/S01E125_Dukkha_-_Basic_Premise_of_the_Buddhadhamma": {
+    "score": 2,
+    "note": "Foundational suffering teaching, some compassion implications"
+  },
+  "youtube_channel/S01E126_Non-Violence_is_not_Pacifism": {
+    "score": 6,
+    "note": "Substantially discusses compassionate response to violence"
+  },
+  "youtube_channel/S01E127_The_Eight_Worldly_Conditions": {
+    "score": 2,
+    "note": "Equanimity practice, some self-compassion elements"
+  },
+  "youtube_channel/S01E128_The_Paradox_of_Fear": {
+    "score": 4,
+    "note": "Working with difficult emotions compassionately"
+  },
+  "youtube_channel/S01E129_Renunciation_The_Path_to_Liberation": {
+    "score": 1,
+    "note": "Renunciation practice, minimal compassion focus"
+  },
+  "youtube_channel/S01E130_The_Buddha_as_a_Teacher_The_Discourse_on_Malunkyaputta": {
+    "score": 3,
+    "note": "Buddha's compassionate teaching methods demonstrated"
+  },
+  "youtube_channel/S01E131_What_was_the_Great_Discovery_by_the_Buddha": {
+    "score": 1,
+    "note": "Awakening philosophy, minimal compassion content"
+  },
+  "youtube_channel/S01E132_Where_do_the_elements_cease_without_remainder": {
+    "score": 0,
+    "note": "Advanced philosophical discourse, no compassion focus"
+  },
+  "youtube_channel/S01E133_Extinguishing_the_Housebuilder": {
+    "score": 1,
+    "note": "Liberation metaphors, minimal compassion relevance"
+  },
+  "youtube_channel/S01E134_Hope_Aspiration_Expectation": {
+    "score": 2,
+    "note": "Emotional attitudes in practice, some compassion implications"
+  },
+  "youtube_channel/S01E135_Topics_of_Discussion": {
+    "score": 4,
+    "note": "Compassionate communication and skillful dialogue principles"
+  },
+  "youtube_channel/S01E136_Practising_the_Five_Remembrances": {
+    "score": 3,
+    "note": "Self-compassion in facing difficult truths"
+  },
+  "youtube_channel/S01E137_Revsing_the_Basics": {
+    "score": 1,
+    "note": "Meditation fundamentals, minimal compassion content"
+  },
+  "youtube_channel/S01E138_The_Necessity_of_Joy": {
+    "score": 7,
+    "note": "Sympathetic joy as brahmavihara, directly relevant"
+  },
+  "youtube_channel/S01E139_Polarisation": {
+    "score": 5,
+    "note": "Understanding division, compassionate response to conflict"
+  },
+  "youtube_channel/S01E140_Dullness_and_Lethargy": {
+    "score": 2,
+    "note": "Self-compassion in working with hindrances"
+  },
+  "bhante_essays/S01E01_Refuges_and_Precepts": {
+    "score": 2,
+    "note": "Precepts mention non-harm but not focused on compassion"
+  },
+  "bhante_essays/S01E02_Puja_Chantings": {
+    "score": 4,
+    "note": "Includes Mettā Sutta which teaches loving-kindness meditation"
+  },
+  "bhante_essays/S01E03_Recommended_Reading_for_Beginners": {
+    "score": 1,
+    "note": "Reading list with no specific compassion focus"
+  },
+  "bhante_essays/S01E04_in_PDF_format": {
+    "score": 3,
+    "note": "Mentions listening in relationships, some compassionate awareness"
+  },
+  "bhante_essays/S01E05_in_MS_Word_format": {
+    "score": 0,
+    "note": "No description available to assess relevance"
+  },
+  "bhante_essays/S02E01_Neoliberalism_and_BuddhaDhamma": {
+    "score": 6,
+    "note": "Critiques lack of compassion in economic systems"
+  },
+  "bhante_essays/S02E02_Investigative_Eating": {
+    "score": 2,
+    "note": "Focuses on attachment and wisdom, minimal compassion"
+  },
+  "bhante_essays/S02E03_Reflections_on_the_Teaching_and_Practice_of_Not-self": {
+    "score": 1,
+    "note": "Primarily about anattā doctrine, not compassion"
+  },
+  "bhante_essays/S02E04_Vipassana_as_taught_by_the_Mahasi_Sayadaw_of_Burma": {
+    "score": 1,
+    "note": "Technical meditation instructions, no compassion focus"
+  },
+  "bhante_essays/S02E05_Is_Armed_Intervention_Ever_Justified": {
+    "score": 5,
+    "note": "Examines non-violence and compassionate response to conflict"
+  },
+  "bhante_essays/S02E06_Free_will_is_it_available_or_useful": {
+    "score": 1,
+    "note": "Philosophical analysis of free will, minimal compassion"
+  },
+  "bhante_essays/S02E07_Could_I_be_a_fundamentalist_even_a_terrorist": {
+    "score": 3,
+    "note": "Examines psychological roots, touches on understanding others"
+  },
+  "bhante_essays/S02E08_Perfection_Elitism_and_Excellence": {
+    "score": 4,
+    "note": "Self-compassion through accepting imperfection and releasing judgment"
+  },
+  "bhante_essays/S02E09_What_benefit_is_there_in_becoming_a_temporary_monastic": {
+    "score": 2,
+    "note": "Mentions generosity and respect, limited compassion focus"
+  },
+  "bhante_essays/S02E10_The_Unlucky_Death_of_a_Two_Year_Old_Boy": {
+    "score": 5,
+    "note": "Compassionate response to tragedy and death contemplation"
+  },
+  "bhante_essays/S02E11_Expectation_Aspiration_and_Hope": {
+    "score": 2,
+    "note": "Mental attitudes toward future, minimal compassion content"
+  },
+  "bhante_essays/S02E12_Assisted_Suicide_PDF_document": {
+    "score": 4,
+    "note": "Ethical framework for end-of-life care decisions"
+  },
+  "bhante_essays/S02E13_Vipassana_Therapy_and_Medicinal_Drugs_PDF_document": {
+    "score": 3,
+    "note": "Addresses support for practitioners, some compassionate guidance"
+  },
+  "bhante_essays/S02E14_Conditionality_and_KammaPDF_document": {
+    "score": 1,
+    "note": "Technical teaching on causality, no compassion focus"
+  },
+  "bhante_essays/S02E15_Affectionate_Awareness": {
+    "score": 9,
+    "note": "Primarily about compassionate approach to difficult emotions"
+  },
+  "bhante_essays/S02E16_Climate_Crisis_A_Personal_Reflection": {
+    "score": 4,
+    "note": "Compassionate response to environmental crisis and suffering"
+  },
+  "bhante_essays/S03E01_The_First_Noble_Truth_of_Suffering_--_Dukkha": {
+    "score": 3,
+    "note": "Understanding suffering foundation for developing compassion"
+  },
+  "bhante_essays/S03E02_The_First_Noble_Truth_of_Suffering_--_The_Five_Aggregates": {
+    "score": 2,
+    "note": "Analytical framework for understanding experience, minimal compassion"
+  },
+  "bhante_essays/S03E03_The_First_Noble_Truth_of_Suffering_--_The_Three_Characteristics": {
+    "score": 2,
+    "note": "Foundational teaching on impermanence, limited compassion focus"
+  },
+  "bhante_essays/S03E04_The_Second_Noble_Truth_--_Desire": {
+    "score": 2,
+    "note": "Examines craving as suffering cause, minimal compassion"
+  },
+  "bhante_essays/S03E05_The_Second_Noble_Truth_--_The_Wheel_of_Dependent_Origination": {
+    "score": 2,
+    "note": "Focuses on suffering mechanics, minimal compassion content"
+  },
+  "bhante_essays/S03E06_The_Second_Noble_Truth_--_Kamma_Vipaka": {
+    "score": 2,
+    "note": "Emphasizes personal responsibility, limited compassion discussion"
+  },
+  "bhante_essays/S03E07_The_Fourth_Noble_Truth_--_Morality": {
+    "score": 3,
+    "note": "Mentions avoiding harm, touches compassion peripherally"
+  },
+  "bhante_essays/S03E08_The_Fourth_Noble_Truth_--_Perfections": {
+    "score": 7,
+    "note": "Includes loving-kindness perfection, substantial compassion content"
+  },
+  "bhante_essays/S03E09_The_Fourth_Noble_Truth_--_Right_Understanding": {
+    "score": 4,
+    "note": "Mentions compassionate action as wisdom type"
+  },
+  "bhante_essays/S03E10_The_Fourth_Noble_Truth_--_Mental_Development": {
+    "score": 2,
+    "note": "Focuses on meditation technique, minimal compassion"
+  },
+  "bhante_essays/S03E11_Meditation_in_Ordinary_Daily_Life": {
+    "score": 2,
+    "note": "Emphasizes mindfulness practice, limited compassion focus"
+  },
+  "bhante_essays/S04E01_Meditation_in_Ordinary_Daily_Life": {
+    "score": 3,
+    "note": "Mentions emotional equanimity, touches compassion indirectly"
+  },
+  "bhante_essays/S05E01_Buddha_Day_Evening_with_Italy": {
+    "score": 5,
+    "note": "Includes mettā practice, moderate compassion content"
+  },
+  "tips_of_the_day/S01E01_At_the_end_of_the_day_1": {
+    "score": 6,
+    "note": "Emphasizes forgiveness and making amends"
+  },
+  "tips_of_the_day/S01E02_At_the_end_of_the_day_2": {
+    "score": 2,
+    "note": "Focuses on mindful routines, minimal compassion"
+  },
+  "tips_of_the_day/S01E03_At_the_end_of_the_day": {
+    "score": 4,
+    "note": "Mentions mettā practice for sleep preparation"
+  },
+  "tips_of_the_day/S01E04_Upon_Awakening": {
+    "score": 2,
+    "note": "Focuses on mindfulness upon waking"
+  },
+  "tips_of_the_day/S01E05_Morning_Meditation_One_of_Four_Ritual": {
+    "score": 1,
+    "note": "Focuses on ritual preparation"
+  },
+  "tips_of_the_day/S01E06_Morning_Meditation_Default_Position_Abiding_in_Calm_Open_Attentiveness": {
+    "score": 2,
+    "note": "Emphasizes awareness cultivation, minimal compassion"
+  },
+  "tips_of_the_day/S01E07_Morning_Meditation_Vipassana_1_Developing_a_steady_attention": {
+    "score": 1,
+    "note": "Focuses on concentration development"
+  },
+  "tips_of_the_day/S01E08_Morning_Meditation_Vipassana_2_Developing_Insight": {
+    "score": 2,
+    "note": "Focuses on insight practice"
+  },
+  "tips_of_the_day/S01E09_Morning_Meditation_Metta_Developing_Goodwill_the_Theory": {
+    "score": 9,
+    "note": "Primarily about mettā and compassionate engagement"
+  },
+  "tips_of_the_day/S01E10_Discourse_on_Metta": {
+    "score": 9,
+    "note": "Entirely focused on loving-kindness practice"
+  },
+  "tips_of_the_day/S01E11_Morning_Meditation_Developing_Goodwill_and_Forgiveness_the_Exercise": {
+    "score": 9,
+    "note": "Practical mettā and forgiveness meditation guide"
+  },
+  "tips_of_the_day/S01E12_Morning_Meditation_Resolution": {
+    "score": 3,
+    "note": "Mentions Right Intention, touches compassion peripherally"
+  },
+  "tips_of_the_day/S01E13_Developing_the_Perfection_of_Determination": {
+    "score": 2,
+    "note": "Focuses on determination cultivation"
+  },
+  "tips_of_the_day/S01E14_Breakfast_at_last": {
+    "score": 2,
+    "note": "Emphasizes mindful eating practice"
+  },
+  "tips_of_the_day/S01E15_Traveling_to_and_from_work": {
+    "score": 2,
+    "note": "Focuses on mindful commuting"
+  },
+  "tips_of_the_day/S01E16_Back_Home": {
+    "score": 3,
+    "note": "Mentions skillful transitions, touches compassion indirectly"
+  },
+  "tips_of_the_day/S02E01_Relations_Friends_Acquaintances_and_Spiritual_Companions": {
+    "score": 4,
+    "note": "Mentions self-reflection and understanding relationship patterns"
+  },
+  "tips_of_the_day/S02E02_Contemplating_Relations_Friends_Acquaintances_and_Spiritual_Companions": {
+    "score": 5,
+    "note": "Discusses spiritual friendship and supporting others' growth"
+  },
+  "tips_of_the_day/S02E03_Intimate_Relationships_The_Erotic_the_Romantic_and_Love": {
+    "score": 6,
+    "note": "Explores genuine love versus self-seeking in relationships"
+  },
+  "tips_of_the_day/S02E04_Celibacy": {
+    "score": 7,
+    "note": "Focuses on developing universal love and mettā"
+  },
+  "tips_of_the_day/S02E05_When_does_love_become_control": {
+    "score": 5,
+    "note": "Examines how genuine love becomes corrupted by control"
+  },
+  "tips_of_the_day/S03E01_Work": {
+    "score": 2,
+    "note": "Primarily about Right Livelihood, minimal compassion content"
+  },
+  "tips_of_the_day/S03E02_Success_and_Failure_Trial_and_Error": {
+    "score": 3,
+    "note": "Mentions self-compassion through reframing failure perspectives"
+  },
+  "tips_of_the_day/S03E03_Creating_Space_1": {
+    "score": 2,
+    "note": "About work efficiency and mindfulness, not compassion"
+  },
+  "tips_of_the_day/S03E04_Creating_Space_2": {
+    "score": 3,
+    "note": "Mentions equanimity in dealing with others' emotions"
+  },
+  "tips_of_the_day/S03E05_Creating_Space_3": {
+    "score": 4,
+    "note": "Discusses maintaining equanimity with stressed colleagues"
+  },
+  "tips_of_the_day/S03E06_The_Limits_of_Power_and_Mission_Creep": {
+    "score": 3,
+    "note": "Touches on considering others' positions and responsibilities"
+  },
+  "tips_of_the_day/S04E01_Not_an_Emotion": {
+    "score": 1,
+    "note": "About happiness and emotions, not compassion"
+  },
+  "tips_of_the_day/S04E02_Relationships": {
+    "score": 6,
+    "note": "Discusses putting others' needs before our own desires"
+  },
+  "tips_of_the_day/S04E03_Being_Good_rather_than_Being_Good_At": {
+    "score": 4,
+    "note": "Mentions generosity and wholesome attitudes toward others"
+  },
+  "tips_of_the_day/S04E04_Whats_wrong_with_a_bit_of_attachment": {
+    "score": 5,
+    "note": "Discusses love and compassion beneath our attachments"
+  },
+  "tips_of_the_day/S04E05_Sacrifice_the_more_we_give_the_greater_the_return": {
+    "score": 6,
+    "note": "Explores selfless offering and sacrifice for all beings"
+  },
+  "tips_of_the_day/S04E06_Not_what_we_believe_but_how_we_live": {
+    "score": 2,
+    "note": "About practice over beliefs, minimal compassion focus"
+  },
+  "tips_of_the_day/S04E07_Towards_the_Greatest_Happiness": {
+    "score": 2,
+    "note": "About happiness and Nibbāna, not compassion specifically"
+  },
+  "tips_of_the_day/S05E01_New_Year_Resolution": {
+    "score": 4,
+    "note": "Mentions forgiveness and compassion through guilt transformation"
+  },
+  "tips_of_the_day/S05E02_Neighbourly_Sounds": {
+    "score": 3,
+    "note": "Touches on acceptance and equanimity with others"
+  },
+  "tips_of_the_day/S05E03_Sickness": {
+    "score": 2,
+    "note": "About illness and awakening, minimal compassion content"
+  },
+  "tips_of_the_day/S05E04_The_Tough_Nut": {
+    "score": 2,
+    "note": "About overcoming habits, not compassion focus"
+  },
+  "tips_of_the_day/S05E05_Impulsive_or_Spontaneous": {
+    "score": 3,
+    "note": "Mentions cultivated virtue in daily interactions"
+  },
+  "tips_of_the_day/S05E06_Joy": {
+    "score": 8,
+    "note": "Primarily about muditā, one of the brahmavihāras"
+  },
+  "tips_of_the_day/S05E07_Thankyou": {
+    "score": 5,
+    "note": "Discusses gratitude and appreciation for others' contributions"
+  },
+  "tips_of_the_day/S05E08_Need_Sufficiency_and_Greed": {
+    "score": 1,
+    "note": "Focuses on material consumption, minimal compassion content"
+  },
+  "tips_of_the_day/S05E09_What_values_govern_our_lives": {
+    "score": 6,
+    "note": "Discusses loss of empathy and developing care for others"
+  },
+  "tips_of_the_day/S05E10_Values_in_mine_own_eyes": {
+    "score": 7,
+    "note": "Explores authentic care, generosity, and relationships based on love"
+  },
+  "tips_of_the_day/S05E11_Living_in_the_Now_Planning_for_the_Future": {
+    "score": 1,
+    "note": "About mindful planning, not compassion or empathy"
+  },
+  "tips_of_the_day/S05E12_Music": {
+    "score": 2,
+    "note": "About music's emotional effects, mentions healing but not compassion"
+  },
+  "tips_of_the_day/S05E13_Time": {
+    "score": 1,
+    "note": "About relationship with time, not compassion or empathy"
+  },
+  "tips_of_the_day/S05E14_Our_Daily_Breaks": {
+    "score": 3,
+    "note": "Mentions sharing joy with beings, but primarily about mindfulness"
+  },
+  "tips_of_the_day/S05E15_On_the_Virtue_of_Visiting_a_Cemetery": {
+    "score": 1,
+    "note": "About death contemplation and impermanence, not compassion"
+  },
+  "tips_of_the_day/S05E16_Pity_Sorrow_and_Compassion": {
+    "score": 9,
+    "note": "Directly explores compassion, pity, and genuine emotional responses"
+  },
+  "tips_of_the_day/S05E17_Why_are_we_asked_to_observe_-_impermanence": {
+    "score": 1,
+    "note": "About impermanence meditation, not compassion or empathy"
+  },
+  "tips_of_the_day/S05E18_Sublimation": {
+    "score": 7,
+    "note": "Discusses transformation of cruelty into compassion and loving-kindness"
+  },
+  "tips_of_the_day/S05E19_Righteous_Anger_Plain_Anger": {
+    "score": 6,
+    "note": "Explores transforming anger into skillful compassionate assertiveness"
+  },
+  "tips_of_the_day/S05E20_A_Pets_Endgame": {
+    "score": 8,
+    "note": "Focuses on compassionate decision-making for suffering animals"
+  },
+  "tips_of_the_day/S05E21_Downers": {
+    "score": 4,
+    "note": "About accepting difficult emotions, mentions mother's love"
+  },
+  "tips_of_the_day/S05E22_Discipline_Self-discipline": {
+    "score": 3,
+    "note": "Mentions gentle encouragement over harsh criticism"
+  },
+  "tips_of_the_day/S05E23_Fairness_and_Equality": {
+    "score": 2,
+    "note": "About justice and karma, minimal compassion content"
+  },
+  "tips_of_the_day/S05E24_Unforgivingness": {
+    "score": 5,
+    "note": "Discusses transforming anger, mentions grief leading to compassion"
+  },
+  "tips_of_the_day/S05E25_My_body_is_Mother_Earth": {
+    "score": 2,
+    "note": "About connection with nature, minimal compassion content"
+  },
+  "tips_of_the_day/S05E26_Dealing_with_Intense_Emotions_and_Moods_in_Ordinary_Daily_Life": {
+    "score": 3,
+    "note": "About emotional regulation, not specifically about compassion"
+  },
+  "tips_of_the_day/S05E27_How_much_pain_physical_or_mental_should_we_suffer": {
+    "score": 2,
+    "note": "About enduring pain wisely, minimal compassion content"
+  },
+  "tips_of_the_day/S05E28_Judging_or_Judgemental": {
+    "score": 4,
+    "note": "Discusses harmful judgment versus skillful discernment"
+  },
+  "tips_of_the_day/S05E29_The_absurd_and_the_Sublime_A_Mid-summer_Contemplation": {
+    "score": 1,
+    "note": "About existential meaning and awakening, not compassion"
+  },
+  "tips_of_the_day/S05E30_If_there_is_no_self_who_bears_the_karma": {
+    "score": 1,
+    "note": "About philosophical doctrine, not compassion or empathy"
+  },
+  "tips_of_the_day/S05E31_Overwhelmed_by_All_the_Violence_in_the_World": {
+    "score": 8,
+    "note": "Directly addresses compassionate response to global suffering"
+  },
+  "tips_of_the_day/S05E32_Legal_Moral_Ethical": {
+    "score": 3,
+    "note": "Mentions friendship and compassion within ethical framework"
+  },
+  "tips_of_the_day/S05E33_The_Consumer_in_Us_All": {
+    "score": 2,
+    "note": "Focuses on consumerism corrupting spiritual practice, minimal compassion content"
+  },
+  "tips_of_the_day/S05E34_Barriers_or_Boundaries": {
+    "score": 4,
+    "note": "Discusses boundaries in relationships, touches on dignity and adaptation"
+  },
+  "tips_of_the_day/S05E35_Isolation_Loneliness_and_Solitude": {
+    "score": 5,
+    "note": "Explores loneliness and dependency, relates to understanding others' suffering"
+  },
+  "tips_of_the_day/S05E36_Envy_Jealousy_and_Appreciative_Joy": {
+    "score": 7,
+    "note": "Cultivating muditā as antidote to negative emotions, developing compassionate joy"
+  },
+  "tips_of_the_day/S05E37_Unwholesome_Karmic_Results_as_Fate": {
+    "score": 3,
+    "note": "Focuses on unconscious patterns and suffering, limited compassion discussion"
+  },
+  "tips_of_the_day/S05E38_Ideology_leads_to_strife": {
+    "score": 4,
+    "note": "Addresses conflict and peaceful discourse, touches on understanding others"
+  },
+  "tips_of_the_day/S05E39_The_Sacred_Its_Meaning_and_the_Role_of_Free_Speech": {
+    "score": 3,
+    "note": "Discusses respectful communication and Right Speech, minimal compassion focus"
+  },
+  "tips_of_the_day/S05E40_Awareness_Compassion_and_Wisdom": {
+    "score": 9,
+    "note": "Directly explores compassion, empathy, and skillful compassionate action"
+  },
+  "tips_of_the_day/S05E41_To_become_or_not_to_become": {
+    "score": 1,
+    "note": "Focuses on craving and philosophical views, no compassion content"
+  },
+  "tips_of_the_day/S05E42_Appamāda_Diligent": {
+    "score": 2,
+    "note": "Emphasizes diligence and heedfulness in practice, minimal compassion discussion"
+  },
+  "tips_of_the_day/S05E43_Aim_and_Objective_in_Present_Time": {
+    "score": 2,
+    "note": "Focuses on mindfulness and present moment awareness, limited compassion"
+  },
+  "tips_of_the_day/S05E44_Money_and_Power": {
+    "score": 5,
+    "note": "Discusses economic justice and addressing social problems compassionately"
+  },
+  "tips_of_the_day/S05E45_Passive_Aggression": {
+    "score": 4,
+    "note": "Addresses relationship dynamics and understanding others' behavior patterns"
+  },
+  "tips_of_the_day/S05E46_In_what_way_should_Buddhadhamma_affect_our_politics": {
+    "score": 3,
+    "note": "Discusses ethical political engagement, touches on compassionate governance"
+  },
+  "tips_of_the_day/S05E47_Practice_makes_perfect": {
+    "score": 3,
+    "note": "Mentions mettā as foundation but focuses on practice discipline"
+  },
+  "tips_of_the_day/S05E48_Right_Speech": {
+    "score": 4,
+    "note": "Explores ethical communication that prevents harm to others"
+  },
+  "tips_of_the_day/S05E49_Equanimity": {
+    "score": 5,
+    "note": "Discusses balanced compassion and preventing virtue corruption through equanimity"
+  },
+  "tips_of_the_day/S05E50_Shame": {
+    "score": 3,
+    "note": "Addresses ethical development and understanding shame's role compassionately"
+  },
+  "tips_of_the_day/S05E51_Guilt": {
+    "score": 3,
+    "note": "Explores guilt from Buddhist perspective, touches on self-compassion"
+  },
+  "tips_of_the_day/S05E52_Gratitude_Generosity_Renunciation": {
+    "score": 6,
+    "note": "Explores dāna as compassionate giving and prioritizing others' needs"
+  },
+  "tips_of_the_day/S05E53_Excitement_Boredom_Contentment": {
+    "score": 2,
+    "note": "Focuses on contentment and mental states, minimal compassion content"
+  },
+  "tips_of_the_day/S05E54_Silence": {
+    "score": 1,
+    "note": "Explores silence and meditation, no significant compassion discussion"
+  },
+  "tips_of_the_day/S05E55_Courage_Fortitude_and_Resilience": {
+    "score": 4,
+    "note": "Addresses responding to others' crises and life challenges"
+  },
+  "tips_of_the_day/S05E56_One_of_the_Hindrances_is_Sceptical_Doubt": {
+    "score": 2,
+    "note": "Focuses on doubt in practice, minimal compassion content"
+  },
+  "tips_of_the_day/S05E57_Scientism_meets_Buddhism_Buddhadhamma": {
+    "score": 1,
+    "note": "Addresses scientific materialism versus Buddhist teachings, no compassion focus"
+  },
+  "tips_of_the_day/S05E58_What_is_our_basic_disposition_to_life": {
+    "score": 2,
+    "note": "Mentions character types but not compassion/empathy focus"
+  },
+  "tips_of_the_day/S05E59_Fear": {
+    "score": 7,
+    "note": "Discusses facing fear leading to fearlessness and compassion"
+  },
+  "tips_of_the_day/S05E60_Beauty": {
+    "score": 1,
+    "note": "About aesthetic appreciation, minimal compassion/empathy content"
+  },
+  "tips_of_the_day/S05E61_The_Wisdom_of_Uncertainty": {
+    "score": 2,
+    "note": "Focuses on conditionality and flexibility, not compassion"
+  },
+  "tips_of_the_day/S05E62_Patience": {
+    "score": 8,
+    "note": "Explores maintaining loving-kindness under extreme provocation"
+  },
+  "tips_of_the_day/S05E63_Overcoming_the_Corruptions_of_Generosity": {
+    "score": 5,
+    "note": "Discusses pure giving and avoiding judgment of others"
+  },
+  "tips_of_the_day/S05E64_The_World_is_in_a_terrible_state": {
+    "score": 6,
+    "note": "Addresses responding to global crises with mettā practice"
+  },
+  "tips_of_the_day/S05E65_The_Treasure_of_Things": {
+    "score": 2,
+    "note": "About mindful gratitude toward objects, not interpersonal compassion"
+  },
+  "tips_of_the_day/S05E66_Equanimity_Carl": {
+    "score": 3,
+    "note": "Discusses equanimity but not specifically compassion/empathy"
+  },
+  "tips_of_the_day/S05E67_The_years_where_do_they_go_New_Year_Encouragement_Noirin": {
+    "score": 1,
+    "note": "About endings and cessation, minimal compassion content"
+  },
+  "tips_of_the_day/S05E68_Understand_and_See_things_as_they_really_are": {
+    "score": 1,
+    "note": "About perception and reality, not compassion/empathy"
+  },
+  "tips_of_the_day/S05E69_Constant_Curiosity_Carl": {
+    "score": 2,
+    "note": "About investigation practice, minimal compassion/empathy focus"
+  },
+  "tips_of_the_day/S05E70_Kamma_Noirin": {
+    "score": 2,
+    "note": "About cause and effect, not specifically compassion"
+  },
+  "tips_of_the_day/S05E71_Progress": {
+    "score": 4,
+    "note": "Discusses moving from selfishness to harmony with others"
+  },
+  "tips_of_the_day/S05E72_Who_Decides_Carl": {
+    "score": 1,
+    "note": "About decision-making and not-self, minimal compassion content"
+  },
+  "tips_of_the_day/S05E73_Delusion_caring_for_illusion": {
+    "score": 3,
+    "note": "Mentions caring for sense of self skillfully"
+  },
+  "tips_of_the_day/S05E74_The_world_is_not_in_a_good_place": {
+    "score": 5,
+    "note": "Addresses responding to global suffering with Buddhist principles"
+  },
+  "tips_of_the_day/S05E75_Happy_New_Year": {
+    "score": 2,
+    "note": "About sustainable resolutions, minimal compassion/empathy focus"
+  },
+  "tips_of_the_day/S05E76_Sickness": {
+    "score": 2,
+    "note": "About illness as spiritual insight, not compassion"
+  },
+  "tips_of_the_day/S05E77_Yearning_for_a_Better_World": {
+    "score": 8,
+    "note": "Explores mettā practice for social transformation and goodwill"
+  },
+  "tips_of_the_day/S05E78_Balancing_Lay_and_Spiritual_Life": {
+    "score": 3,
+    "note": "Mentions gentle approaches but not specifically compassion"
+  },
+  "tips_of_the_day/S05E79_Wildflower_Wisdom": {
+    "score": 2,
+    "note": "About nature appreciation, minimal compassion/empathy content"
+  },
+  "tips_of_the_day/S05E80_Dealing_with_the_Stories_that_Make_Us_Suffer": {
+    "score": 4,
+    "note": "Addresses relationship suffering but not compassion cultivation"
+  },
+  "tips_of_the_day/S05E81_The_Wisdom_and_Virtues_of_Insecurity": {
+    "score": 2,
+    "note": "About accepting uncertainty, minimal compassion focus"
+  },
+  "tips_of_the_day/S05E82_As_Winter_Approaches": {
+    "score": 3,
+    "note": "Personal grief reflection, some empathetic elements"
+  },
+  "tips_of_the_day/S05E83_Guidelines_For_a_New_Years_Resolution": {
+    "score": 2,
+    "note": "Self-reflection framework, minimal compassion/empathy focus"
+  },
+  "tips_of_the_day/S05E84_Coronavirus_Messenger_from_the_Gods": {
+    "score": 4,
+    "note": "Mentions compassionate response to crisis, not primary focus"
+  },
+  "tips_of_the_day/S05E85_Quench_all_Resentments": {
+    "score": 8,
+    "note": "Mettā cultivation and compassion for difficult people central"
+  },
+  "tips_of_the_day/S05E86_Exiting_Lockdown": {
+    "score": 2,
+    "note": "Mindfulness focus, minimal compassion/empathy content"
+  },
+  "tips_of_the_day/S05E87_Committing_to_the_Path": {
+    "score": 1,
+    "note": "Right Intention focus, no compassion/empathy emphasis"
+  },
+  "tips_of_the_day/S05E88_Beauty": {
+    "score": 1,
+    "note": "Attachment to beauty, no compassion/empathy content"
+  },
+  "tips_of_the_day/S05E89_Motivation_for_Practice": {
+    "score": 1,
+    "note": "Meditation motivation focus, no compassion/empathy discussion"
+  },
+  "tips_of_the_day/S05E90_All_in_the_Mind": {
+    "score": 2,
+    "note": "Mental suffering focus, minimal compassion/empathy content"
+  },
+  "tips_of_the_day/S05E91_Perfection_Elitism_and_Excellence": {
+    "score": 3,
+    "note": "Self-compassion implied through acceptance of imperfection"
+  },
+  "tips_of_the_day/S05E92_Material_World": {
+    "score": 1,
+    "note": "Material attachment focus, no compassion/empathy emphasis"
+  },
+  "tips_of_the_day/S05E93_Inner_Voices": {
+    "score": 2,
+    "note": "Individual mental differences, minimal compassion/empathy content"
+  },
+  "tips_of_the_day/S05E94_Full_Catastrophe_Ethics": {
+    "score": 4,
+    "note": "Ethical response to crisis includes compassionate elements"
+  },
+  "tips_of_the_day/S05E95_On_Learning_how_to_be_with_Climate_and_Social_Breakdown": {
+    "score": 5,
+    "note": "Compassionate engagement with climate anxiety and breakdown"
+  },
+  "tips_of_the_day/S05E96_Living_in_the_here_and_now_Bhante_Bodhidhamma": {
+    "score": 3,
+    "note": "Ethical awareness includes compassionate relationship elements"
+  },
+  "tips_of_the_day/S05E97_Being_Human_Bhante_Bodhidhamma": {
+    "score": 6,
+    "note": "Relational humanity and interdependence substantially discussed"
+  },
+  "tips_of_the_day/S05E98_Sympathy_Empathy_Compassion_Bhante_Bodhidhamma": {
+    "score": 10,
+    "note": "Primary focus on compassion, empathy, and sympathetic response"
+  },
+  "tips_of_the_day/S05E99_Non-Violence_is_not_Pacificism_Bhante_Bodhidhamma": {
+    "score": 7,
+    "note": "Non-violence rooted in empathy and compassion central"
+  },
+  "tips_of_the_day/S05E100_Neoliberalism_and_Buddhadhamma_Bhante_Bodhidhamma": {
+    "score": 4,
+    "note": "Compassion and interdependence contrasted with competitive individualism"
+  },
+  "tips_of_the_day/S05E101_Dullness_and_Lethargy_Our_Two_Very_Good_Friends_Carl_Fooks": {
+    "score": 3,
+    "note": "Self-compassion toward meditation difficulties implied"
+  },
+  "tips_of_the_day/S05E102_Preparing_for_Climate_Change_-_First_Ethical_Maxim_Noirin_Sheahan": {
+    "score": 2,
+    "note": "Climate awareness focus, minimal compassion/empathy content"
+  },
+  "tips_of_the_day/S05E103_Red_Lines_Sila_-_Third_Ethical_Maxim_Noirin_Sheahan": {
+    "score": 4,
+    "note": "Ethical boundaries include non-harm and compassionate considerations"
+  },
+  "tips_of_the_day/S05E104_Radical_Hope_Saddha_-_Second_Ethical_Maxim_Noirin_Sheahan": {
+    "score": 2,
+    "note": "Hope and trust focus, minimal compassion/empathy emphasis"
+  },
+  "tips_of_the_day/S05E105_New_Year_Resolutions_and_the_Third_Maxim_Noirin_Sheahan": {
+    "score": 1,
+    "note": "Personal resolve focus, no compassion/empathy content"
+  },
+  "tips_of_the_day/S05E106_4th_Maxim_i_Opportunity_Knocks_Noirin_Sheahan": {
+    "score": 3,
+    "note": "Skillful response to suffering includes compassionate elements"
+  },
+  "tips_of_the_day/S05E107_4th_Maxim_ii_Spiral_to_Freedom_Noirin_Sheahan": {
+    "score": 2,
+    "note": "Spiritual growth from suffering, minimal compassion focus"
+  },
+  "tips_of_the_day/S05E108_Fourth_Maxim_iii_Path_to_Transcendence_Noirin_Sheahan": {
+    "score": 2,
+    "note": "Climate anxiety focus, minimal compassion content"
+  },
+  "tips_of_the_day/S05E109_Equanimity_The_Most_Important_Virtue_Bhante_Bodhidhamma": {
+    "score": 4,
+    "note": "Discusses compassion's relationship to equanimity, prevents pity"
+  },
+  "tips_of_the_day/S05E110_The_Danger_of_Nihilism_Bhante_Bodhidhamma": {
+    "score": 5,
+    "note": "Compassionate re-engagement as antidote to nihilistic withdrawal"
+  },
+  "tips_of_the_day/S05E111_Neo-Fascism_Bhante_Bodhidhamma": {
+    "score": 1,
+    "note": "Political analysis, minimal compassion discussion"
+  },
+  "tips_of_the_day/S05E112_The_Gift_of_Joy_Mudita_Bhante_Bodhidhamma": {
+    "score": 6,
+    "note": "Muditā as appreciative joy, one of four brahmavihāra"
+  },
+  "tips_of_the_day/S05E113_We_just_follow_circumstance_Bhante_Bodhidhamma": {
+    "score": 7,
+    "note": "Wisdom and compassion in catastrophic circumstances, embracing others"
+  },
+  "tips_of_the_day/S05E114_To_Love_or_To_Be_Loved_That_is_the_Question_Bhante_Bodhidhamma": {
+    "score": 6,
+    "note": "Genuine care versus seeking love, authentic compassion"
+  },
+  "tips_of_the_day/S05E115_Samsara_doomed_to_suffer_over_and_over_again_Bhante_Bodhidhamma": {
+    "score": 3,
+    "note": "Mentions goodwill overcoming hatred, limited compassion focus"
+  },
+  "tips_of_the_day/S05E116_Compassion_To_Care_Bhante_Bodhidhamma": {
+    "score": 9,
+    "note": "Primary focus on compassion, empathy, and skillful action"
+  },
+  "tips_of_the_day/S05E117_Compassion_A_Path_of_Liberation_Bhante_Bodhidhamma": {
+    "score": 9,
+    "note": "Compassion as path, transformation from selfishness to generosity"
+  },
+  "tips_of_the_day/S05E118_Fifth_Maxim_Develop_the_Body_and_Mind_Noirin_Sheahan": {
+    "score": 2,
+    "note": "Climate preparation focus, minimal compassion content"
+  },
+  "tips_of_the_day/S05E119_The_Buddhas_Alter_Ego_The_World_Conquering_Monarch_Bhante_Bodhidhamma": {
+    "score": 1,
+    "note": "Political leadership analysis, no compassion discussion"
+  },
+  "tips_of_the_day/S05E120_There_is_a_Body_Exploring_the_Mind-Body_Relationship_Noirin_Sheahan": {
+    "score": 1,
+    "note": "Mind-body meditation practice, no compassion content"
+  },
+  "tips_of_the_day/S05E121_Self-love_and_Self-Acceptance_Bhante_Bodhidhamma": {
+    "score": 7,
+    "note": "Foundation of mettā practice through self-acceptance and healing"
+  },
+  "tips_of_the_day/S05E122_The_Crucial_Role_of_Desire_and_Intention_Bhante_Bodhidhamma": {
+    "score": 1,
+    "note": "Desire and intention analysis, no compassion focus"
+  },
+  "tips_of_the_day/S05E123_Mindfulness_meets_Metta_Noirin_Sheahan": {
+    "score": 8,
+    "note": "Mettā practice emerging from mindfulness, goodwill development"
+  },
+  "tips_of_the_day/S05E124_Surely_meditation_shouldnt_feel_like_this_Noirin_Sheahan": {
+    "score": 2,
+    "note": "Meditation difficulties, minimal compassion content"
+  },
+  "tips_of_the_day/S05E125_The_Fire_Sermon": {
+    "score": 1,
+    "note": "Fire sermon analysis, no compassion discussion"
+  },
+  "tips_of_the_day/S05E126_Why_spend_a_week_or_more_on_retreat": {
+    "score": 1,
+    "note": "Retreat practice benefits, no compassion content"
+  },
+  "tips_of_the_day/S05E127_Nibanna_is_Close_at_Hand": {
+    "score": 6,
+    "note": "Buddha's humanity through brahmavihāras including mettā and karuṇā"
+  },
+  "tips_of_the_day/S05E128_AI_Art": {
+    "score": 2,
+    "note": "AI art analysis, human connection mentioned briefly"
+  },
+  "tips_of_the_day/S05E129_A_Field_of_Barley": {
+    "score": 3,
+    "note": "Muditā mentioned as appreciative joy, limited compassion focus"
+  },
+  "tips_of_the_day/S05E130_War": {
+    "score": 4,
+    "note": "Buddhist approaches to conflict, equanimity over moral outrage"
+  },
+  "tips_of_the_day/S05E131_The_Enlightenment_and_its_Demise": {
+    "score": 1,
+    "note": "Historical analysis, no compassion discussion"
+  },
+  "tips_of_the_day/S05E132_The_Enlightenment_and_Possible_Salvation": {
+    "score": 2,
+    "note": "Buddhist solutions to social crisis, minimal compassion content"
+  },
+  "tips_of_the_day/S05E133_Sixth_Maxim_Act_for_the_Future_Generations_of_All_Species": {
+    "score": 9,
+    "note": "Primarily about expanding compassion through Metta Sutta teachings"
+  },
+  "tips_of_the_day/S05E134_Cultivating_Metta_for_Future_Generations": {
+    "score": 9,
+    "note": "Focuses on cultivating metta/loving-kindness for future generations"
+  },
+  "retreat_talks/S01E01_Detailed_Guided_Meditation": {
+    "score": 1,
+    "note": "Technical vipassana meditation instructions, no compassion focus"
+  },
+  "retreat_talks/S01E02_Starting_a_Retreat": {
+    "score": 3,
+    "note": "Mentions metta meditation but primarily about retreat setup"
+  },
+  "retreat_talks/S01E03_Abiding_in_the_Present_Moment_Developing_Equanimity": {
+    "score": 2,
+    "note": "Focuses on equanimity, minimal compassion content"
+  },
+  "retreat_talks/S01E04_Detailed_Guided_Meditation": {
+    "score": 1,
+    "note": "Technical vipassana instructions, no compassion emphasis"
+  },
+  "retreat_talks/S01E05_Assisted_Meditation": {
+    "score": 1,
+    "note": "Mahasi noting technique, no compassion focus"
+  },
+  "retreat_talks/S01E06_Heartcare_Metta_Meditation": {
+    "score": 9,
+    "note": "Comprehensive metta practice developing loving-kindness toward all beings"
+  },
+  "retreat_talks/S01E07_Bodycare_Meditation": {
+    "score": 7,
+    "note": "Offering metta to body, transforming relationship through compassion"
+  },
+  "retreat_talks/S02E01_Eating_meditation": {
+    "score": 1,
+    "note": "Mindful eating practice, no compassion emphasis"
+  },
+  "retreat_talks/S02E02_Morning_Chant_with_Refuges_and_Precepts": {
+    "score": 4,
+    "note": "Includes metta sutta but primarily traditional chanting"
+  },
+  "retreat_talks/S02E03_Evening_Metta_Chant": {
+    "score": 8,
+    "note": "Traditional loving-kindness chant extending compassion to all beings"
+  },
+  "retreat_talks/S03E01_The_Technique": {
+    "score": 1,
+    "note": "Mahasi vipassana technique explanation, no compassion focus"
+  },
+  "retreat_talks/S03E02_The_Hindrances": {
+    "score": 2,
+    "note": "Working with mental obstacles, minimal compassion content"
+  },
+  "retreat_talks/S03E03_The_Factors_of_Enlightenment": {
+    "score": 2,
+    "note": "Seven factors of awakening, no specific compassion emphasis"
+  },
+  "retreat_talks/S03E04_The_Pleasure_Syndrome_dukkha": {
+    "score": 1,
+    "note": "Dependent origination and suffering, no compassion focus"
+  },
+  "retreat_talks/S03E05_The_Characteristic_of_Impermanence": {
+    "score": 1,
+    "note": "Impermanence teaching, no compassion emphasis"
+  },
+  "retreat_talks/S03E06_Anatta_Not_self": {
+    "score": 1,
+    "note": "Not-self teaching, no compassion focus"
+  },
+  "retreat_talks/S03E07_Living_Life_according_to_the_Dhamma": {
+    "score": 4,
+    "note": "Mentions loving-kindness and generosity within broader ethical framework"
+  },
+  "retreat_talks/S03E08_Mahasi_Talk": {
+    "score": 1,
+    "note": "Technical meditation instructions, no compassion emphasis"
+  },
+  "retreat_talks/S03E09_Vedana_Feeling": {
+    "score": 1,
+    "note": "Buddhist psychology of feeling, no compassion focus"
+  },
+  "retreat_talks/S03E10_Is_Awareness_Enough": {
+    "score": 1,
+    "note": "Role of awareness in practice, no compassion emphasis"
+  },
+  "retreat_talks/S03E11_Eroticism_Romance_Love_Distraction_and_Boredom": {
+    "score": 2,
+    "note": "Discusses love but as hindrance, minimal compassion content"
+  },
+  "retreat_talks/S03E12_The_Perfections_Turned_Inward": {
+    "score": 5,
+    "note": "Includes metta as self-care within broader perfections discussion"
+  },
+  "retreat_talks/S03E13_Faith": {
+    "score": 1,
+    "note": "Faith as spiritual faculty, no compassion emphasis"
+  },
+  "retreat_talks/S03E14_Revising_the_principles_of_vipassana": {
+    "score": 2,
+    "note": "Focus on meditation principles, minimal compassion content"
+  },
+  "retreat_talks/S03E15_Fear": {
+    "score": 4,
+    "note": "Working skillfully with fear shows some compassionate approach"
+  },
+  "retreat_talks/S03E16_Foregiveness": {
+    "score": 8,
+    "note": "Forgiveness directly relates to compassion and empathy development"
+  },
+  "retreat_talks/S03E17_The_Gratification_the_Danger_and_the_Escape": {
+    "score": 1,
+    "note": "Focuses on understanding existence, not compassion themes"
+  },
+  "retreat_talks/S03E18_Karma": {
+    "score": 2,
+    "note": "Discusses conditionality and will, minimal compassion content"
+  },
+  "retreat_talks/S03E19_Rebirth": {
+    "score": 1,
+    "note": "Explains rebirth mechanics, not compassion or empathy"
+  },
+  "retreat_talks/S03E20_The_Illimitables": {
+    "score": 9,
+    "note": "Directly teaches metta, karuna, mudita - core compassion practices"
+  },
+  "retreat_talks/S04E01_The_Ten_Fetters": {
+    "score": 1,
+    "note": "Technical teaching on fetters, minimal compassion content"
+  },
+  "retreat_talks/S04E02_The_Awakening": {
+    "score": 2,
+    "note": "Buddha's awakening insights, limited compassion discussion"
+  },
+  "retreat_talks/S04E03_The_Years_of_Teaching_and_Parinibbana": {
+    "score": 6,
+    "note": "Buddha's compassionate teaching motivation substantially discussed"
+  },
+  "retreat_talks/S04E04_Ethical_Behaviour_and_the_Awakening_are_one": {
+    "score": 3,
+    "note": "Ethics and wisdom connection, compassion mentioned in passing"
+  },
+  "retreat_talks/S04E05_The_Buddha_as_Exemplar_and_Archetype": {
+    "score": 2,
+    "note": "Buddha's spiritual journey, minimal compassion focus"
+  },
+  "retreat_talks/S04E06_Meditation_and_Ordinary_Daily_Life": {
+    "score": 2,
+    "note": "Integrating practice with life, minimal compassion content"
+  },
+  "retreat_talks/S04E07_Free_Will": {
+    "score": 1,
+    "note": "Philosophical examination of free will, not compassion"
+  },
+  "retreat_talks/S04E08_Karma_Specific_Conditionality_the_Five_Laws_ethical_behaviou": {
+    "score": 3,
+    "note": "Social karma and ethics touch on compassionate action"
+  },
+  "retreat_talks/S04E09_Right_Livelihood": {
+    "score": 4,
+    "note": "Work serving others shows compassionate livelihood approach"
+  },
+  "retreat_talks/S04E10_Chi_Gong_min_guidance": {
+    "score": 0,
+    "note": "Physical movement practice, unrelated to compassion themes"
+  }
+}

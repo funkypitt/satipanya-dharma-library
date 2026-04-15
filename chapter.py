@@ -15,11 +15,14 @@ Le pipeline :
   5b. preprint — DOCX prêt à imprimer (typo soignée, logo).
   6. refine    — Polissage littéraire léger (oral → écrit).
   6b. render   — DOCX preprint de la version polie.
+  7. heavier   — Polissage éditorial plus profond (qualité livre).
+  7b. render   — DOCX preprint de la version livre.
 
 Checkpoints sauvegardés dans chapters/<slug>/ :
   - candidates.json, base.json, composition.json, pruned.json,
-    refined.json, chapter.docx, chapter-preprint.docx,
-    chapter-preprint-refined.docx
+    refined.json, refined_heavier.json, chapter.docx,
+    chapter-preprint.docx, chapter-preprint-refined.docx,
+    chapter-preprint-refined-heavier.docx
 
 Usage :
     python chapter.py --theme "Dharma in Daily Life"
@@ -89,7 +92,7 @@ BHANTE_COLLECTIONS = [
 RELEVANCE_THRESHOLD = 6       # score minimum pour entrer dans le pool
 TOP_CANDIDATES      = 10      # nombre de candidats full-text envoyés à Opus pour sélection de base
 RELEVANCE_BATCH     = 25      # épisodes par appel Sonnet en pass 1
-MAX_CONTENT_CHARS   = 40000   # tronque les sources trop longues
+MAX_CONTENT_CHARS   = 100000  # tronque les sources trop longues
 MIN_LITE_SCORE      = 45      # pour entrer dans la shortlist audio
 
 # Couleur RGB pour le DOCX
@@ -210,23 +213,39 @@ def load_content(ep: Episode, max_chars: int = MAX_CONTENT_CHARS) -> Optional[st
         return None
     text = p.read_text(encoding="utf-8", errors="ignore")
     if len(text) > max_chars:
+        print(f"    ⚠ TRONCATURE : {ep.source_id} fait {len(text):,} chars, "
+              f"limité à {max_chars:,}", file=sys.stderr)
         text = text[:max_chars] + f"\n\n[…texte tronqué à {max_chars} caractères…]"
     return text
 
 
 def claude_call(client, model: str, system: str, user: str,
                 max_tokens: int = 4096, temperature: float = 0.3):
-    """Appel Claude avec retry."""
+    """Appel Claude avec retry. Utilise le streaming pour les requêtes longues."""
+    use_stream = max_tokens > 16000
     for attempt in range(4):
         try:
-            resp = client.messages.create(
-                model=model,
-                max_tokens=max_tokens,
-                temperature=temperature,
-                system=system,
-                messages=[{"role": "user", "content": user}],
-            )
-            return resp.content[0].text
+            if use_stream:
+                chunks = []
+                with client.messages.stream(
+                    model=model,
+                    max_tokens=max_tokens,
+                    temperature=temperature,
+                    system=system,
+                    messages=[{"role": "user", "content": user}],
+                ) as stream:
+                    for text in stream.text_stream:
+                        chunks.append(text)
+                return "".join(chunks)
+            else:
+                resp = client.messages.create(
+                    model=model,
+                    max_tokens=max_tokens,
+                    temperature=temperature,
+                    system=system,
+                    messages=[{"role": "user", "content": user}],
+                )
+                return resp.content[0].text
         except anthropic.RateLimitError:
             wait = 30 * (attempt + 1)
             print(f"    ⏳ Rate limit, attente {wait}s...")
@@ -473,7 +492,7 @@ def pass4_compose(client, episodes: list[Episode], base: dict,
 
     ep_by_id = {ep.source_id: ep for ep in episodes}
     base_ep = ep_by_id[base["source_id"]]
-    base_content = load_content(base_ep, max_chars=50000)
+    base_content = load_content(base_ep, max_chars=MAX_CONTENT_CHARS)
     if not base_content:
         raise RuntimeError("Base content introuvable")
 
@@ -514,9 +533,12 @@ def pass4_compose(client, episodes: list[Episode], base: dict,
         "}"
     )
 
-    print("  appel Opus — composition finale…")
+    # max_tokens proportionnel au contenu (le JSON de sortie reproduit ~tout le texte)
+    content_tokens_est = len(base_content) // 3  # ~3 chars/token
+    compose_max_tokens = max(16000, content_tokens_est + 4000)
+    print(f"  appel Opus — composition finale… (max_tokens={compose_max_tokens})")
     txt = claude_call(client, OPUS_MODEL, system, user,
-                      max_tokens=16000, temperature=0.4)
+                      max_tokens=compose_max_tokens, temperature=0.4)
     comp = extract_json(txt)
     comp["theme"] = theme
     comp["base_source_id"] = base["source_id"]
@@ -1082,6 +1104,10 @@ def pass5b_render_preprint(comp: dict, base: dict, theme: str,
 REFINE_CHUNK_PARAS = 18        # ~paragraphes par appel
 REFINE_CONTEXT_PARAS = 3       # paragraphes précédents en contexte (non réécrits)
 
+# Pass 7 — heavier-touch literary refinement
+HEAVIER_CHUNK_PARAS = 12       # lots plus petits (travail éditorial plus profond)
+HEAVIER_CONTEXT_PARAS = 4      # plus de contexte pour la fluidité
+
 REFINE_SYSTEM = (
     "You are a master literary editor preparing a Buddhist dharma talk for "
     "publication in a printed book. Your SINGLE task is a very light "
@@ -1092,6 +1118,17 @@ REFINE_SYSTEM = (
     "examples, doctrinal content, quotations, Pali terms, and the teacher's "
     "warm, direct, conversational voice. The reader should still hear Bhante "
     "Bodhidhamma — simply as if he were writing, not speaking."
+)
+
+HEAVIER_SYSTEM = (
+    "You are a senior literary editor preparing the final manuscript of a book "
+    "of Buddhist teachings by Bhante Bodhidhamma. This is a DEEPER editorial "
+    "pass — the text has already been lightly copy-edited. Your task now is to "
+    "bring it to full publication quality: prose that reads as polished written "
+    "English while preserving the teacher's warmth, directness, and personality.\n\n"
+    "The reader should feel they are reading a book — not a transcript — yet "
+    "still recognise Bhante's distinctive voice: his humour, his directness, "
+    "his way of making profound teachings feel personal and accessible."
 )
 
 
@@ -1286,6 +1323,189 @@ def pass6b_render_refined(refined: dict, theme: str, out_path: Path,
     print(f"  ✓ refined preprint DOCX → {out_path}")
 
 
+# ── Pass 7 — Heavier-touch literary refinement ───────────────────────
+
+def _heavier_refine_chunk(client, theme: str, context_paras: list[str],
+                          target_paras: list[str]) -> list[str]:
+    """Appelle Opus pour un polissage éditorial plus profond."""
+    target_block = "\n\n".join(
+        f"[{i+1}] {p}" for i, p in enumerate(target_paras)
+    )
+    context_block = ""
+    if context_paras:
+        context_block = (
+            "=== CONTEXT (previous paragraphs, already edited — "
+            "DO NOT rewrite, only use for flow and continuity) ===\n"
+            + "\n\n".join(context_paras)
+            + "\n=== END CONTEXT ===\n\n"
+        )
+
+    user = (
+        f"Chapter theme: \"{theme}\"\n\n"
+        + context_block +
+        "=== PARAGRAPHS TO EDIT ===\n"
+        f"{target_block}\n"
+        "=== END PARAGRAPHS TO EDIT ===\n\n"
+        "TASK: produce a fully edited version of EACH numbered paragraph, "
+        "bringing it to publication quality.\n\n"
+        "ALLOWED edits (use freely where they improve the prose):\n"
+        "  • Rewrite sentences for fluency — reshape awkward oral "
+        "    constructions into natural written prose;\n"
+        "  • Improve paragraph transitions — add a brief linking phrase "
+        "    where paragraphs feel disconnected;\n"
+        "  • Tighten verbose passages — condense wordy oral expressions "
+        "    without losing meaning;\n"
+        "  • Vary sentence rhythm — break monotonous patterns, combine "
+        "    choppy fragments, split overlong sentences;\n"
+        "  • Strengthen paragraph openings and closings;\n"
+        "  • Convert oral signposts to written ones (\"As I said earlier\" "
+        "    → cut or replace with a more writerly transition);\n"
+        "  • All the light-touch edits from the previous pass remain "
+        "    available: fix grammar, remove residual fillers, restore "
+        "    ASR errors, resolve ambiguous pronouns.\n\n"
+        "VOICE PRESERVATION (critical):\n"
+        "  • The speaker's own vocabulary is the CEILING — restructure "
+        "    sentences freely, but reuse his words. Do NOT upgrade plain "
+        "    words to fancier synonyms (\"much bigger\" stays \"much bigger\", "
+        "    not \"considerably larger\"; \"born evil\" stays \"born evil\", "
+        "    not \"born sinful\");\n"
+        "  • KEEP contractions — Bhante speaks with contractions (\"I can't\", "
+        "    \"it's\", \"don't\", \"we've\") and expanding them makes the "
+        "    voice stiff. Never change \"can't\" to \"cannot\" etc.;\n"
+        "  • Do NOT add metaphors, imagery, or poetic flourishes the speaker "
+        "    did not use — you may rearrange his images, not invent new ones;\n"
+        "  • Preserve his characteristic phrases: \"shall we say\", direct "
+        "    questions to the audience, dry understatement, informal asides.\n\n"
+        "FORBIDDEN:\n"
+        "  ✗ Adding new doctrinal content, examples, or arguments;\n"
+        "  ✗ Removing anecdotes, stories, metaphors, humour, Pali terms;\n"
+        "  ✗ Changing the order of ideas or merging/splitting paragraphs "
+        "    (output must have EXACTLY the same count as the input — one "
+        "    edited paragraph per numbered input paragraph);\n"
+        "  ✗ Making the voice stiff, academic, or impersonal;\n"
+        "  ✗ Upgrading vocabulary — the text should read at the SAME register "
+        "    as the original, not a higher one.\n\n"
+        "TARGET FEEL: \"a talk so good it reads like an essay\" — the prose "
+        "should flow like polished written English while preserving Bhante's "
+        "warmth, directness, and personality. The improvement comes from "
+        "STRUCTURE (sentence flow, rhythm, tightening) not from DICTION "
+        "(fancier words). Expect 25-40% wording change compared to the "
+        "input.\n\n"
+        "OUTPUT — STRICT JSON, no prose, no markdown:\n"
+        "{\"paragraphs\": [\n"
+        "  {\"n\": 1, \"text\": \"<edited text of paragraph 1>\"},\n"
+        "  {\"n\": 2, \"text\": \"...\"},\n"
+        "  ...\n"
+        "]}\n"
+        "You MUST return exactly one entry per numbered input paragraph, in "
+        "the same order."
+    )
+
+    txt = claude_call(client, OPUS_MODEL, HEAVIER_SYSTEM, user,
+                      max_tokens=16000, temperature=0.4)
+    data = extract_json(txt)
+    refined_list = data.get("paragraphs", [])
+    refined_list.sort(key=lambda x: x.get("n", 0))
+    out = []
+    for i, p in enumerate(target_paras):
+        if i < len(refined_list):
+            t = (refined_list[i].get("text") or "").strip()
+            out.append(t if t else p)
+        else:
+            out.append(p)
+    return out
+
+
+def pass7_heavier_refine(client, refined: dict, theme: str, out_path: Path) -> dict:
+    """Polissage éditorial plus profond — registre livre publié, en
+    préservant la voix de Bhante."""
+    print("=" * 68)
+    print("PASS 7 — Heavier literary refinement (Opus)")
+    print("=" * 68)
+
+    if out_path.exists():
+        with open(out_path) as f:
+            cached = json.load(f)
+        print(f"  ✓ refined_heavier.json déjà présent ({len(cached.get('paragraphs', []))} paragraphes)")
+        return cached
+
+    paragraphs = refined.get("paragraphs", [])
+    print(f"  {len(paragraphs)} paragraphes à éditer")
+
+    edited: list[str] = []
+    i = 0
+    batch_num = 0
+    while i < len(paragraphs):
+        chunk = paragraphs[i:i + HEAVIER_CHUNK_PARAS]
+        context = edited[-HEAVIER_CONTEXT_PARAS:] if edited else []
+        batch_num += 1
+        print(f"  [{batch_num}] édition {len(chunk)} paragraphes "
+              f"({i+1}→{i+len(chunk)}/{len(paragraphs)})…", end=" ", flush=True)
+        try:
+            polished = _heavier_refine_chunk(client, theme, context, chunk)
+            edited.extend(polished)
+            print("✓")
+        except Exception as e:
+            print(f"⚠ {e} — on garde le texte du pass 6")
+            edited.extend(chunk)
+        # Save partial
+        partial = {
+            "theme": theme,
+            "title": refined.get("title", ""),
+            "subtitle": refined.get("subtitle", ""),
+            "epigraph": refined.get("epigraph", ""),
+            "paragraphs": edited,
+            "source_paragraph_count": len(paragraphs),
+            "progress": f"{len(edited)}/{len(paragraphs)}",
+        }
+        with open(out_path, "w") as f:
+            json.dump(partial, f, indent=2, ensure_ascii=False)
+        i += HEAVIER_CHUNK_PARAS
+
+    original_chars = sum(len(p) for p in paragraphs)
+    edited_chars = sum(len(p) for p in edited)
+    delta_pct = round(100 * (edited_chars - original_chars) / max(original_chars, 1), 1)
+    print(f"  ✓ heavier refined : {edited_chars} chars ({delta_pct:+}% vs pass 6 input {original_chars})")
+
+    result = {
+        "theme": theme,
+        "title": refined.get("title", ""),
+        "subtitle": refined.get("subtitle", ""),
+        "epigraph": refined.get("epigraph", ""),
+        "paragraphs": edited,
+        "source_paragraph_count": len(paragraphs),
+        "stats": {
+            "original_chars": original_chars,
+            "edited_chars": edited_chars,
+            "delta_pct": delta_pct,
+        },
+    }
+    with open(out_path, "w") as f:
+        json.dump(result, f, indent=2, ensure_ascii=False)
+    return result
+
+
+def pass7b_render_heavier(refined: dict, theme: str, out_path: Path,
+                          source_title: Optional[str] = None,
+                          source_url: Optional[str] = None) -> None:
+    """Rend la version heavier-refined via le même gabarit preprint."""
+    print("=" * 68)
+    print("PASS 7b — Rendering heavier-refined preprint DOCX")
+    print("=" * 68)
+    _build_preprint_doc(
+        title=refined.get("title", "Untitled Chapter"),
+        subtitle=refined.get("subtitle") or "",
+        epigraph=refined.get("epigraph") or "",
+        theme=theme,
+        paragraphs=refined.get("paragraphs", []),
+        out_path=out_path,
+        edition_label="Book edition · fully edited for publication",
+        source_title=source_title,
+        source_url=source_url,
+    )
+    print(f"  ✓ heavier-refined preprint DOCX → {out_path}")
+
+
 # ══════════════════════════════════════════════════════════════════════
 # ORCHESTRATION
 # ══════════════════════════════════════════════════════════════════════
@@ -1326,9 +1546,11 @@ def main():
     comp_path = out_dir / "composition.json"
     pruned_path = out_dir / "pruned.json"
     refined_path = out_dir / "refined.json"
+    heavier_path = out_dir / "refined_heavier.json"
     docx_path = out_dir / "chapter.docx"
     preprint_path = out_dir / "chapter-preprint.docx"
     refined_docx_path = out_dir / "chapter-preprint-refined.docx"
+    heavier_docx_path = out_dir / "chapter-preprint-refined-heavier.docx"
 
     if args.rescreen and cand_path.exists():
         cand_path.unlink()
@@ -1346,11 +1568,16 @@ def main():
     pass6b_render_refined(refined, theme, refined_docx_path,
                           source_title=base.get("title", ""),
                           source_url=source_url)
+    heavier = pass7_heavier_refine(client, refined, theme, heavier_path)
+    pass7b_render_heavier(heavier, theme, heavier_docx_path,
+                          source_title=base.get("title", ""),
+                          source_url=source_url)
 
     print(f"\n✅ Terminé.")
     print(f"   Chapitre (relecture)            : {docx_path}")
     print(f"   Chapitre (prêt à imprimer)      : {preprint_path}")
     print(f"   Chapitre (prêt à imprimer, poli): {refined_docx_path}")
+    print(f"   Chapitre (édition livre)        : {heavier_docx_path}")
 
 
 if __name__ == "__main__":

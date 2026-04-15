@@ -1,0 +1,3174 @@
+{
+  "guided_meditations/S01E01_Introducing_Vipassana_Insight_Meditation": {
+    "score": 0,
+    "note": "Pure meditation instruction, no Western thought discussion"
+  },
+  "guided_meditations/S01E02_Vipassana_Guidelines": {
+    "score": 0,
+    "note": "Traditional meditation guidelines, no Western philosophy engagement"
+  },
+  "guided_meditations/S01E03_45_minute_Detailed_Guided_Meditation": {
+    "score": 0,
+    "note": "Guided meditation practice, no Western thought content"
+  },
+  "guided_meditations/S01E04_45_minute_Assisted_Meditation": {
+    "score": 0,
+    "note": "Meditation instruction only, no philosophical comparison"
+  },
+  "guided_meditations/S01E05_30_minute_Bodycare_Meditation": {
+    "score": 0,
+    "note": "Body meditation practice, no Western thought discussion"
+  },
+  "guided_meditations/S01E06_30_minute_Heartcare_Meditation": {
+    "score": 0,
+    "note": "Loving-kindness meditation, no Western philosophy engagement"
+  },
+  "guided_meditations/S01E07_Abiding_in_the_Present_Moment_Developing_Equanimity": {
+    "score": 0,
+    "note": "Standing meditation practice, no Western thought content"
+  },
+  "guided_meditations/S01E08_Just_Metta": {
+    "score": 0,
+    "note": "Traditional metta practice, no Western philosophy"
+  },
+  "guided_meditations/S01E09_Investigative_Eating": {
+    "score": 0,
+    "note": "Mindful eating meditation, no Western thought discussion"
+  },
+  "guided_meditations/S01E10_Mahasi_Sayadaw_Introductory_Talk": {
+    "score": 0,
+    "note": "Traditional Burmese meditation teaching, no Western engagement"
+  },
+  "guided_meditations/S02E01_Why_Chant": {
+    "score": 0,
+    "note": "Chanting instruction, no Western philosophy discussion"
+  },
+  "guided_meditations/S02E02_Morning_Chant": {
+    "score": 0,
+    "note": "Traditional chanting practice, no Western thought"
+  },
+  "guided_meditations/S02E03_Evening_Chant": {
+    "score": 0,
+    "note": "Traditional evening chant, no Western philosophy"
+  },
+  "guided_meditations/S02E04_Refuges_and_Precepts": {
+    "score": 0,
+    "note": "Traditional liturgy, no Western thought engagement"
+  },
+  "guided_meditations/S02E05_Evening_Metta_Chant": {
+    "score": 0,
+    "note": "Traditional Pali chanting, no Western philosophy"
+  },
+  "guided_meditations/S02E06_Metta_Discourse": {
+    "score": 0,
+    "note": "Classical sutta chanting, no Western thought"
+  },
+  "dhammabytes/S01E01_01_Views_about_Spiritual_Paths": {
+    "score": 3,
+    "note": "Mentions different spiritual approaches but focuses on Buddhism"
+  },
+  "dhammabytes/S01E02_02_Discourse_to_the_Kalamas": {
+    "score": 4,
+    "note": "Addresses modern spiritual marketplace, some Western parallels"
+  },
+  "dhammabytes/S01E03_03_Desire_the_Root_of_Suffering": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching, no Western thought discussion"
+  },
+  "dhammabytes/S01E04_04_How_to_Test_the_Buddha": {
+    "score": 2,
+    "note": "Empirical approach might appeal to Western thought"
+  },
+  "dhammabytes/S02E01_01_Introducing_the_Buddha": {
+    "score": 6,
+    "note": "Directly compares Western interpretations with traditional Buddhist understanding"
+  },
+  "dhammabytes/S02E02_02_The_Birth_of_the_Buddha": {
+    "score": 3,
+    "note": "Notes parallels with other religious traditions briefly"
+  },
+  "dhammabytes/S02E03_03_The_Bodhisatta_Leaves_Home": {
+    "score": 0,
+    "note": "Traditional Buddhist biography, no Western thought"
+  },
+  "dhammabytes/S02E04_04_The_Essence_of_the_Awakening": {
+    "score": 0,
+    "note": "Traditional awakening account, no Western philosophy"
+  },
+  "dhammabytes/S03E01_Anusaya_-_Latent_Tendencies": {
+    "score": 2,
+    "note": "Computer analogy suggests some modern conceptual bridging"
+  },
+  "dhammabytes/S03E02_Asava-Taints_Ogha-Floods_Yoga-Yokes": {
+    "score": 2,
+    "note": "Traditional Buddhist psychology concepts, no Western thought connection"
+  },
+  "dhammabytes/S03E03_Buddha": {
+    "score": 1,
+    "note": "Pure Theravada doctrine on Buddha qualities, no Western parallels"
+  },
+  "dhammabytes/S03E04_Dukkha_-_A_Hard_Place": {
+    "score": 2,
+    "note": "Core Buddhist teaching on suffering, minimal Western engagement"
+  },
+  "dhammabytes/S03E05_Hetu_-_The_Unwholesome_Roots": {
+    "score": 3,
+    "note": "Buddhist depth psychology mentioned, could relate to Western psychology"
+  },
+  "dhammabytes/S03E06_Panya_-_Wisdom_and_Intuitive_Intelligence": {
+    "score": 4,
+    "note": "Etymology connects to Greek gnosis, touches Western concepts"
+  },
+  "dhammabytes/S03E07_Puja_-_Devotional_Attention": {
+    "score": 1,
+    "note": "Traditional Buddhist devotional practices, no Western thought connection"
+  },
+  "dhammabytes/S03E08_Samyojana_-_The_first_three_Fetters": {
+    "score": 1,
+    "note": "Traditional Buddhist liberation stages, no Western philosophical engagement"
+  },
+  "dhammabytes/S03E09_Samyojana_-_The_last_seven_Fetters": {
+    "score": 1,
+    "note": "Traditional Buddhist awakening stages, no Western thought discussion"
+  },
+  "dhammabytes/S03E10_Sati_-_Knowing": {
+    "score": 2,
+    "note": "Buddhist mindfulness concept, minimal Western philosophical connection"
+  },
+  "dhammabytes/S03E11_Sati_in_Daily_Life": {
+    "score": 1,
+    "note": "Practical meditation guidance, no Western thought engagement"
+  },
+  "dhammabytes/S03E12_Sila_-_Good_Conduct": {
+    "score": 2,
+    "note": "Buddhist ethics, could relate to Western moral philosophy"
+  },
+  "dhammabytes/S04E01_01_Dana_Generosity": {
+    "score": 1,
+    "note": "Traditional Buddhist virtue teaching, no Western philosophical connection"
+  },
+  "dhammabytes/S04E02_02_Sila_Virtuous_Conduct": {
+    "score": 2,
+    "note": "Buddhist ethics foundation, potential Western moral philosophy parallels"
+  },
+  "dhammabytes/S04E03_03_Nekkhamma_Renunciation": {
+    "score": 1,
+    "note": "Traditional Buddhist renunciation practice, no Western thought discussion"
+  },
+  "dhammabytes/S04E04_04_Panya_Intuitive_Intelligence_and_Wisdom": {
+    "score": 3,
+    "note": "Wisdom concepts could relate to Western epistemology"
+  },
+  "dhammabytes/S04E05_05_Viriya_Effort": {
+    "score": 1,
+    "note": "Buddhist meditation effort, no Western philosophical engagement"
+  },
+  "dhammabytes/S04E06_06_Khanti_Patience": {
+    "score": 2,
+    "note": "Buddhist patience teaching, minimal Western philosophical connection"
+  },
+  "dhammabytes/S04E07_07_Sacca_Honesty": {
+    "score": 2,
+    "note": "Buddhist truthfulness, could relate to Western ethics"
+  },
+  "dhammabytes/S04E08_08_Adhitthana_Resolution": {
+    "score": 1,
+    "note": "Buddhist resolution practice, no Western thought connection"
+  },
+  "dhammabytes/S05E01_Metta_-_Love": {
+    "score": 2,
+    "note": "Buddhist loving-kindness, minimal Western philosophical engagement"
+  },
+  "dhammabytes/S05E02_Karuna_-_Compassion": {
+    "score": 2,
+    "note": "Buddhist compassion teaching, could relate to Western ethics"
+  },
+  "dhammabytes/S05E03_Mudita_-_Pure_Joy": {
+    "score": 1,
+    "note": "Traditional Buddhist joy practice, no Western thought discussion"
+  },
+  "dhammabytes/S05E04_Upekkha_-_Equanimity": {
+    "score": 2,
+    "note": "Buddhist equanimity, minimal Western philosophical connection"
+  },
+  "dhammabytes/S06E01_Buddha_as_Refuge": {
+    "score": 1,
+    "note": "Traditional Buddhist refuge practice, no Western thought engagement"
+  },
+  "dhammabytes/S06E02_Dhamma_as_Refuge": {
+    "score": 1,
+    "note": "Traditional Buddhist doctrine, no Western philosophical discussion"
+  },
+  "dhammabytes/S06E03_Sangha_as_Refuge": {
+    "score": 0,
+    "note": "Traditional Buddhist refuge teaching, no Western thought connection"
+  },
+  "dhammabytes/S07E01_Khandha_The_Aggregates": {
+    "score": 1,
+    "note": "Buddhist psychology concepts, minimal Western philosophical engagement"
+  },
+  "dhammabytes/S07E02_Rupa_Corporeality": {
+    "score": 1,
+    "note": "Buddhist analysis of embodiment, no Western thought comparison"
+  },
+  "dhammabytes/S07E03_Vedana_Feeling": {
+    "score": 1,
+    "note": "Buddhist psychology of sensation, no Western parallels discussed"
+  },
+  "dhammabytes/S07E04_Sanya_Perception_Vedana_Feeling": {
+    "score": 1,
+    "note": "Buddhist cognitive analysis, no Western philosophical connections"
+  },
+  "dhammabytes/S07E05_Sankhara_Volitional_Conditioning": {
+    "score": 1,
+    "note": "Buddhist psychology of volition, no Western thought engagement"
+  },
+  "dhammabytes/S07E06_Summing_up": {
+    "score": 1,
+    "note": "Summary of Buddhist aggregates, no Western comparisons"
+  },
+  "dhammabytes/S08E01_1_Avijja_-_not-knowing": {
+    "score": 1,
+    "note": "Buddhist dependent origination, no Western philosophical parallels"
+  },
+  "dhammabytes/S08E02_2_Nama_Rupa_Body_Mind": {
+    "score": 1,
+    "note": "Buddhist mind-body analysis, no Western dualism comparison"
+  },
+  "dhammabytes/S08E03_3_Salayatana_Vedana_Phasa_Six_senses_Contact_Feeling": {
+    "score": 1,
+    "note": "Buddhist sense theory, no Western epistemological engagement"
+  },
+  "dhammabytes/S08E04_4_Tanha_Upadana_Bhava_Craving_Grasping_Becoming": {
+    "score": 1,
+    "note": "Buddhist causation theory, no Western philosophical connections"
+  },
+  "dhammabytes/S08E05_5_paticca_samuppada_dependent_origination_to_samsara": {
+    "score": 1,
+    "note": "Buddhist dependent origination, no Western thought comparison"
+  },
+  "dhammabytes/S08E06_6_Another_model_of_Dependent_Orgination": {
+    "score": 1,
+    "note": "Alternative Buddhist causation model, no Western parallels"
+  },
+  "dhammabytes/S09E01_1_Indulgence": {
+    "score": 1,
+    "note": "Buddhist teaching on extremes, no Western philosophical engagement"
+  },
+  "dhammabytes/S09E02_2_Self-Mortification": {
+    "score": 1,
+    "note": "Buddhist middle way, no Western ascetic tradition comparison"
+  },
+  "dhammabytes/S09E03_3_The_First_Noble_Truth_of_Suffering": {
+    "score": 1,
+    "note": "Buddhist suffering analysis, no Western existential philosophy comparison"
+  },
+  "dhammabytes/S09E04_4_Second_Noble_TruthThe_Cause_of_Suffering": {
+    "score": 1,
+    "note": "Buddhist craving theory, no Western desire philosophy engagement"
+  },
+  "dhammabytes/S09E05_5_The_Third_Noble_TruthThe_End_of_Suffering": {
+    "score": 3,
+    "note": "Contrasts Buddhist liberation with Western psychology and Abrahamic religions"
+  },
+  "dhammabytes/S09E06_6_The_Fourth_Noble_Truth_The_Eightfold_Path": {
+    "score": 1,
+    "note": "Buddhist path teaching, no Western ethical system comparison"
+  },
+  "dhammabytes/S09E07_7_The_Buddhas_Enlightenment_becomes_universal": {
+    "score": 1,
+    "note": "Buddhist enlightenment narrative, no Western thought connections"
+  },
+  "dhammabytes/S10E01_1_Not-self_-_Control": {
+    "score": 2,
+    "note": "Buddhist not-self vs Brahminical self, minimal Western engagement"
+  },
+  "dhammabytes/S10E02_2_Not-self_-_Impermanence_and_Suffering": {
+    "score": 1,
+    "note": "Buddhist impermanence teaching, no Western philosophical parallels"
+  },
+  "dhammabytes/S10E03_3_Not-self_-_Recap_and_Metaphors": {
+    "score": 1,
+    "note": "Buddhist not-self metaphors, no Western thought comparison"
+  },
+  "dhammabytes/S11E01_01_Sickness_Ageing_and_Death": {
+    "score": 1,
+    "note": "Buddhist mortality teaching, no Western philosophical engagement"
+  },
+  "dhammabytes/S11E02_02_Divine_Messengers": {
+    "score": 1,
+    "note": "Buddhist impermanence teaching, no Western thought connections"
+  },
+  "dhammabytes/S11E03_03_The_Two_Darts": {
+    "score": 2,
+    "note": "Pure Buddhist teaching, no Western thought comparison"
+  },
+  "dhammabytes/S11E04_04_The_Eight_Worldy_Conditions": {
+    "score": 2,
+    "note": "Traditional Buddhist concepts without Western philosophical engagement"
+  },
+  "dhammabytes/S11E05_05_Clinging_causes_Anxiety_plus": {
+    "score": 3,
+    "note": "Mentions anxiety which connects to Western psychology"
+  },
+  "dhammabytes/S11E06_06_Mahakassapa_Explains_the_Cause_of_Conflict": {
+    "score": 2,
+    "note": "Classical Buddhist analysis without Western thought integration"
+  },
+  "dhammabytes/S11E07_07_Envy_and_Niggardliness_the_Cause_of_Conflict": {
+    "score": 2,
+    "note": "Traditional Buddhist psychology without Western comparison"
+  },
+  "dhammabytes/S11E08_08_Detailed_Sequence_Leading_to_Conflict": {
+    "score": 2,
+    "note": "Pure dependent origination teaching, no Western elements"
+  },
+  "dhammabytes/S11E09_09_Power": {
+    "score": 3,
+    "note": "Draws parallels with other spiritual figures"
+  },
+  "dhammabytes/S11E10_10_Samsara_Onward_Going": {
+    "score": 5,
+    "note": "Contrasts Eastern cyclical time with Western linear progress"
+  },
+  "dhammabytes/S11E11_11_Rounds_of_Becoming": {
+    "score": 2,
+    "note": "Traditional samsara teaching without Western engagement"
+  },
+  "dhammabytes/S11E12_12_Short_Review_of_the_Human_Condition": {
+    "score": 2,
+    "note": "Review of Buddhist concepts without Western comparison"
+  },
+  "dhammabytes/S12E01_1_Righteous_Governement_and_Righteous_Ruler": {
+    "score": 3,
+    "note": "Governance concepts could relate to Western political thought"
+  },
+  "dhammabytes/S12E02_2_The_Ruler": {
+    "score": 3,
+    "note": "Leadership principles potentially relevant to Western governance"
+  },
+  "dhammabytes/S12E03_3_The_Six_Directions_Ritual_as_useless_or_meaningful": {
+    "score": 2,
+    "note": "Ritual transformation without Western philosophical engagement"
+  },
+  "dhammabytes/S12E04_4_Parents_and_Chidren": {
+    "score": 2,
+    "note": "Family ethics without Western thought comparison"
+  },
+  "dhammabytes/S12E05_5_Husbands_and_Wives": {
+    "score": 2,
+    "note": "Marriage guidance without Western philosophical context"
+  },
+  "dhammabytes/S12E06_6_What_makes_for_a_Good_Life": {
+    "score": 3,
+    "note": "Good life concepts could connect to Western philosophy"
+  },
+  "dhammabytes/S12E07_7_Use_of_wealth_for_Happiness": {
+    "score": 3,
+    "note": "Wealth ethics potentially relevant to Western economic thought"
+  },
+  "dhammabytes/S12E08_8_Virtues_of_a_Good_Spouse": {
+    "score": 2,
+    "note": "Relationship virtues without Western philosophical engagement"
+  },
+  "foundation_course/S01E01_The_First_Noble_Truth_-_Dukkha_Dukkha": {
+    "score": 2,
+    "note": "Foundational Buddhist teaching without Western comparison"
+  },
+  "foundation_course/S01E02_The_First_Noble_Truth_-_Conditioned_States": {
+    "score": 2,
+    "note": "Five aggregates teaching without Western philosophical context"
+  },
+  "foundation_course/S01E03_The_First_Noble_Truth_-_The_Three_Characteristics": {
+    "score": 2,
+    "note": "Three characteristics without Western thought engagement"
+  },
+  "foundation_course/S01E04_The_Second_Noble_Truth_-_The_Cause_of_Suffering_-_Desire": {
+    "score": 2,
+    "note": "Craving analysis without Western philosophical comparison"
+  },
+  "foundation_course/S01E05_The_Second_Noble_Truth_-_The_Wheel_of_Dependent_Origination": {
+    "score": 2,
+    "note": "Dependent origination without Western thought integration"
+  },
+  "foundation_course/S01E06_The_Second_Noble_Truth_-_Kamma": {
+    "score": 3,
+    "note": "Distinguishes Buddhist kamma from Hindu and Western ideas"
+  },
+  "foundation_course/S01E07_The_Fourth_Noble_Truth_-_Morality_-_Sila": {
+    "score": 2,
+    "note": "Noble Eightfold Path without Western philosophical engagement"
+  },
+  "foundation_course/S01E08_The_Fourth_Noble_Truth_-_Positive_Morality_-_Parami": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching on perfections, no Western thought"
+  },
+  "foundation_course/S01E09_The_Fourth_Noble_Truth_-_Right_Understanding": {
+    "score": 0,
+    "note": "Classical Buddhist doctrine on Noble Eightfold Path"
+  },
+  "foundation_course/S01E10_The_Fourth_Noble_Truth_-_Mental_Development_-_Samadhi": {
+    "score": 0,
+    "note": "Traditional meditation instruction, no Western philosophical engagement"
+  },
+  "foundation_course/S02E01_Moods_Emotions_and_Feelings": {
+    "score": 2,
+    "note": "Buddhist psychology approach, minimal Western thought connection"
+  },
+  "foundation_course/S02E02_Guilt_-_Real_and_Unreal": {
+    "score": 4,
+    "note": "Addresses Western psychological concepts through Buddhist lens"
+  },
+  "foundation_course/S02E03_The_End_of_Guilt": {
+    "score": 4,
+    "note": "Buddhist approach to Western psychological issue of guilt"
+  },
+  "foundation_course/S02E04_Right_Intention": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching on Noble Eightfold Path"
+  },
+  "foundation_course/S02E05_The_Divine_Abodes": {
+    "score": 3,
+    "note": "Counters Western misconceptions about Buddhism being cold/detached"
+  },
+  "foundation_course/S02E06_Faith_or_Belief": {
+    "score": 5,
+    "note": "Distinguishes Buddhist faith from Western religious belief systems"
+  },
+  "foundation_course/S02E07_Wheel_of_Dependent_Origination": {
+    "score": 0,
+    "note": "Traditional Buddhist doctrine on causation and liberation"
+  },
+  "foundation_course/S02E08_Kamma": {
+    "score": 0,
+    "note": "Classical Buddhist teaching on karma and universal laws"
+  },
+  "foundation_course/S02E09_The_Sangha": {
+    "score": 2,
+    "note": "Buddhist community structure, mentions democratic ideals briefly"
+  },
+  "foundation_course/S02E10_The_Four_Paths_and_the_Four_Fruits": {
+    "score": 0,
+    "note": "Traditional Theravada framework of spiritual development stages"
+  },
+  "foundation_course/S02E11_The_Noble_Silence": {
+    "score": 0,
+    "note": "Traditional meditation retreat practice and hindrance teachings"
+  },
+  "dharma_talks/S01E01_Why_Meditate": {
+    "score": 1,
+    "note": "Buddhist meditation fundamentals, no Western thought engagement"
+  },
+  "dharma_talks/S01E02_The_Mahasi_Method": {
+    "score": 1,
+    "note": "Burmese meditation technique, mentions contemporary Western teachers"
+  },
+  "dharma_talks/S01E03_Starting_a_Personal_Retreat": {
+    "score": 0,
+    "note": "Practical meditation guidance, no Western philosophical content"
+  },
+  "dharma_talks/S01E04_Faith": {
+    "score": 3,
+    "note": "Distinguishes Buddhist faith from Western belief concepts"
+  },
+  "dharma_talks/S01E05_Ritual_in_Spiritual_Practice": {
+    "score": 2,
+    "note": "Buddhist ritual approach, mentions Northern English perspective"
+  },
+  "dharma_talks/S01E06_Is_Awareness_Enough": {
+    "score": 0,
+    "note": "Buddhist meditation theory, no Western thought discussion"
+  },
+  "dharma_talks/S01E07_Developing_the_Spiritual_Faculties": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching on spiritual development factors"
+  },
+  "dharma_talks/S01E08_Spiritual_Faculties_and_Factors_of_Enlightenment": {
+    "score": 0,
+    "note": "Classical Buddhist doctrine on awakening factors"
+  },
+  "dharma_talks/S01E09_The_Hindrances": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching on meditation obstacles"
+  },
+  "dharma_talks/S01E10_The_Buddha_and_the_Hindrances": {
+    "score": 0,
+    "note": "Buddha's awakening story and meditation guidance"
+  },
+  "dharma_talks/S01E11_Dullness_Lethargy_Restlessness_and_Pain": {
+    "score": 0,
+    "note": "Practical meditation instruction on working with hindrances"
+  },
+  "dharma_talks/S01E12_Eroticism_Romance_Love_Distraction_and_Boredom": {
+    "score": 0,
+    "note": "Pure Buddhist teaching on hindrances, no Western thought"
+  },
+  "dharma_talks/S01E13_The_Ten_Fetters": {
+    "score": 0,
+    "note": "Classical Theravada doctrine, no Western philosophical engagement"
+  },
+  "dharma_talks/S01E14_Vedana_Feeling": {
+    "score": 0,
+    "note": "Buddhist psychology teaching, no Western thought discussion"
+  },
+  "dharma_talks/S01E15_Fear": {
+    "score": 0,
+    "note": "Buddhist meditation instruction, no Western philosophical content"
+  },
+  "dharma_talks/S01E16_Foregiveness": {
+    "score": 0,
+    "note": "Buddhist psychology approach, no Western thought engagement"
+  },
+  "dharma_talks/S01E17_The_Illimitables": {
+    "score": 0,
+    "note": "Traditional Buddhist heart practices, no Western philosophy"
+  },
+  "dharma_talks/S01E18_The_Perfections_Turned_Inward": {
+    "score": 0,
+    "note": "Buddhist perfections teaching, no Western thought discussion"
+  },
+  "dharma_talks/S02E01_Survey_of_Theravada_Buddhism": {
+    "score": 0,
+    "note": "Pure Theravada overview, no Western philosophical engagement"
+  },
+  "dharma_talks/S02E02_Impermanence_and_Not-self": {
+    "score": 2,
+    "note": "Mentions free will briefly, primarily Buddhist doctrine"
+  },
+  "dharma_talks/S02E03_Ethical_Behaviour_and_the_Awakening_are_one": {
+    "score": 0,
+    "note": "Buddhist ethics teaching, no Western thought discussion"
+  },
+  "dharma_talks/S02E04_Wheel_of_Dependent_Origination": {
+    "score": 0,
+    "note": "Buddhist psychology paradigm, no Western philosophical engagement"
+  },
+  "dharma_talks/S02E05_Free_Will": {
+    "score": 9,
+    "note": "Directly examines Western free will philosophy through Buddhism"
+  },
+  "dharma_talks/S02E06_Kamma": {
+    "score": 2,
+    "note": "Distinguishes Buddhist from popular Western karma understanding"
+  },
+  "dharma_talks/S02E07_Rebirth": {
+    "score": 3,
+    "note": "Addresses Western practitioner questions about Buddhist rebirth"
+  },
+  "dharma_talks/S02E08_Premodern_Modern_Postmodernism_And_Buddhism": {
+    "score": 9,
+    "note": "Directly compares Western historical mindsets with Buddhist practice"
+  },
+  "dharma_talks/S02E09_The_Buddha_as_Exemplar_and_Archetype": {
+    "score": 1,
+    "note": "Uses archetypal language but focuses on Buddhist journey"
+  },
+  "dharma_talks/S02E10_Buddhist_View_of_Christs_Teaching": {
+    "score": 8,
+    "note": "Buddhist perspective on Christianity, significant Western thought engagement"
+  },
+  "dharma_talks/S02E11_Just_War": {
+    "score": 6,
+    "note": "Buddhist examination of Western just war theory"
+  },
+  "dharma_talks/S02E12_The_Gratification_the_Danger_and_the_Escape": {
+    "score": 0,
+    "note": "Pure Buddhist framework teaching, no Western philosophy"
+  },
+  "dharma_talks/S03E01_Bodhisatta_Before_Taking_Human_Birth": {
+    "score": 2,
+    "note": "Mentions time conceptions briefly, primarily Buddhist archetypal"
+  },
+  "dharma_talks/S03E02_Bodhisattas_Birth_to_Renunciation": {
+    "score": 1,
+    "note": "References lectio divina, primarily Buddhist life story"
+  },
+  "dharma_talks/S03E03_Bodhisattas_Training_to_the_Awakening": {
+    "score": 0,
+    "note": "Buddhist spiritual journey, no Western thought discussion"
+  },
+  "dharma_talks/S03E04_The_Awakening": {
+    "score": 0,
+    "note": "Buddhist awakening teaching, no Western philosophical engagement"
+  },
+  "dharma_talks/S03E05_The_Years_of_Teaching_and_Parinibbana": {
+    "score": 0,
+    "note": "Buddhist life story conclusion, no Western thought"
+  },
+  "dharma_talks/S04E01_Meditation_and_Daily_Life": {
+    "score": 1,
+    "note": "Brief Zen reference, primarily Buddhist meditation instruction"
+  },
+  "dharma_talks/S04E02_Meditation_and_the_Weekly_Group": {
+    "score": 0,
+    "note": "Pure Buddhist meditation instruction, no Western thought engagement"
+  },
+  "dharma_talks/S04E03_The_Eightfold_Path_and_Daily_Life": {
+    "score": 2,
+    "note": "Mentions fundamentalism to universalism approaches, minimal Western thought"
+  },
+  "dharma_talks/S04E04_Right_Livelihood": {
+    "score": 0,
+    "note": "Traditional Buddhist ethics teaching, no Western philosophical engagement"
+  },
+  "dharma_talks/S05E01_1_Starting_a_Retreat": {
+    "score": 0,
+    "note": "Traditional retreat opening, pure Buddhist practice instruction"
+  },
+  "dharma_talks/S05E02_Starting_a_Retreat": {
+    "score": 0,
+    "note": "Mahasi vipassana method instruction, no Western thought content"
+  },
+  "dharma_talks/S05E03_A_Detailed_Guided_Meditation": {
+    "score": 0,
+    "note": "Pure meditation instruction in traditional Buddhist method"
+  },
+  "dharma_talks/S05E04_Investigative_Eating_Meditation_-_an_explanation": {
+    "score": 0,
+    "note": "Buddhist mindfulness practice, no Western philosophical engagement"
+  },
+  "dharma_talks/S05E05_2_The_Mahasi_Technique": {
+    "score": 0,
+    "note": "Traditional Buddhist meditation technique, no Western thought"
+  },
+  "dharma_talks/S05E06_Basics_of_Insight_Meditation_02_2025Video": {
+    "score": 0,
+    "note": "Buddha's journey and vipassana basics, traditional Buddhist teaching"
+  },
+  "dharma_talks/S05E07_Basics_of_Insight_Meditation_04_2026Video": {
+    "score": 0,
+    "note": "Traditional Buddhist meditation instruction, no Western engagement"
+  },
+  "dharma_talks/S05E08_4_The_Hindrances_The_Psychotherapy_of_Vipassana": {
+    "score": 3,
+    "note": "Mentions psychotherapy in title, some psychological framing"
+  },
+  "dharma_talks/S05E09_5_Right_Awareness_Introto_Vipassana": {
+    "score": 0,
+    "note": "Traditional Buddhist meditation teaching, no Western thought"
+  },
+  "dharma_talks/S05E10_6_The_Seven_Factors_of_Awakening": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching on bojjhangas, no Western engagement"
+  },
+  "dharma_talks/S05E11_7_The_Ethical_Psychology_of_the_Buddha_Dependent_Origination": {
+    "score": 2,
+    "note": "Frames Buddhism as psychology, minimal Western thought engagement"
+  },
+  "dharma_talks/S05E12_8_The_Law_of_Kamma": {
+    "score": 0,
+    "note": "Traditional Buddhist karma teaching, no Western philosophical content"
+  },
+  "dharma_talks/S05E13_8_Living_Life_according_to_the_Dhamma": {
+    "score": 0,
+    "note": "Buddhist ethics and precepts, traditional dharma teaching"
+  },
+  "dharma_talks/S05E14_Guided_Metta": {
+    "score": 0,
+    "note": "Traditional loving-kindness meditation practice, no Western thought"
+  },
+  "dharma_talks/S05E15_Guided_Bodycare": {
+    "score": 0,
+    "note": "Buddhist body contemplation practice, traditional meditation instruction"
+  },
+  "dharma_talks/S06E01_Developing_the_Factors_of_Enlightenment": {
+    "score": 0,
+    "note": "Traditional Buddhist enlightenment factors, no Western engagement"
+  },
+  "dharma_talks/S06E02_Exploring_Dukkha": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching on suffering, no Western thought"
+  },
+  "dharma_talks/S06E03_Question_Answer_Session": {
+    "score": 5,
+    "note": "Addresses creativity, engaged Buddhism, Buddhist-Christian contemplative traditions"
+  },
+  "dharma_talks/S06E04_Revising_the_Principles_of_Meditation": {
+    "score": 0,
+    "note": "Traditional Buddhist meditation principles, no Western thought"
+  },
+  "dharma_talks/S06E05_The_Hindrances": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching on mental hindrances"
+  },
+  "dharma_talks/S07E01_Practice_into_Daily_Life_Xmas_2006": {
+    "score": 0,
+    "note": "Buddhist practice integration, no Western philosophical engagement"
+  },
+  "dharma_talks/S07E02_New_Year_Reflections": {
+    "score": 0,
+    "note": "Buddhist spiritual undertakings, traditional dharma teaching"
+  },
+  "dharma_talks/S08E01_QA_Resistance_Rebirth_and_Moral_Justice_What_suffers_Mindfulness_Apps_Spiritual": {
+    "score": 3,
+    "note": "Mentions mindfulness apps briefly among traditional Buddhist topics"
+  },
+  "dharma_talks/S09E01_01_The_Body_-_The_Buddhas_World_View_and_the_role_of_Materiality_rupaTo_play_the": {
+    "score": 1,
+    "note": "Traditional Buddhist analysis of materiality, no Western thought"
+  },
+  "dharma_talks/S09E02_02_The_Body_-_Kayagasati_Sutta_MN131To_play_the_media_you_will_need_to_either_up": {
+    "score": 1,
+    "note": "Classical sutta teaching on body contemplation"
+  },
+  "dharma_talks/S09E03_Feeling_vedanaTo_play_the_media_you_will_need_to_either_update_your_browser_to_a": {
+    "score": 0,
+    "note": "Pure Buddhist teaching on feelings aggregate"
+  },
+  "dharma_talks/S09E04_Dependent_Origination_leading_to_awakening_in_ordinary_Daily_lifeTo_play_the_med": {
+    "score": 1,
+    "note": "Traditional Buddhist teaching applied to daily life"
+  },
+  "dharma_talks/S09E05_To_play_the_media_you_will_need_to_either_update_your_browser_to_a_recent_versio": {
+    "score": 0,
+    "note": "Buddha Day talk on nibbana and awakening"
+  },
+  "dharma_talks/S09E06_To_play_the_media_you_will_need_to_either_update_your_browser_to_a_recent_versio": {
+    "score": 0,
+    "note": "Traditional teaching on Mangala Sutta blessings"
+  },
+  "dharma_talks/S09E07_Ethics_Not-self_and_LiberationTo_play_the_media_you_will_need_to_either_update_y": {
+    "score": 1,
+    "note": "Classical Buddhist ethics and not-self teaching"
+  },
+  "dharma_talks/S09E08_Roads_to_PowerTo_play_the_media_you_will_need_to_either_update_your_browser_to_a": {
+    "score": 0,
+    "note": "Traditional 37 factors of awakening teaching"
+  },
+  "dharma_talks/S09E09_New_Year_address_on_the_qualities_needed_to_succeed_The_Roads_to_SuccessTo_play": {
+    "score": 1,
+    "note": "Buddhist factors applied to success concepts"
+  },
+  "dharma_talks/S09E10_The_First_Discourse_on_Turning_the_Wheel_of_the_DhammaTo_play_the_media_you_will": {
+    "score": 0,
+    "note": "Classical first discourse teaching"
+  },
+  "dharma_talks/S09E11_Scientism_Romanticism_Psychotherapy_-_and_BuddhadhammaTo_play_the_media_you_wi": {
+    "score": 9,
+    "note": "Directly examines Buddhism through Western cultural lenses"
+  },
+  "dharma_talks/S09E12_Kamma_Rebirth_and_Transcendence_A_top_down_view_of_the_BuddhadhammaTo_play_the": {
+    "score": 6,
+    "note": "Contrasts Buddhist transcendence with scientific materialism"
+  },
+  "dharma_talks/S09E13_The_Discourse_to_the_Kalama_Discernment_the_Ethical_Life_and_Fake_NewsTo_play_t": {
+    "score": 4,
+    "note": "Buddhist discernment applied to modern misinformation issues"
+  },
+  "dharma_talks/S10E01_Buddha_Day_Address_What_was_the_mindset_of_the_Bodhisatta_when_he_left_his_famil": {
+    "score": 2,
+    "note": "Mentions modern existential despair parallels briefly"
+  },
+  "dharma_talks/S10E02_Spiritual_progress_-_stop_tryingTo_play_the_media_you_will_need_to_either_update": {
+    "score": 1,
+    "note": "Traditional Buddhist paradox of seeking"
+  },
+  "dharma_talks/S10E04_The_Need_for_Sangha_community_and_Qs_about_Ordinary_Daily_LifeTo_play_the_media": {
+    "score": 3,
+    "note": "Discusses Western Buddhism adaptation from traditional forms"
+  },
+  "dharma_talks/S11E01_Mae_Chee_Kaew_and_ResolutionsTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 0,
+    "note": "Traditional Thai forest tradition teaching"
+  },
+  "dharma_talks/S11E02_The_Three_CharacteristicsTo_play_the_media_you_will_need_to_either_update_your_b": {
+    "score": 0,
+    "note": "Classical Buddhist three characteristics teaching"
+  },
+  "dharma_talks/S11E03_Buddha_Day_Address_May_2015To_play_the_media_you_will_need_to_either_update_your": {
+    "score": 0,
+    "note": "Traditional Buddha Day commemoration"
+  },
+  "dharma_talks/S11E04_DeconstructionTo_play_the_media_you_will_need_to_either_update_your_browser_to_a": {
+    "score": 1,
+    "note": "Buddhist deconstruction, minimal Western philosophical connection"
+  },
+  "dharma_talks/S11E05_Love_and_All_ThatTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 3,
+    "note": "Combines Buddhist teachings with practical psychology"
+  },
+  "dharma_talks/S11E06_Ethics_Not-self_and_LiberationTo_play_the_media_you_will_need_to_either_update_y": {
+    "score": 2,
+    "note": "Mentions Axial Age context with Confucius Socrates"
+  },
+  "dharma_talks/S12E01_Contol_and_loss_of_PowerTo_play_the_media_you_will_need_to_either_update_your_br": {
+    "score": 1,
+    "note": "Traditional Buddhist teaching on control and power"
+  },
+  "dharma_talks/S12E02_QA_Detachment_Engagement_Motivation_DevotionTo_play_the_media_you_will_need_to_e": {
+    "score": 1,
+    "note": "Traditional Buddhist practice balance questions"
+  },
+  "dharma_talks/S12E03_Basics_for_MeditationTo_play_the_media_you_will_need_to_either_update_your_brows": {
+    "score": 1,
+    "note": "Pure Buddhist meditation instruction, no Western thought comparison"
+  },
+  "dharma_talks/S12E04_Kamma_RevisitedTo_play_the_media_you_will_need_to_either_update_your_browser_to": {
+    "score": 2,
+    "note": "Mentions avoiding fatalism and chaos theory briefly"
+  },
+  "dharma_talks/S12E05_Daily_Life_ReinforcedTo_play_the_media_you_will_need_to_either_update_your_brows": {
+    "score": 5,
+    "note": "Contrasts Buddha's approach with Western religious and psychological models"
+  },
+  "dharma_talks/S12E06_RefinementSublimation_and_the_Eightfold_PathTo_play_the_media_you_will_need_to_e": {
+    "score": 1,
+    "note": "Buddhist ethics and conduct, no Western thought engagement"
+  },
+  "dharma_talks/S12E07_No_Inherent_BeingTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 1,
+    "note": "Pure Buddhist teaching on not-self and interdependence"
+  },
+  "dharma_talks/S12E08_Kamma_and_Free_WillTo_play_the_media_you_will_need_to_either_update_your_browser": {
+    "score": 7,
+    "note": "Contrasts Buddhism with Christianity and Freudian psychology extensively"
+  },
+  "dharma_talks/S12E09_Comments_on_a_Statement_by_Mae_Chee_KaewTo_play_the_media_you_will_need_to_eithe": {
+    "score": 1,
+    "note": "Buddhist teaching on Four Noble Truths, no Western comparison"
+  },
+  "dharma_talks/S12E10_Reiki_10_06_2015To_play_the_media_you_will_need_to_either_update_your_browser_to": {
+    "score": 0,
+    "note": "Reiki energy practice, unrelated to Buddhism or Western thought"
+  },
+  "dharma_talks/S12E11_Intro_Talk_to_BodycareTo_play_the_media_you_will_need_to_either_update_your_brow": {
+    "score": 1,
+    "note": "Buddhist meditation introduction, no Western thought discussion"
+  },
+  "dharma_talks/S12E12_Dependent_Origination_and_the_Quality_of_Right_AwarenessTo_play_the_media_you_wi": {
+    "score": 2,
+    "note": "Addresses karma, free will, rebirth questions briefly"
+  },
+  "dharma_talks/S12E13_Talk_at_the_Re-opening_of_the_Golden_Buddha_Centre_in_TotnesTo_play_the_media_yo": {
+    "score": 1,
+    "note": "Buddhist awakening path, no Western thought comparison"
+  },
+  "dharma_talks/S12E14_The_Prognosis_is_Very_GoodTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 2,
+    "note": "Addresses existential questions but primarily Buddhist framework"
+  },
+  "dharma_talks/S13E01_Importance_of_Resolution_plusTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 1,
+    "note": "Buddhist psychology through five aggregates, no Western comparison"
+  },
+  "dharma_talks/S13E02_Christmas_Talk_re_the_PathTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 3,
+    "note": "Christmas context but focuses on Buddhist ethics primarily"
+  },
+  "dharma_talks/S13E03_Right_RelationshipTo_play_the_media_you_will_need_to_either_update_your_browser": {
+    "score": 2,
+    "note": "Christmas season context, mainly Buddhist perfections teaching"
+  },
+  "dharma_talks/S13E04_How_to_critique_the_Dhamma_and_BuddhaTo_play_the_media_you_will_need_to_either_u": {
+    "score": 3,
+    "note": "Categorizes religious ideologies but focuses on Buddhist non-dogmatism"
+  },
+  "dharma_talks/S13E05_An_Attempt_to_Understand_the_teaching_of_Not-SelfTo_play_the_media_you_will_need": {
+    "score": 2,
+    "note": "Addresses ancient Indian concepts but purely Buddhist teaching"
+  },
+  "dharma_talks/S13E06_Talk_to_the_European_Teachers_Meeting_How_I_came_to_establish_a_non-communityTo": {
+    "score": 1,
+    "note": "Personal story about establishing Buddhist center in Britain"
+  },
+  "dharma_talks/S14E01_HappinessTo_play_the_media_you_will_need_to_either_update_your_browser_to_a_rece": {
+    "score": 2,
+    "note": "Contrasts Buddhist and ordinary understanding of happiness briefly"
+  },
+  "dharma_talks/S14E02_The_Body_and_the_Discourse_on_How_to_Establish_Right_AwarenessTo_play_the_media": {
+    "score": 1,
+    "note": "Pure Buddhist teaching on body contemplation and mindfulness"
+  },
+  "dharma_talks/S14E03_QA_session_Family_Distractions_Selfish_to_Meditate_Negative_Emotions_Sufferin": {
+    "score": 1,
+    "note": "Practical meditation questions, no Western thought engagement"
+  },
+  "dharma_talks/S14E04_Mindfulness_TimeTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 1,
+    "note": "Buddhist teaching on mindfulness and suffering, no Western comparison"
+  },
+  "dharma_talks/S14E05_Monks_Daily_Life_Not-SelfTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 1,
+    "note": "Monastic life and Buddhist practice, no Western thought discussion"
+  },
+  "dharma_talks/S14E06_Retreats_Attachment_Children_and_SufferingTo_play_the_media_you_will_need_to_e": {
+    "score": 2,
+    "note": "Compares Mahasi tradition with other Buddhist approaches briefly"
+  },
+  "dharma_talks/S15E01_New_Year_Revision_of_Buddhadhamma_Theory_and_PracticeTo_play_the_media_you_will": {
+    "score": 1,
+    "note": "Buddhist theory and practice revision, no Western thought engagement"
+  },
+  "dharma_talks/S15E02_Hope_to_InspireTo_play_the_media_you_will_need_to_either_update_your_browser_to": {
+    "score": 0,
+    "note": "Traditional Buddhist meditation teaching, no Western thought engagement"
+  },
+  "dharma_talks/S15E03_Talk_at_Opening_of_centre_in_GhentTo_play_the_media_you_will_need_to_either_upda": {
+    "score": 2,
+    "note": "European context but focuses on traditional sangha concepts"
+  },
+  "dharma_talks/S15E04_The_Problem_of_IdentityTo_play_the_media_you_will_need_to_either_update_your_bro": {
+    "score": 1,
+    "note": "Identity analysis but purely Buddhist framework, no Western dialogue"
+  },
+  "dharma_talks/S15E05_The_body_as_Meditative_ObjectTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 0,
+    "note": "Traditional Buddhist body meditation teaching"
+  },
+  "dharma_talks/S16E01_1_Starting_a_RetreatTo_play_the_media_you_will_need_to_either_update_your_browse": {
+    "score": 0,
+    "note": "Traditional retreat opening ceremony"
+  },
+  "dharma_talks/S16E02_The_Principles_and_Problems_of_VipassanaTo_play_the_media_you_will_need_to_eithe": {
+    "score": 0,
+    "note": "Traditional vipassana instruction"
+  },
+  "dharma_talks/S16E03_Not-Self_Indulgence_and_allTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 0,
+    "note": "Traditional Buddhist teachings on karma and not-self"
+  },
+  "dharma_talks/S16E04_Impulsive_or_SpontaneousTo_play_the_media_you_will_need_to_either_update_your_br": {
+    "score": 1,
+    "note": "Dictionary definitions mentioned but focus remains Buddhist"
+  },
+  "dharma_talks/S16E05_The_Body_and_the_Three_CharacteristicsTo_play_the_media_you_will_need_to_either": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching on three characteristics"
+  },
+  "dharma_talks/S16E06_Why_noting_without_stopTo_play_the_media_you_will_need_to_either_update_your_bro": {
+    "score": 0,
+    "note": "Traditional Mahasi vipassana technique explanation"
+  },
+  "dharma_talks/S16E07_Why_we_need_a_techniqueTo_play_the_media_you_will_need_to_either_update_your_bro": {
+    "score": 2,
+    "note": "Parallels with athletic/musical training but minimal Western engagement"
+  },
+  "dharma_talks/S16E08_Subliminal_Inclinations_Defilements_and_HindrancesTo_play_the_media_you_will_nee": {
+    "score": 1,
+    "note": "Therapeutic language but traditional Buddhist psychology framework"
+  },
+  "dharma_talks/S16E09_Questions_and_Answers_A_Dolly_MixtureTo_play_the_media_you_will_need_to_either_u": {
+    "score": 0,
+    "note": "Traditional Q&A on Buddhist practice"
+  },
+  "dharma_talks/S16E10_Importance_of_Metta_24_minTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 0,
+    "note": "Traditional metta practice teaching"
+  },
+  "dharma_talks/S16E11_The_Kamma_of_LiberationTo_play_the_media_you_will_need_to_either_update_your_bro": {
+    "score": 3,
+    "note": "Compares Jesus and Buddha teachings on karma"
+  },
+  "dharma_talks/S16E12_The_Karma_Concerning_LiberationTo_play_the_media_you_will_need_to_either_update": {
+    "score": 0,
+    "note": "Traditional Buddhist karma teaching"
+  },
+  "dharma_talks/S17E01_Dignity_and_the_Qualities_of_a_RulerTo_play_the_media_you_will_need_to_either_up": {
+    "score": 0,
+    "note": "Traditional Buddhist virtues from Jataka tales"
+  },
+  "dharma_talks/S17E02_Practice_in_Ordinary_Daily_LifeTo_play_the_media_you_will_need_to_either_update": {
+    "score": 1,
+    "note": "Buddhist psychology mentioned but traditional framework"
+  },
+  "dharma_talks/S17E03_Samatha-VipassanaTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 0,
+    "note": "Traditional Buddhist meditation types"
+  },
+  "dharma_talks/S17E04_Vipassana_and_or_TherapyTo_play_the_media_you_will_need_to_either_update_your_br": {
+    "score": 4,
+    "note": "Contrasts Buddhist psychology with modern therapeutic approaches"
+  },
+  "dharma_talks/S17E05_Buddha_Day_Address_with_Refuges_and_PreceptsTo_play_the_media_you_will_need_to_e": {
+    "score": 0,
+    "note": "Traditional Buddha Day ceremony"
+  },
+  "dharma_talks/S17E06_Daily_Rythms_Fetters_Hindrances_and_Inclinations_RebirthTo_play_the_media_you_wi": {
+    "score": 2,
+    "note": "Rebirth from traditional and contemporary perspectives"
+  },
+  "dharma_talks/S17E07_Metta_Applied_and_Sustained_Thought_BuddhamindTo_play_the_media_you_will_need_to": {
+    "score": 0,
+    "note": "Traditional brahmavihara and jhana teachings"
+  },
+  "dharma_talks/S17E08_Equanimity_-_Foundation_of_all_VirtueTo_play_the_media_you_will_need_to_either_u": {
+    "score": 1,
+    "note": "Mentions political/philosophical opinions but traditional Buddhist focus"
+  },
+  "dharma_talks/S17E09_The_Mahasi_MethodTo_play_the_media_you_will_need_to_either_update_your_browser_t": {
+    "score": 0,
+    "note": "Traditional Mahasi vipassana method explanation"
+  },
+  "dharma_talks/S17E10_The_Sufferings_of_the_Pleasure_SyndromeTo_play_the_media_you_will_need_to_either": {
+    "score": 4,
+    "note": "Mentions modern understanding alongside Buddhist psychology"
+  },
+  "dharma_talks/S17E11_There_is_no_separation_between_vipassana_and_ordinary_daily_lifeTo_play_the_medi": {
+    "score": 2,
+    "note": "Traditional Buddhist teaching without Western thought comparison"
+  },
+  "dharma_talks/S17E12_Q_A_Rebirth_Identification_Emotions_etcTo_play_the_media_you_will_need_to_eithe": {
+    "score": 3,
+    "note": "Modern scientific example of cellular replacement"
+  },
+  "dharma_talks/S17E13_Why_didnt_the_Buddha_return_to_lay_lifeTo_play_the_media_you_will_need_to_either": {
+    "score": 1,
+    "note": "Traditional Buddhist teaching focus"
+  },
+  "dharma_talks/S17E14_Revising_the_principles_of_vipassanaTo_play_the_media_you_will_need_to_either_up": {
+    "score": 2,
+    "note": "Pure Buddhist meditation instruction"
+  },
+  "dharma_talks/S17E15_Dukkha_Unsatisfactoriness_et_alTo_play_the_media_you_will_need_to_either_update": {
+    "score": 1,
+    "note": "Traditional Buddhist teaching on aggregates"
+  },
+  "dharma_talks/S17E16_Encouragement_October_09To_play_the_media_you_will_need_to_either_update_your_br": {
+    "score": 2,
+    "note": "Traditional Buddhist meditation principles"
+  },
+  "dharma_talks/S17E17_The_practice_and_the_pitfalls_of_metta_goodwill_practiceTo_play_the_media_you_wi": {
+    "score": 1,
+    "note": "Traditional loving-kindness meditation teaching"
+  },
+  "dharma_talks/S18E01_How_Vipassana_relates_to_Daily_LifeTo_play_the_media_you_will_need_to_either_upd": {
+    "score": 2,
+    "note": "Buddhist meditation applied to daily life"
+  },
+  "dharma_talks/S18E02_Samatha_and_-_or_VipassanaTo_play_the_media_you_will_need_to_either_update_your": {
+    "score": 1,
+    "note": "Traditional Buddhist meditation approaches"
+  },
+  "dharma_talks/S18E03_Metta_Developing_GoodwillTo_play_the_media_you_will_need_to_either_update_your_b": {
+    "score": 1,
+    "note": "Traditional loving-kindness practice"
+  },
+  "dharma_talks/S18E04_Karma_Dependent_Origination_Virtue_and_LiberationTo_play_the_media_you_will_need": {
+    "score": 1,
+    "note": "Traditional Buddhist doctrinal teaching"
+  },
+  "dharma_talks/S18E05_Enthusiam_and_other_questionsTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 1,
+    "note": "Traditional Buddhist spiritual qualities"
+  },
+  "dharma_talks/S18E06_Faith_and_the_Spiritual_LifeTo_play_the_media_you_will_need_to_either_update_you": {
+    "score": 3,
+    "note": "Distinguishes Buddhist faith from belief systems"
+  },
+  "dharma_talks/S18E07_Revising_the_principles_of_vipassanaTo_play_the_media_you_will_need_to_either_up": {
+    "score": 2,
+    "note": "Traditional vipassana meditation principles"
+  },
+  "dharma_talks/S18E08_The_Buddhas_Quest_-_A_Public_TalkTo_play_the_media_you_will_need_to_either_updat": {
+    "score": 2,
+    "note": "Historical context of Buddha's time"
+  },
+  "dharma_talks/S18E09_The_problem_lies_in_the_lookingTo_play_the_media_you_will_need_to_either_update": {
+    "score": 3,
+    "note": "Uses glasses metaphor for perception problems"
+  },
+  "dharma_talks/S18E10_There_is_no_reason_for_beingTo_play_the_media_you_will_need_to_either_update_you": {
+    "score": 2,
+    "note": "Child's insight about existence and being"
+  },
+  "dharma_talks/S18E11_Towards_a_whole_life_practiceTo_play_the_media_you_will_need_to_either_update_yo": {
+    "score": 1,
+    "note": "Traditional Buddhist spiritual development"
+  },
+  "dharma_talks/S19E01_httpswwwsatipanyaorgukwp-contentuploads202004Evening-Lockdown-Meditationmp4": {
+    "score": 3,
+    "note": "Pandemic context for traditional meditation practice"
+  },
+  "dharma_talks/S19E02_httpswwwsatipanyaorgukwp-contentuploads20200401-MN9-Discourse-on-Right-View-Whol": {
+    "score": 1,
+    "note": "Traditional Buddhist sutta commentary"
+  },
+  "dharma_talks/S19E03_httpswwwsatipanyaorgukwp-contentuploads20200402-First-Three-Noble-Truthsmp4": {
+    "score": 1,
+    "note": "Traditional Four Noble Truths teaching"
+  },
+  "dharma_talks/S19E04_httpswwwsatipanyaorgukwp-contentuploads20200403-Coronavirus-and-the-Contemplatio": {
+    "score": 5,
+    "note": "Uses pandemic to explore death contemplation practice"
+  },
+  "dharma_talks/S19E05_httpswwwsatipanyaorgukwp-contentuploads20200404-Contemplation-of-Death-Living-mo": {
+    "score": 2,
+    "note": "Traditional death contemplation teaching"
+  },
+  "dharma_talks/S19E06_httpswwwsatipanyaorgukwp-contentuploads20200405-Contemplation-of-Death-againmp4": {
+    "score": 4,
+    "note": "Buddhist practice applied to modern economic uncertainty"
+  },
+  "dharma_talks/S19E07_httpswwwsatipanyaorgukwp-contentuploads20200406-Renunciation-and-Buddhas-First-O": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching on renunciation, no Western thought"
+  },
+  "dharma_talks/S19E09_httpswwwsatipanyaorgukwp-contentuploads20200408-Mindfulness-at-work-And-Right-Vi": {
+    "score": 2,
+    "note": "Workplace mindfulness has Western applications but primarily Buddhist"
+  },
+  "dharma_talks/S19E10_httpswwwsatipanyaorgukwp-contentuploads20200409-Right-Speech-Action-and-Liveliho": {
+    "score": 0,
+    "note": "Traditional Buddhist ethics, no Western philosophical engagement"
+  },
+  "dharma_talks/S19E11_httpswwwsatipanyaorgukwp-contentuploads20200410-Grief-1mp4": {
+    "score": 1,
+    "note": "Buddhist grief teaching, minimal Western psychological connection"
+  },
+  "dharma_talks/S19E12_httpswwwsatipanyaorgukwp-contentuploads20200411-The-Nutriments-Food-Contact-Voli": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching on four nutriments"
+  },
+  "dharma_talks/S19E13_httpswwwsatipanyaorgukwp-contentuploads20200412-The-Investigation-of-Eating-1mp4": {
+    "score": 0,
+    "note": "Buddhist eating meditation practice, no Western thought"
+  },
+  "dharma_talks/S19E14_httpswwwsatipanyaorgukwp-contentuploads20200413-Discourse-on-the-Taints-MN-2-Ove": {
+    "score": 1,
+    "note": "Mentions materialist views briefly within Buddhist framework"
+  },
+  "dharma_talks/S19E16_httpswwwsatipanyaorgukwp-contentuploads20200415-The-Discourse-on-Not-self-SN2265": {
+    "score": 0,
+    "note": "Traditional Buddhist not-self teaching, no Western engagement"
+  },
+  "dharma_talks/S19E18_httpswwwsatipanyaorgukwp-contentuploads20200417-Questions-See-Descriptionmp4": {
+    "score": 1,
+    "note": "Q&A format touches contemporary issues but remains Buddhist"
+  },
+  "dharma_talks/S19E19_httpswwwsatipanyaorgukwp-contentuploads20200418-Overcoming-the-Taints-by-Restrai": {
+    "score": 1,
+    "note": "Uses modern advertising examples within Buddhist teaching"
+  },
+  "dharma_talks/S19E20_httpswwwsatipanyaorgukwp-contentuploads20200419-Overcoming-the-Taints-by-Usingmp": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching on requisites and moderation"
+  },
+  "dharma_talks/S19E21_httpswwwsatipanyaorgukwp-contentuploads20200420-Overcoming-the-Taints-by-Enduran": {
+    "score": 1,
+    "note": "Applies Buddhist endurance teaching to COVID pandemic"
+  },
+  "dharma_talks/S19E22_httpswwwsatipanyaorgukwp-contentuploads20200423-The-Ten-Fettersmp4": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching on ten fetters"
+  },
+  "dharma_talks/S20E01_Refuges_and_Precepts_with_Metta": {
+    "score": 0,
+    "note": "Traditional Buddhist ceremony and meditation practice"
+  },
+  "dharma_talks/S21E01_Video": {
+    "score": 1,
+    "note": "Distinguishes Buddhist dullness from clinical depression briefly"
+  },
+  "dharma_talks/S21E02_Video": {
+    "score": 2,
+    "note": "Applies Buddhist psychology to modern political polarization"
+  },
+  "dharma_talks/S21E03_Video": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching on sympathetic joy"
+  },
+  "dharma_talks/S21E04_Video": {
+    "score": 1,
+    "note": "Addresses death-phobic Western culture within Buddhist framework"
+  },
+  "dharma_talks/S22E01_2022_Dec_11_To_Love_or_To_Be_Loved_That_is_the_question": {
+    "score": 6,
+    "note": "Integrates Eric Fromm psychology with Buddhist metta practice"
+  },
+  "dharma_talks/S22E02_Love_and_Relationship": {
+    "score": 2,
+    "note": "Contrasts Buddhist love with neoliberal individualism briefly"
+  },
+  "dharma_talks/S22E03_Forgiveness_is_fundamental_to_purify_the_heart_Resentment_is_a_poison_Guilt_sham": {
+    "score": 0,
+    "note": "Buddhist forgiveness practice, no Western thought engagement"
+  },
+  "dharma_talks/S22E04_The_introduction": {
+    "score": 1,
+    "note": "Buddhist psychology approach to emotions, minimal Western connection"
+  },
+  "dharma_talks/S22E05_Karaniya_Metta_Sutta": {
+    "score": 0,
+    "note": "Traditional Buddhist loving-kindness discourse study"
+  },
+  "dharma_talks/S23E01_Video": {
+    "score": 1,
+    "note": "Buddhist dialogue wisdom applied to modern polarization"
+  },
+  "dharma_talks/S23E02_We_often_hear_about_suffering_and_the_end_of_suffering_We_practice_metta_But_wha": {
+    "score": 0,
+    "note": "Buddhist joy cultivation, no Western thought engagement"
+  },
+  "dharma_talks/S23E03_2024_Jan_21_The_importance_of_Tranquillity_Passaddhi": {
+    "score": 2,
+    "note": "Mentions neurotransmitters and nervous system but primarily Buddhist"
+  },
+  "dharma_talks/S23E04_Patient_Forebearance": {
+    "score": 1,
+    "note": "Pure Buddhist teaching on patience without Western connections"
+  },
+  "dharma_talks/S23E05_Equanimity": {
+    "score": 1,
+    "note": "Traditional Buddhist virtue teaching without Western philosophical engagement"
+  },
+  "dharma_talks/S23E06_Sympathy_Empathy_and_Compassion": {
+    "score": 4,
+    "note": "Discusses Western psychological concepts alongside Buddhist compassion teachings"
+  },
+  "dharma_talks/S23E07_2023_June_11_Fear_and_Courage": {
+    "score": 3,
+    "note": "Explores psychology and human development with Buddhist framework"
+  },
+  "dharma_talks/S23E08_Apologies_I_tried_to_cover_too_much_ground_However_tit_will_appear_as_a_Tip_on_t": {
+    "score": 1,
+    "note": "Personal stories and Buddhist compassion without Western thought"
+  },
+  "dharma_talks/S23E09_2023_Oct_01_Good_Friendship_Companionship_Good_Comradeship_is_the_Whole_of_the_S": {
+    "score": 4,
+    "note": "Incorporates Ubuntu philosophy alongside Buddhist spiritual friendship teachings"
+  },
+  "dharma_talks/S23E10_2021_Gratitude_Generosity_and_Renunciation": {
+    "score": 1,
+    "note": "Traditional Buddhist virtues without Western philosophical engagement"
+  },
+  "dharma_talks/S23E11_2022_Jul_17_Need_Sufficiency_and_Greed_-": {
+    "score": 3,
+    "note": "Addresses contemporary economic anxieties through Buddhist lens"
+  },
+  "dharma_talks/S25E12_2025_Apr_06_Renunciation": {
+    "score": 1,
+    "note": "Pure Buddhist teaching on renunciation without Western connections"
+  },
+  "dharma_talks/S23E13_Video": {
+    "score": 1,
+    "note": "Buddhist concepts of faith and aspiration without Western"
+  },
+  "dharma_talks/S24E02_The_Buddha_and_War": {
+    "score": 5,
+    "note": "Distinguishes Buddhist non-violence from Western pacifist ideology"
+  },
+  "dharma_talks/S24E03_2025_May_04_The_Buddha_as_a_Teacher": {
+    "score": 2,
+    "note": "Mentions Socratic questioning but focuses on Buddhist teaching"
+  },
+  "dharma_talks/S25E01_2025_June_08_What_was_the_Buddhas_great_disovery": {
+    "score": 1,
+    "note": "Pure Buddhist teaching on awakening without Western connections"
+  },
+  "dharma_talks/S25E02_Video": {
+    "score": 1,
+    "note": "Traditional Buddhist teaching on nibbana without Western engagement"
+  },
+  "dharma_talks/S25E03_Video": {
+    "score": 3,
+    "note": "Uses Narcissus metaphor and child development alongside Buddhism"
+  },
+  "dharma_talks/S26E01_2024_April24_Contemplating_the_Unpleasantness_of_the_Body": {
+    "score": 1,
+    "note": "Traditional Buddhist body contemplation without Western connections"
+  },
+  "dharma_talks/S26E02_2024_June_23_The_Unattractive_Nature_of_the_Body": {
+    "score": 1,
+    "note": "Traditional Buddhist body contemplation without Western engagement"
+  },
+  "dharma_talks/S26E03_I_own_my_actions_I_inherit_the_results_of_my_actions_I_am_born_of_my_actions_I_f": {
+    "score": 2,
+    "note": "Clarifies karma misconceptions but primarily traditional Buddhist teaching"
+  },
+  "dharma_talks/S26E04_Karma_and_Rebirth": {
+    "score": 1,
+    "note": "Pure Buddhist teaching on karma without Western connections"
+  },
+  "dharma_talks/S26E05_2023_Nov_26_The_Five_Regular_Contemplations": {
+    "score": 1,
+    "note": "Traditional Buddhist contemplations without Western philosophical engagement"
+  },
+  "dharma_talks/S26E06_2022_Nov_06_The_Contemplation_of_Death": {
+    "score": 2,
+    "note": "Mentions Catholic traditions but focuses on Buddhist death"
+  },
+  "dharma_talks/S26E07_The_Eight_Worldly_Winds": {
+    "score": 1,
+    "note": "Traditional Buddhist teaching without Western philosophical connections"
+  },
+  "dharma_talks/S27E01_The_Paradox_of_Fear": {
+    "score": 1,
+    "note": "Buddhist understanding of fear without Western thought engagement"
+  },
+  "dharma_talks/S27E02_2025_Jan_12_Dukkha_-_the_Buddha_grounds_his_teaching_on_this_word": {
+    "score": 3,
+    "note": "Contrasts Buddhism with theistic religions regarding foundational truths"
+  },
+  "dharma_talks/S27E03_2024_Feb_25_The_crucial_role_of_Desire_and_Intention": {
+    "score": 1,
+    "note": "Pure Buddhist doctrine, no Western thought engagement"
+  },
+  "dharma_talks/S27E04_2024_July_14_The_Four_Great_Elements": {
+    "score": 1,
+    "note": "Traditional Buddhist elements teaching, no Western connections"
+  },
+  "dharma_talks/S27E05_2024_August_18_The_Specific_Law_of_Conditionality": {
+    "score": 2,
+    "note": "Mentions other philosophical views but focuses on Buddhism"
+  },
+  "dharma_talks/S27E06_2024_September_15_The_Dangers_of_Indulgence": {
+    "score": 3,
+    "note": "Uses Greek mythology examples but primarily Buddhist teaching"
+  },
+  "dharma_talks/S27E07_2023_Jan_08_The_Four_Bases_of_Power": {
+    "score": 1,
+    "note": "Traditional Buddhist teaching on spiritual foundations"
+  },
+  "dharma_talks/S27E08_Video": {
+    "score": 3,
+    "note": "Uses climate change anxiety as contemporary example"
+  },
+  "dharma_talks/S27E09_2023_Oct_29_The_Spiral_Path": {
+    "score": 3,
+    "note": "Climate change anxiety example but Buddhist focus"
+  },
+  "dharma_talks/S27E10_2021_Four_Noble_Truths": {
+    "score": 1,
+    "note": "Core Buddhist teaching without Western thought engagement"
+  },
+  "dharma_talks/S27E11_Dukkha_Unsatisfactoriness_and_Sila_Morality_and_Ethics_-": {
+    "score": 1,
+    "note": "Traditional Buddhist ethics teaching"
+  },
+  "dharma_talks/S27E12_Dependent_Origination_the_Role_of_desire_and_the_only_Choice": {
+    "score": 1,
+    "note": "Core Buddhist doctrine without Western connections"
+  },
+  "dharma_talks/S27E13_2022_Oct_09_Identity_and_Not-Self": {
+    "score": 1,
+    "note": "Buddhist not-self teaching with personal examples"
+  },
+  "dharma_talks/S28E02_Right_Livelihood": {
+    "score": 2,
+    "note": "Buddhist ethics with modern context considerations"
+  },
+  "dharma_talks/S28E03_2022_Sep_11_Rest_for_Autumn": {
+    "score": 1,
+    "note": "Practical meditation guidance without Western thought"
+  },
+  "dharma_talks/S29E01_Bahiya_of_the_Bark_Cloth": {
+    "score": 4,
+    "note": "Contrasts Buddhist teaching with Upanishadic Brahmanical ideas"
+  },
+  "dharma_talks/S29E02_2023_March_05": {
+    "score": 1,
+    "note": "Buddhist meditation teaching without Western engagement"
+  },
+  "dharma_talks/S29E03_": {
+    "score": 1,
+    "note": "Buddhist-Jain dialogue but no Western thought"
+  },
+  "dharma_talks/S30E01_2022_Aug_14_Climate_Emergency_and_the_Role_of_the_Dhamma_Video": {
+    "score": 6,
+    "note": "Buddhist response to contemporary Western environmental crisis"
+  },
+  "dharma_talks/S30E02_Non-Violence_v_Pacifism": {
+    "score": 4,
+    "note": "Distinguishes Buddhist non-violence from Western philosophical pacifism"
+  },
+  "dharma_talks/S30E03_2022_Apr_17_Noliberalism_and_Mindfulness": {
+    "score": 8,
+    "note": "Direct critique of neoliberalism corrupting Buddhist mindfulness"
+  },
+  "dharma_talks/S30E04_2022_Jun_19_Social_Conditionng_or_Karma_-_Our_social_conditioning_is_a_given_but": {
+    "score": 5,
+    "note": "Buddhist practice addressing Western cultural conditioning"
+  },
+  "dharma_talks/S31E01_Buddha_Day_Address_His_Training_The_Fetters": {
+    "score": 1,
+    "note": "Traditional Buddhist teaching on Buddha's path"
+  },
+  "dharma_talks/S31E02_ood_Friendhship_Good_Companionship_Good_Comradeship_-_Ubuntu": {
+    "score": 3,
+    "note": "Connects Buddhist teaching with African Ubuntu philosophy"
+  },
+  "dharma_talks/S31E03_Dependent_Origination_Revisited": {
+    "score": 1,
+    "note": "Core Buddhist doctrine without Western connections"
+  },
+  "dharma_talks/S31E04_Karma-_Specific_Conditionality_the_Five_Laws_ethical_behaviour_social_karma-Neol": {
+    "score": 6,
+    "note": "Buddhist ethics applied to neoliberalism and social systems"
+  },
+  "dharma_talks/S31E05_No_more_ideologies": {
+    "score": 9,
+    "note": "Buddhist alternative to Western secular ideologies analysis"
+  },
+  "dharma_talks/S31E06_The_Mahasi_Technique_and_What_We_Need_to_Understand_to_Practice_Vipassana": {
+    "score": 0,
+    "note": "Pure meditation technique instruction, no Western thought engagement"
+  },
+  "dharma_talks/S31E07_Dependent_Orignation_and_how_all_other_importnant_teachings_are_included": {
+    "score": 0,
+    "note": "Traditional Buddhist doctrine explanation without Western philosophical comparison"
+  },
+  "dharma_talks/S31E08_The_Axial_Age_and_the_Momentous_Discovery_of_the_Buddha": {
+    "score": 9,
+    "note": "Directly compares Buddha with Western philosophers like Socrates"
+  },
+  "dharma_talks/S31E09_Dependent_Orgination_is_based_on_Not-Knowing_and_Innocence": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching without Western thought engagement"
+  },
+  "dharma_talks/S31E10_Khanda_the_Agregates_as_Person_and_Sati_Awareness": {
+    "score": 3,
+    "note": "Uses Narcissus myth metaphor but primarily traditional Buddhist"
+  },
+  "dharma_talks/S31E11_Misunderstanding_re_the_Self_Karma_and_transcendence": {
+    "score": 0,
+    "note": "Buddhist doctrine clarification without Western philosophical engagement"
+  },
+  "dharma_talks/S31E12_QA_Kamma_FreeWill_Mettaattachment_Momentary_Concentration_khanika_samadhi": {
+    "score": 3,
+    "note": "Mentions free will briefly but primarily Buddhist practice"
+  },
+  "dharma_talks/S31E13_QA_Emotions_AwarenessDelusionInsight_MasculineFeminine_Sense-of-Self_Porridge": {
+    "score": 0,
+    "note": "Buddhist psychology discussion without Western thought comparison"
+  },
+  "dharma_talks/S32E01_Angulimala_A_Monologue_005449_219_MB": {
+    "score": 0,
+    "note": "Traditional Buddhist story retelling without Western engagement"
+  },
+  "international_talks/S01E01_Méditation_Guidée_Debout_et_Assise": {
+    "score": 0,
+    "note": "Pure meditation instruction in French language"
+  },
+  "international_talks/S01E02_Meditation_Guidee_Detaillee": {
+    "score": 0,
+    "note": "Detailed meditation instructions without philosophical comparison"
+  },
+  "international_talks/S01E03_Méditation_Guidée_Debout_et_Assise": {
+    "score": 0,
+    "note": "Guided meditation practice without Western thought engagement"
+  },
+  "international_talks/S01E04_Trois_compréhensions_nécessaires": {
+    "score": 0,
+    "note": "Traditional vipassana instruction without Western philosophical comparison"
+  },
+  "international_talks/S01E05_Méditation_Debout": {
+    "score": 0,
+    "note": "Standing meditation guidance without Western thought engagement"
+  },
+  "international_talks/S01E06_Méditation_Assise": {
+    "score": 0,
+    "note": "Sitting meditation instruction without philosophical comparison"
+  },
+  "international_talks/S02E01_La_conscience_juste_les_obstacles_comme_chemin_vers_la_libération_et_les_trois_c": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching on mindfulness and hindrances"
+  },
+  "international_talks/S02E02_How_we_use_the_self_and_what_does_it_mean_for_not-self": {
+    "score": 0,
+    "note": "Buddhist doctrine on self without Western philosophical engagement"
+  },
+  "international_talks/S03E01_The_Hindrances": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching on mental obstacles"
+  },
+  "international_talks/S03E02_Non-soi": {
+    "score": 0,
+    "note": "Buddhist not-self teaching without Western thought comparison"
+  },
+  "international_talks/S04E01_La_Libre_Volunté": {
+    "score": 6,
+    "note": "Examines free will through Buddhist lens with Western positions"
+  },
+  "international_talks/S05E01_Le_Dhamma_dans_la_vie_quotidienne_ordinaire": {
+    "score": 0,
+    "note": "Buddhist teaching on suffering without Western engagement"
+  },
+  "international_talks/S05E02_Scientisme_Romatisme_Bouddhisme": {
+    "score": 9,
+    "note": "Directly examines scientism, romanticism versus authentic Buddhist teachings"
+  },
+  "international_talks/S07E01_Une_tentative_de_comprendre_le_non-soi": {
+    "score": 0,
+    "note": "Buddhist not-self teaching without Western philosophical comparison"
+  },
+  "international_talks/S07E02_Retour_à_lessentiel": {
+    "score": 0,
+    "note": "Traditional Four Noble Truths teaching without Western engagement"
+  },
+  "international_talks/S08E01_Bonheur": {
+    "score": 6,
+    "note": "Compares Christian, Freudian and Buddhist models of happiness"
+  },
+  "international_talks/S08E02_LEsprit_Concevoir_et_les_Empêches": {
+    "score": 2,
+    "note": "Buddhist psychology concepts, no Western thought comparison"
+  },
+  "international_talks/S09E01_Metta_Bhavana_Bienveillance_15_minLausanne_Oct_2010": {
+    "score": 1,
+    "note": "Pure Buddhist meditation practice, no Western elements"
+  },
+  "international_talks/S09E02_Nous_causons_de_la_souffrance_pour_nous_memeLausanne_Oct_2010": {
+    "score": 1,
+    "note": "Traditional Buddhist teaching on suffering, no Western comparison"
+  },
+  "international_talks/S09E03_Le_Kamma_de_la_LiberationLausanne_Oct_2010": {
+    "score": 4,
+    "note": "Mentions neurobiological insights alongside Buddhist kamma teaching"
+  },
+  "international_talks/S10E01_Les_Bases_de_Vipassana": {
+    "score": 1,
+    "note": "Traditional vipassana instruction, no Western thought engagement"
+  },
+  "international_talks/S10E02_Progres_et_dautres_sujets": {
+    "score": 1,
+    "note": "Buddhist teachings on equanimity and non-self"
+  },
+  "international_talks/S10E03_Questions_and_des_Questions_Plus": {
+    "score": 1,
+    "note": "Q&A on Buddhist practice, no Western philosophy"
+  },
+  "international_talks/S10E04_Dependant_Origination_Belgium_Jan_2006": {
+    "score": 1,
+    "note": "Traditional Buddhist psychology teaching on dependent origination"
+  },
+  "international_talks/S10E05_The_Purpose_of_Meditation_Belgium_Jan_2006": {
+    "score": 1,
+    "note": "Buddhist meditation purpose, no Western thought comparison"
+  },
+  "international_talks/S10E06_Why_the_Present_Moment_is_So_Important_Geneva_May_2006": {
+    "score": 2,
+    "note": "Mentions Zen alongside Theravada, minimal Western engagement"
+  },
+  "international_talks/S10E07_QA_Concerning_States_of_Mind_-_Sankhara_Geneva_May_2006": {
+    "score": 1,
+    "note": "Abhidhamma psychology explanation, no Western thought"
+  },
+  "international_talks/S10E08_Concerning_Buddhist_Psychology_Geneva_May_2006": {
+    "score": 1,
+    "note": "Buddhist psychology focus, no Western philosophical comparison"
+  },
+  "international_talks/S10E09_Concerning_Metta_and_Other_Questions_Geneva_May_2006": {
+    "score": 3,
+    "note": "Mind-body connection with physiological explanations alongside Buddhism"
+  },
+  "international_talks/S10E10_Le_Methode_de_Mahasi_Vipassana_Lausanne_Oct_2009": {
+    "score": 2,
+    "note": "Distinguishes vipassana from psychotherapy, minimal Western engagement"
+  },
+  "international_talks/S10E11_Les_Empeches_de_Vipassana_Lausanne_Oct_2009": {
+    "score": 2,
+    "note": "Therapeutic approach mentioned alongside traditional Buddhist hindrances"
+  },
+  "international_talks/S10E12_Les_Facteurs_de_Liberation_Lausanne_Oct_2009": {
+    "score": 1,
+    "note": "Traditional Buddhist factors of awakening, no Western"
+  },
+  "international_talks/S10E13_Psychologie_de_Buddha_Lausanne_Oct_2009": {
+    "score": 1,
+    "note": "Buddhist psychology through dependent origination, no Western"
+  },
+  "international_talks/S11E01_Entering_the_Course": {
+    "score": 1,
+    "note": "Retreat opening with traditional Buddhist precepts"
+  },
+  "international_talks/S11E02_The_Mahasi_Method": {
+    "score": 1,
+    "note": "Traditional vipassana method explanation, no Western thought"
+  },
+  "international_talks/S11E03_The_Joyful_Aspects_of_Meditation": {
+    "score": 1,
+    "note": "Buddhist factors of awakening, no Western comparison"
+  },
+  "international_talks/S11E04_The_Wheel_of_Dependent_Origination": {
+    "score": 1,
+    "note": "Traditional Buddhist dependent origination teaching"
+  },
+  "international_talks/S11E05_The_Perfections": {
+    "score": 1,
+    "note": "Buddhist perfections teaching, no Western thought"
+  },
+  "international_talks/S11E06_Karma": {
+    "score": 3,
+    "note": "Distinguishes Buddhist karma from popular misconceptions, mentions philosophy"
+  },
+  "international_talks/S11E07_Evening_Metta_Chant_and_Instructions": {
+    "score": 0,
+    "note": "Traditional chanting and meditation instructions only"
+  },
+  "international_talks/S11E08_Morning_Chant": {
+    "score": 0,
+    "note": "Traditional Pali chanting, no teaching content"
+  },
+  "international_talks/S12E01_Meditazione_in_Piedi_e_Seduta": {
+    "score": 0,
+    "note": "Pure meditation practice, no Western thought discussion"
+  },
+  "international_talks/S12E02_Meditazione_guidata_dettagliata_sometimes_use_save_as": {
+    "score": 0,
+    "note": "Traditional Vipassana instructions, no Western philosophy engagement"
+  },
+  "international_talks/S12E03_Mahasi_Instructions_and_Metta_Chant": {
+    "score": 0,
+    "note": "Traditional meditation instructions, no Western thought content"
+  },
+  "international_talks/S12E04_The_Hindrances": {
+    "score": 0,
+    "note": "Classical Buddhist teaching on hindrances, no Western parallels"
+  },
+  "international_talks/S12E05_Factors_of_Enlightenment": {
+    "score": 0,
+    "note": "Traditional bojjhanga teaching, no Western thought discussion"
+  },
+  "international_talks/S12E06_Dependent_Origination": {
+    "score": 0,
+    "note": "Core Buddhist doctrine, no Western philosophical engagement"
+  },
+  "international_talks/S12E07_Kamma": {
+    "score": 1,
+    "note": "Buddhist cosmology focus, minimal Western thought connection"
+  },
+  "international_talks/S12E08_Metta_Guidata": {
+    "score": 0,
+    "note": "Traditional loving-kindness meditation, no Western content"
+  },
+  "international_talks/S12E09_c_corpo_med_guidata": {
+    "score": 0,
+    "note": "Body meditation practice, no Western thought discussion"
+  },
+  "international_talks/S12E10_Intro_Guarig_corpo_med_guidata": {
+    "score": 0,
+    "note": "Healing meditation practice, no Western philosophy engagement"
+  },
+  "youtube_channel/S01E01_Basics_for_Insight_Meditation_01": {
+    "score": 0,
+    "note": "Traditional vipassana introduction, no Western thought content"
+  },
+  "youtube_channel/S01E02_70th_Birthday_Bhante_Bodhidhammas_Life_story": {
+    "score": 4,
+    "note": "Personal journey from Catholic seminary to Buddhism"
+  },
+  "youtube_channel/S01E03_Talk_Starting_Inaugural_Lockdown_Evening_Meditations_290320": {
+    "score": 0,
+    "note": "Lockdown meditation guidance, no Western thought discussion"
+  },
+  "youtube_channel/S01E04_02_First_Three_Noble_Truths": {
+    "score": 0,
+    "note": "Core Buddhist teaching, no Western philosophical engagement"
+  },
+  "youtube_channel/S01E05_01_MN9_Discourse_on_Right_View_Wholesome_and_Unwholesome_Kamma": {
+    "score": 0,
+    "note": "Traditional Buddhist ethics, no Western thought content"
+  },
+  "youtube_channel/S01E06_Evening_Lockdown_Meditation": {
+    "score": 0,
+    "note": "Traditional meditation session, no Western philosophy"
+  },
+  "youtube_channel/S01E07_03_Coronavirus_and_the_Contemplation_of_Death": {
+    "score": 2,
+    "note": "Mentions society's denial of death, minimal Western engagement"
+  },
+  "youtube_channel/S01E08_04_Contemplation_of_Death_Living_more_awake": {
+    "score": 0,
+    "note": "Traditional death meditation, no Western thought discussion"
+  },
+  "youtube_channel/S01E09_05_Contemplation_of_Death_again": {
+    "score": 0,
+    "note": "Death contemplation practice, no Western philosophy content"
+  },
+  "youtube_channel/S01E10_06_Renunciation_and_Buddhas_First_Occasion_to_Teach": {
+    "score": 0,
+    "note": "Traditional renunciation teaching, no Western thought engagement"
+  },
+  "youtube_channel/S01E11_07_Setting_the_Wheel_of_the_Dhamma_in_Motion": {
+    "score": 0,
+    "note": "Buddha's first teaching, no Western philosophy discussion"
+  },
+  "youtube_channel/S01E12_08_Mindfulness_at_work_And_Right_View_Right_Attitude": {
+    "score": 0,
+    "note": "Traditional Eightfold Path, no Western thought content"
+  },
+  "youtube_channel/S01E13_09_Right_Speech_Action_and_Livelihood": {
+    "score": 0,
+    "note": "Buddhist ethics teaching, no Western philosophy engagement"
+  },
+  "youtube_channel/S01E14_10_Grief": {
+    "score": 0,
+    "note": "Buddhist approach to grief, no Western thought discussion"
+  },
+  "youtube_channel/S01E15_11_The_Nutriments_Food_Contact_Volition_and_Consciousness": {
+    "score": 0,
+    "note": "Traditional Buddhist psychology, no Western philosophy content"
+  },
+  "youtube_channel/S01E16_12_The_Investigation_of_Eating": {
+    "score": 0,
+    "note": "Buddhist eating meditation, no Western thought connection"
+  },
+  "youtube_channel/S01E17_13_Discourse_on_the_Taints_MN_2_Overcome_by_seeing": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching on taints and views"
+  },
+  "youtube_channel/S01E18_14_Not-self_Revisited_The_story_of_Sati_MN38": {
+    "score": 0,
+    "note": "Buddhist not-self teaching through traditional sutta"
+  },
+  "youtube_channel/S01E19_16_Investigating_Not-self_-_The_Pratice": {
+    "score": 0,
+    "note": "Vipassana techniques for investigating not-self"
+  },
+  "youtube_channel/S01E20_17_Questions_See_Description": {
+    "score": 0,
+    "note": "Q&A on Buddhist practice and psychology"
+  },
+  "youtube_channel/S01E21_18_Overcoming_the_Taints_by_Restraint": {
+    "score": 0,
+    "note": "Buddhist teaching on sense restraint"
+  },
+  "youtube_channel/S01E22_19_Overcoming_the_Taints_by_Using": {
+    "score": 0,
+    "note": "Buddhist teaching on wise use of requisites"
+  },
+  "youtube_channel/S01E23_20_Overcoming_the_Taints_by_Endurance": {
+    "score": 0,
+    "note": "Buddhist teaching on patient endurance"
+  },
+  "youtube_channel/S01E24_21a_Overcoming_the_Taints_by_Removing_1": {
+    "score": 0,
+    "note": "Buddhist teaching on removing unwholesome thoughts"
+  },
+  "youtube_channel/S01E25_21b_Overcoming_the_Taints_by_Removing_2": {
+    "score": 0,
+    "note": "Continuation of Buddhist mental purification teaching"
+  },
+  "youtube_channel/S01E26_22_Overcoming_the_Taints_by_Developing": {
+    "score": 0,
+    "note": "Buddhist teaching on seven enlightenment factors"
+  },
+  "youtube_channel/S01E27_23_The_Ten_Fetters": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching on ten fetters"
+  },
+  "youtube_channel/S01E28_24_Society": {
+    "score": 3,
+    "note": "Buddhist social ethics addressing modern societal challenges"
+  },
+  "youtube_channel/S01E29_25_Reflections_for_an_Harmonious_Society": {
+    "score": 3,
+    "note": "Buddhist wisdom applied to contemporary social issues"
+  },
+  "youtube_channel/S01E30_26_More_Reflections": {
+    "score": 3,
+    "note": "Buddhist principles addressing post-truth world challenges"
+  },
+  "youtube_channel/S01E31_27_What_makes_a_Society_Strong": {
+    "score": 3,
+    "note": "Buddhist governance principles applied to modern democracy"
+  },
+  "youtube_channel/S01E32_28_The_Six_Sense_Bases_MN137": {
+    "score": 0,
+    "note": "Buddhist psychology through six sense bases"
+  },
+  "youtube_channel/S01E33_29_Senses_Bases_Cont": {
+    "score": 0,
+    "note": "Continuation of Buddhist sense base teaching"
+  },
+  "youtube_channel/S01E34_Metta_Forgiveness_and_Determination_Practice": {
+    "score": 0,
+    "note": "Guided Buddhist loving-kindness meditation practice"
+  },
+  "youtube_channel/S01E35_01_Reiki_with_Bryan_Lester": {
+    "score": 6,
+    "note": "Buddhist meditation combined with Western energy healing"
+  },
+  "youtube_channel/S01E36_Some_Pointers_for_Metta": {
+    "score": 0,
+    "note": "Buddhist loving-kindness meditation guidance"
+  },
+  "youtube_channel/S01E37_Bodycare_Practice_-_Metta_towards_the_Body": {
+    "score": 0,
+    "note": "Buddhist body contemplation and metta practice"
+  },
+  "youtube_channel/S01E38_02_Reiki_with_Bryan": {
+    "score": 6,
+    "note": "Buddhist origins of Western Reiki healing practice"
+  },
+  "youtube_channel/S01E39_Body_as_Meditation_Object": {
+    "score": 0,
+    "note": "Buddhist body meditation teachings"
+  },
+  "youtube_channel/S01E40_The_Basics_of_Insight_Meditation_03": {
+    "score": 0,
+    "note": "Buddhist vipassana meditation instruction"
+  },
+  "youtube_channel/S01E41_03_Reiki_with_Bryan": {
+    "score": 4,
+    "note": "Explores Reiki's Buddhist connections, some East-West dialogue"
+  },
+  "youtube_channel/S01E42_33_Kalama_Sutta_AN_365": {
+    "score": 7,
+    "note": "Compares Buddhist critical thinking with Western philosophical approaches"
+  },
+  "youtube_channel/S01E43_35_Canki_Sutta_MN95": {
+    "score": 6,
+    "note": "Addresses epistemology and truth claims, relevant to Western thought"
+  },
+  "youtube_channel/S01E44_34_Kalama_Discourse_cont": {
+    "score": 7,
+    "note": "Continues Buddhist epistemology discussion with contemporary Western examples"
+  },
+  "youtube_channel/S01E45_36_Canki_Sutta_cont": {
+    "score": 5,
+    "note": "Explores investigation vs faith, touches on Western approaches"
+  },
+  "youtube_channel/S01E46_37_Shorter_Discourse_on_Gosinga": {
+    "score": 1,
+    "note": "Focuses on monastic community harmony, minimal Western relevance"
+  },
+  "youtube_channel/S01E47_Gaia_Standing_and_Sitting_Guided_Meditation": {
+    "score": 0,
+    "note": "Pure meditation practice, no Western thought discussion"
+  },
+  "youtube_channel/S01E48_38_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 1,
+    "note": "Traditional Buddhist meditation teaching, minimal Western connections"
+  },
+  "youtube_channel/S01E49_31b_The_Body": {
+    "score": 2,
+    "note": "Buddhist body teachings, slight relevance to Western perspectives"
+  },
+  "youtube_channel/S01E50_39_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 1,
+    "note": "Traditional mindfulness teaching, minimal Western thought engagement"
+  },
+  "youtube_channel/S01E51_40_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 1,
+    "note": "Traditional meditation elements, minimal Western philosophical connections"
+  },
+  "youtube_channel/S01E52_41_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 1,
+    "note": "Traditional mindfulness foundations, minimal Western thought relevance"
+  },
+  "youtube_channel/S01E53_42_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 1,
+    "note": "Traditional Buddhist psychology, minimal Western philosophical engagement"
+  },
+  "youtube_channel/S01E54_43_Discourse_on_the_Establishment_of_Awareness_Satipatthana_Sutta_MN10": {
+    "score": 1,
+    "note": "Traditional Four Noble Truths teaching, minimal Western connections"
+  },
+  "youtube_channel/S01E55_44_The_Relay_of_Chariots_MN24": {
+    "score": 1,
+    "note": "Traditional Buddhist path stages, minimal Western thought discussion"
+  },
+  "youtube_channel/S01E56_45_The_Relay_of_Chariots_MN24": {
+    "score": 1,
+    "note": "Traditional purification stages, minimal Western philosophical relevance"
+  },
+  "youtube_channel/S01E57_50_Dog_Ascetic_Discourse_MN57": {
+    "score": 2,
+    "note": "Addresses misguided practices, slight relevance to Western approaches"
+  },
+  "youtube_channel/S01E58_Gratitude_Generosity_Renunciation": {
+    "score": 2,
+    "note": "Buddhist virtues teaching, minimal Western thought engagement"
+  },
+  "youtube_channel/S01E59_Spanish_Introduction_-_Refuges_and_Precepts_Standing_ans_Sitting_Meditation": {
+    "score": 0,
+    "note": "Bilingual meditation practice, no Western thought discussion"
+  },
+  "youtube_channel/S01E60_Saddha_Confidence_and_Trust": {
+    "score": 4,
+    "note": "Addresses scientific materialism and Buddhist confidence concepts"
+  },
+  "youtube_channel/S01E61_Dhp_188_-_192_The_Role_of_Confidence": {
+    "score": 2,
+    "note": "Traditional refuge teaching, minimal Western philosophical connections"
+  },
+  "youtube_channel/S01E62_Dhp_153_154_The_Buddhas_Victory_Verses": {
+    "score": 2,
+    "note": "Traditional awakening verses, minimal Western thought relevance"
+  },
+  "youtube_channel/S01E63_Dhp_4_Hatred_is_not_overcome_with_hatred": {
+    "score": 2,
+    "note": "Buddhist virtue circle teaching, minimal Western connections"
+  },
+  "youtube_channel/S01E64_Dhp_21_-_23": {
+    "score": 1,
+    "note": "Traditional diligence teaching, minimal Western philosophical engagement"
+  },
+  "youtube_channel/S01E65_Dhp_Chapter_3_-_verses_33_34_The_Unruly_Mind": {
+    "score": 2,
+    "note": "Mind training methods, slight relevance to Western psychology"
+  },
+  "youtube_channel/S01E66_Dhp_01_02_Mind_is_the_forerunner": {
+    "score": 2,
+    "note": "Traditional Buddhist teaching, no Western thought engagement"
+  },
+  "youtube_channel/S01E67_Dhp_No4_Hatred_is_not_pacified_by_hatred": {
+    "score": 2,
+    "note": "Pure Buddhist doctrine, minimal Western philosophical connection"
+  },
+  "youtube_channel/S01E68_Dhp_256_157_Judgmental_v_Judicious": {
+    "score": 3,
+    "note": "Touches on judgment concepts relevant to Western ethics"
+  },
+  "youtube_channel/S01E69_Dhp_46_How_to_view_the_Body": {
+    "score": 2,
+    "note": "Traditional Buddhist body contemplation, no Western engagement"
+  },
+  "youtube_channel/S01E70_The_Four_Noble_Truths": {
+    "score": 2,
+    "note": "Core Buddhist doctrine without Western philosophical dialogue"
+  },
+  "youtube_channel/S01E71_The_NIne_Qualities_of_the_Buddha": {
+    "score": 1,
+    "note": "Traditional devotional practice, no Western thought connection"
+  },
+  "youtube_channel/S01E72_Dhp_360_362_Restraint": {
+    "score": 2,
+    "note": "Buddhist ethics teaching, minimal Western philosophical engagement"
+  },
+  "youtube_channel/S01E73_Dhp_90_The_Arahant": {
+    "score": 1,
+    "note": "Traditional Buddhist attainment teaching, no Western connection"
+  },
+  "youtube_channel/S01E74_Vita_Quotidiana": {
+    "score": 3,
+    "note": "Daily practice integration could relate to Western contexts"
+  },
+  "youtube_channel/S01E75_Dukkha_Unsatifactoriness_and_Sila_Morality_and_Ethics": {
+    "score": 3,
+    "note": "Ethics discussion potentially relevant to Western moral philosophy"
+  },
+  "youtube_channel/S01E76_Dependent_Origination_and_the_Role_of_Desire_and_the_Only_Choice": {
+    "score": 2,
+    "note": "Core Buddhist doctrine, no Western philosophical engagement"
+  },
+  "youtube_channel/S01E77_Kamma_and_Rebirth": {
+    "score": 3,
+    "note": "Karma concepts often discussed in Western Buddhist contexts"
+  },
+  "youtube_channel/S01E78_Gratitude_Generosity_and_Renunciation": {
+    "score": 2,
+    "note": "Traditional Buddhist perfections, minimal Western thought engagement"
+  },
+  "youtube_channel/S01E79_Facets_of_a_Love": {
+    "score": 4,
+    "note": "Love and relationships bridge Buddhist and Western perspectives"
+  },
+  "youtube_channel/S01E80_Apamado_DHP_22_23_24": {
+    "score": 2,
+    "note": "Traditional Buddhist vigilance teaching, no Western connection"
+  },
+  "youtube_channel/S01E81_Ageing": {
+    "score": 3,
+    "note": "Universal human experience relevant across cultural contexts"
+  },
+  "youtube_channel/S01E82_Dhp_152_153_The_Inner_Critic": {
+    "score": 4,
+    "note": "Inner criticism concepts relevant to Western psychology"
+  },
+  "youtube_channel/S01E83_Sympathy_Empathy_and_Compassion": {
+    "score": 5,
+    "note": "Directly engages Western psychological concepts with Buddhist teaching"
+  },
+  "youtube_channel/S01E84_DHP_314-317_From_the_Chapter_on_Hell": {
+    "score": 2,
+    "note": "Traditional Buddhist cosmology, minimal Western engagement"
+  },
+  "youtube_channel/S01E85_Non-Violence_is_not_Pacificism": {
+    "score": 6,
+    "note": "Explicitly contrasts Buddhist and Western philosophical approaches"
+  },
+  "youtube_channel/S01E86_Neoliberalism_and_Mindfulness": {
+    "score": 8,
+    "note": "Direct critique of Western capitalism's appropriation of Buddhism"
+  },
+  "youtube_channel/S01E87_The_Buddha_and_War": {
+    "score": 5,
+    "note": "Distinguishes Buddhist approach from Western pacifist ideology"
+  },
+  "youtube_channel/S01E88_Need_Sufficiency_and_Greed": {
+    "score": 4,
+    "note": "Addresses Western economic anxieties through Buddhist lens"
+  },
+  "youtube_channel/S01E89_Social_Conditioning_or_Karma": {
+    "score": 5,
+    "note": "Contrasts Buddhist karma with Western social conditioning concepts"
+  },
+  "youtube_channel/S01E90_Climate_Emergency": {
+    "score": 6,
+    "note": "Applies Buddhist teachings to contemporary Western environmental crisis"
+  },
+  "youtube_channel/S01E91_Reset_for_Autumn": {
+    "score": 0,
+    "note": "Practical meditation guidance, no Western thought discussion"
+  },
+  "youtube_channel/S01E92_Identity_and_Not-Self": {
+    "score": 0,
+    "note": "Buddhist teaching on anattā, no Western philosophy"
+  },
+  "youtube_channel/S01E93_The_Contemplation_of_Death": {
+    "score": 0,
+    "note": "Traditional Buddhist death meditation, no Western thought"
+  },
+  "youtube_channel/S01E94_To_Love_or_To_Be_Loved_That_is_the_question": {
+    "score": 7,
+    "note": "Integrates Eric Fromm's Western psychology with Buddhist teachings"
+  },
+  "youtube_channel/S01E95_The_Bases_of_Success": {
+    "score": 0,
+    "note": "Buddhist teaching on iddhipādā, no Western thought"
+  },
+  "youtube_channel/S01E96_Bahiya_of_the_Bark_Cloth": {
+    "score": 3,
+    "note": "Mentions Upaniṣadic tradition briefly, primarily Buddhist discourse"
+  },
+  "youtube_channel/S01E97_The_Discourse_on_Bahiya_of_the_Bark_Cloth_Ud110": {
+    "score": 0,
+    "note": "Buddhist teaching on awareness, no Western thought"
+  },
+  "youtube_channel/S01E98_Joy": {
+    "score": 0,
+    "note": "Buddhist teaching on muditā, no Western thought"
+  },
+  "youtube_channel/S01E99_Is_the_Buddha_and_athiest": {
+    "score": 9,
+    "note": "Directly compares Buddhist non-theism with Western atheist-theist debates"
+  },
+  "youtube_channel/S01E100_Fear_and_Courage": {
+    "score": 0,
+    "note": "Buddhist teaching on fear and delusion, no Western thought"
+  },
+  "youtube_channel/S01E101_Patience": {
+    "score": 0,
+    "note": "Buddhist teaching on khanti perfection, no Western thought"
+  },
+  "youtube_channel/S01E102_Equanimity_-_The_most_important_of_all_virtues": {
+    "score": 0,
+    "note": "Buddhist teaching on upekkhā, no Western thought"
+  },
+  "youtube_channel/S01E103_Compassion_and_its_subtle_enemies": {
+    "score": 0,
+    "note": "Buddhist teaching on karuṇā, no Western thought"
+  },
+  "youtube_channel/S01E104_Good_Friendship_Good_Companionship_Good_Comradship_is_the_whole_of_the_Spiritual": {
+    "score": 3,
+    "note": "Connects Buddhist friendship with Ubuntu philosophy briefly"
+  },
+  "youtube_channel/S01E105_The_Five_Constant_Contemplations": {
+    "score": 0,
+    "note": "Buddhist contemplations on human condition, no Western thought"
+  },
+  "youtube_channel/S01E106_Retreat_Start_Standing_and_Walking_Meditation": {
+    "score": 0,
+    "note": "Meditation instruction, no Western thought discussion"
+  },
+  "youtube_channel/S01E107_The_Discourse_Developing_Loving_Kindness": {
+    "score": 0,
+    "note": "Buddhist mettā teaching, no Western thought"
+  },
+  "youtube_channel/S01E108_The_Importance_of_Tranquillity": {
+    "score": 2,
+    "note": "Mentions neuroscience briefly, primarily Buddhist teaching"
+  },
+  "youtube_channel/S01E109_The_Crucial_Importance_of_Desire_and_Intention": {
+    "score": 0,
+    "note": "Buddhist teaching on desire and intention, no Western thought"
+  },
+  "youtube_channel/S01E110_Satipanya_Opening_Ceremony_30th_June_2007": {
+    "score": 0,
+    "note": "Ceremonial recording, no Western thought discussion"
+  },
+  "youtube_channel/S01E111_Ceremony_to_Bless_the_Stupa_June_26th_2011_Pt_1": {
+    "score": 0,
+    "note": "Ceremonial chanting, no Western thought discussion"
+  },
+  "youtube_channel/S01E112_Ceremony_to_Bless_the_Stupa_June_26th_2011_Pt_2": {
+    "score": 0,
+    "note": "Ceremonial chanting, no Western thought discussion"
+  },
+  "youtube_channel/S01E113_Ceremony_to_Bless_the_Stupa_June_26th_2011_Pt_3": {
+    "score": 2,
+    "note": "Multi-faith gathering mentions interfaith dialogue briefly"
+  },
+  "youtube_channel/S01E114_15_The_Discourse_on_Not-self_SN22659": {
+    "score": 0,
+    "note": "Buddhist teaching on anattā, no Western thought"
+  },
+  "youtube_channel/S01E115_Upali_is_converted_by_the_Buddha_MN56": {
+    "score": 0,
+    "note": "Buddhist discourse on kamma, no Western thought"
+  },
+  "youtube_channel/S01E116_Contemplating_the_Unpleasantness_of_the_Body_Why_and_How": {
+    "score": 0,
+    "note": "Traditional Buddhist meditation practice, no Western thought engagement"
+  },
+  "youtube_channel/S01E117_The_Buddhas_Alter_Ego": {
+    "score": 0,
+    "note": "Buddhist leadership concepts, no Western philosophical comparison"
+  },
+  "youtube_channel/S01E118_The_Unattractive_Nature_of_the_Body": {
+    "score": 0,
+    "note": "Classical Buddhist body meditation, no Western thought discussion"
+  },
+  "youtube_channel/S01E119_The_Four_Great_Elements": {
+    "score": 2,
+    "note": "Mentions elements as divine beings, minimal Western connection"
+  },
+  "youtube_channel/S01E120_The_Specific_Law_of_Conditionality": {
+    "score": 3,
+    "note": "Contrasts Buddhist causation with deterministic views briefly"
+  },
+  "youtube_channel/S01E121_The_Dangers_of_Indulgence": {
+    "score": 3,
+    "note": "Uses Greek mythology examples, limited Western thought engagement"
+  },
+  "youtube_channel/S01E122_Reflections_and_Contemplative_Practice_of_Kamma": {
+    "score": 0,
+    "note": "Traditional Buddhist karma teaching, no Western comparison"
+  },
+  "youtube_channel/S01E123_Forgiveness": {
+    "score": 0,
+    "note": "Buddhist forgiveness practice, no Western philosophical engagement"
+  },
+  "youtube_channel/S01E124_The_Basics_of_Insight_Meditation_02": {
+    "score": 0,
+    "note": "Pure Buddhist meditation instruction, no Western thought"
+  },
+  "youtube_channel/S01E125_Dukkha_-_Basic_Premise_of_the_Buddhadhamma": {
+    "score": 2,
+    "note": "Contrasts Buddhist with theistic religions briefly"
+  },
+  "youtube_channel/S01E126_Non-Violence_is_not_Pacifism": {
+    "score": 4,
+    "note": "Distinguishes Buddhist non-violence from Western philosophical pacifism"
+  },
+  "youtube_channel/S01E127_The_Eight_Worldly_Conditions": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching on worldly conditions"
+  },
+  "youtube_channel/S01E128_The_Paradox_of_Fear": {
+    "score": 0,
+    "note": "Buddhist perspective on fear, no Western thought"
+  },
+  "youtube_channel/S01E129_Renunciation_The_Path_to_Liberation": {
+    "score": 0,
+    "note": "Classical Buddhist renunciation teaching, no Western comparison"
+  },
+  "youtube_channel/S01E130_The_Buddha_as_a_Teacher_The_Discourse_on_Malunkyaputta": {
+    "score": 2,
+    "note": "Mentions Socratic questioning method briefly"
+  },
+  "youtube_channel/S01E131_What_was_the_Great_Discovery_by_the_Buddha": {
+    "score": 0,
+    "note": "Buddhist awakening teaching, no Western thought engagement"
+  },
+  "youtube_channel/S01E132_Where_do_the_elements_cease_without_remainder": {
+    "score": 0,
+    "note": "Pure Buddhist cosmology and consciousness teaching"
+  },
+  "youtube_channel/S01E133_Extinguishing_the_Housebuilder": {
+    "score": 2,
+    "note": "Uses Narcissus myth, minimal Western philosophical engagement"
+  },
+  "youtube_channel/S01E134_Hope_Aspiration_Expectation": {
+    "score": 0,
+    "note": "Buddhist psychology of motivation, no Western comparison"
+  },
+  "youtube_channel/S01E135_Topics_of_Discussion": {
+    "score": 1,
+    "note": "Buddhist communication principles for polarized age"
+  },
+  "youtube_channel/S01E136_Practising_the_Five_Remembrances": {
+    "score": 1,
+    "note": "Mentions death-phobic culture briefly"
+  },
+  "youtube_channel/S01E137_Revsing_the_Basics": {
+    "score": 2,
+    "note": "References Axial Age context briefly"
+  },
+  "youtube_channel/S01E138_The_Necessity_of_Joy": {
+    "score": 0,
+    "note": "Traditional Buddhist loving-kindness practice"
+  },
+  "youtube_channel/S01E139_Polarisation": {
+    "score": 1,
+    "note": "Buddhist analysis of social division, minimal Western engagement"
+  },
+  "youtube_channel/S01E140_Dullness_and_Lethargy": {
+    "score": 0,
+    "note": "Traditional Buddhist hindrance teaching, no Western thought"
+  },
+  "bhante_essays/S01E01_Refuges_and_Precepts": {
+    "score": 0,
+    "note": "Traditional Buddhist foundational practices, no Western thought engagement"
+  },
+  "bhante_essays/S01E02_Puja_Chantings": {
+    "score": 0,
+    "note": "Traditional Theravada chantings, no Western philosophical content"
+  },
+  "bhante_essays/S01E03_Recommended_Reading_for_Beginners": {
+    "score": 2,
+    "note": "Reading list mentions some Western-accessible Buddhist texts"
+  },
+  "bhante_essays/S01E04_in_PDF_format": {
+    "score": 1,
+    "note": "Daily mindfulness practice, minimal Western thought connection"
+  },
+  "bhante_essays/S01E05_in_MS_Word_format": {
+    "score": 0,
+    "note": "No content description available"
+  },
+  "bhante_essays/S02E01_Neoliberalism_and_BuddhaDhamma": {
+    "score": 9,
+    "note": "Direct Buddhist critique of Western neoliberal economic ideology"
+  },
+  "bhante_essays/S02E02_Investigative_Eating": {
+    "score": 1,
+    "note": "Eating meditation practice, no Western thought engagement"
+  },
+  "bhante_essays/S02E03_Reflections_on_the_Teaching_and_Practice_of_Not-self": {
+    "score": 6,
+    "note": "Anatta teaching specifically challenging for Western mind"
+  },
+  "bhante_essays/S02E04_Vipassana_as_taught_by_the_Mahasi_Sayadaw_of_Burma": {
+    "score": 2,
+    "note": "Meditation method made accessible to lay practitioners"
+  },
+  "bhante_essays/S02E05_Is_Armed_Intervention_Ever_Justified": {
+    "score": 4,
+    "note": "Buddhist ethics applied to contemporary Western political issues"
+  },
+  "bhante_essays/S02E06_Free_will_is_it_available_or_useful": {
+    "score": 8,
+    "note": "Buddhist perspective on classic Western philosophical problem"
+  },
+  "bhante_essays/S02E07_Could_I_be_a_fundamentalist_even_a_terrorist": {
+    "score": 3,
+    "note": "Buddhist psychology applied to contemporary ideological extremism"
+  },
+  "bhante_essays/S02E08_Perfection_Elitism_and_Excellence": {
+    "score": 2,
+    "note": "Personal reflection on perfectionism, minimal Western thought"
+  },
+  "bhante_essays/S02E09_What_benefit_is_there_in_becoming_a_temporary_monastic": {
+    "score": 1,
+    "note": "Traditional Buddhist practice, no Western thought engagement"
+  },
+  "bhante_essays/S02E10_The_Unlucky_Death_of_a_Two_Year_Old_Boy": {
+    "score": 3,
+    "note": "Buddhist karma teaching addressing Western misconceptions"
+  },
+  "bhante_essays/S02E11_Expectation_Aspiration_and_Hope": {
+    "score": 1,
+    "note": "Buddhist attitudes toward future, minimal Western connection"
+  },
+  "bhante_essays/S02E12_Assisted_Suicide_PDF_document": {
+    "score": 5,
+    "note": "Buddhist ethics applied to contemporary Western medical issues"
+  },
+  "bhante_essays/S02E13_Vipassana_Therapy_and_Medicinal_Drugs_PDF_document": {
+    "score": 7,
+    "note": "Integration of Buddhist practice with Western therapy"
+  },
+  "bhante_essays/S02E14_Conditionality_and_KammaPDF_document": {
+    "score": 2,
+    "note": "Buddhist causality teaching, mentions avoiding Western extremes"
+  },
+  "bhante_essays/S02E15_Affectionate_Awareness": {
+    "score": 1,
+    "note": "Meditation technique for emotions, no Western thought"
+  },
+  "bhante_essays/S02E16_Climate_Crisis_A_Personal_Reflection": {
+    "score": 6,
+    "note": "Buddhist perspective on contemporary Western environmental crisis"
+  },
+  "bhante_essays/S03E01_The_First_Noble_Truth_of_Suffering_--_Dukkha": {
+    "score": 1,
+    "note": "Traditional Buddhist teaching, minimal Western engagement"
+  },
+  "bhante_essays/S03E02_The_First_Noble_Truth_of_Suffering_--_The_Five_Aggregates": {
+    "score": 1,
+    "note": "Buddhist analysis framework, no Western thought connection"
+  },
+  "bhante_essays/S03E03_The_First_Noble_Truth_of_Suffering_--_The_Three_Characteristics": {
+    "score": 1,
+    "note": "Traditional Buddhist characteristics, no Western philosophy"
+  },
+  "bhante_essays/S03E04_The_Second_Noble_Truth_--_Desire": {
+    "score": 2,
+    "note": "Buddhist teaching using contemporary Western materialistic examples"
+  },
+  "bhante_essays/S03E05_The_Second_Noble_Truth_--_The_Wheel_of_Dependent_Origination": {
+    "score": 2,
+    "note": "Pure Buddhist doctrine, no Western thought engagement"
+  },
+  "bhante_essays/S03E06_The_Second_Noble_Truth_--_Kamma_Vipaka": {
+    "score": 4,
+    "note": "Distinguishes Buddhist from popular Western karma interpretations"
+  },
+  "bhante_essays/S03E07_The_Fourth_Noble_Truth_--_Morality": {
+    "score": 1,
+    "note": "Traditional Buddhist morality teaching, no Western comparison"
+  },
+  "bhante_essays/S03E08_The_Fourth_Noble_Truth_--_Perfections": {
+    "score": 1,
+    "note": "Traditional Buddhist perfections, no Western philosophical engagement"
+  },
+  "bhante_essays/S03E09_The_Fourth_Noble_Truth_--_Right_Understanding": {
+    "score": 1,
+    "note": "Pure Buddhist doctrine on Right Understanding"
+  },
+  "bhante_essays/S03E10_The_Fourth_Noble_Truth_--_Mental_Development": {
+    "score": 2,
+    "note": "Scientific observation metaphor but primarily Buddhist meditation"
+  },
+  "bhante_essays/S03E11_Meditation_in_Ordinary_Daily_Life": {
+    "score": 1,
+    "note": "Traditional Buddhist mindfulness practice"
+  },
+  "bhante_essays/S04E01_Meditation_in_Ordinary_Daily_Life": {
+    "score": 1,
+    "note": "Traditional Buddhist mindfulness practice"
+  },
+  "bhante_essays/S05E01_Buddha_Day_Evening_with_Italy": {
+    "score": 0,
+    "note": "Ceremonial Buddha Day celebration"
+  },
+  "tips_of_the_day/S01E01_At_the_end_of_the_day_1": {
+    "score": 1,
+    "note": "Buddhist evening reflection practice"
+  },
+  "tips_of_the_day/S01E02_At_the_end_of_the_day_2": {
+    "score": 1,
+    "note": "Buddhist mindfulness in bedtime routines"
+  },
+  "tips_of_the_day/S01E03_At_the_end_of_the_day": {
+    "score": 1,
+    "note": "Buddhist sleep preparation practices"
+  },
+  "tips_of_the_day/S01E04_Upon_Awakening": {
+    "score": 1,
+    "note": "Buddhist morning mindfulness practice"
+  },
+  "tips_of_the_day/S01E05_Morning_Meditation_One_of_Four_Ritual": {
+    "score": 2,
+    "note": "Mentions Zazen influence but primarily Buddhist ritual"
+  },
+  "tips_of_the_day/S01E06_Morning_Meditation_Default_Position_Abiding_in_Calm_Open_Attentiveness": {
+    "score": 1,
+    "note": "Traditional Buddhist meditation instruction"
+  },
+  "tips_of_the_day/S01E07_Morning_Meditation_Vipassana_1_Developing_a_steady_attention": {
+    "score": 1,
+    "note": "Traditional vipassana meditation instruction"
+  },
+  "tips_of_the_day/S01E08_Morning_Meditation_Vipassana_2_Developing_Insight": {
+    "score": 2,
+    "note": "Mentions philosophical curiosity but primarily Buddhist insight"
+  },
+  "tips_of_the_day/S01E09_Morning_Meditation_Metta_Developing_Goodwill_the_Theory": {
+    "score": 1,
+    "note": "Traditional Buddhist loving-kindness theory"
+  },
+  "tips_of_the_day/S01E10_Discourse_on_Metta": {
+    "score": 1,
+    "note": "Traditional Metta Sutta translation and commentary"
+  },
+  "tips_of_the_day/S01E11_Morning_Meditation_Developing_Goodwill_and_Forgiveness_the_Exercise": {
+    "score": 1,
+    "note": "Traditional Buddhist metta meditation practice"
+  },
+  "tips_of_the_day/S01E12_Morning_Meditation_Resolution": {
+    "score": 1,
+    "note": "Buddhist intention and karma practice"
+  },
+  "tips_of_the_day/S01E13_Developing_the_Perfection_of_Determination": {
+    "score": 1,
+    "note": "Traditional Buddhist perfection practice"
+  },
+  "tips_of_the_day/S01E14_Breakfast_at_last": {
+    "score": 1,
+    "note": "Buddhist mindful eating practice"
+  },
+  "tips_of_the_day/S01E15_Traveling_to_and_from_work": {
+    "score": 1,
+    "note": "Buddhist mindfulness during commuting"
+  },
+  "tips_of_the_day/S01E16_Back_Home": {
+    "score": 1,
+    "note": "Buddhist transition and mindfulness practice"
+  },
+  "tips_of_the_day/S02E01_Relations_Friends_Acquaintances_and_Spiritual_Companions": {
+    "score": 0,
+    "note": "Pure Buddhist relationship advice, no Western thought engagement"
+  },
+  "tips_of_the_day/S02E02_Contemplating_Relations_Friends_Acquaintances_and_Spiritual_Companions": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching on spiritual friendship, no Western elements"
+  },
+  "tips_of_the_day/S02E03_Intimate_Relationships_The_Erotic_the_Romantic_and_Love": {
+    "score": 0,
+    "note": "Buddhist perspective on relationships, no Western philosophical engagement"
+  },
+  "tips_of_the_day/S02E04_Celibacy": {
+    "score": 2,
+    "note": "Addresses Western misconceptions about celibacy but primarily Buddhist"
+  },
+  "tips_of_the_day/S02E05_When_does_love_become_control": {
+    "score": 0,
+    "note": "Buddhist psychology on relationships, no Western thought dialogue"
+  },
+  "tips_of_the_day/S03E01_Work": {
+    "score": 3,
+    "note": "Mentions medieval understanding versus modern secular-spiritual separation"
+  },
+  "tips_of_the_day/S03E02_Success_and_Failure_Trial_and_Error": {
+    "score": 4,
+    "note": "Draws from Christian spiritual concepts alongside Buddhist wisdom"
+  },
+  "tips_of_the_day/S03E03_Creating_Space_1": {
+    "score": 1,
+    "note": "Addresses modern time-pressured society but purely Buddhist solutions"
+  },
+  "tips_of_the_day/S03E04_Creating_Space_2": {
+    "score": 0,
+    "note": "Pure Buddhist meditation practice applied to work"
+  },
+  "tips_of_the_day/S03E05_Creating_Space_3": {
+    "score": 0,
+    "note": "Vipassana meditation principles in workplace, no Western engagement"
+  },
+  "tips_of_the_day/S03E06_The_Limits_of_Power_and_Mission_Creep": {
+    "score": 1,
+    "note": "Modern workplace phenomenon through Buddhist psychology lens only"
+  },
+  "tips_of_the_day/S04E01_Not_an_Emotion": {
+    "score": 2,
+    "note": "Addresses modern pursuit of happiness but primarily Buddhist"
+  },
+  "tips_of_the_day/S04E02_Relationships": {
+    "score": 0,
+    "note": "Pure Buddhist teaching on relationships and communal living"
+  },
+  "tips_of_the_day/S04E03_Being_Good_rather_than_Being_Good_At": {
+    "score": 2,
+    "note": "Critiques modern achievement culture from Buddhist perspective"
+  },
+  "tips_of_the_day/S04E04_Whats_wrong_with_a_bit_of_attachment": {
+    "score": 0,
+    "note": "Pure Buddhist teaching on attachment and suffering"
+  },
+  "tips_of_the_day/S04E05_Sacrifice_the_more_we_give_the_greater_the_return": {
+    "score": 3,
+    "note": "Traces concept through various religious traditions including Buddhism"
+  },
+  "tips_of_the_day/S04E06_Not_what_we_believe_but_how_we_live": {
+    "score": 4,
+    "note": "Addresses ancient and modern debates between materialists and eternalists"
+  },
+  "tips_of_the_day/S04E07_Towards_the_Greatest_Happiness": {
+    "score": 1,
+    "note": "Addresses misconceptions about Buddhist practice but purely Buddhist"
+  },
+  "tips_of_the_day/S05E01_New_Year_Resolution": {
+    "score": 1,
+    "note": "Uses Latin etymology but primarily Buddhist spiritual guidance"
+  },
+  "tips_of_the_day/S05E02_Neighbourly_Sounds": {
+    "score": 1,
+    "note": "Addresses modern life challenges with purely Buddhist solutions"
+  },
+  "tips_of_the_day/S05E03_Sickness": {
+    "score": 0,
+    "note": "Pure Buddhist teaching on illness as spiritual opportunity"
+  },
+  "tips_of_the_day/S05E04_The_Tough_Nut": {
+    "score": 0,
+    "note": "Buddhist approach to addictive patterns, no Western engagement"
+  },
+  "tips_of_the_day/S05E05_Impulsive_or_Spontaneous": {
+    "score": 0,
+    "note": "Buddhist teaching on mindful action versus impulsive behavior"
+  },
+  "tips_of_the_day/S05E06_Joy": {
+    "score": 0,
+    "note": "Pure Buddhist teaching on joy as brahmavihara"
+  },
+  "tips_of_the_day/S05E07_Thankyou": {
+    "score": 0,
+    "note": "Buddhist teaching on gratitude as spiritual practice"
+  },
+  "tips_of_the_day/S05E08_Need_Sufficiency_and_Greed": {
+    "score": 4,
+    "note": "Buddhist economics vs Western consumerism, moderate relevance"
+  },
+  "tips_of_the_day/S05E09_What_values_govern_our_lives": {
+    "score": 3,
+    "note": "Values comparison but no explicit Western thought engagement"
+  },
+  "tips_of_the_day/S05E10_Values_in_mine_own_eyes": {
+    "score": 2,
+    "note": "Self-acceptance themes but minimal Western philosophy connection"
+  },
+  "tips_of_the_day/S05E11_Living_in_the_Now_Planning_for_the_Future": {
+    "score": 3,
+    "note": "Present-moment vs planning tension, some Western relevance"
+  },
+  "tips_of_the_day/S05E12_Music": {
+    "score": 2,
+    "note": "Music and emotion but no Western thought comparison"
+  },
+  "tips_of_the_day/S05E13_Time": {
+    "score": 3,
+    "note": "Time concepts but limited Western philosophical engagement"
+  },
+  "tips_of_the_day/S05E14_Our_Daily_Breaks": {
+    "score": 1,
+    "note": "Mindful tea practice, no Western thought connection"
+  },
+  "tips_of_the_day/S05E15_On_the_Virtue_of_Visiting_a_Cemetery": {
+    "score": 5,
+    "note": "Medieval Christian momento mori compared to Buddhist death meditation"
+  },
+  "tips_of_the_day/S05E16_Pity_Sorrow_and_Compassion": {
+    "score": 2,
+    "note": "Emotional distinctions but no Western philosophical comparison"
+  },
+  "tips_of_the_day/S05E17_Why_are_we_asked_to_observe_-_impermanence": {
+    "score": 1,
+    "note": "Pure Buddhist impermanence teaching, no Western connection"
+  },
+  "tips_of_the_day/S05E18_Sublimation": {
+    "score": 4,
+    "note": "Scientific sublimation metaphor applied to Buddhist transformation"
+  },
+  "tips_of_the_day/S05E19_Righteous_Anger_Plain_Anger": {
+    "score": 2,
+    "note": "Anger concepts but no Western philosophical engagement"
+  },
+  "tips_of_the_day/S05E20_A_Pets_Endgame": {
+    "score": 6,
+    "note": "Contrasts Western animal philosophy with Buddhist animal sentience"
+  },
+  "tips_of_the_day/S05E21_Downers": {
+    "score": 3,
+    "note": "Depression approaches but limited Western psychology comparison"
+  },
+  "tips_of_the_day/S05E22_Discipline_Self-discipline": {
+    "score": 4,
+    "note": "Victorian discipline concepts contrasted with Buddhist gentle training"
+  },
+  "tips_of_the_day/S05E23_Fairness_and_Equality": {
+    "score": 5,
+    "note": "Western equality concepts compared to Buddhist karma understanding"
+  },
+  "tips_of_the_day/S05E24_Unforgivingness": {
+    "score": 2,
+    "note": "Forgiveness themes but no Western thought comparison"
+  },
+  "tips_of_the_day/S05E25_My_body_is_Mother_Earth": {
+    "score": 3,
+    "note": "Modern consumerism vs Buddhist nature connection"
+  },
+  "tips_of_the_day/S05E26_Dealing_with_Intense_Emotions_and_Moods_in_Ordinary_Daily_Life": {
+    "score": 2,
+    "note": "Emotional management but no Western approach comparison"
+  },
+  "tips_of_the_day/S05E27_How_much_pain_physical_or_mental_should_we_suffer": {
+    "score": 2,
+    "note": "Pain endurance but no Western philosophical engagement"
+  },
+  "tips_of_the_day/S05E28_Judging_or_Judgemental": {
+    "score": 2,
+    "note": "Judgment distinctions but no Western thought comparison"
+  },
+  "tips_of_the_day/S05E29_The_absurd_and_the_Sublime_A_Mid-summer_Contemplation": {
+    "score": 7,
+    "note": "Existential absurdity themes connecting Western philosophy to Buddhism"
+  },
+  "tips_of_the_day/S05E30_If_there_is_no_self_who_bears_the_karma": {
+    "score": 3,
+    "note": "Philosophical paradox but no explicit Western thought engagement"
+  },
+  "tips_of_the_day/S05E31_Overwhelmed_by_All_the_Violence_in_the_World": {
+    "score": 2,
+    "note": "Global violence response but no Western thought comparison"
+  },
+  "tips_of_the_day/S05E32_Legal_Moral_Ethical": {
+    "score": 4,
+    "note": "Legal vs moral frameworks, Buddhist sila vs secular"
+  },
+  "tips_of_the_day/S05E33_The_Consumer_in_Us_All": {
+    "score": 7,
+    "note": "Critiques Western consumerism's impact on spiritual practice"
+  },
+  "tips_of_the_day/S05E34_Barriers_or_Boundaries": {
+    "score": 2,
+    "note": "General psychology concepts without Western thought focus"
+  },
+  "tips_of_the_day/S05E35_Isolation_Loneliness_and_Solitude": {
+    "score": 1,
+    "note": "Personal meditation experience without Western thought engagement"
+  },
+  "tips_of_the_day/S05E36_Envy_Jealousy_and_Appreciative_Joy": {
+    "score": 1,
+    "note": "Traditional Buddhist emotions teaching without Western context"
+  },
+  "tips_of_the_day/S05E37_Unwholesome_Karmic_Results_as_Fate": {
+    "score": 4,
+    "note": "Connects Buddhist psychology with modern psychological understanding"
+  },
+  "tips_of_the_day/S05E38_Ideology_leads_to_strife": {
+    "score": 6,
+    "note": "Analyzes secular Western ideologies through Buddhist lens"
+  },
+  "tips_of_the_day/S05E39_The_Sacred_Its_Meaning_and_the_Role_of_Free_Speech": {
+    "score": 5,
+    "note": "Addresses Western free speech concepts from Buddhist perspective"
+  },
+  "tips_of_the_day/S05E40_Awareness_Compassion_and_Wisdom": {
+    "score": 3,
+    "note": "Uses European refugee crisis as example"
+  },
+  "tips_of_the_day/S05E41_To_become_or_not_to_become": {
+    "score": 4,
+    "note": "Distinguishes Buddhist views from Western philosophical positions"
+  },
+  "tips_of_the_day/S05E42_Appamāda_Diligent": {
+    "score": 1,
+    "note": "Traditional Buddhist virtue without Western thought engagement"
+  },
+  "tips_of_the_day/S05E43_Aim_and_Objective_in_Present_Time": {
+    "score": 2,
+    "note": "Addresses modern time concepts but not Western thought"
+  },
+  "tips_of_the_day/S05E44_Money_and_Power": {
+    "score": 7,
+    "note": "Explores Buddhist economics and Catholic Distributism connection"
+  },
+  "tips_of_the_day/S05E45_Passive_Aggression": {
+    "score": 1,
+    "note": "Psychological behavior analysis without Western thought focus"
+  },
+  "tips_of_the_day/S05E46_In_what_way_should_Buddhadhamma_affect_our_politics": {
+    "score": 6,
+    "note": "Buddhist engagement with Western democratic political systems"
+  },
+  "tips_of_the_day/S05E47_Practice_makes_perfect": {
+    "score": 2,
+    "note": "Athletic metaphors but no substantial Western thought"
+  },
+  "tips_of_the_day/S05E48_Right_Speech": {
+    "score": 1,
+    "note": "Traditional Buddhist ethics without Western context"
+  },
+  "tips_of_the_day/S05E49_Equanimity": {
+    "score": 1,
+    "note": "Traditional Buddhist virtue teaching"
+  },
+  "tips_of_the_day/S05E50_Shame": {
+    "score": 3,
+    "note": "Challenges common Western views on shame"
+  },
+  "tips_of_the_day/S05E51_Guilt": {
+    "score": 4,
+    "note": "Distinguishes Buddhist guilt from Abrahamic religious concepts"
+  },
+  "tips_of_the_day/S05E52_Gratitude_Generosity_Renunciation": {
+    "score": 2,
+    "note": "Critiques consumerism briefly but focuses on Buddhist"
+  },
+  "tips_of_the_day/S05E53_Excitement_Boredom_Contentment": {
+    "score": 4,
+    "note": "Critiques Western consumerism and excitement-seeking culture"
+  },
+  "tips_of_the_day/S05E54_Silence": {
+    "score": 3,
+    "note": "Addresses modern noise-saturated Western culture"
+  },
+  "tips_of_the_day/S05E55_Courage_Fortitude_and_Resilience": {
+    "score": 2,
+    "note": "Uses worldly rehabilitation metaphors without Western focus"
+  },
+  "tips_of_the_day/S05E56_One_of_the_Hindrances_is_Sceptical_Doubt": {
+    "score": 2,
+    "note": "Traditional Buddhist teaching with modern examples"
+  },
+  "tips_of_the_day/S05E57_Scientism_meets_Buddhism_Buddhadhamma": {
+    "score": 9,
+    "note": "Directly addresses Buddhism-Western scientific materialism tension"
+  },
+  "tips_of_the_day/S05E58_What_is_our_basic_disposition_to_life": {
+    "score": 7,
+    "note": "Directly compares Western temperament theory with Buddhist character typologies"
+  },
+  "tips_of_the_day/S05E59_Fear": {
+    "score": 2,
+    "note": "Pure Buddhist analysis without Western philosophical engagement"
+  },
+  "tips_of_the_day/S05E60_Beauty": {
+    "score": 4,
+    "note": "Touches on philosophical questions about beauty's existence"
+  },
+  "tips_of_the_day/S05E61_The_Wisdom_of_Uncertainty": {
+    "score": 2,
+    "note": "Buddhist teaching on conditionality without Western comparison"
+  },
+  "tips_of_the_day/S05E62_Patience": {
+    "score": 1,
+    "note": "Traditional Buddhist virtue teaching without Western elements"
+  },
+  "tips_of_the_day/S05E63_Overcoming_the_Corruptions_of_Generosity": {
+    "score": 1,
+    "note": "Pure Buddhist analysis of generosity without Western thought"
+  },
+  "tips_of_the_day/S05E64_The_World_is_in_a_terrible_state": {
+    "score": 2,
+    "note": "Buddhist response to contemporary issues without Western dialogue"
+  },
+  "tips_of_the_day/S05E65_The_Treasure_of_Things": {
+    "score": 2,
+    "note": "Buddhist mindfulness practice without Western philosophical engagement"
+  },
+  "tips_of_the_day/S05E66_Equanimity_Carl": {
+    "score": 2,
+    "note": "Buddhist meditation teaching without Western thought comparison"
+  },
+  "tips_of_the_day/S05E67_The_years_where_do_they_go_New_Year_Encouragement_Noirin": {
+    "score": 1,
+    "note": "Buddhist reflection on endings without Western elements"
+  },
+  "tips_of_the_day/S05E68_Understand_and_See_things_as_they_really_are": {
+    "score": 2,
+    "note": "Buddhist epistemology without Western philosophical comparison"
+  },
+  "tips_of_the_day/S05E69_Constant_Curiosity_Carl": {
+    "score": 2,
+    "note": "Buddhist practice guidance without Western thought engagement"
+  },
+  "tips_of_the_day/S05E70_Kamma_Noirin": {
+    "score": 3,
+    "note": "Mentions Western cultural analogies for Buddhist concepts"
+  },
+  "tips_of_the_day/S05E71_Progress": {
+    "score": 4,
+    "note": "References Lewis Carroll and contrasts technological with ethical progress"
+  },
+  "tips_of_the_day/S05E72_Who_Decides_Carl": {
+    "score": 2,
+    "note": "Buddhist investigation of decision-making without Western comparison"
+  },
+  "tips_of_the_day/S05E73_Delusion_caring_for_illusion": {
+    "score": 1,
+    "note": "Traditional Buddhist teaching on not-self without Western elements"
+  },
+  "tips_of_the_day/S05E74_The_world_is_not_in_a_good_place": {
+    "score": 2,
+    "note": "Buddhist response to global issues without Western dialogue"
+  },
+  "tips_of_the_day/S05E75_Happy_New_Year": {
+    "score": 2,
+    "note": "Buddhist approach to resolutions without Western comparison"
+  },
+  "tips_of_the_day/S05E76_Sickness": {
+    "score": 1,
+    "note": "Traditional Buddhist teaching on illness without Western elements"
+  },
+  "tips_of_the_day/S05E77_Yearning_for_a_Better_World": {
+    "score": 2,
+    "note": "Buddhist practice for social change without Western thought"
+  },
+  "tips_of_the_day/S05E78_Balancing_Lay_and_Spiritual_Life": {
+    "score": 2,
+    "note": "Buddhist practice guidance without Western philosophical engagement"
+  },
+  "tips_of_the_day/S05E79_Wildflower_Wisdom": {
+    "score": 3,
+    "note": "References Joanna Macey's approach to environmental engagement"
+  },
+  "tips_of_the_day/S05E80_Dealing_with_the_Stories_that_Make_Us_Suffer": {
+    "score": 2,
+    "note": "Buddhist mindfulness practice without Western thought comparison"
+  },
+  "tips_of_the_day/S05E81_The_Wisdom_and_Virtues_of_Insecurity": {
+    "score": 2,
+    "note": "Buddhist teaching on uncertainty without Western elements"
+  },
+  "tips_of_the_day/S05E82_As_Winter_Approaches": {
+    "score": 1,
+    "note": "Personal Buddhist reflection without Western philosophical engagement"
+  },
+  "tips_of_the_day/S05E83_Guidelines_For_a_New_Years_Resolution": {
+    "score": 1,
+    "note": "Buddhist practice framework, no Western thought engagement"
+  },
+  "tips_of_the_day/S05E84_Coronavirus_Messenger_from_the_Gods": {
+    "score": 2,
+    "note": "Buddhist lens on pandemic, minimal Western thought interaction"
+  },
+  "tips_of_the_day/S05E85_Quench_all_Resentments": {
+    "score": 1,
+    "note": "Traditional Buddhist meditation techniques, no Western philosophy"
+  },
+  "tips_of_the_day/S05E86_Exiting_Lockdown": {
+    "score": 2,
+    "note": "Buddhist mindfulness applied to modern situation, limited Western engagement"
+  },
+  "tips_of_the_day/S05E87_Committing_to_the_Path": {
+    "score": 3,
+    "note": "References Gregory Kramer's framework alongside Buddhist teaching"
+  },
+  "tips_of_the_day/S05E88_Beauty": {
+    "score": 1,
+    "note": "Traditional Buddhist teaching on attachment, no Western thought"
+  },
+  "tips_of_the_day/S05E89_Motivation_for_Practice": {
+    "score": 2,
+    "note": "Personal reflection on meditation, minimal Western philosophical engagement"
+  },
+  "tips_of_the_day/S05E90_All_in_the_Mind": {
+    "score": 1,
+    "note": "Buddhist understanding of suffering, no Western thought interaction"
+  },
+  "tips_of_the_day/S05E91_Perfection_Elitism_and_Excellence": {
+    "score": 2,
+    "note": "Buddhist perspective on perfectionism, touches contemporary psychological concepts"
+  },
+  "tips_of_the_day/S05E92_Material_World": {
+    "score": 1,
+    "note": "Buddhist teaching on khandhas and materialism, no Western philosophy"
+  },
+  "tips_of_the_day/S05E93_Inner_Voices": {
+    "score": 4,
+    "note": "Explores different thinking patterns, brief Mahayana emptiness reference"
+  },
+  "tips_of_the_day/S05E94_Full_Catastrophe_Ethics": {
+    "score": 6,
+    "note": "Buddhist ethics meets bioethics, endorsed by Joanna Macy"
+  },
+  "tips_of_the_day/S05E95_On_Learning_how_to_be_with_Climate_and_Social_Breakdown": {
+    "score": 5,
+    "note": "Buddhist practice with Deep Adaptation framework, Western academic approach"
+  },
+  "tips_of_the_day/S05E96_Living_in_the_here_and_now_Bhante_Bodhidhamma": {
+    "score": 1,
+    "note": "Traditional Buddhist Right Awareness teaching, no Western engagement"
+  },
+  "tips_of_the_day/S05E97_Being_Human_Bhante_Bodhidhamma": {
+    "score": 4,
+    "note": "Buddhist interdependence with Ubuntu philosophy, addresses neoliberalism"
+  },
+  "tips_of_the_day/S05E98_Sympathy_Empathy_Compassion_Bhante_Bodhidhamma": {
+    "score": 3,
+    "note": "Buddhist compassion with psychological concepts of sympathy/empathy"
+  },
+  "tips_of_the_day/S05E99_Non-Violence_is_not_Pacificism_Bhante_Bodhidhamma": {
+    "score": 5,
+    "note": "Buddhist non-violence versus Western pacifist ideology, contextual ethics"
+  },
+  "tips_of_the_day/S05E100_Neoliberalism_and_Buddhadhamma_Bhante_Bodhidhamma": {
+    "score": 8,
+    "note": "Direct critique of neoliberalism from Buddhist ethical perspective"
+  },
+  "tips_of_the_day/S05E101_Dullness_and_Lethargy_Our_Two_Very_Good_Friends_Carl_Fooks": {
+    "score": 1,
+    "note": "Traditional Buddhist meditation obstacles, no Western thought engagement"
+  },
+  "tips_of_the_day/S05E102_Preparing_for_Climate_Change_-_First_Ethical_Maxim_Noirin_Sheahan": {
+    "score": 4,
+    "note": "Buddhist death contemplation applied to climate ethics framework"
+  },
+  "tips_of_the_day/S05E103_Red_Lines_Sila_-_Third_Ethical_Maxim_Noirin_Sheahan": {
+    "score": 5,
+    "note": "Buddhist ethics meets climate change ethical maxims framework"
+  },
+  "tips_of_the_day/S05E104_Radical_Hope_Saddha_-_Second_Ethical_Maxim_Noirin_Sheahan": {
+    "score": 4,
+    "note": "Buddhist saddha with mystical tradition's radical hope concept"
+  },
+  "tips_of_the_day/S05E105_New_Year_Resolutions_and_the_Third_Maxim_Noirin_Sheahan": {
+    "score": 3,
+    "note": "Buddhist resolve training for climate ethics preparation"
+  },
+  "tips_of_the_day/S05E106_4th_Maxim_i_Opportunity_Knocks_Noirin_Sheahan": {
+    "score": 4,
+    "note": "Buddhist liberation spiral applied to climate anxiety framework"
+  },
+  "tips_of_the_day/S05E107_4th_Maxim_ii_Spiral_to_Freedom_Noirin_Sheahan": {
+    "score": 4,
+    "note": "Buddhist dependent origination for climate resilience ethical framework"
+  },
+  "tips_of_the_day/S05E108_Fourth_Maxim_iii_Path_to_Transcendence_Noirin_Sheahan": {
+    "score": 2,
+    "note": "Buddhist teaching on climate anxiety, minimal Western thought engagement"
+  },
+  "tips_of_the_day/S05E109_Equanimity_The_Most_Important_Virtue_Bhante_Bodhidhamma": {
+    "score": 1,
+    "note": "Pure Buddhist teaching on equanimity, no Western philosophy"
+  },
+  "tips_of_the_day/S05E110_The_Danger_of_Nihilism_Bhante_Bodhidhamma": {
+    "score": 7,
+    "note": "Directly engages nihilism, existentialism, and post-truth Western concepts"
+  },
+  "tips_of_the_day/S05E111_Neo-Fascism_Bhante_Bodhidhamma": {
+    "score": 6,
+    "note": "Buddhist analysis of Western political movements and democracy"
+  },
+  "tips_of_the_day/S05E112_The_Gift_of_Joy_Mudita_Bhante_Bodhidhamma": {
+    "score": 2,
+    "note": "Buddhist joy practice with brief ascetic tendency observations"
+  },
+  "tips_of_the_day/S05E113_We_just_follow_circumstance_Bhante_Bodhidhamma": {
+    "score": 3,
+    "note": "References Zen saying, focuses on Buddhist catastrophe response"
+  },
+  "tips_of_the_day/S05E114_To_Love_or_To_Be_Loved_That_is_the_Question_Bhante_Bodhidhamma": {
+    "score": 5,
+    "note": "Combines Buddhist psychology with Western psychoanalytic insights"
+  },
+  "tips_of_the_day/S05E115_Samsara_doomed_to_suffer_over_and_over_again_Bhante_Bodhidhamma": {
+    "score": 3,
+    "note": "References William Blake poetry within Buddhist framework"
+  },
+  "tips_of_the_day/S05E116_Compassion_To_Care_Bhante_Bodhidhamma": {
+    "score": 1,
+    "note": "Pure Buddhist teaching on compassion, minimal Western engagement"
+  },
+  "tips_of_the_day/S05E117_Compassion_A_Path_of_Liberation_Bhante_Bodhidhamma": {
+    "score": 1,
+    "note": "Buddhist compassion teaching, no Western philosophical content"
+  },
+  "tips_of_the_day/S05E118_Fifth_Maxim_Develop_the_Body_and_Mind_Noirin_Sheahan": {
+    "score": 2,
+    "note": "Buddhist practice for climate crisis, minimal Western thought"
+  },
+  "tips_of_the_day/S05E119_The_Buddhas_Alter_Ego_The_World_Conquering_Monarch_Bhante_Bodhidhamma": {
+    "score": 2,
+    "note": "Buddhist political teaching, brief contrast with worldly power"
+  },
+  "tips_of_the_day/S05E120_There_is_a_Body_Exploring_the_Mind-Body_Relationship_Noirin_Sheahan": {
+    "score": 1,
+    "note": "Pure Buddhist meditation practice, no Western philosophy"
+  },
+  "tips_of_the_day/S05E121_Self-love_and_Self-Acceptance_Bhante_Bodhidhamma": {
+    "score": 1,
+    "note": "Buddhist metta practice, no Western thought engagement"
+  },
+  "tips_of_the_day/S05E122_The_Crucial_Role_of_Desire_and_Intention_Bhante_Bodhidhamma": {
+    "score": 1,
+    "note": "Pure Buddhist teaching on desire and intention"
+  },
+  "tips_of_the_day/S05E123_Mindfulness_meets_Metta_Noirin_Sheahan": {
+    "score": 1,
+    "note": "Buddhist meditation practice, no Western philosophical content"
+  },
+  "tips_of_the_day/S05E124_Surely_meditation_shouldnt_feel_like_this_Noirin_Sheahan": {
+    "score": 2,
+    "note": "Mentions Zen transition, focuses on Buddhist meditation"
+  },
+  "tips_of_the_day/S05E125_The_Fire_Sermon": {
+    "score": 1,
+    "note": "Pure Buddhist teaching, no Western thought engagement"
+  },
+  "tips_of_the_day/S05E126_Why_spend_a_week_or_more_on_retreat": {
+    "score": 1,
+    "note": "Buddhist retreat practice, no Western philosophy"
+  },
+  "tips_of_the_day/S05E127_Nibanna_is_Close_at_Hand": {
+    "score": 1,
+    "note": "Buddhist awakening teaching, no Western thought content"
+  },
+  "tips_of_the_day/S05E128_AI_Art": {
+    "score": 4,
+    "note": "Buddhist perspective on Western AI art and T.S. Eliot"
+  },
+  "tips_of_the_day/S05E129_A_Field_of_Barley": {
+    "score": 1,
+    "note": "Buddhist reflection on impermanence, no Western philosophy"
+  },
+  "tips_of_the_day/S05E130_War": {
+    "score": 6,
+    "note": "Buddhist analysis of Western just war theory and conflict"
+  },
+  "tips_of_the_day/S05E131_The_Enlightenment_and_its_Demise": {
+    "score": 9,
+    "note": "Comprehensive analysis of Western Enlightenment philosophy and decline"
+  },
+  "tips_of_the_day/S05E132_The_Enlightenment_and_Possible_Salvation": {
+    "score": 9,
+    "note": "Buddhist solutions to Western Enlightenment's philosophical problems"
+  },
+  "tips_of_the_day/S05E133_Sixth_Maxim_Act_for_the_Future_Generations_of_All_Species": {
+    "score": 2,
+    "note": "Climate ethics through Buddhist lens, minimal Western thought engagement"
+  },
+  "tips_of_the_day/S05E134_Cultivating_Metta_for_Future_Generations": {
+    "score": 1,
+    "note": "Buddhist meditation practice, no Western philosophical engagement"
+  },
+  "retreat_talks/S01E01_Detailed_Guided_Meditation": {
+    "score": 0,
+    "note": "Pure traditional Buddhist meditation instruction"
+  },
+  "retreat_talks/S01E02_Starting_a_Retreat": {
+    "score": 0,
+    "note": "Traditional retreat ceremony and meditation guidance"
+  },
+  "retreat_talks/S01E03_Abiding_in_the_Present_Moment_Developing_Equanimity": {
+    "score": 0,
+    "note": "Traditional Buddhist meditation practice"
+  },
+  "retreat_talks/S01E04_Detailed_Guided_Meditation": {
+    "score": 0,
+    "note": "Traditional Mahasi meditation instructions"
+  },
+  "retreat_talks/S01E05_Assisted_Meditation": {
+    "score": 0,
+    "note": "Traditional Buddhist meditation guidance"
+  },
+  "retreat_talks/S01E06_Heartcare_Metta_Meditation": {
+    "score": 0,
+    "note": "Traditional loving-kindness meditation practice"
+  },
+  "retreat_talks/S01E07_Bodycare_Meditation": {
+    "score": 0,
+    "note": "Traditional Buddhist body meditation"
+  },
+  "retreat_talks/S02E01_Eating_meditation": {
+    "score": 1,
+    "note": "Buddhist mindfulness practice, minimal Western connection"
+  },
+  "retreat_talks/S02E02_Morning_Chant_with_Refuges_and_Precepts": {
+    "score": 0,
+    "note": "Traditional Pali chanting and Buddhist ceremony"
+  },
+  "retreat_talks/S02E03_Evening_Metta_Chant": {
+    "score": 0,
+    "note": "Traditional Pali loving-kindness chant"
+  },
+  "retreat_talks/S03E01_The_Technique": {
+    "score": 0,
+    "note": "Traditional Mahasi Vipassana meditation instruction"
+  },
+  "retreat_talks/S03E02_The_Hindrances": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching on meditation obstacles"
+  },
+  "retreat_talks/S03E03_The_Factors_of_Enlightenment": {
+    "score": 0,
+    "note": "Traditional Buddhist teaching on awakening factors"
+  },
+  "retreat_talks/S03E04_The_Pleasure_Syndrome_dukkha": {
+    "score": 2,
+    "note": "Buddhist psychology with some modern psychological parallels"
+  },
+  "retreat_talks/S03E05_The_Characteristic_of_Impermanence": {
+    "score": 1,
+    "note": "Buddhist doctrine with cosmic/scientific imagery"
+  },
+  "retreat_talks/S03E06_Anatta_Not_self": {
+    "score": 2,
+    "note": "Buddhist not-self teaching, distinguishes mystic from philosopher"
+  },
+  "retreat_talks/S03E07_Living_Life_according_to_the_Dhamma": {
+    "score": 0,
+    "note": "Traditional Buddhist ethics and daily practice"
+  },
+  "retreat_talks/S03E08_Mahasi_Talk": {
+    "score": 0,
+    "note": "Traditional Burmese meditation instructions"
+  },
+  "retreat_talks/S03E09_Vedana_Feeling": {
+    "score": 1,
+    "note": "Buddhist psychology framework, minimal Western engagement"
+  },
+  "retreat_talks/S03E10_Is_Awareness_Enough": {
+    "score": 0,
+    "note": "Traditional Buddhist meditation theory"
+  },
+  "retreat_talks/S03E11_Eroticism_Romance_Love_Distraction_and_Boredom": {
+    "score": 1,
+    "note": "Buddhist approach to emotions, some modern psychological insight"
+  },
+  "retreat_talks/S03E12_The_Perfections_Turned_Inward": {
+    "score": 0,
+    "note": "Traditional Buddhist perfections applied to retreat practice"
+  },
+  "retreat_talks/S03E13_Faith": {
+    "score": 2,
+    "note": "Buddhist faith concept, distinguishes from Western belief systems"
+  },
+  "retreat_talks/S03E14_Revising_the_principles_of_vipassana": {
+    "score": 1,
+    "note": "Pure Buddhist meditation teaching, no Western thought engagement"
+  },
+  "retreat_talks/S03E15_Fear": {
+    "score": 1,
+    "note": "Buddhist psychology on fear, no Western philosophical dialogue"
+  },
+  "retreat_talks/S03E16_Foregiveness": {
+    "score": 2,
+    "note": "Buddhist psychology approach, minimal Western thought connection"
+  },
+  "retreat_talks/S03E17_The_Gratification_the_Danger_and_the_Escape": {
+    "score": 1,
+    "note": "Traditional Buddhist framework, no Western philosophical engagement"
+  },
+  "retreat_talks/S03E18_Karma": {
+    "score": 2,
+    "note": "Addresses misconceptions but focuses on Buddhist understanding"
+  },
+  "retreat_talks/S03E19_Rebirth": {
+    "score": 2,
+    "note": "Mentions Western research briefly, primarily Buddhist doctrine"
+  },
+  "retreat_talks/S03E20_The_Illimitables": {
+    "score": 1,
+    "note": "Traditional Buddhist heart practices, no Western dialogue"
+  },
+  "retreat_talks/S04E01_The_Ten_Fetters": {
+    "score": 1,
+    "note": "Classical Buddhist liberation stages, no Western engagement"
+  },
+  "retreat_talks/S04E02_The_Awakening": {
+    "score": 1,
+    "note": "Buddha's enlightenment and practice, purely Buddhist focus"
+  },
+  "retreat_talks/S04E03_The_Years_of_Teaching_and_Parinibbana": {
+    "score": 1,
+    "note": "Buddha's life and teaching, no Western thought"
+  },
+  "retreat_talks/S04E04_Ethical_Behaviour_and_the_Awakening_are_one": {
+    "score": 1,
+    "note": "Buddhist ethics and wisdom integration, no Western dialogue"
+  },
+  "retreat_talks/S04E05_The_Buddha_as_Exemplar_and_Archetype": {
+    "score": 2,
+    "note": "Uses archetypal language but remains Buddhist focused"
+  },
+  "retreat_talks/S04E06_Meditation_and_Ordinary_Daily_Life": {
+    "score": 2,
+    "note": "Mentions Zen background, addresses modern life challenges"
+  },
+  "retreat_talks/S04E07_Free_Will": {
+    "score": 8,
+    "note": "Direct engagement with Western philosophical problem of free will"
+  },
+  "retreat_talks/S04E08_Karma_Specific_Conditionality_the_Five_Laws_ethical_behaviou": {
+    "score": 4,
+    "note": "Addresses neoliberalism and modern social contexts significantly"
+  },
+  "retreat_talks/S04E09_Right_Livelihood": {
+    "score": 3,
+    "note": "Addresses modern work challenges within Buddhist framework"
+  },
+  "retreat_talks/S04E10_Chi_Gong_min_guidance": {
+    "score": 0,
+    "note": "Movement practice, no philosophical or intellectual content"
+  },
+  "dharma_talks/S23E12_2025_Apr_06_Renunciation": {
+    "score": 2,
+    "note": "Pure Buddhist teaching on renunciation, no Western thought engagement"
+  }
+}

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-batch_chapters.py — Lance chapter.py séquentiellement pour 20 nouveaux thèmes.
+batch_chapters.py — Lance chapter.py séquentiellement pour 31 thèmes.
 
 Usage :
     conda run -n interview python batch_chapters.py
@@ -34,6 +34,45 @@ THEMES = [
     "Buddhism and Western Thought",
     "The Discourse to the Kalamas",
     "Ritual in Spiritual Practice",
+    # batch 2
+    "The Four Noble Truths",
+    "The Five Hindrances",
+    "The Three Characteristics",
+    "Dependent Origination",
+    "Kamma and Rebirth",
+    "Mindfulness of Breathing",
+    "Metta — Cultivating Loving-Kindness",
+    "The Life of the Buddha",
+    "Fear and Difficult Emotions",
+    "Faith on the Buddhist Path",
+    "Dharma in Daily Life",
+    # batch 3
+    "Compassion and Empathy",
+    "Joy and Appreciative Gladness",
+    "Gratitude, Generosity and Renunciation",
+    "The Perfections",
+    "Desire, Craving and Letting Go",
+    "Wisdom and Intuitive Intelligence",
+    "Ethics, Virtue and Moral Conduct",
+    "Taking Refuge",
+    "The Factors of Awakening",
+    "The Body in Meditation",
+    # batch 4 — golden nuggets
+    "Nibbāna and Liberation",
+    "The Two Darts",
+    "Postmodernism and Buddhism",
+    "Dukkha",
+    "Why the Buddha Did Not Return to Lay Life",
+    "There Is No Reason for Being",
+    "The End of Guilt",
+    "Love, Desire and Distraction",
+    "Happiness",
+    # batch 5 — missing doctrinal chapters for Book A
+    "The Noble Eightfold Path",
+    "The Four Foundations of Mindfulness",
+    "The Five Precepts",
+    "Nibbana and the Cessation of Suffering",
+    "Neoliberalism and the Dharma",
 ]
 
 CHAPTER_PY = Path(__file__).parent / "chapter.py"
