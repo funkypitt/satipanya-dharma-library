@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Satipanya — Tips of the Day</title>
+    <description>Short practical tips for integrating mindfulness and Buddhist practice into daily life. Covers morning routines, work, relationships, and the pursuit of true happiness.</description>
+    <language>en</language>
+    <link>https://www.satipanya.org.uk/audio-video/</link>
+    <generator>podcastify.py — Satipanya Podcast Pipeline</generator>
+    <itunes:author>Bhante Bodhidhamma</itunes:author>
+    <itunes:summary>Short practical tips for integrating mindfulness and Buddhist practice into daily life. Covers morning routines, work, relationships, and the pursuit of true happiness.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:owner>
+      <itunes:name>Satipanya Buddhist Trust</itunes:name>
+      <itunes:email>info@satipanya.org.uk</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Buddhism" />
+    </itunes:category>
+  </channel>
+</rss>

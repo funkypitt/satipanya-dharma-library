@@ -30,7 +30,7 @@ PROJECT_DIR = Path(__file__).parent
 CATALOG_PATH = PROJECT_DIR / "catalog.json"
 ARTICLES_DIR = PROJECT_DIR / "articles"
 
-CLAUDE_MODEL = "claude-sonnet-4-20250514"
+CLAUDE_MODEL = "claude-sonnet-4-6"
 MAX_TRANSCRIPT_CHARS = 80_000  # Tronquer les transcripts très longs (garde début + fin)
 
 RUBRIC = """You are an expert literary critic evaluating the quality of a spoken dharma talk transcript.

@@ -1,0 +1,644 @@
+1
+00:00:08,670 --> 00:00:15,317
+Far enough away.
+
+2
+00:00:15,378 --> 00:00:16,039
+Good evening.
+
+3
+00:00:16,079 --> 00:00:18,181
+I trust you had a fruitful day.
+
+4
+00:00:18,321 --> 00:00:21,064
+I do not say happy, though I hope it has been happy.
+
+5
+00:00:21,103 --> 00:00:37,682
+Namo Tassa Bhagavato Arahato Sambha Sambhodasa Namo Tassa Bhagavato Arahato Sambha Sambhodasa
+
+6
+00:00:38,387 --> 00:00:46,475
+Namo tassa bhagavato arahato sambha sambuddhasa.
+
+7
+00:00:47,055 --> 00:00:51,420
+Homage to the Buddha, the blessed noble, and fully self-awakened.
+
+8
+00:00:53,881 --> 00:00:57,545
+Now then, we're moving on now to another discourse.
+
+9
+00:00:59,646 --> 00:01:00,508
+And this is number 72.
+
+10
+00:01:01,048 --> 00:01:05,153
+And we've come across a character called Vachagatha.
+
+11
+00:01:05,173 --> 00:01:07,855
+He crops up a couple of other times, I think.
+
+12
+00:01:08,475 --> 00:01:11,358
+And so we'll read it through again and we'll see what this is about.
+
+13
+00:01:13,219 --> 00:01:18,125
+So on one occasion, the Blessed One was living at Sarvati and Jeta's Grove in Artipindika's Park.
+
+14
+00:01:18,144 --> 00:01:19,206
+So we've been there before.
+
+15
+00:01:19,225 --> 00:01:20,587
+It's his favorite place, I think.
+
+16
+00:01:22,168 --> 00:01:22,929
+And the wanderer.
+
+17
+00:01:23,228 --> 00:01:26,371
+So he's one of these ascetic wanderers, a Samana.
+
+18
+00:01:27,153 --> 00:01:32,137
+And often you get people approaching the Buddha as a Samana Gautama.
+
+19
+00:01:32,197 --> 00:01:33,718
+That's how they would approach him sometimes.
+
+20
+00:01:34,799 --> 00:01:38,263
+So the wanderer Gautama went to the Blessed One and exchanged greetings with him.
+
+21
+00:01:38,816 --> 00:01:46,087
+When this courteous and amiable talk was finished, he sat down to one side and asked the Blessed One, How is it, Master Gautama?
+
+22
+00:01:46,608 --> 00:01:53,518
+Does Master Gautama hold the view, the world is eternal, only this is true, everything else is wrong?
+
+23
+00:01:54,680 --> 00:01:57,384
+Vajagoda, I do not hold this view.
+
+24
+00:01:59,066 --> 00:02:06,376
+Then does Master Gautama hold the view, the world is not eternal, only this is true, everything else is wrong?
+
+25
+00:02:07,066 --> 00:02:10,389
+Vachagoda, I do not hold this view.
+
+26
+00:02:12,192 --> 00:02:13,493
+How is it Master Gautama?
+
+27
+00:02:14,294 --> 00:02:17,639
+Does Master Gautama hold the view the world is finite?
+
+28
+00:02:18,800 --> 00:02:21,604
+Is this the only truth and everything else is false?
+
+29
+00:02:22,183 --> 00:02:25,669
+Vachagoda, I do not hold this view.
+
+30
+00:02:27,730 --> 00:02:30,814
+How then Master Gautama hold the view the world is infinite?
+
+31
+00:02:31,716 --> 00:02:34,979
+Vacha, I do not hold this view.
+
+32
+00:02:35,669 --> 00:02:37,973
+How is it, Master Gautama, then?
+
+33
+00:02:38,293 --> 00:02:41,298
+Is the soul and the body, are they the same?
+
+34
+00:02:42,058 --> 00:02:44,282
+And is this the only truth, everything else is wrong?
+
+35
+00:02:45,082 --> 00:02:47,646
+Vacha, I do not hold this view.
+
+36
+00:02:49,189 --> 00:02:50,411
+How then, Master Gautama?
+
+37
+00:02:50,972 --> 00:02:53,575
+Is the soul one thing and the body something else?
+
+38
+00:02:54,578 --> 00:02:55,639
+And only this is true?
+
+39
+00:02:56,360 --> 00:02:58,282
+I do not hold this view, Vacha.
+
+40
+00:03:00,306 --> 00:03:01,647
+How is it, Master Gautama?
+
+41
+00:03:01,669 --> 00:03:03,972
+Does Master Gautama hold that after death?
+
+42
+00:03:04,237 --> 00:03:08,663
+that Tathagata, someone who's fully liberated, exists.
+
+43
+00:03:09,084 --> 00:03:09,883
+And is this true?
+
+44
+00:03:09,924 --> 00:03:10,945
+And everything else is false?
+
+45
+00:03:12,026 --> 00:03:15,330
+Vacha, I do not hold this view.
+
+46
+00:03:16,611 --> 00:03:20,376
+How then, Master Gautama, after death, does the Tathagata not exist?
+
+47
+00:03:21,276 --> 00:03:24,080
+Vacha, I do not hold this view.
+
+48
+00:03:24,121 --> 00:03:29,026
+How is it, Master Gautama, does Master Gautama hold this view?
+
+49
+00:03:29,526 --> 00:03:34,211
+That after death, the Tathagata both exists and does not exist.
+
+50
+00:03:34,663 --> 00:03:37,507
+Vacha, I do not hold this view.
+
+51
+00:03:37,567 --> 00:03:45,514
+How then Master Gautama, after death the Tathagata neither exists nor not exists.
+
+52
+00:03:46,555 --> 00:03:49,018
+Vacha, I do not hold this view."
+
+53
+00:03:52,600 --> 00:03:57,806
+So by this time Vacha I think has got a little bit upset and he says, how is it then Master Gautama?
+
+54
+00:03:58,306 --> 00:04:03,692
+When Master Gautama is asked each of these questions,
+
+55
+00:04:04,515 --> 00:04:06,359
+He replies, I do not hold this view.
+
+56
+00:04:08,001 --> 00:04:10,305
+What danger does Master Gautama see?
+
+57
+00:04:11,205 --> 00:04:15,032
+That he does not take up any of these speculative views.
+
+58
+00:04:16,754 --> 00:04:32,177
+Vacha, the speculative view that the world is eternal is a thicket of views, a wilderness of views, a contortion of views, a vacillation of views, a fetter of views.
+
+59
+00:04:33,052 --> 00:04:39,540
+It is beset by suffering, by vexation, by despair, and by fever.
+
+60
+00:04:40,422 --> 00:04:50,617
+And it does not lead to disenchantment, to dispassion, to cessation, to peace, to direct knowledge, to enlightenment, and to nibbana.
+
+61
+00:04:53,019 --> 00:04:55,262
+That's the opening section.
+
+62
+00:04:55,824 --> 00:05:02,333
+So now, if we look at these statements, these were obviously something that...
+
+63
+00:05:02,701 --> 00:05:05,545
+the teachers of that time were arguing about.
+
+64
+00:05:06,648 --> 00:05:15,845
+And remember that in the full moon, when there's no clouds, it's almost daylight in the tropics.
+
+65
+00:05:16,386 --> 00:05:20,031
+And they would go to the local shrine, which was like a park.
+
+66
+00:05:20,754 --> 00:05:21,654
+It was very beautiful.
+
+67
+00:05:21,714 --> 00:05:24,220
+The scriptures say these were very beautiful places.
+
+68
+00:05:24,622 --> 00:05:28,166
+And they would sit there and listen to these different teachers.
+
+69
+00:05:28,848 --> 00:05:31,031
+And often there'd be debates, one against the other.
+
+70
+00:05:31,653 --> 00:05:34,396
+And one would be defeated and humiliated.
+
+71
+00:05:34,416 --> 00:05:37,000
+The other one would be very conceited and proud.
+
+72
+00:05:39,064 --> 00:05:43,389
+So these were the, as we say, regular questions, it seems.
+
+73
+00:05:43,740 --> 00:05:47,105
+So it's about the world being eternal and not eternal.
+
+74
+00:05:48,105 --> 00:05:50,288
+I don't know what we understand these days.
+
+75
+00:05:50,309 --> 00:05:54,132
+They say the universe is continuously expanding.
+
+76
+00:05:54,233 --> 00:05:55,634
+So I don't know where that's going to take us.
+
+77
+00:05:58,678 --> 00:06:00,540
+So the world is eternal or not eternal.
+
+78
+00:06:00,781 --> 00:06:04,406
+And then the one was about the world is finite or is it infinite?
+
+79
+00:06:05,307 --> 00:06:06,528
+So that's to do with space.
+
+80
+00:06:06,567 --> 00:06:10,372
+The first one is to do with time and the second one to do with space.
+
+81
+00:06:11,146 --> 00:06:15,992
+And then the third one, the third trilogy was the body and the soul.
+
+82
+00:06:16,733 --> 00:06:22,742
+So some people thought the body and the soul were the same, so they would have been the materialists, when you die, you die.
+
+83
+00:06:23,142 --> 00:06:28,750
+But others thought or held the view that the soul and the body were different, and the soul went to heaven.
+
+84
+00:06:30,091 --> 00:06:35,819
+Now the soul here stands for the heart-mind, what we would call heart-mind.
+
+85
+00:06:36,187 --> 00:06:47,869
+the chitta, though they use various words, but the five khandhas, if you remember the five khandhas, this also comes up in this discourse.
+
+86
+00:06:48,355 --> 00:06:51,057
+So the body, and then you have the mind.
+
+87
+00:06:51,117 --> 00:06:53,540
+So the body, mind, heart, mind.
+
+88
+00:06:53,620 --> 00:06:57,464
+So one is all the feelings, all the perceptions and concepts.
+
+89
+00:06:57,805 --> 00:07:00,709
+Then you've got all your habits of thought, et cetera, et cetera.
+
+90
+00:07:01,088 --> 00:07:04,392
+And of course, consciousness, the screen upon which it all arises.
+
+91
+00:07:04,894 --> 00:07:11,961
+So was this body separate from the rest or was the rest the same?
+
+92
+00:07:12,601 --> 00:07:15,966
+So it was obviously a core question in terms of rebirth.
+
+93
+00:07:16,687 --> 00:07:25,201
+Because it's that which takes, it's the mind, heart, mind or the soul, which, of course, keeps taking rebirth.
+
+94
+00:07:28,947 --> 00:07:31,891
+So that was the next duo.
+
+95
+00:07:32,793 --> 00:07:35,958
+And then there's these questions which were known as the quadrilemma.
+
+96
+00:07:36,338 --> 00:07:39,182
+And the first one, of course, is pretty straightforward.
+
+97
+00:07:40,024 --> 00:07:44,771
+Does somebody who's fully liberated exist in some way after death?
+
+98
+00:07:45,410 --> 00:07:47,552
+Or does he not exist, right?
+
+99
+00:07:47,692 --> 00:07:49,535
+Does he completely disappear or something?
+
+100
+00:07:50,716 --> 00:07:54,240
+Is it also some form of annihilation?
+
+101
+00:07:54,262 --> 00:07:58,947
+In a sense, there can only be one form of annihilation, but basically, does he no longer exist?
+
+102
+00:07:59,588 --> 00:08:11,423
+And then there's this, when they try to get it both together, exist and not exist, trying to get it, so there's this mixture of being existing and yet not existing.
+
+103
+00:08:11,644 --> 00:08:13,846
+So these are logical propositions.
+
+104
+00:08:14,113 --> 00:08:16,956
+which really don't make much sense.
+
+105
+00:08:17,096 --> 00:08:22,322
+And the last one is neither exists nor not exists.
+
+106
+00:08:22,343 --> 00:08:28,129
+So again, neither exists nor not exists, then that sounds very much like nothing at all.
+
+107
+00:08:28,189 --> 00:08:30,230
+That's beyond nothing at all.
+
+108
+00:08:32,313 --> 00:08:43,985
+I read one writer, I can't remember now the book I read it in, but he thought that the Buddha should have said yes to that because it's a complete denial of everything.
+
+109
+00:08:44,370 --> 00:08:51,941
+But the Buddha wasn't into taking any position speculative, any metaphysical position as such.
+
+110
+00:08:53,121 --> 00:08:57,548
+So Vajragocha is a little bit upset with him.
+
+111
+00:08:57,587 --> 00:08:58,448
+He says everything is wrong.
+
+112
+00:08:58,850 --> 00:09:02,855
+And the Buddha says he doesn't take to speculative views.
+
+113
+00:09:03,755 --> 00:09:06,921
+And part of speculative views are inferences.
+
+114
+00:09:07,360 --> 00:09:10,345
+So there's no teaching beyond inferences.
+
+115
+00:09:10,966 --> 00:09:16,013
+the individual experience of Nibbāna, of that liberation.
+
+116
+00:09:16,634 --> 00:09:30,131
+There's no teaching concerning what is my Nibbāna in relation to your Nibbāna, and do we all belong to one big Nibbāna, etc.
+
+117
+00:09:30,493 --> 00:09:34,217
+So anything that's inferred, the Buddha just wouldn't go there.
+
+118
+00:09:34,238 --> 00:09:38,003
+He was basically rooted in what we could experience.
+
+119
+00:09:38,523 --> 00:09:55,791
+And the main experience was this liberation from suffering and this complete freedom from any attachment, this craving, this seeking of any real happiness, proper happiness in the world.
+
+120
+00:09:57,234 --> 00:10:00,379
+And that's what he's, his whole teaching is based on that.
+
+121
+00:10:00,982 --> 00:10:14,333
+he actually said he only taught suffering or dukkha, which remember it includes also attachment to pleasant things, and the end of it, you know, and the Four Noble Truths, that's what it's about, isn't it?
+
+122
+00:10:14,413 --> 00:10:28,725
+It's the basic statement of what constitutes unhappiness for us, suffering and discomfort and all that, and what causes it, there is an end to it and the path leading to the end of it.
+
+123
+00:10:29,187 --> 00:10:30,567
+So he's very rooted in
+
+124
+00:10:31,038 --> 00:10:59,424
+in direct experience and he doesn't want to go beyond that into this speculative view business so um and then then he goes through all those propositions that thatcher gota has given him concerning all these speculative views um then uh he's asked uh does master gotama hold any speculative view at all
+
+125
+00:11:00,046 --> 00:11:04,855
+So Vacha, speculative view, is something that the Tathagata has put away.
+
+126
+00:11:05,937 --> 00:11:09,322
+For the Tathagata Vacha has seen this now.
+
+127
+00:11:09,943 --> 00:11:14,812
+Such is material form, such its origin, such its disappearance.
+
+128
+00:11:15,394 --> 00:11:19,000
+Such is feeling, such its origin and its disappearance.
+
+129
+00:11:19,434 --> 00:11:31,610
+such is perception, such is origin and disappearance, such are habits, formation, volitional formations, their origin and their disappearance, and consciousness, their origin and disappearance."
+
+130
+00:11:31,629 --> 00:11:45,307
+In other words, what the Buddha has truly understood are these five aggregates that we experience as our selves, the psycho-physical organism.
+
+131
+00:11:45,447 --> 00:11:47,669
+He's understood it thoroughly.
+
+132
+00:11:48,679 --> 00:12:15,952
+Therefore I say that the destruction, fading away, cessation, giving up and relinquishing of all conceivings, all conceptual thinking, all excogitations, which is basically thinking something through, all eye-making, all mind-making, this is me, this is mine, and the underlying tendency to conceit,
+
+133
+00:12:16,287 --> 00:12:42,143
+that the targeter is liberated through not clinging so uh when these three things come together you then form uh should we say a position a view an opinion where you where you you sort of uh take a position if i'm right and everybody else is wrong it takes a view right you have a view about something
+
+134
+00:12:42,409 --> 00:12:49,077
+you have an attachment to that view because you identify with it.
+
+135
+00:12:49,438 --> 00:12:50,860
+This is what I think.
+
+136
+00:12:50,900 --> 00:12:52,423
+This is what I believe.
+
+137
+00:12:52,903 --> 00:12:55,986
+And you can see that very clearly when it comes to politics.
+
+138
+00:12:57,990 --> 00:13:04,136
+And when it comes to fundamentalists, you see that then it comes in sharp relief.
+
+139
+00:13:04,638 --> 00:13:07,741
+You know, I'm right and everybody else is wrong.
+
+140
+00:13:12,211 --> 00:13:20,761
+So then the Buddha goes on to say, when a bhikkhu's mind is liberated thus, where does he appear after death?
+
+141
+00:13:21,283 --> 00:13:24,125
+Now, I'm going to stop there.
+
+142
+00:13:24,145 --> 00:13:25,648
+It's a little bit early, I know.
+
+143
+00:13:26,149 --> 00:13:36,402
+It's short on the old discourse because the next part moves on to a slightly different topic.
+
+144
+00:13:36,422 --> 00:13:40,226
+So just to recap there, you'll come across these ten
+
+145
+00:13:40,527 --> 00:13:47,634
+um views about the the world being finite or infinite eternal or non-eternal
+
+146
+00:13:47,985 --> 00:13:54,153
+You'll come across the idea about the soul and the body being one or not the same.
+
+147
+00:13:54,475 --> 00:13:59,782
+And this quadrilemma, not a dilemma, this quadrilemma that they talk about the Buddha.
+
+148
+00:14:00,241 --> 00:14:10,936
+And the important thing about this is that the Buddha won't hold on to any speculative views, any views beyond what you can directly experience.
+
+149
+00:14:12,619 --> 00:14:15,883
+And he doesn't go on to anything beyond that.
+
+150
+00:14:16,116 --> 00:14:35,812
+And so any inference, anything that you infer, so if you infer, for instance, that, well, there must be some sort of huge intelligence, sort of an awareness, an intuitive awareness of which we are all part.
+
+151
+00:14:36,485 --> 00:14:44,317
+You know, that might be a sort of panentheism, God is everywhere or some such idea.
+
+152
+00:14:44,758 --> 00:14:46,059
+See, he wouldn't go there at all.
+
+153
+00:14:46,120 --> 00:14:53,471
+He would consider that to be an inference, an inference, a speculative view and not material.
+
+154
+00:14:53,532 --> 00:14:54,113
+This is the point.
+
+155
+00:14:54,533 --> 00:14:56,956
+It's not material to personal liberation.
+
+156
+00:14:57,341 --> 00:14:59,986
+So there were two reasons why he wouldn't go there.
+
+157
+00:15:00,067 --> 00:15:03,072
+First of all, there was no way you could prove it, right?
+
+158
+00:15:03,734 --> 00:15:09,725
+And secondly, it had no direct effect upon this whole process of liberating ourselves from suffering.
+
+159
+00:15:10,787 --> 00:15:16,297
+So this is Vachagota, and we'll finish off the discourse tomorrow evening.
+
+160
+00:15:16,999 --> 00:15:19,923
+So I hope that...
+
+161
+00:15:20,883 --> 00:15:50,501
+this has not caused any confusion but in fact has been a most enlightening discourse uh to to go through and i trust that by your continuing practice you will be liberated as that you go to was uh from all suffering sooner rather than later so we can do a bit of meditation
+

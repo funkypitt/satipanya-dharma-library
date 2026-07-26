@@ -5542,5 +5542,737 @@
     "completeness_score": 3,
     "difficulty": "introductory",
     "summary": "Buddha's teaching to Visakha on eight virtues for domestic success and spiritual liberation in relationships and household life."
+  },
+  "S19E15_httpswwwsatipanyaorgukwp-contentuploads20200414-Not-self-Revisited-The-story-of-": {
+    "primary_theme": "Not-Self (Anatta)",
+    "secondary_themes": [
+      "Dependent Origination",
+      "Satipatthana — Mindfulness of Mind",
+      "Death & Impermanence of Life"
+    ],
+    "richness_score": 4,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Explores not-self through Bhikkhu Sati's mistaken view about consciousness, examining existential identity and what we are facing death."
+  },
+  "S21E05_The_Five_Remembrances_Contemplating_Mortality_and_Gratitude": {
+    "primary_theme": "Death & Impermanence of Life",
+    "secondary_themes": [
+      "Kamma & Rebirth",
+      "Right Mindfulness (Samma Sati)",
+      "Daily Life & Integration"
+    ],
+    "richness_score": 3,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Guides practitioners through the Buddha's five daily remembrances of aging, sickness, death, separation, and karma ownership."
+  },
+  "S28E01_Video": {
+    "primary_theme": "Right Livelihood (Samma Ajiva)",
+    "secondary_themes": [
+      "Daily Life & Integration",
+      "Sila & Ethics / The Precepts",
+      "The Buddha's Life & Teaching"
+    ],
+    "richness_score": 3,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Examines right livelihood beyond work to encompass entire lifestyle choices and spiritual development in modern contexts."
+  },
+  "S01E141_Adhiṭṭhāna_Determination": {
+    "primary_theme": "Right Effort (Samma Vayama)",
+    "secondary_themes": [
+      "Sila & Ethics / The Precepts",
+      "Advanced Insight & Nibbana",
+      "Daily Life & Integration"
+    ],
+    "richness_score": 3,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Explores adhiṭṭhāna as one of the ten pāramīs, examining unwavering determination as binding force for liberation."
+  },
+  "S01E142_46_To_Vachagotta_on_Fire_MN72": {
+    "primary_theme": "Advanced Insight & Nibbana",
+    "secondary_themes": [
+      "Not-Self (Anatta)",
+      "Right View (Samma Ditthi)",
+      "The Buddha's Life & Teaching"
+    ],
+    "richness_score": 3,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Examines the Buddha's refusal to engage metaphysical speculation through the ten undeclared questions to Vachagotta."
+  },
+  "S01E143_47_To_Vachagotta_on_Fire_MN72": {
+    "primary_theme": "Advanced Insight & Nibbana",
+    "secondary_themes": [
+      "Not-Self (Anatta)",
+      "Right View (Samma Ditthi)",
+      "The Buddha's Life & Teaching"
+    ],
+    "richness_score": 4,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Uses the Buddha's fire metaphor to explain what happens to awakened beings after death, revealing futility of speculative views."
+  },
+  "S01E144_48_Vachagotta_on_the_Threefold_True_Knowledge": {
+    "primary_theme": "Advanced Insight & Nibbana",
+    "secondary_themes": [
+      "Kamma & Rebirth",
+      "The Buddha's Life & Teaching",
+      "Daily Life & Integration"
+    ],
+    "richness_score": 3,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Explores the Buddha's response to omniscience claims, revealing threefold true knowledge and liberation requirements for householders."
+  },
+  "S01E145_49_Jivaka_Discourse_MN55": {
+    "primary_theme": "Sila & Ethics / The Precepts",
+    "secondary_themes": [
+      "Metta & Brahma Viharas",
+      "Daily Life & Integration",
+      "The Buddha's Life & Teaching"
+    ],
+    "richness_score": 3,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Addresses meat-eating through Jīvaka Sutta, revealing Buddha's pragmatic ethical frameworks rather than absolute rules."
+  },
+  "S01E146_51_Potiliya_Sutta_MN54": {
+    "primary_theme": "Sila & Ethics / The Precepts",
+    "secondary_themes": [
+      "Daily Life & Integration",
+      "Right View (Samma Ditthi)",
+      "Suffering (Dukkha)"
+    ],
+    "richness_score": 4,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Distinguishes genuine spiritual renunciation from external changes through Buddha's eight abandonments and vivid metaphors."
+  },
+  "S01E147_52_Good_Friendship": {
+    "primary_theme": "Daily Life & Integration",
+    "secondary_themes": [
+      "Sila & Ethics / The Precepts",
+      "Right Speech (Samma Vaca)",
+      "Metta & Brahma Viharas"
+    ],
+    "richness_score": 3,
+    "completeness_score": 4,
+    "difficulty": "introductory",
+    "summary": "Presents Buddha's detailed teachings on friendship qualities and spiritual companionship from Aṅguttara Nikāya and Sīgālaka Sutta."
+  },
+  "S01E148_53_Advice_to_Channa_MN144": {
+    "primary_theme": "Death & Impermanence of Life",
+    "secondary_themes": [
+      "Not-Self (Anatta)",
+      "Advanced Insight & Nibbana",
+      "Sila & Ethics / The Precepts"
+    ],
+    "richness_score": 4,
+    "completeness_score": 3,
+    "difficulty": "intermediate",
+    "summary": "Examines complex ethical questions around suicide through dying monk Channa's final choice and liberation understanding."
+  },
+  "S01E149_54_Ambalathika_Rahula_Sutta_MN61": {
+    "primary_theme": "Right Speech (Samma Vaca)",
+    "secondary_themes": [
+      "Sila & Ethics / The Precepts",
+      "Right Action (Samma Kammanta)",
+      "The Buddha's Life & Teaching"
+    ],
+    "richness_score": 4,
+    "completeness_score": 4,
+    "difficulty": "introductory",
+    "summary": "Buddha teaches young Rāhula about truthfulness and moral reflection before, during, and after actions."
+  },
+  "S01E150_55_The_Greater_Discourse_to_Rahula": {
+    "primary_theme": "Satipatthana — Mindfulness of Body",
+    "secondary_themes": [
+      "Not-Self (Anatta)",
+      "Metta & Brahma Viharas",
+      "Right Concentration (Samma Samadhi) & Jhana"
+    ],
+    "richness_score": 4,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Buddha skillfully guides teenage Rāhula through four elements meditation to overcome sensual desires and develop unshakeable awareness."
+  },
+  "S01E151_56_The_Shorter_Discourse_to_Saccaka": {
+    "primary_theme": "Not-Self (Anatta)",
+    "secondary_themes": [
+      "Impermanence (Anicca)",
+      "Suffering (Dukkha)",
+      "The Buddha's Life & Teaching"
+    ],
+    "richness_score": 3,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Reveals Buddha's masterful debating style dismantling arguments about self through five aggregates and control questions."
+  },
+  "S01E152_57_The_Many_Kinds_of_Elements_MN115": {
+    "primary_theme": "Dependent Origination",
+    "secondary_themes": [
+      "Right View (Samma Ditthi)",
+      "Satipatthana — Mindfulness of Mind",
+      "Advanced Insight & Nibbana"
+    ],
+    "richness_score": 2,
+    "completeness_score": 3,
+    "difficulty": "intermediate",
+    "summary": "Explores foundational understanding of dependent origination through causality formula and first crucial links from ignorance."
+  },
+  "S01E153_58_The_Many_Kinds_or_Elements_MN115": {
+    "primary_theme": "Dependent Origination",
+    "secondary_themes": [
+      "Satipatthana — Mindfulness of Feeling",
+      "Right Mindfulness (Samma Sati)",
+      "Advanced Insight & Nibbana"
+    ],
+    "richness_score": 2,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Examines middle stages of dependent origination from contact to grasping, revealing crucial escape point between feeling and craving."
+  },
+  "S01E154_59_The_Many_Kinds_or_Elements_MN115": {
+    "primary_theme": "Satipatthana — Mindfulness of Mind",
+    "secondary_themes": [
+      "Not-Self (Anatta)",
+      "Dependent Origination",
+      "Advanced Insight & Nibbana"
+    ],
+    "richness_score": 2,
+    "completeness_score": 3,
+    "difficulty": "intermediate",
+    "summary": "Explores various elements constituting experience, addressing consciousness versus intuitive awareness and eighteen elements of sense contact."
+  },
+  "S01E155_60_The_Shorter_Exposition_on_Action_Kamma_MN135": {
+    "primary_theme": "Kamma & Rebirth",
+    "secondary_themes": [
+      "Sila & Ethics / The Precepts",
+      "Right Action (Samma Kammanta)",
+      "Daily Life & Integration"
+    ],
+    "richness_score": 3,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Presents Buddha's foundational teaching that beings are owners of their actions, examining how actions shape experiences."
+  },
+  "S01E156_61_The_Shorter_Exposition_on_Action_Kamma_MN135": {
+    "primary_theme": "Kamma & Rebirth",
+    "secondary_themes": [
+      "Daily Life & Integration",
+      "Sila & Ethics / The Precepts",
+      "Right View (Samma Ditthi)"
+    ],
+    "richness_score": 3,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Clarifies distinction between personal karma and natural laws, examining five niyāma and working skillfully with conditioning."
+  },
+  "S01E157_62_The_Greater_Exposition_on_Action_Kamma_MN136": {
+    "primary_theme": "Kamma & Rebirth",
+    "secondary_themes": [
+      "Right Intention (Samma Sankappa)",
+      "Sila & Ethics / The Precepts",
+      "Right View (Samma Ditthi)"
+    ],
+    "richness_score": 2,
+    "completeness_score": 3,
+    "difficulty": "intermediate",
+    "summary": "Explores Buddha's sophisticated understanding of intentional action through body, speech, and mind, clarifying common kamma misconceptions."
+  },
+  "S01E158_63_Discourse_on_Upali_MN56": {
+    "primary_theme": "Kamma & Rebirth",
+    "secondary_themes": [
+      "The Buddha's Life & Teaching",
+      "Right View (Samma Ditthi)",
+      "Dependent Origination"
+    ],
+    "richness_score": 4,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Explores karmic principles and introduces the debate between Buddhist and Jain views on action's relative importance."
+  },
+  "S01E159_64_Discourse_on_Upali_MN56": {
+    "primary_theme": "Kamma & Rebirth",
+    "secondary_themes": [
+      "The Four Noble Truths",
+      "Right View (Samma Ditthi)",
+      "Faith & Approaching the Dhamma"
+    ],
+    "richness_score": 5,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Buddha defeats Jain arguments about mental versus physical actions, leading to Upāli's conversion and stream-entry."
+  },
+  "S01E160_65a_Greater_Discourse_to_Sakuludayin_MN77": {
+    "primary_theme": "Advanced Insight & Nibbana",
+    "secondary_themes": [
+      "Right Mindfulness (Samma Sati)",
+      "Right Effort (Samma Vayama)",
+      "Right Concentration (Samma Samadhi) & Jhana"
+    ],
+    "richness_score": 3,
+    "completeness_score": 5,
+    "difficulty": "intermediate",
+    "summary": "Systematically presents the 37 Bodhipakkhiya Dhammā essential factors for complete liberation from suffering."
+  },
+  "S01E161_65b_Greater_Discourse_to_Sakuludayin_MN77": {
+    "primary_theme": "The Buddha's Life & Teaching",
+    "secondary_themes": [
+      "The Four Noble Truths",
+      "Sila & Ethics / The Precepts",
+      "Advanced Insight & Nibbana"
+    ],
+    "richness_score": 4,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Examines what qualities make spiritual teachers worthy of reverence compared to contemporary religious leaders."
+  },
+  "S01E162_66_The_Honeyball_Discourse": {
+    "primary_theme": "Not-Self (Anatta)",
+    "secondary_themes": [
+      "Dependent Origination",
+      "Satipatthana — Mindfulness of Dhammas",
+      "Advanced Insight & Nibbana"
+    ],
+    "richness_score": 3,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Explores how mental proliferation creates suffering and liberation comes through not delighting in perceptions."
+  },
+  "S01E163_67_The_Removal_of_Distracting_Thoughts_MN20": {
+    "primary_theme": "Right Concentration (Samma Samadhi) & Jhana",
+    "secondary_themes": [
+      "The Five Hindrances",
+      "The Mahasi Method & Vipassana Practice",
+      "Right Effort (Samma Vayama)"
+    ],
+    "richness_score": 4,
+    "completeness_score": 5,
+    "difficulty": "intermediate",
+    "summary": "Presents Buddha's systematic five-step method for overcoming distracting thoughts during meditation practice."
+  },
+  "S01E164_68_The_Greater_Discourse_on_Voidness": {
+    "primary_theme": "Not-Self (Anatta)",
+    "secondary_themes": [
+      "Impermanence (Anicca)",
+      "Suffering (Dukkha)",
+      "Right Concentration (Samma Samadhi) & Jhana"
+    ],
+    "richness_score": 3,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Teaching on śūnya (voidness/emptiness) as another expression of not-self, emphasizing solitude for practice."
+  },
+  "S01E165_69_The_Greater_Discourse_on_the_Simile_of_the_Heartwood": {
+    "primary_theme": "Advanced Insight & Nibbana",
+    "secondary_themes": [
+      "Right Concentration (Samma Samadhi) & Jhana",
+      "Sila & Ethics / The Precepts",
+      "Right View (Samma Ditthi)"
+    ],
+    "richness_score": 5,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Uses tree heartwood metaphor to show how practitioners can mistake lesser achievements for true liberation."
+  },
+  "S01E166_70_The_Greater_Discourse_in_Gosingha": {
+    "primary_theme": "Advanced Insight & Nibbana",
+    "secondary_themes": [
+      "Right Mindfulness (Samma Sati)",
+      "The Mahasi Method & Vipassana Practice",
+      "The Buddha's Life & Teaching"
+    ],
+    "richness_score": 5,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Senior disciples share what qualities illuminate a forest grove, culminating in Buddha's teaching on determination."
+  },
+  "S01E167_71_The_Greater_discourse_on_the_Cowherd_MN33": {
+    "primary_theme": "Right Mindfulness (Samma Sati)",
+    "secondary_themes": [
+      "Satipatthana — Mindfulness of Body",
+      "Sila & Ethics / The Precepts",
+      "Advanced Insight & Nibbana"
+    ],
+    "richness_score": 5,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Uses cowherd metaphor to teach eleven essential spiritual qualities including understanding the four great elements."
+  },
+  "S01E168_72_Wonderful_and_Marvellous_MN123": {
+    "primary_theme": "The Buddha's Life & Teaching",
+    "secondary_themes": [
+      "Right Mindfulness (Samma Sati)",
+      "Satipatthana — Mindfulness of Feeling",
+      "The Mahasi Method & Vipassana Practice"
+    ],
+    "richness_score": 4,
+    "completeness_score": 3,
+    "difficulty": "intermediate",
+    "summary": "Explores Buddha's miraculous birth stories alongside the true marvel of moment-to-moment awareness practice."
+  },
+  "S01E169_73_Bhumija_Discourse": {
+    "primary_theme": "Right View (Samma Ditthi)",
+    "secondary_themes": [
+      "Right Intention (Samma Sankappa)",
+      "The Four Noble Truths",
+      "Faith & Approaching the Dhamma"
+    ],
+    "richness_score": 4,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Teaching on aspiration and practice showing how right methods bring liberation regardless of desires."
+  },
+  "S01E170_74_The_Shorter_Series_of_Questions_and_Answers_MN44": {
+    "primary_theme": "The Four Noble Truths",
+    "secondary_themes": [
+      "Not-Self (Anatta)",
+      "Satipatthana — Mindfulness of Dhammas",
+      "Advanced Insight & Nibbana"
+    ],
+    "richness_score": 3,
+    "completeness_score": 5,
+    "difficulty": "intermediate",
+    "summary": "Dhammadinnā Therī teaches on personality, aggregates, and the Four Noble Truths in rare female discourse."
+  },
+  "S01E171_75_The_Shorter_Series_of_Questions_and_Answers_MN44": {
+    "primary_theme": "Not-Self (Anatta)",
+    "secondary_themes": [
+      "The Four Noble Truths",
+      "Sila & Ethics / The Precepts",
+      "Right View (Samma Ditthi)"
+    ],
+    "richness_score": 3,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Continues Dhammadinnā's teachings on identity-view, the Eightfold Path, and formations with systematic clarity."
+  },
+  "S01E172_76_The_Shorter_Series_of_Questions_and_Answers_MN44": {
+    "primary_theme": "Right Concentration (Samma Samadhi) & Jhana",
+    "secondary_themes": [
+      "Satipatthana — Mindfulness of Feeling",
+      "Advanced Insight & Nibbana",
+      "Not-Self (Anatta)"
+    ],
+    "richness_score": 2,
+    "completeness_score": 4,
+    "difficulty": "advanced",
+    "summary": "Explores cessation of feeling and perception attainable only by non-returners and arahants after mastering jhānas."
+  },
+  "S01E173_77_The_Simile_of_the_Quail_MN66": {
+    "primary_theme": "Advanced Insight & Nibbana",
+    "secondary_themes": [
+      "Sila & Ethics / The Precepts",
+      "Right Action (Samma Kammanta)",
+      "Daily Life & Integration"
+    ],
+    "richness_score": 5,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Uses quail simile to show how attachment binds while relinquishment of even pleasant things leads to freedom."
+  },
+  "S01E174_78_At_Kitagiri": {
+    "primary_theme": "Sila & Ethics / The Precepts",
+    "secondary_themes": [
+      "Satipatthana — Mindfulness of Feeling",
+      "Right Action (Samma Kammanta)",
+      "Daily Life & Integration"
+    ],
+    "richness_score": 4,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Examines rebellious monks refusing eating rules to teach about different types of feelings and renunciation."
+  },
+  "S01E175_79_At_Kitagiri": {
+    "primary_theme": "Advanced Insight & Nibbana",
+    "secondary_themes": [
+      "Right Concentration (Samma Samadhi) & Jhana",
+      "The Mahasi Method & Vipassana Practice",
+      "Faith & Approaching the Dhamma"
+    ],
+    "richness_score": 3,
+    "completeness_score": 5,
+    "difficulty": "intermediate",
+    "summary": "Seven types of practitioners showing that neither jhāna nor intellectual prowess are necessary for liberation."
+  },
+  "S01E176_80_Greater_Discourse_to_Vaccagotta_MN73": {
+    "primary_theme": "Sila & Ethics / The Precepts",
+    "secondary_themes": [
+      "Right Action (Samma Kammanta)",
+      "Right Speech (Samma Vaca)",
+      "Advanced Insight & Nibbana"
+    ],
+    "richness_score": 4,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Vachagotta's transformation from skeptical wanderer to arahant through understanding wholesome and unwholesome actions."
+  },
+  "S01E177_81_To_Dignanaka": {
+    "primary_theme": "Right View (Samma Ditthi)",
+    "secondary_themes": [
+      "Satipatthana — Mindfulness of Body",
+      "Satipatthana — Mindfulness of Feeling",
+      "The Mahasi Method & Vipassana Practice"
+    ],
+    "richness_score": 4,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Buddha teaches skeptical wanderer about dangers of clinging to views while guiding through vipassanā practice."
+  },
+  "S01E178_82_To_Magandiya": {
+    "primary_theme": "The Five Hindrances",
+    "secondary_themes": [
+      "Suffering (Dukkha)",
+      "Dependent Origination",
+      "Daily Life & Integration"
+    ],
+    "richness_score": 4,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Buddha teaches hedonistic wanderer Magandiya about attachment to sensual pleasures as cause of suffering through powerful similes."
+  },
+  "S01E179_83_Samanamandika_Discourse_MN78": {
+    "primary_theme": "Right View (Samma Ditthi)",
+    "secondary_themes": [
+      "The Four Noble Truths",
+      "Right Effort (Samma Vayama)",
+      "Right Concentration (Samma Samadhi) & Jhana"
+    ],
+    "richness_score": 3,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Explores ten qualities of true spiritual accomplishment beyond mere avoidance of evil, using infant example to illustrate deeper requirements."
+  },
+  "S01E180_84_To_Vehkanassa": {
+    "primary_theme": "The Five Hindrances",
+    "secondary_themes": [
+      "Right View (Samma Ditthi)",
+      "Suffering (Dukkha)",
+      "Daily Life & Integration"
+    ],
+    "richness_score": 3,
+    "completeness_score": 3,
+    "difficulty": "intermediate",
+    "summary": "Buddha uses analogy of loving unknown woman to expose Vekhanasa's empty claims about 'perfect splendor' meaning sensual pleasures."
+  },
+  "S01E181_85_The_Root_of_All_Things_MN1": {
+    "primary_theme": "Not-Self (Anatta)",
+    "secondary_themes": [
+      "Right View (Samma Ditthi)",
+      "Dependent Origination",
+      "Advanced Insight & Nibbana"
+    ],
+    "richness_score": 2,
+    "completeness_score": 3,
+    "difficulty": "advanced",
+    "summary": "Introduction to Buddhism's most challenging discourse on how distorted perception and conception create suffering through four perversions."
+  },
+  "S01E182_86_The_Root_of_All_Things_MN1": {
+    "primary_theme": "Not-Self (Anatta)",
+    "secondary_themes": [
+      "Right View (Samma Ditthi)",
+      "Dependent Origination",
+      "Advanced Insight & Nibbana"
+    ],
+    "richness_score": 2,
+    "completeness_score": 4,
+    "difficulty": "advanced",
+    "summary": "Comprehensive overview exploring five types of self-view and how delusion manifests through wrong attachment and conceptual proliferation."
+  },
+  "S01E183_87_The_Wilderness_of_the_Heart_MN16": {
+    "primary_theme": "Faith & Approaching the Dhamma",
+    "secondary_themes": [
+      "The Five Hindrances",
+      "Right Mindfulness (Samma Sati)",
+      "The Mahasi Method & Vipassana Practice"
+    ],
+    "richness_score": 3,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Buddha outlines five wildernesses and shackles of heart that obstruct spiritual progress, plus factors needed for awakening."
+  },
+  "S01E184_88_At_Samagama_Discourse_MN104": {
+    "primary_theme": "Daily Life & Integration",
+    "secondary_themes": [
+      "Sila & Ethics / The Precepts",
+      "Right Speech (Samma Vaca)",
+      "Faith & Approaching the Dhamma"
+    ],
+    "richness_score": 3,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Buddha's wisdom on resolving disputes through six roots of conflict analysis, sparked by Jain community division after leader's death."
+  },
+  "S01E185_90_The_Six_Sets_of_Six_MN148": {
+    "primary_theme": "Satipatthana — Mindfulness of Dhammas",
+    "secondary_themes": [
+      "Dependent Origination",
+      "Right Mindfulness (Samma Sati)",
+      "The Four Noble Truths"
+    ],
+    "richness_score": 2,
+    "completeness_score": 5,
+    "difficulty": "intermediate",
+    "summary": "Comprehensive revision showing how six sense bases serve as pivot point in dependent origination leading to suffering or liberation."
+  },
+  "S01E186_89_Kosambi_MN48": {
+    "primary_theme": "Metta & Brahma Viharas",
+    "secondary_themes": [
+      "Daily Life & Integration",
+      "Sila & Ethics / The Precepts",
+      "Right Speech (Samma Vaca)"
+    ],
+    "richness_score": 4,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Buddha's six memorable qualities restore harmony to quarreling Kosambi monks whose trivial toilet dispute escalated into community division."
+  },
+  "S01E187_91_The_Exposition_of_the_Elements_MN140": {
+    "primary_theme": "Not-Self (Anatta)",
+    "secondary_themes": [
+      "Dependent Origination",
+      "Right Concentration (Samma Samadhi) & Jhana",
+      "Satipatthana — Mindfulness of Body"
+    ],
+    "richness_score": 4,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Buddha teaches former king Pukkasati systematic deconstruction of personal identity through six elements and sense base analysis."
+  },
+  "S01E188_92_The_Exposition_of_the_Elements_MN140_cont": {
+    "primary_theme": "Advanced Insight & Nibbana",
+    "secondary_themes": [
+      "Right Concentration (Samma Samadhi) & Jhana",
+      "Not-Self (Anatta)",
+      "Dependent Origination"
+    ],
+    "richness_score": 3,
+    "completeness_score": 5,
+    "difficulty": "advanced",
+    "summary": "Buddha's profound teaching on wisdom, truth, relinquishment and peace culminates in Pukkasati's attainment of non-returner status."
+  },
+  "S01E189_93_Angulimala": {
+    "primary_theme": "Kamma & Rebirth",
+    "secondary_themes": [
+      "Faith & Approaching the Dhamma",
+      "The Mahasi Method & Vipassana Practice",
+      "Daily Life & Integration"
+    ],
+    "richness_score": 5,
+    "completeness_score": 4,
+    "difficulty": "introductory",
+    "summary": "Inspiring complete transformation story of murderous bandit Aṅgulimāla who becomes Arahant through Buddha's compassion and Vipassanā practice."
+  },
+  "S01E190_94_The_Enquirer": {
+    "primary_theme": "Faith & Approaching the Dhamma",
+    "secondary_themes": [
+      "Advanced Insight & Nibbana",
+      "Right View (Samma Ditthi)",
+      "The Buddha's Life & Teaching"
+    ],
+    "richness_score": 2,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Buddha's systematic method for investigating whether someone has truly attained Awakening through sustained observation of behavior and character."
+  },
+  "S01E191_95a_The_Incontrovertible_Truth": {
+    "primary_theme": "Right View (Samma Ditthi)",
+    "secondary_themes": [
+      "Kamma & Rebirth",
+      "Sila & Ethics / The Precepts",
+      "Daily Life & Integration"
+    ],
+    "richness_score": 2,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Buddha's ethical arguments against nihilism, karmic denial, and fatalism through 'guaranteed teaching' emphasizing moral responsibility and consequences."
+  },
+  "S01E192_95b_The_Incontrovertible_Truth": {
+    "primary_theme": "Right View (Samma Ditthi)",
+    "secondary_themes": [
+      "Advanced Insight & Nibbana",
+      "Sila & Ethics / The Precepts",
+      "Impermanence (Anicca)"
+    ],
+    "richness_score": 2,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Concludes refutation of wrong views emphasizing 'don't know' mind wisdom and virtue as foundation for investigating existence's characteristics."
+  },
+  "S01E193_97_At_Catuma_MN67": {
+    "primary_theme": "The Buddha's Life & Teaching",
+    "secondary_themes": [
+      "The Five Hindrances",
+      "Daily Life & Integration",
+      "Sila & Ethics / The Precepts"
+    ],
+    "richness_score": 4,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Buddha shows tough love by dismissing 500 noisy monks, then teaches four spiritual dangers through water metaphors."
+  },
+  "S01E194_98_The_Noble_Search_MN4_26_DN16": {
+    "primary_theme": "The Buddha's Life & Teaching",
+    "secondary_themes": [
+      "Faith & Approaching the Dhamma",
+      "Advanced Insight & Nibbana",
+      "Right View (Samma Ditthi)"
+    ],
+    "richness_score": 4,
+    "completeness_score": 5,
+    "difficulty": "intermediate",
+    "summary": "Buddha's complete spiritual journey from noble search through renunciation, training with teachers, asceticism, to final Awakening and teaching."
+  },
+  "S01E195_Dhammapada_a_book_of_verses_No5": {
+    "primary_theme": "Metta & Brahma Viharas",
+    "secondary_themes": [
+      "Daily Life & Integration",
+      "Sila & Ethics / The Precepts",
+      "Kamma & Rebirth"
+    ],
+    "richness_score": 4,
+    "completeness_score": 3,
+    "difficulty": "introductory",
+    "summary": "Famous Dhammapada verse on eternal law that hatred ceases only through love, illustrated with multi-lifetime feud story."
+  },
+  "S01E196_Bhante_Bodhidhamma_70th_Birthday_The_whole_occasion": {
+    "primary_theme": "The Buddha's Life & Teaching",
+    "secondary_themes": [
+      "Faith & Approaching the Dhamma",
+      "Daily Life & Integration",
+      "The Four Noble Truths"
+    ],
+    "richness_score": 5,
+    "completeness_score": 4,
+    "difficulty": "intermediate",
+    "summary": "Bhante's deeply personal autobiographical journey from Catholic seminary through existential crisis, world travels, to discovering Buddhism and monkhood."
+  },
+  "S01E197_The_Cards_Bhants_Bodhidhammas_70th_Birthday": {
+    "primary_theme": "The Four Noble Truths",
+    "secondary_themes": [
+      "Dependent Origination",
+      "Advanced Insight & Nibbana",
+      "Daily Life & Integration"
+    ],
+    "richness_score": 4,
+    "completeness_score": 3,
+    "difficulty": "intermediate",
+    "summary": "Creative birthday celebration presenting core Buddhist teachings through community poetry, art, music and humorous dharma interpretations."
+  },
+  "S01E198_Skype_session_on_Bhante_Bodhidhammas_70th_Birthday": {
+    "primary_theme": "The Buddha's Life & Teaching",
+    "secondary_themes": [
+      "Faith & Approaching the Dhamma",
+      "Daily Life & Integration",
+      "Right Mindfulness (Samma Sati)"
+    ],
+    "richness_score": 5,
+    "completeness_score": 3,
+    "difficulty": "intermediate",
+    "summary": "Birthday celebration featuring Bhante Bodhidhamma's personal journey integrating Christianity and Buddhism through understanding sati and paññā."
   }
 }

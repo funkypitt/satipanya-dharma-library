@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Satipanya — Bhante's Essays</title>
+    <description>Written essays and teachings by Bhante Bodhidhamma on Buddhist philosophy, meditation practice, ethics, and daily life. Includes introductory guides, in-depth explorations of the Four Noble Truths, and practical meditation instructions.</description>
+    <language>en</language>
+    <link>https://www.satipanya.org.uk/audio-video/</link>
+    <generator>podcastify.py — Satipanya Podcast Pipeline</generator>
+    <itunes:author>Bhante Bodhidhamma</itunes:author>
+    <itunes:summary>Written essays and teachings by Bhante Bodhidhamma on Buddhist philosophy, meditation practice, ethics, and daily life. Includes introductory guides, in-depth explorations of the Four Noble Truths, and practical meditation instructions.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:owner>
+      <itunes:name>Satipanya Buddhist Trust</itunes:name>
+      <itunes:email>info@satipanya.org.uk</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Buddhism" />
+    </itunes:category>
+  </channel>
+</rss>

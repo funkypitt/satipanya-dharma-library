@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Satipanya — Noirin's Essays</title>
+    <description>Written essays and reflections by Noirin Sheahan, co-founder of Satipanya Buddhist Retreat. Short essays on practice, post-surgery reflections, and a series on climate change ethics from a Buddhist perspective.</description>
+    <language>en</language>
+    <link>https://www.satipanya.org.uk/audio-video/</link>
+    <generator>podcastify.py — Satipanya Podcast Pipeline</generator>
+    <itunes:author>Noirin Sheahan</itunes:author>
+    <itunes:summary>Written essays and reflections by Noirin Sheahan, co-founder of Satipanya Buddhist Retreat. Short essays on practice, post-surgery reflections, and a series on climate change ethics from a Buddhist perspective.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+    <itunes:owner>
+      <itunes:name>Satipanya Buddhist Trust</itunes:name>
+      <itunes:email>info@satipanya.org.uk</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Buddhism" />
+    </itunes:category>
+  </channel>
+</rss>

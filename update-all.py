@@ -22,6 +22,7 @@ Usage:
     python update-all.py --quick      # catalog + probe + feeds + site seulement
 """
 
+import os
 import subprocess
 import sys
 import time
@@ -31,13 +32,31 @@ PROJECT_DIR = Path(__file__).parent
 PYTHON = sys.executable
 
 
+def _build_env():
+    """Ajoute les libs cuDNN du conda env courant à LD_LIBRARY_PATH (sinon WhisperX
+    crashe avec 'libcudnn_cnn.so.9: cannot open shared object file')."""
+    env = os.environ.copy()
+    cudnn_lib = (
+        Path(sys.prefix) / "lib" / f"python{sys.version_info.major}.{sys.version_info.minor}"
+        / "site-packages" / "nvidia" / "cudnn" / "lib"
+    )
+    if cudnn_lib.is_dir():
+        existing = env.get("LD_LIBRARY_PATH", "")
+        if str(cudnn_lib) not in existing.split(":"):
+            env["LD_LIBRARY_PATH"] = f"{cudnn_lib}:{existing}" if existing else str(cudnn_lib)
+    return env
+
+
+ENV = _build_env()
+
+
 def run(label, cmd):
     """Lance une commande et affiche le résultat."""
     print(f"\n{'=' * 60}")
     print(f"  {label}")
     print(f"{'=' * 60}\n")
     t0 = time.time()
-    result = subprocess.run(cmd, cwd=str(PROJECT_DIR))
+    result = subprocess.run(cmd, cwd=str(PROJECT_DIR), env=ENV)
     elapsed = time.time() - t0
     minutes = int(elapsed // 60)
     seconds = int(elapsed % 60)

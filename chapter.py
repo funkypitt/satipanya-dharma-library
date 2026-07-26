@@ -73,7 +73,7 @@ CHAPTERS_DIR  = PROJECT_DIR / "chapters"
 LOGO_PATH     = PROJECT_DIR / "assets" / "logo-left.png"
 
 OPUS_MODEL    = "claude-opus-4-5"         # substantive reasoning
-SONNET_MODEL  = "claude-sonnet-4-20250514"  # bulk relevance screening
+SONNET_MODEL  = "claude-sonnet-4-6"  # bulk relevance screening
 
 # Collections dont l'auteur est Bhante Bodhidhamma
 BHANTE_COLLECTIONS = [

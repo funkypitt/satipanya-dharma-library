@@ -42,13 +42,15 @@ PROJECT_DIR = Path(__file__).parent
 CATALOG_PATH = PROJECT_DIR / "catalog.json"
 METADATA_DIR = PROJECT_DIR / "metadata"
 ARTICLES_DIR = PROJECT_DIR / "articles"
+CHAPTERS_DIR = PROJECT_DIR / "chapters"
 BOOKS_DIR    = PROJECT_DIR / "site" / "books"
 
 ANALYSIS_PATH   = PROJECT_DIR / "book_analysis.json"
 SELECTION_PATH  = PROJECT_DIR / "book_selection.json"
 STRUCTURE_PATH  = PROJECT_DIR / "book_structure.json"
+BOOK_BASENAME   = "bhante-bodhidhamma"
 
-CLAUDE_MODEL = "claude-sonnet-4-20250514"
+CLAUDE_MODEL = "claude-opus-4-5"
 
 # Séries à inclure dans le livre curé
 TARGET_FEEDS = ["dharma-talks", "youtube-talks", "dhammabytes"]
@@ -120,7 +122,40 @@ def load_metadata(feed_slug, stem):
     return {}
 
 
+# Index stem → chapter dir (built lazily)
+_CHAPTER_INDEX = None
+
+def _build_chapter_index():
+    """Construit un index stem → chemin refined_heavier.json à partir de chapters/."""
+    global _CHAPTER_INDEX
+    _CHAPTER_INDEX = {}
+    if not CHAPTERS_DIR.exists():
+        return
+    for base_json in CHAPTERS_DIR.glob("*/base.json"):
+        rh = base_json.parent / "refined_heavier.json"
+        if not rh.exists():
+            continue
+        with open(base_json) as f:
+            data = json.load(f)
+        source_id = data.get("source_id", "")
+        if "/" in source_id:
+            stem = source_id.split("/", 1)[1]
+            _CHAPTER_INDEX[stem] = rh
+    if _CHAPTER_INDEX:
+        print(f"  📖 {len(_CHAPTER_INDEX)} chapitres Opus-raffinés disponibles")
+
+
 def load_article(feed_slug, stem):
+    # Préférer le contenu Opus-raffiné du chapitre si disponible
+    if _CHAPTER_INDEX is None:
+        _build_chapter_index()
+    if stem in _CHAPTER_INDEX:
+        with open(_CHAPTER_INDEX[stem]) as f:
+            data = json.load(f)
+        paras = data.get("paragraphs", [])
+        if paras:
+            return "\n\n".join(paras)
+    # Fallback : article Sonnet depuis articles/
     path = ARTICLES_DIR / feed_slug / f"{stem}.txt"
     if path.exists():
         return path.read_text(encoding="utf-8").strip()
@@ -1555,7 +1590,7 @@ def pass_generate():
 
     # ── Générer le PDF ──
     print("\n  Génération du PDF...")
-    pdf_path = BOOKS_DIR / "bhante-bodhidhamma.pdf"
+    pdf_path = BOOKS_DIR / f"{BOOK_BASENAME}.pdf"
     n_pdf = _build_pdf(structure, ep_index, sel_index, analysis, pdf_path)
     if n_pdf:
         size_mb = pdf_path.stat().st_size / (1024 * 1024)
@@ -1563,7 +1598,7 @@ def pass_generate():
 
     # ── Générer l'EPUB ──
     print("\n  Génération de l'EPUB...")
-    epub_path = BOOKS_DIR / "bhante-bodhidhamma.epub"
+    epub_path = BOOKS_DIR / f"{BOOK_BASENAME}.epub"
     n_epub = _build_epub(structure, ep_index, sel_index, analysis, epub_path)
     if n_epub:
         size_mb = epub_path.stat().st_size / (1024 * 1024)
@@ -1571,7 +1606,7 @@ def pass_generate():
 
     # ── Générer le DOCX ──
     print("\n  Génération du DOCX...")
-    docx_path = BOOKS_DIR / "bhante-bodhidhamma.docx"
+    docx_path = BOOKS_DIR / f"{BOOK_BASENAME}.docx"
     n_docx = _build_docx(structure, ep_index, sel_index, analysis, docx_path)
     if n_docx:
         size_mb = docx_path.stat().st_size / (1024 * 1024)
@@ -1776,7 +1811,7 @@ def _build_epub(structure, ep_index, sel_index, analysis, output_path):
     book_subtitle = "Selected Talks on Vipassana, the Noble Eightfold Path, and the Way to Liberation"
 
     book = epub.EpubBook()
-    book.set_identifier("satipanya-bhante-bodhidhamma-curated")
+    book.set_identifier(f"satipanya-{BOOK_BASENAME}-curated")
     book.set_title(f"{book_title}")
     book.set_language("en")
     book.add_author("Bhante Bodhidhamma")
@@ -2225,17 +2260,45 @@ PASSES = {
 
 
 def main():
-    if len(sys.argv) < 2 or sys.argv[1] not in PASSES:
-        print("Usage : python build_bhante_book.py <pass>")
+    global SELECTION_PATH, STRUCTURE_PATH, BOOK_BASENAME
+
+    # Parse --version / -v flag (e.g. --version v3)
+    args = sys.argv[1:]
+    version = None
+    filtered = []
+    i = 0
+    while i < len(args):
+        if args[i] in ("--version", "-v") and i + 1 < len(args):
+            version = args[i + 1]
+            i += 2
+        else:
+            filtered.append(args[i])
+            i += 1
+
+    if not filtered or filtered[0] not in PASSES:
+        print("Usage : python build_bhante_book.py <pass> [--version VERSION]")
         print(f"Passes disponibles : {', '.join(PASSES.keys())}")
         print()
         print("  analyze  — Classification thématique (Claude API)")
         print("  select   — Sélection des 80-120 meilleurs talks (Claude API)")
         print("  organize — Structuration en Parties/Chapitres (Claude API)")
         print("  generate — Production PDF + EPUB (WeasyPrint + ebooklib)")
+        print()
+        print("  --version V  Utilise book_selection_V.json / book_structure_V.json")
+        print("               et produit bhante-bodhidhamma-V.pdf/.epub/.docx")
         sys.exit(1)
 
-    PASSES[sys.argv[1]]()
+    if version:
+        SELECTION_PATH = PROJECT_DIR / f"book_selection_{version}.json"
+        STRUCTURE_PATH = PROJECT_DIR / f"book_structure_{version}.json"
+        BOOK_BASENAME  = f"bhante-bodhidhamma-{version}"
+        print(f"  📖 Version : {version}")
+        print(f"     Selection : {SELECTION_PATH.name}")
+        print(f"     Structure : {STRUCTURE_PATH.name}")
+        print(f"     Output    : {BOOK_BASENAME}.*")
+        print()
+
+    PASSES[filtered[0]]()
 
 
 if __name__ == "__main__":

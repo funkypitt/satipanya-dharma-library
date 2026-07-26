@@ -1,0 +1,1344 @@
+1
+00:00:17,614 --> 00:00:18,496
+Good evening.
+
+2
+00:00:18,516 --> 00:00:20,600
+I trust you've had a fruitful day.
+
+3
+00:00:20,920 --> 00:00:23,946
+I do not say happy, though I hope it has been happy.
+
+4
+00:00:23,986 --> 00:00:40,517
+Namo Tassa Bhagavato Arahato Sambha Sambhudassa Namo Tassa Bhagavato Arahato Sambha Sambhudassa
+
+5
+00:00:41,357 --> 00:01:05,560
+Namo tassa bhagavato arahato samma sambuddhasa homage to the buddha the blessed noble and fully self-awakened one there is um necessarily a lot of repetition in the scriptures partly because of the um
+
+6
+00:01:06,299 --> 00:01:08,361
+tradition of remembering it by heart.
+
+7
+00:01:08,382 --> 00:01:13,409
+So there's repetitious phrases, set pieces, et cetera.
+
+8
+00:01:13,430 --> 00:01:17,436
+But there are also, there's a lot of repetition in terms of the doctrine.
+
+9
+00:01:18,597 --> 00:01:28,834
+And there are slight nuances as you go through the scriptures, but I've chosen to have a look at the shorter discourse to Satyaka.
+
+10
+00:01:28,853 --> 00:01:35,022
+And the discourse is around the five aggregates, which is the body,
+
+11
+00:01:35,272 --> 00:01:50,796
+feelings, perceptions, concepts, volitional formations, habits of thought, habits of speech, habits of the body, and of course consciousness, which is the screen upon which everything arises.
+
+12
+00:01:51,477 --> 00:01:55,164
+And the question is, is this a self or is it not a self?
+
+13
+00:01:55,183 --> 00:01:58,108
+So the Buddha's arguments are always about control,
+
+14
+00:01:58,527 --> 00:02:01,859
+If it is me, then I should control it.
+
+15
+00:02:01,879 --> 00:02:05,313
+So can you say to the body, be bigger, be smaller, etc.
+
+16
+00:02:04,953 --> 00:02:05,313
+?
+
+17
+00:02:05,885 --> 00:02:10,050
+And it's the same with feelings, perceptions, your habits.
+
+18
+00:02:10,150 --> 00:02:12,413
+Are you absolutely in control of your habits?
+
+19
+00:02:12,693 --> 00:02:13,653
+And so on.
+
+20
+00:02:13,674 --> 00:02:14,735
+So it's about control.
+
+21
+00:02:15,056 --> 00:02:20,241
+And then the next question is, is it permanent or impermanent?
+
+22
+00:02:20,322 --> 00:02:23,425
+So the soul of something everlasting is meant to be permanent.
+
+23
+00:02:23,506 --> 00:02:25,427
+So it's obviously impermanent.
+
+24
+00:02:25,448 --> 00:02:27,610
+If it's impermanent, is it satisfactory?
+
+25
+00:02:28,010 --> 00:02:29,293
+No, it's not satisfactory.
+
+26
+00:02:29,272 --> 00:02:43,647
+So there's always those three characteristics whereby he gives us a critique for looking at if there is anything in us which is permanent, which doesn't die, etc.
+
+27
+00:02:44,008 --> 00:02:49,054
+He says there is, but he continues to say it's not a self, okay?
+
+28
+00:02:49,313 --> 00:02:53,237
+So this, of course, is very confusing for people, confusing for us.
+
+29
+00:02:53,679 --> 00:02:57,002
+So now we went through all that, if you remember at the beginning, those of you who
+
+30
+00:02:57,455 --> 00:03:01,348
+who slogged through the days with me.
+
+31
+00:03:02,432 --> 00:03:09,337
+The reason I've chosen this is because it gives us some hints of the debates that went on at the time.
+
+32
+00:03:09,671 --> 00:03:12,316
+and possibly the way people talked about them.
+
+33
+00:03:12,717 --> 00:03:15,762
+Now, you know, this is Chinese whispers.
+
+34
+00:03:16,102 --> 00:03:23,854
+There was probably some small original conversation between the Buddha and Satyaka.
+
+35
+00:03:24,175 --> 00:03:28,542
+Maybe there was an audience at the shrine.
+
+36
+00:03:29,483 --> 00:03:35,551
+maybe quite a lot of people, and it would have been perhaps a little bit...
+
+37
+00:03:38,235 --> 00:03:41,641
+Some of the speakers would attack you like they do today.
+
+38
+00:03:42,402 --> 00:03:44,847
+Some of them would be subtle, trying to undermine you.
+
+39
+00:03:45,967 --> 00:03:51,355
+Some people come up with all sorts of ways of tricking you into believing that they were right.
+
+40
+00:03:52,117 --> 00:03:56,283
+And one of the tricks he uses, of course, is to appeal to the majority.
+
+41
+00:03:56,264 --> 00:03:59,868
+So we say, well, I'm right because everybody else is right.
+
+42
+00:04:00,149 --> 00:04:06,896
+Because of, you know, 1,000 people in this room, 501 agree with me.
+
+43
+00:04:06,956 --> 00:04:08,038
+Therefore, I must be right.
+
+44
+00:04:08,558 --> 00:04:11,984
+But as Gandhi pointed out, the truth can be in a minority of one.
+
+45
+00:04:12,584 --> 00:04:14,866
+So let's see what happens here.
+
+46
+00:04:16,408 --> 00:04:21,815
+So the Blessed One was at the moment staying at Vesali in the great wood in the hall of the peaked roof.
+
+47
+00:04:23,180 --> 00:04:25,603
+And on that occasion, Satyaka, the Niganta's son.
+
+48
+00:04:26,064 --> 00:04:31,151
+Now, Niganta was the name that was given to the Jains.
+
+49
+00:04:32,473 --> 00:04:37,298
+It means without ties, having freed from all ties.
+
+50
+00:04:37,759 --> 00:04:39,322
+So it sounds a bit like Nibbana.
+
+51
+00:04:40,322 --> 00:04:45,370
+And the leader was called Nataputta, the son of Nata.
+
+52
+00:04:45,389 --> 00:04:47,031
+And this is his son, Satyaka.
+
+53
+00:04:48,093 --> 00:04:52,038
+And he was a debater and a clever speaker regarded by many as a saint.
+
+54
+00:04:53,302 --> 00:04:56,867
+He was making a statement before the Vesali assembly.
+
+55
+00:04:57,329 --> 00:05:00,535
+So Vesali was an oligarchy ruled by nobles.
+
+56
+00:05:02,517 --> 00:05:16,002
+I see no recluse or Brahmin, the head of an order, the head of a group, a teacher of a group, even one claiming to be accomplished and fully enlightened, who would not shake, shiver, tremble and sweat under the armpits if he were to engage in debate with me.
+
+57
+00:05:17,617 --> 00:05:25,930
+Even if I were to engage with a senseless post, it would shake, shiver and tremble if it were to engage in a debate with me.
+
+58
+00:05:26,232 --> 00:05:27,733
+So what shall I say of a human being?
+
+59
+00:05:28,896 --> 00:05:31,480
+So the venerable Asaji was hanging around.
+
+60
+00:05:31,519 --> 00:05:33,382
+Asaji was one of the
+
+61
+00:05:33,598 --> 00:05:38,286
+Disciples of the, sorry, companions of the Buddha, one of the five companions.
+
+62
+00:05:38,786 --> 00:05:41,370
+And he's the one who Sariputta met.
+
+63
+00:05:41,971 --> 00:05:45,677
+And when Sariputta asked him, what does your teacher teach?
+
+64
+00:05:46,117 --> 00:05:50,404
+He said, for everything that happens, there must be a cause.
+
+65
+00:05:50,485 --> 00:05:52,968
+And that's what drew Sariputta towards the Buddha.
+
+66
+00:05:53,408 --> 00:05:57,295
+So he's quite a famous monk and fully liberated, yeah?
+
+67
+00:05:59,113 --> 00:06:14,687
+Now, Asachika and Egantha's son was walking and wandering for exercise, he saw the venerable Asaji and made a courteous and amiable talk and stood to one side and said, how does the recluse Gautama discipline his disciples?
+
+68
+00:06:15,067 --> 00:06:19,651
+And how is the recluse Gautama's instruction usually presented to his disciples?
+
+69
+00:06:20,411 --> 00:06:28,158
+So here Asaji explains, you know, the body, feelings, thoughts, et cetera, and not self.
+
+70
+00:06:29,725 --> 00:06:34,029
+If this is what the recluse Gautama asserts, we hear indeed what is disagreeable.
+
+71
+00:06:34,290 --> 00:06:36,211
+This is what Sachika says.
+
+72
+00:06:36,232 --> 00:06:39,795
+Perhaps sometime or other we might meet Master Gautama and have some conversation with him.
+
+73
+00:06:40,055 --> 00:06:42,819
+Perhaps we might detach him from this evil view.
+
+74
+00:06:44,141 --> 00:06:50,026
+So at that time, 500 lichavis had met together in the assembly hall for some business or other.
+
+75
+00:06:50,648 --> 00:06:54,911
+And Sachika and the Ganta's son went to them and said, come forth, good lichavis, come forth.
+
+76
+00:06:54,971 --> 00:06:59,276
+Today there will be some conversation between me and the recluse Gautama.
+
+77
+00:06:59,779 --> 00:07:21,737
+If the recluse Gautama maintains before me what he maintains before me, what was maintained before me by one of his famous disciples, the Bhikkhu named Asajib, then just as a strong man might seize a long-haired ram by the hair and drag him to and drag him fro and drag him round about, so in debate I shall drag the recluse Gautama to and drag him about
+
+78
+00:07:22,730 --> 00:07:34,285
+And just as a strong brewer's workman might throw a big brewer's sieve into a deep water tank and taking it by the corners, drag it to drag it, throw, drag it around.
+
+79
+00:07:35,086 --> 00:07:40,752
+So in a debate, I shall drag this recluse Gautama to and drag him through and so on.
+
+80
+00:07:41,434 --> 00:07:50,425
+And and just as a brewer's mixer might take a strainer by the corners and shake it down and shake it up and thump it about.
+
+81
+00:07:50,894 --> 00:08:20,596
+so in debate i will shake the recluse gotama down and shake him about and thump him about and just as a 60 year old elephant might plunge into a deep pond and enjoy playing the game of hemp washing i don't know what that is so i shall enjoy playing the game of hemp washing with the recluse but we can say it's rather nasty so come forward with charlie's follow me so thereupon they all they all wander off you see uh to to have to see this debate and they all meet and
+
+82
+00:08:20,898 --> 00:08:39,615
+in the in the hall of the peak group uh in the great wood where of course the buddha was so um so there was a number of uh buddhist monks there and he he asks them where he's staying so he enters into the wood and uh
+
+83
+00:08:39,950 --> 00:08:52,332
+And then together with a large, this large following of Licchavis, they approached the Buddha and they exchanged greetings, et cetera, sat down to one side, some kept silent and so on.
+
+84
+00:08:52,352 --> 00:09:02,312
+Now when Satyaka, the Niganta's son, had sat down, he said to the Blessed One, I would like to question Master Gautama on a certain point, if Master Gautama would grant me the favour of an answer to the question.
+
+85
+00:09:02,477 --> 00:09:05,360
+Ask what you like, Ajivisena.
+
+86
+00:09:05,480 --> 00:09:07,442
+Now, Ajivisena was his clan name.
+
+87
+00:09:07,462 --> 00:09:08,964
+Sorry, Ajivisena.
+
+88
+00:09:09,423 --> 00:09:10,544
+That was his clan name.
+
+89
+00:09:10,666 --> 00:09:16,250
+So Siddhartha was his first name.
+
+90
+00:09:16,791 --> 00:09:19,394
+And then Gautama is his family name.
+
+91
+00:09:19,653 --> 00:09:24,177
+And Sakya is the clan or the tribe or whatever you want to call it.
+
+92
+00:09:24,238 --> 00:09:29,682
+So this Satchika belonged to the Ajivisena clan.
+
+93
+00:09:30,322 --> 00:09:33,385
+How does the Master Gautama discipline his disciples?
+
+94
+00:09:33,466 --> 00:09:33,706
+How?
+
+95
+00:09:34,226 --> 00:09:35,288
+What's his instruction?
+
+96
+00:09:35,589 --> 00:09:36,870
+How does he usually present it?
+
+97
+00:09:37,890 --> 00:09:43,599
+This is how I discipline my disciples, as you were saying, and this is how my instruction is usually presented.
+
+98
+00:09:44,119 --> 00:09:47,442
+And then he goes through a material form.
+
+99
+00:09:47,503 --> 00:09:48,684
+The body is impermanent.
+
+100
+00:09:48,745 --> 00:09:49,865
+Feeling is impermanent.
+
+101
+00:09:51,427 --> 00:09:53,270
+Material form is not self.
+
+102
+00:09:53,650 --> 00:09:56,835
+Feeling is not self, et cetera, et cetera.
+
+103
+00:09:57,440 --> 00:10:23,548
+or all formations are impermanent etc so this is the way i teach a similarly occurs to me master gotama explain how it occurs to you just as when seeds and plants whatever their kind reach growth increase and maturation all do so dependent on the earth based on the earth and just as when strenuous works whatever their kind are done
+
+104
+00:10:23,831 --> 00:10:28,378
+All are done in dependence upon the earth, based on the earth.
+
+105
+00:10:28,398 --> 00:10:33,144
+So too, Gautama, a person has material form as self.
+
+106
+00:10:33,163 --> 00:10:37,269
+Based upon material form, he produces merit and demerit.
+
+107
+00:10:37,931 --> 00:10:43,879
+A person has feeling as self, and based upon feeling, he produces merit or demerit.
+
+108
+00:10:43,999 --> 00:10:49,265
+And so the same with perception, same with formations, and the same with consciousness.
+
+109
+00:10:51,220 --> 00:10:53,623
+Adjibisena, are you not asserting this?
+
+110
+00:10:54,563 --> 00:10:56,105
+Material form is myself.
+
+111
+00:10:56,345 --> 00:10:58,408
+Material feeling is myself.
+
+112
+00:10:58,827 --> 00:11:00,129
+Formations, consciousness.
+
+113
+00:11:00,850 --> 00:11:02,312
+I assert thus, Master Gautama.
+
+114
+00:11:02,471 --> 00:11:03,894
+Material form is myself.
+
+115
+00:11:04,533 --> 00:11:05,534
+Consciousness and so on.
+
+116
+00:11:06,395 --> 00:11:08,197
+And so does this great multitude.
+
+117
+00:11:09,419 --> 00:11:12,462
+What has this great multitude to do with you, Adjibisena?
+
+118
+00:11:12,702 --> 00:11:15,525
+Please confine yourself to your own assertions.
+
+119
+00:11:17,168 --> 00:11:18,028
+I'll put him down a bit.
+
+120
+00:11:19,190 --> 00:11:21,091
+Then, Master Gautama, I assert thus.
+
+121
+00:11:21,528 --> 00:11:23,630
+Material form is self and so forth.
+
+122
+00:11:23,792 --> 00:11:27,518
+In that case, Adjutena, I shall ask you a question in return.
+
+123
+00:11:27,717 --> 00:11:28,679
+Answer as you choose.
+
+124
+00:11:28,799 --> 00:11:30,162
+What do you think, Adjutena?
+
+125
+00:11:31,043 --> 00:11:46,809
+Would a head anointed noble king such as King Pasenadi of Kosala exercise the power in his realm to execute those who should be executed, find those who should be fined and banish those who should be banished?
+
+126
+00:11:47,481 --> 00:11:58,057
+Master Gostomar, a head anointed king, such as King Pasenari of Kosala, would exercise that power for even communities and societies such as the Bagians.
+
+127
+00:11:58,077 --> 00:12:05,570
+So remember, there were groups of people who were oligarchs, ruled by nobles, a sort of democracy.
+
+128
+00:12:06,551 --> 00:12:13,422
+And the Melians exercised the same power to execute and fine and banish in their own kingdom.
+
+129
+00:12:14,261 --> 00:12:39,881
+uh so so obviously an uh a head anointed noble king would do so so what do you think i should be saying now when you say material form the body do you exercise any such power over that form let let this body be like this let this body be like that now when this was said sachika and the negantha's son was silent
+
+130
+00:12:41,059 --> 00:13:08,839
+a second time the the blessed one asked the same question and the second time the neganta's son was silent then the blessed one said answer now now is not the time to be silent if anyone when asked a reasonable question up to a third time by the targeter in other words by somebody who's self awakened still does not answer his head splits into seven pieces there and then now on that occasion
+
+131
+00:13:09,004 --> 00:13:34,184
+A thunderbolt-wielding spirit, holding an iron thunderbolt that burned, blazed and glowed, appeared in the air above Satyaka, the Nigantha's son, thinking, if this Satyaka, the Nigantha's son, when asked a reasonable question up to the third time by the Blessed One, still does not answer, I shall split his head into seven pieces here and now.
+
+132
+00:13:35,025 --> 00:13:41,796
+The Blessed One saw the thunderbolt wielding spirit and so did Satyaka, the Nagantha's son.
+
+133
+00:13:42,116 --> 00:13:46,283
+Then Satyaka, the Nagantha's son, was frightened, alarmed and terrified.
+
+134
+00:13:47,144 --> 00:13:54,434
+Seeking his shelter, asylum and refuge in the Blessed One, he said, ask me the question, Master Gautama, and I will answer.
+
+135
+00:13:55,798 --> 00:14:03,831
+So what do you think, Adjivisena, when you say thus, material form is myself, do you exercise any such power over that form?
+
+136
+00:14:03,850 --> 00:14:07,556
+Such as you can say, let my body be like this, let my body be like that.
+
+137
+00:14:08,096 --> 00:14:10,100
+No, Master Gautama.
+
+138
+00:14:10,541 --> 00:14:12,283
+Pay attention, Adjivisena.
+
+139
+00:14:13,085 --> 00:14:14,606
+Pay attention how you reply.
+
+140
+00:14:14,767 --> 00:14:22,217
+What you said before does not agree with what you said afterwards, nor does what you said afterwards agree with what you said before.
+
+141
+00:14:22,839 --> 00:14:25,602
+What do you think, Adjivisena, when you say this?
+
+142
+00:14:25,870 --> 00:14:52,366
+feeling is myself do you exercise any power no master gotama pay attention so he goes all the way through the uh the five candles perception uh and consciousness uh pay attention how do you reply what you said before does not agree and so on and so forth now what do you think actually say now is material form permanent or impermanent
+
+143
+00:14:52,717 --> 00:15:17,746
+impermanent master gotama and is what is impermanent suffering or happiness suffering master gotama is what is impermanent suffering and subject to change fit to be regarded as this is mine this i am this is myself no master gotama okay so he's he's uh he's and then he's giving in you see is what is impermanent suffering or happiness
+
+144
+00:15:18,537 --> 00:15:20,318
+Suffering Master Gautama.
+
+145
+00:15:20,639 --> 00:15:22,201
+Now, what do you think Ajiv is saying now?
+
+146
+00:15:22,701 --> 00:15:31,893
+When one adheres to suffering, in other words, with wrong view, resorts to suffering, holds to suffering, and regards what is suffering thus.
+
+147
+00:15:32,332 --> 00:15:36,498
+So you can always substitute suffering for what is unsatisfactory.
+
+148
+00:15:38,120 --> 00:15:40,241
+This is mine, this I am, this is myself.
+
+149
+00:15:40,381 --> 00:15:46,889
+Could one ever fully understand suffering oneself or abide with suffering utterly destroyed?
+
+150
+00:15:47,360 --> 00:15:49,462
+How could one, Master Gautama?
+
+151
+00:15:49,482 --> 00:15:50,563
+It's a bit deflated now.
+
+152
+00:15:50,644 --> 00:15:51,826
+No, Master Gautama.
+
+153
+00:15:53,989 --> 00:15:55,190
+So what do you think Ajiv is saying?
+
+154
+00:15:55,210 --> 00:16:02,278
+That being so, do you not adhere to suffering, resort to suffering, hold to suffering and regard what is suffering thus?
+
+155
+00:16:02,359 --> 00:16:04,701
+This is mine, this I am, this is myself.
+
+156
+00:16:06,283 --> 00:16:08,147
+Oh, how could I not, Master Gautama?
+
+157
+00:16:08,226 --> 00:16:08,586
+Yes.
+
+158
+00:16:08,748 --> 00:16:13,013
+So in other words, he's now really, he's almost fully capitulated.
+
+159
+00:16:14,730 --> 00:16:17,546
+So then the Buddha likes his similes.
+
+160
+00:16:18,530 --> 00:16:20,320
+And a man kneading hardwood.
+
+161
+00:16:20,340 --> 00:16:22,210
+So that's right in the middle of the tree.
+
+162
+00:16:22,543 --> 00:16:51,859
+uh enters with an axe and so forth and then he would cut down the root cut off the crown and went on and then he would go uh unrolling the the leaf sheaths he would never come even to any sapwood let alone the heartwood so to adjivisena when you are pressed questioned and cross-questioned by me about your own assertion you turn out to be empty vacant and mistaken but it was you who made this statement before the vesali assembly and then he
+
+163
+00:16:52,462 --> 00:17:00,671
+Then he quotes him saying that, you know, I see no recluse, etc., even one claiming to be accomplished.
+
+164
+00:17:00,951 --> 00:17:06,317
+Who would not shake, shiver, tremble and sweat under the armpits if he were to engage in debate with me?
+
+165
+00:17:06,978 --> 00:17:11,702
+So poor old Satchikas really make having to eat his words.
+
+166
+00:17:13,324 --> 00:17:21,593
+Now, said the Buddha, now there are drops of sweat on your forehead and they have soaked through to your upper robe and fallen to the ground.
+
+167
+00:17:21,876 --> 00:17:23,799
+But there's no sweat on my body now.
+
+168
+00:17:24,260 --> 00:17:28,708
+And the Blessed One uncovered his golden covered body before the assembly.
+
+169
+00:17:29,288 --> 00:17:38,943
+And when this was said, Satyaka, the Nagantha's son, sat silent, dismayed, with shoulders drooping and head down, glum and without response.
+
+170
+00:17:41,568 --> 00:17:44,913
+So I think we can presume a little storytelling here, eh?
+
+171
+00:17:47,205 --> 00:17:49,569
+Then Dhumaka joins in.
+
+172
+00:17:49,631 --> 00:17:52,936
+So he's one of, he's a lichavi and he says he's got a simile.
+
+173
+00:17:53,057 --> 00:17:54,619
+So the Buddha says, let's explain it.
+
+174
+00:17:55,320 --> 00:17:58,688
+He says, suppose not far from a village or town there was a pond with a crab.
+
+175
+00:17:59,087 --> 00:18:04,598
+And then a party of boys and girls went out to the town and village to the pond and went into the water and pulled the crab out.
+
+176
+00:18:05,299 --> 00:18:10,529
+And when the crab extended a leg, they cut it off, broke it and smashed it with sticks and stones.
+
+177
+00:18:10,662 --> 00:18:15,769
+So the crab, with all its legs cut off, broken and smashed, would not be able to get back into the pond.
+
+178
+00:18:16,431 --> 00:18:25,344
+So, too, all Satyaka and Igantha's son's contortions, writings and vacillations have been cut off, broken and smashed by the Blessed One.
+
+179
+00:18:25,364 --> 00:18:29,390
+And now he cannot get near the Blessed One again for the purpose of debate.
+
+180
+00:18:29,790 --> 00:18:33,195
+So he's been thoroughly, thoroughly shamed.
+
+181
+00:18:35,179 --> 00:18:38,964
+So he said, so Satyaka then turns to him and says, wait, do regard, wait.
+
+182
+00:18:39,383 --> 00:18:42,287
+we're not speaking with you, we're speaking with the Master Gautama.
+
+183
+00:18:45,632 --> 00:18:51,358
+Let that talk of ours be, Master Gautama, like that of ordinary recluses and Brahmins.
+
+184
+00:18:51,378 --> 00:18:52,280
+It was mere prattle.
+
+185
+00:18:52,641 --> 00:18:59,810
+So he's now dismissing the whole discourse or conversation he had with the Buddha as simple prattle.
+
+186
+00:19:00,913 --> 00:19:08,563
+But in the way that a disciple of the recluse, one who carries out his instruction, who responds to his advice and who has crossed beyond doubt, beyond
+
+187
+00:19:08,897 --> 00:19:18,608
+become free of perplexity, gain intrepidity, and become independent of the teacher's dispensation.
+
+188
+00:19:20,592 --> 00:19:37,250
+So, sorry, he's asked the question, in what way does a disciple who carries out the instruction, responds to the advice, crossed beyond doubt, become free from perplexity, become independent of others in the teacher's dispensation?
+
+189
+00:19:37,821 --> 00:20:06,968
+so now the buddha simply goes through the usual so any kind of material form past present etc is not self not me not mine in what way does a bhikkhu so this is against asking in what way is a bhikkhu an arahat with tanks destroyed who has lived the holy life done what had to be done laid down the bird reached the true goal destroyed the fetters of being and is completely liberated through final knowledge
+
+190
+00:20:07,336 --> 00:20:13,730
+And here Ajiv Sena, so this is the Buddha answering, any kind, so off he goes again.
+
+191
+00:20:15,355 --> 00:20:21,410
+He does it by recognizing that everything that we think we are is not us.
+
+192
+00:20:21,690 --> 00:20:25,799
+So there's no self to be found in this psychophysical organism.
+
+193
+00:20:30,201 --> 00:20:44,160
+So then he says, the Buddha says, it is in this way that the bhikkhu is an arahat with tanks destroyed, one who's lived the holy life, done what had to be done and been liberated through final knowledge.
+
+194
+00:20:46,974 --> 00:20:51,601
+When a bhikkhu's mind is thus liberated, he possesses three unsurpassable qualities.
+
+195
+00:20:51,701 --> 00:20:54,684
+Unsurpassable vision, that's meant to be nirvana.
+
+196
+00:20:54,825 --> 00:20:56,567
+Unsurpassable practice of the way.
+
+197
+00:20:56,907 --> 00:21:01,933
+So in other words, he knows how he got there and the path to liberation.
+
+198
+00:21:01,953 --> 00:21:06,720
+And unsurpassable deliverance, that he won't return back to the ordinary life.
+
+199
+00:21:07,500 --> 00:21:13,548
+When a bhikkhu is thus honoured, he still honours and reveres and venerates the Tathagata.
+
+200
+00:21:13,568 --> 00:21:16,813
+So he still venerates me as the blessed one.
+
+201
+00:21:17,096 --> 00:21:20,901
+The Blessed One is enlightened and teaches the Dharma for the sake of enlightenment.
+
+202
+00:21:21,061 --> 00:21:25,185
+The Blessed One is tamed and teaches the Dharma for taming oneself.
+
+203
+00:21:25,606 --> 00:21:29,570
+The Blessed One is at peace and teaches the Dharma for the sake of peace.
+
+204
+00:21:29,590 --> 00:21:33,296
+The Blessed One has crossed over and he teaches the Dharma for crossing over.
+
+205
+00:21:33,715 --> 00:21:36,479
+This is crossing over to the island.
+
+206
+00:21:36,680 --> 00:21:42,125
+And the Blessed One has attained Nibbana and he teaches Dharma for the attaining of Nibbana.
+
+207
+00:21:42,510 --> 00:21:50,701
+Now, when this was said, Sachika replied, Master Gautama, we were bold and impudent in thinking we could attack Master Gautama in debate.
+
+208
+00:21:51,541 --> 00:22:00,113
+A man might attack a mad elephant and find safety, yet he could not attack Master Gautama and find safety.
+
+209
+00:22:00,834 --> 00:22:08,383
+A man might attack a blazing mass of fire and find safety, yet he could not attack Master Gautama and find safety.
+
+210
+00:22:08,818 --> 00:22:16,750
+A man might attack a terrible poisonous snake and find safety, yet he could not attack Master Gautama and find safety.
+
+211
+00:22:17,151 --> 00:22:21,958
+We were bold and impudent in thinking we could attack Master Gautama in debate.
+
+212
+00:22:22,740 --> 00:22:24,102
+So final capitulation.
+
+213
+00:22:24,501 --> 00:22:29,730
+So he says, let the Blessed One come with the Sangha of Bhikkhus and consent to a meal tomorrow.
+
+214
+00:22:31,297 --> 00:22:51,313
+and so he then turns to the chavis this is uh the neganthus son sachika and says you know bring along food for the for the feast you see and then there's a lovely bit at the end in the morning of course the blessed one dresses takes his bowl and makes his way to where the meal is in the uh at the head of a group of monks
+
+215
+00:22:51,782 --> 00:23:04,157
+And Satyaka Niganta's son took a low seat, sat by the side, said to the Blessed One, Master Gautama, may the merit and the great meritorious fruits of this act of giving be for the happiness of the givers.
+
+216
+00:23:04,917 --> 00:23:06,480
+So that's mainly the Licchavis.
+
+217
+00:23:07,101 --> 00:23:18,253
+And Ajivisena, the Buddha replies, whatever comes about from giving to a recipient such as yourself, one who is not free from lust, not free from hatred, not free from delusion.
+
+218
+00:23:18,795 --> 00:23:20,777
+So remember, he was thought of as a saint.
+
+219
+00:23:21,247 --> 00:23:45,751
+that will be for the givers and whatever comes about from giving to a recipient such as myself one who is free from lust free from hate free from delusion that will be for you so he's he's saying that uh he there's a special merit that will accrue to satchika because he's offered food to somebody who is completely liberated
+
+220
+00:23:46,103 --> 00:23:47,686
+So a nice little ending there.
+
+221
+00:23:48,808 --> 00:23:50,373
+Poor old Sachik has been humbled.
+
+222
+00:23:50,894 --> 00:23:52,617
+He was, what was it now?
+
+223
+00:23:52,679 --> 00:24:00,096
+He was sitting very glum and dejected and he's finally lifted up out of it, recognized his mistake.
+
+224
+00:24:01,695 --> 00:24:05,119
+and come to some pleasant ending with the Buddha.
+
+225
+00:24:05,500 --> 00:24:08,523
+So you have to take this as a pinch of salt.
+
+226
+00:24:08,683 --> 00:24:10,326
+It's a little bit of Buddhist propaganda.
+
+227
+00:24:11,066 --> 00:24:19,055
+The Buddha had these two sort of big groups that he would generally have to debate against.
+
+228
+00:24:19,194 --> 00:24:25,122
+First of all, the Brahmins and their position as
+
+229
+00:24:25,320 --> 00:24:52,019
+special priests and stuff like that and their beliefs and on the other side was the uh with the james you see so uh i can only hope this uh discourse has been at least some light relief uh we have been over some of the old um teachings there about not self uh and i can only hope that uh you will carry on your practice and become fully liberated sooner rather than later
+
+230
+00:24:53,603 --> 00:24:55,444
+so we can begin our practice.
+
+231
+00:25:09,181 --> 00:25:20,673
+Pudanku Jaini Dhamanku Jaini
+
+232
+00:25:26,340 --> 00:25:51,436
+SANGAM PUJAYI NAMO TASA VAGWATO ARAHATO SAMMA SAMBUDASA NAMO TASA VAGWATO ARAHATO SAMMA SAMBUDASA
+
+233
+00:25:52,278 --> 00:26:21,474
+Namo Tassa Bhagavato Agahato Sambha Sambhudasa Bodhansaranangacchami Dhammansaranangacchami Sanghansaranangacchami Dutiyampi Bodhansaranangacchami
+
+234
+00:26:22,078 --> 00:26:47,529
+Tuthiyampi Dhamam Saranam Gacchami Tuthiyampi Sangam Saranam Gacchami Tuthiyampi Bodham Saranam Gacchami Tuthiyampi Dhamam Saranam Gacchami
+
+235
+00:26:48,201 --> 00:27:13,128
+Kati Ampi Sanggang Saranam Gacchami Panati Pata Veramani Sikapada Samadhi Ami Adina Dana Veramani Sikapada Samadhi Ami
+
+236
+00:27:13,597 --> 00:27:22,290
+Kame sumi cacera, veramani sikapadam, samadhi ami.
+
+237
+00:27:23,132 --> 00:27:30,962
+Musa wada, veramani sikapadam, samadhi ami.
+
+238
+00:27:31,784 --> 00:27:41,157
+Sura meraya, maja pamadhatana, veramani sikapadam.
+
+239
+00:27:41,137 --> 00:28:02,318
+So we're making sure that our posture is that of the fully liberated one.
+
+240
+00:28:08,265 --> 00:28:11,127
+Now just that moment to lift the energy
+
+241
+00:28:12,121 --> 00:28:18,128
+Up from the lower back and abdomen, lifting up, up through the top of the head.
+
+242
+00:28:20,353 --> 00:28:22,434
+Gently, no strain.
+
+243
+00:28:22,476 --> 00:28:26,461
+And relaxing the brow.
+
+244
+00:28:26,500 --> 00:28:29,685
+Eyes gently closed.
+
+245
+00:28:33,049 --> 00:28:34,913
+Lips together, teeth apart.
+
+246
+00:28:38,397 --> 00:28:39,259
+Shoulders.
+
+247
+00:28:43,255 --> 00:28:44,376
+And hands on the lap.
+
+248
+00:28:49,945 --> 00:28:55,955
+Just acknowledging that posture, the energy running up the spine, everything else.
+
+249
+00:28:57,759 --> 00:29:04,230
+Relax.
+
+250
+00:29:04,250 --> 00:29:07,255
+This body is subject to disease.
+
+251
+00:29:10,880 --> 00:29:39,519
+This body is of a nature to fall ill This body has not gone beyond sickness This body is subject to aging This body is now in the process of aging
+
+252
+00:29:45,962 --> 00:29:49,346
+This body has not gone beyond aging.
+
+253
+00:29:56,875 --> 00:29:58,636
+This body is subject to death.
+
+254
+00:30:04,463 --> 00:30:06,885
+This body has not gone beyond death.
+
+255
+00:30:13,193 --> 00:30:15,395
+This body will die.
+
+256
+00:30:21,046 --> 00:30:27,895
+There is the unborn, undying, uncreated, uncompounded.
+
+257
+00:30:33,684 --> 00:30:34,766
+The unconditioned.
+
+258
+00:30:37,931 --> 00:30:40,295
+True refuge, harbour and home.
+
+259
+00:30:43,779 --> 00:30:45,923
+Perfect peace and contentment.
+
+260
+00:30:52,535 --> 00:30:56,279
+Those who are mindful are in the presence of Nirvana.
+
+261
+00:31:04,150 --> 00:31:11,799
+Waiting for the settlement and then opening up to whatever draws the attention within that field of awareness.
+
+262
+00:31:13,502 --> 00:31:19,150
+Just observing, just feeling, just experiencing.
+
+263
+00:31:21,744 --> 00:31:25,787
+Keeping awake that sense of curiosity.
+
+264
+00:31:28,702 --> 00:31:29,426
+That's enough.
+
+265
+01:05:38,099 --> 01:06:05,355
+A moment's reflection Resolution
+
+266
+01:06:22,750 --> 01:06:26,173
+So we can begin our evening contemplations.
+
+267
+01:06:33,061 --> 01:06:37,766
+So just speaking gently into our own hearts.
+
+268
+01:06:42,871 --> 01:06:45,534
+May I be free from physical pain.
+
+269
+01:06:49,565 --> 01:06:53,177
+May I be free from mental distress.
+
+270
+01:06:58,695 --> 01:07:01,887
+May I be liberated of all my sufferings.
+
+271
+01:07:38,840 --> 01:07:42,246
+Bringing to mind someone we know who's going through a hard time.
+
+272
+01:07:48,836 --> 01:07:51,400
+May you be free of physical pain.
+
+273
+01:07:58,393 --> 01:08:00,797
+May you be free of mental distress.
+
+274
+01:08:08,101 --> 01:08:10,516
+May you be liberated of all your suffering.
+
+275
+01:08:53,899 --> 01:08:58,225
+And for all those at this moment who are sick and or suffering from mental illness.
+
+276
+01:08:59,908 --> 01:09:06,197
+People in the process of dying and those who have died and left grieving family, relatives and friends.
+
+277
+01:09:08,000 --> 01:09:11,024
+People going hungry, homeless and destitute.
+
+278
+01:09:13,346 --> 01:09:17,672
+Those having to deal with severe personal and interpersonal difficulties.
+
+279
+01:09:19,735 --> 01:09:23,180
+All those caught up in wars and repressive regimes.
+
+280
+01:09:24,072 --> 01:09:50,603
+and those being tortured and there are those suffering from natural disasters and climate crisis all the sentient beings are being cruelly treated and unnecessarily slaughtered and all who find life painless may you be free of physical pain
+
+281
+01:09:56,792 --> 01:09:59,122
+May you be free of mental distress.
+
+282
+01:10:04,341 --> 01:10:06,869
+May you be liberated of all your sufferings.
+
+283
+01:10:40,110 --> 01:10:43,795
+offering our compassion to all beings in all directions.
+
+284
+01:10:44,536 --> 01:10:47,519
+May all beings be free of physical pain.
+
+285
+01:10:53,305 --> 01:10:55,967
+May all beings be free of mental distress.
+
+286
+01:11:02,494 --> 01:11:05,899
+May all beings be liberated of all their sufferings.
+
+287
+01:11:37,317 --> 01:11:42,962
+Bring to mind now some moments of joy, happiness that we've experienced today.
+
+288
+01:11:55,435 --> 01:11:56,555
+And rejoicing in that.
+
+289
+01:11:58,377 --> 01:11:59,720
+May I be joyful.
+
+290
+01:12:04,064 --> 01:12:06,126
+May my joyfulness increase.
+
+291
+01:12:11,488 --> 01:12:14,867
+May I experience the bliss of liberation.
+
+292
+01:12:48,967 --> 01:12:51,911
+Bring to mind someone we know is caused to be joyful.
+
+293
+01:12:51,970 --> 01:13:01,280
+May you be joyful.
+
+294
+01:13:04,783 --> 01:13:06,747
+May your joyfulness increase.
+
+295
+01:13:12,192 --> 01:13:14,875
+May you experience the bliss of awakening.
+
+296
+01:13:42,917 --> 01:14:05,904
+And all those at this moment who are happy and content with their lives, who enjoy the warmth of friendships, delight in art and nature, hobbies and so on, who find their work meaningful, who enjoy the fruitfulness of their spiritual lives and who rejoice in the success of others.
+
+297
+01:14:08,407 --> 01:14:09,667
+May you be joyful.
+
+298
+01:14:14,018 --> 01:14:15,886
+May your joyfulness increase.
+
+299
+01:14:21,509 --> 01:14:24,180
+May you experience the bliss of Nirvana.
+
+300
+01:14:51,261 --> 01:14:56,791
+Radiating our goodwill joy to all beings in all directions.
+
+301
+01:14:56,930 --> 01:14:59,815
+May all beings be joyful.
+
+302
+01:15:05,645 --> 01:15:07,507
+May your joyfulness increase.
+
+303
+01:15:13,979 --> 01:15:17,404
+May you experience the bliss of Nirvana.
+
+304
+01:15:42,157 --> 01:15:44,498
+I need words now to flow through us.
+
+305
+01:15:46,740 --> 01:15:59,854
+If you are wise and want to reach the state of peace, you need to be upright, responsible, gentle and humble, easily contented and need only a few things.
+
+306
+01:16:00,814 --> 01:16:04,438
+Not always be busy and have the right sort of work.
+
+307
+01:16:05,559 --> 01:16:08,502
+You need to guard the senses and be modest.
+
+308
+01:16:10,827 --> 01:16:14,953
+You do not have to be exclusively attached to only a few people.
+
+309
+01:16:16,255 --> 01:16:20,280
+You should not do the slightest thing that a wise person could blame you for.
+
+310
+01:16:21,502 --> 01:16:22,685
+Be always thinking.
+
+311
+01:16:22,784 --> 01:16:33,000
+May all beings be happy, whatever living beings there are, be they weak or strong, big or small, large or slender, living nearby or far away.
+
+312
+01:16:33,921 --> 01:16:37,006
+Those who've already been born and those who've yet to be born.
+
+313
+01:16:37,046 --> 01:16:39,670
+May all beings, without exception,
+
+314
+01:16:40,104 --> 01:16:40,786
+Be happy.
+
+315
+01:16:41,926 --> 01:16:46,390
+Be truthful to one another and do not think anyone anywhere is of no value.
+
+316
+01:16:47,231 --> 01:16:55,600
+Do not wish harm to anyone, even when you're angry, just as a mother would protect her only child at the risk of her own life.
+
+317
+01:16:55,619 --> 01:17:01,006
+So you should let the warmth of your heart go out to all beings.
+
+318
+01:17:01,025 --> 01:17:07,631
+Let your thoughts of love go through the whole world, above and below, without any barrier, with no ill will or hatred.
+
+319
+01:17:08,523 --> 01:17:16,755
+whether you're standing, walking, sitting, or lying down, so long as you are awake, develop this affectionate mindfulness.
+
+320
+01:17:18,377 --> 01:17:20,479
+This, they say, is the noblest way to live.
+
+321
+01:17:20,640 --> 01:17:37,724
+And if you do not fall into unskillful ways, but live well and develop insight, and are no longer attached to all the desires of the senses, then truly, you'll never need to be reborn into this world again.
+
+322
+01:17:37,743 --> 01:17:38,444
+So,
+
+323
+01:17:38,914 --> 01:17:46,386
+Please join me in the chant or if you wish, continue offering your goodwill using perhaps these traditional blessings.
+
+324
+01:17:47,067 --> 01:17:49,350
+May you be safe, well and happy.
+
+325
+01:17:49,930 --> 01:17:53,735
+May you live contented in harmony with the world.
+
+326
+01:17:56,199 --> 01:18:08,618
+Karaniyagatakusalena Yantang Santang Padang Gavisamecha Sakujucha Suhujucha
+
+327
+01:18:08,952 --> 01:18:38,064
+Suvacchocca samudu anattimani Santu sakoca subharoca Apacchocca salahukkavuti Santendroca nipakoca Apagabokkalesu ananuhido Nacchakutansamacchalekenshi E na venyu pare upavate
+
+328
+01:18:38,820 --> 01:19:01,807
+Sukhino vākemi noham tu Sābe satāpavāntu sukhi tātā Nāparo parāṅgni kubhē tā Nāti mānyatā kathā cilēṅ kañcī Vīyārosāṅ na pātigāsāṅ yā Nānyā mānyā sādukāṅ gīcchē yā
+
+329
+01:19:02,614 --> 01:19:29,516
+matāyātāniyāṁ pūṭhaṁ gāyūsāikā pūṭhaṁ gānurāke he vāṁpi sāvabhūteṣu manāsāṁ bhāvāye āparīmanāṁ me tencā sāvālokāsmiṁ manāsāṁ bhāvāye āparīmanāṁ udhāṁ adho cārthirīyaṁ ca
+
+330
+01:19:29,969 --> 01:19:33,833
+Asampatanga verangasapatam.
+
+331
+01:19:34,635 --> 01:19:43,167
+Tithancharanasinovasayanavayavatasavigatamido.
+
+332
+01:19:43,186 --> 01:19:50,355
+Heitansatingaditeyaprakmangetangviharangitamahu.
+
+333
+01:19:51,377 --> 01:19:58,186
+Ditinchaanupagamasilavadasanenasampano.
+
+334
+01:19:58,824 --> 01:20:11,434
+May all beings be happy.
+
+335
+01:20:12,088 --> 01:20:40,425
+I think I missed a bit of the chanting there, sorry about that.
+
+336
+01:20:40,927 --> 01:21:01,265
+must be tired so uh don't forget from now to fall asleep is also part of our practice and putting something quite lovely into the heart slipping away into sweet oblivion only to wake up in the morning to take full advantage of the day may you sleep peacefully
+

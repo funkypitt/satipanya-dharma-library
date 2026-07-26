@@ -41,7 +41,7 @@ REQUEST_HEADERS = {
 }
 REQUEST_DELAY = 1.0
 
-CLAUDE_MODEL = "claude-sonnet-4-20250514"
+CLAUDE_MODEL = "claude-sonnet-4-6"
 CLAUDE_MAX_TOKENS = 4096
 DESCRIPTION_DISCLAIMER = "\n\n(This description was generated automatically, inaccuracies may happen in the process.)"
 DESCRIPTION_MAX_CHARS = 3800

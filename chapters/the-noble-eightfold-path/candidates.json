@@ -2698,5 +2698,473 @@
   "tips_of_the_day/S05E57_Scientism_meets_Buddhism_Buddhadhamma": {
     "score": 2,
     "note": "Buddhist doctrine discussion but not path focus"
+  },
+  "tips_of_the_day/S05E58_What_is_our_basic_disposition_to_life": {
+    "score": 2,
+    "note": "Character types mentioned but no Eightfold Path discussion"
+  },
+  "tips_of_the_day/S05E59_Fear": {
+    "score": 4,
+    "note": "Buddhist path mentioned, relates to Right Understanding"
+  },
+  "tips_of_the_day/S05E60_Beauty": {
+    "score": 2,
+    "note": "General spiritual practice, no specific Path factors"
+  },
+  "tips_of_the_day/S05E61_The_Wisdom_of_Uncertainty": {
+    "score": 3,
+    "note": "Relates to Right Understanding but not explicitly"
+  },
+  "tips_of_the_day/S05E62_Patience": {
+    "score": 4,
+    "note": "Relates to Right Action and mental cultivation"
+  },
+  "tips_of_the_day/S05E63_Overcoming_the_Corruptions_of_Generosity": {
+    "score": 4,
+    "note": "Dāna practice relates to Right Action"
+  },
+  "tips_of_the_day/S05E64_The_World_is_in_a_terrible_state": {
+    "score": 3,
+    "note": "Wise action and mettā relate to Path"
+  },
+  "tips_of_the_day/S05E65_The_Treasure_of_Things": {
+    "score": 3,
+    "note": "Mindfulness practice relates to Right Mindfulness"
+  },
+  "tips_of_the_day/S05E66_Equanimity_Carl": {
+    "score": 5,
+    "note": "Vipassanā and equanimity relate to Right Mindfulness"
+  },
+  "tips_of_the_day/S05E67_The_years_where_do_they_go_New_Year_Encouragement_Noirin": {
+    "score": 3,
+    "note": "Meditation practice relates to Right Mindfulness"
+  },
+  "tips_of_the_day/S05E68_Understand_and_See_things_as_they_really_are": {
+    "score": 5,
+    "note": "Seeing reality relates to Right Understanding"
+  },
+  "tips_of_the_day/S05E69_Constant_Curiosity_Carl": {
+    "score": 6,
+    "note": "Vipassanā practice and Noble Truths directly mentioned"
+  },
+  "tips_of_the_day/S05E70_Kamma_Noirin": {
+    "score": 4,
+    "note": "Cause and effect relates to Right Understanding"
+  },
+  "tips_of_the_day/S05E71_Progress": {
+    "score": 5,
+    "note": "Buddha's path and ethical transformation mentioned"
+  },
+  "tips_of_the_day/S05E72_Who_Decides_Carl": {
+    "score": 4,
+    "note": "Anattā investigation relates to Right Understanding"
+  },
+  "tips_of_the_day/S05E73_Delusion_caring_for_illusion": {
+    "score": 4,
+    "note": "Anattā teaching relates to Right Understanding"
+  },
+  "tips_of_the_day/S05E74_The_world_is_not_in_a_good_place": {
+    "score": 3,
+    "note": "Buddhist principles and skillful action mentioned"
+  },
+  "tips_of_the_day/S05E75_Happy_New_Year": {
+    "score": 8,
+    "note": "Right Resolve from Noble Eightfold Path explicitly discussed"
+  },
+  "tips_of_the_day/S05E76_Sickness": {
+    "score": 5,
+    "note": "Right Awareness and spiritual insight mentioned"
+  },
+  "tips_of_the_day/S05E77_Yearning_for_a_Better_World": {
+    "score": 3,
+    "note": "Mettā practice relates to Right Intention"
+  },
+  "tips_of_the_day/S05E78_Balancing_Lay_and_Spiritual_Life": {
+    "score": 4,
+    "note": "Buddhist practice and spiritual development discussed"
+  },
+  "tips_of_the_day/S05E79_Wildflower_Wisdom": {
+    "score": 3,
+    "note": "Dhamma practice and mindfulness mentioned"
+  },
+  "tips_of_the_day/S05E80_Dealing_with_the_Stories_that_Make_Us_Suffer": {
+    "score": 4,
+    "note": "Mindfulness practice relates to Right Mindfulness"
+  },
+  "tips_of_the_day/S05E81_The_Wisdom_and_Virtues_of_Insecurity": {
+    "score": 4,
+    "note": "Buddhist teachings and contemplative practices mentioned"
+  },
+  "tips_of_the_day/S05E82_As_Winter_Approaches": {
+    "score": 3,
+    "note": "Buddhist teaching and embodied awareness mentioned"
+  },
+  "tips_of_the_day/S05E83_Guidelines_For_a_New_Years_Resolution": {
+    "score": 3,
+    "note": "Mentions spiritual development but not specifically Eightfold Path"
+  },
+  "tips_of_the_day/S05E84_Coronavirus_Messenger_from_the_Gods": {
+    "score": 2,
+    "note": "Buddhist perspective on crisis but no Eightfold Path focus"
+  },
+  "tips_of_the_day/S05E85_Quench_all_Resentments": {
+    "score": 4,
+    "note": "Relates to Right Intention through metta and compassion practices"
+  },
+  "tips_of_the_day/S05E86_Exiting_Lockdown": {
+    "score": 3,
+    "note": "Mindfulness practice mentioned but not Eightfold Path specifically"
+  },
+  "tips_of_the_day/S05E87_Committing_to_the_Path": {
+    "score": 8,
+    "note": "Directly explores Right Intention, second factor of Eightfold Path"
+  },
+  "tips_of_the_day/S05E88_Beauty": {
+    "score": 3,
+    "note": "Touches on attachment and precepts but not Path directly"
+  },
+  "tips_of_the_day/S05E89_Motivation_for_Practice": {
+    "score": 4,
+    "note": "Relates to Right Intention through motivation and practice guidance"
+  },
+  "tips_of_the_day/S05E90_All_in_the_Mind": {
+    "score": 3,
+    "note": "Six sense spheres relate to mindfulness but not Path focus"
+  },
+  "tips_of_the_day/S05E91_Perfection_Elitism_and_Excellence": {
+    "score": 3,
+    "note": "Buddhist concepts of suffering but no Eightfold Path emphasis"
+  },
+  "tips_of_the_day/S05E92_Material_World": {
+    "score": 2,
+    "note": "Discusses khandhas and attachment but not Path specifically"
+  },
+  "tips_of_the_day/S05E93_Inner_Voices": {
+    "score": 2,
+    "note": "Meditation practice mentioned but no Eightfold Path connection"
+  },
+  "tips_of_the_day/S05E94_Full_Catastrophe_Ethics": {
+    "score": 4,
+    "note": "Ethical preparation relates to Right Action and Livelihood"
+  },
+  "tips_of_the_day/S05E95_On_Learning_how_to_be_with_Climate_and_Social_Breakdown": {
+    "score": 3,
+    "note": "Buddhist practice application but no specific Path discussion"
+  },
+  "tips_of_the_day/S05E96_Living_in_the_here_and_now_Bhante_Bodhidhamma": {
+    "score": 7,
+    "note": "Directly discusses Right Awareness, seventh factor of Path"
+  },
+  "tips_of_the_day/S05E97_Being_Human_Bhante_Bodhidhamma": {
+    "score": 3,
+    "note": "Noble friendship relates to Path but not primary focus"
+  },
+  "tips_of_the_day/S05E98_Sympathy_Empathy_Compassion_Bhante_Bodhidhamma": {
+    "score": 4,
+    "note": "Compassion relates to Right Intention and ethical conduct"
+  },
+  "tips_of_the_day/S05E99_Non-Violence_is_not_Pacificism_Bhante_Bodhidhamma": {
+    "score": 5,
+    "note": "First precept and Right Action discussion with ethical reasoning"
+  },
+  "tips_of_the_day/S05E100_Neoliberalism_and_Buddhadhamma_Bhante_Bodhidhamma": {
+    "score": 4,
+    "note": "Relates to Right Livelihood through economic ethics critique"
+  },
+  "tips_of_the_day/S05E101_Dullness_and_Lethargy_Our_Two_Very_Good_Friends_Carl_Fooks": {
+    "score": 4,
+    "note": "Meditation obstacles relate to Right Concentration and Effort"
+  },
+  "tips_of_the_day/S05E102_Preparing_for_Climate_Change_-_First_Ethical_Maxim_Noirin_Sheahan": {
+    "score": 3,
+    "note": "Mindfulness practice but not specifically Eightfold Path focused"
+  },
+  "tips_of_the_day/S05E103_Red_Lines_Sila_-_Third_Ethical_Maxim_Noirin_Sheahan": {
+    "score": 5,
+    "note": "Sila and first precept directly relate to Right Action"
+  },
+  "tips_of_the_day/S05E104_Radical_Hope_Saddha_-_Second_Ethical_Maxim_Noirin_Sheahan": {
+    "score": 4,
+    "note": "Saddha relates to Right View and spiritual confidence"
+  },
+  "tips_of_the_day/S05E105_New_Year_Resolutions_and_the_Third_Maxim_Noirin_Sheahan": {
+    "score": 5,
+    "note": "Adhitthana relates to Right Effort and ethical resolve"
+  },
+  "tips_of_the_day/S05E106_4th_Maxim_i_Opportunity_Knocks_Noirin_Sheahan": {
+    "score": 6,
+    "note": "Upanisa Sutta spiral includes multiple Path factors development"
+  },
+  "tips_of_the_day/S05E107_4th_Maxim_ii_Spiral_to_Freedom_Noirin_Sheahan": {
+    "score": 6,
+    "note": "Upanisa Sutta progression relates to Path development stages"
+  },
+  "tips_of_the_day/S05E108_Fourth_Maxim_iii_Path_to_Transcendence_Noirin_Sheahan": {
+    "score": 7,
+    "note": "Discusses twelve-step path from suffering to awakening"
+  },
+  "tips_of_the_day/S05E109_Equanimity_The_Most_Important_Virtue_Bhante_Bodhidhamma": {
+    "score": 6,
+    "note": "Explores upekkhā as factor in Seven Factors of Awakening"
+  },
+  "tips_of_the_day/S05E110_The_Danger_of_Nihilism_Bhante_Bodhidhamma": {
+    "score": 3,
+    "note": "Mentions Buddhist practice as path but focuses on nihilism"
+  },
+  "tips_of_the_day/S05E111_Neo-Fascism_Bhante_Bodhidhamma": {
+    "score": 2,
+    "note": "Political analysis with minimal Eightfold Path content"
+  },
+  "tips_of_the_day/S05E112_The_Gift_of_Joy_Mudita_Bhante_Bodhidhamma": {
+    "score": 4,
+    "note": "Discusses muditā as brahmavihāra, related to Right Attitude"
+  },
+  "tips_of_the_day/S05E113_We_just_follow_circumstance_Bhante_Bodhidhamma": {
+    "score": 4,
+    "note": "Buddhist practice preparation, mentions satipañña but not Eightfold"
+  },
+  "tips_of_the_day/S05E114_To_Love_or_To_Be_Loved_That_is_the_Question_Bhante_Bodhidhamma": {
+    "score": 3,
+    "note": "Buddhist psychology on relationships, minimal Eightfold Path content"
+  },
+  "tips_of_the_day/S05E115_Samsara_doomed_to_suffer_over_and_over_again_Bhante_Bodhidhamma": {
+    "score": 3,
+    "note": "General Buddhist concepts, mentions wisdom overcoming delusion"
+  },
+  "tips_of_the_day/S05E116_Compassion_To_Care_Bhante_Bodhidhamma": {
+    "score": 5,
+    "note": "Explores karuṇā as compassionate action in Buddhist practice"
+  },
+  "tips_of_the_day/S05E117_Compassion_A_Path_of_Liberation_Bhante_Bodhidhamma": {
+    "score": 8,
+    "note": "Explicitly discusses compassion as Right Attitude in Eightfold Path"
+  },
+  "tips_of_the_day/S05E118_Fifth_Maxim_Develop_the_Body_and_Mind_Noirin_Sheahan": {
+    "score": 5,
+    "note": "Connects breathing practices to Buddhist training methods"
+  },
+  "tips_of_the_day/S05E119_The_Buddhas_Alter_Ego_The_World_Conquering_Monarch_Bhante_Bodhidhamma": {
+    "score": 4,
+    "note": "Parallels Seven Treasures with Seven Factors of Awakening"
+  },
+  "tips_of_the_day/S05E120_There_is_a_Body_Exploring_the_Mind-Body_Relationship_Noirin_Sheahan": {
+    "score": 6,
+    "note": "Satipaṭṭhāna meditation practice, foundation of Right Awareness"
+  },
+  "tips_of_the_day/S05E121_Self-love_and_Self-Acceptance_Bhante_Bodhidhamma": {
+    "score": 4,
+    "note": "Foundation of mettā practice, relates to Right Attitude"
+  },
+  "tips_of_the_day/S05E122_The_Crucial_Role_of_Desire_and_Intention_Bhante_Bodhidhamma": {
+    "score": 7,
+    "note": "Explores intention as kamma, fundamental to Eightfold Path"
+  },
+  "tips_of_the_day/S05E123_Mindfulness_meets_Metta_Noirin_Sheahan": {
+    "score": 6,
+    "note": "Connects Satipaṭṭhāna practice with Right Awareness development"
+  },
+  "tips_of_the_day/S05E124_Surely_meditation_shouldnt_feel_like_this_Noirin_Sheahan": {
+    "score": 5,
+    "note": "Ānāpānasati practice and mindfulness in daily activities"
+  },
+  "tips_of_the_day/S05E125_The_Fire_Sermon": {
+    "score": 6,
+    "note": "Non-reactivity and disenchantment, relates to Right Understanding"
+  },
+  "tips_of_the_day/S05E126_Why_spend_a_week_or_more_on_retreat": {
+    "score": 4,
+    "note": "Retreat practice supporting daily life meditation development"
+  },
+  "tips_of_the_day/S05E127_Nibanna_is_Close_at_Hand": {
+    "score": 5,
+    "note": "Awakening through brahmavihāras, relates to Right Attitude"
+  },
+  "tips_of_the_day/S05E128_AI_Art": {
+    "score": 1,
+    "note": "Art and AI discussion, minimal Buddhist content"
+  },
+  "tips_of_the_day/S05E129_A_Field_of_Barley": {
+    "score": 8,
+    "note": "Explicitly demonstrates final three factors of Eightfold Path"
+  },
+  "tips_of_the_day/S05E130_War": {
+    "score": 3,
+    "note": "Buddhist approaches to conflict, emphasizes equanimity"
+  },
+  "tips_of_the_day/S05E131_The_Enlightenment_and_its_Demise": {
+    "score": 1,
+    "note": "Historical analysis with minimal Buddhist content"
+  },
+  "tips_of_the_day/S05E132_The_Enlightenment_and_Possible_Salvation": {
+    "score": 3,
+    "note": "Buddhist solutions to modern problems, general approach"
+  },
+  "tips_of_the_day/S05E133_Sixth_Maxim_Act_for_the_Future_Generations_of_All_Species": {
+    "score": 2,
+    "note": "Focuses on climate ethics, mentions metta but not Eightfold Path"
+  },
+  "tips_of_the_day/S05E134_Cultivating_Metta_for_Future_Generations": {
+    "score": 2,
+    "note": "About metta practice, not specifically Eightfold Path teachings"
+  },
+  "retreat_talks/S01E01_Detailed_Guided_Meditation": {
+    "score": 4,
+    "note": "Vipassana meditation relates to Right Mindfulness component of Path"
+  },
+  "retreat_talks/S01E02_Starting_a_Retreat": {
+    "score": 3,
+    "note": "Mentions precepts and meditation, touches on Path elements"
+  },
+  "retreat_talks/S01E03_Abiding_in_the_Present_Moment_Developing_Equanimity": {
+    "score": 3,
+    "note": "Equanimity relates to Right Mindfulness but not comprehensive"
+  },
+  "retreat_talks/S01E04_Detailed_Guided_Meditation": {
+    "score": 4,
+    "note": "Vipassana practice relates to Right Mindfulness and Concentration"
+  },
+  "retreat_talks/S01E05_Assisted_Meditation": {
+    "score": 4,
+    "note": "Mindfulness meditation relates to Right Mindfulness component"
+  },
+  "retreat_talks/S01E06_Heartcare_Metta_Meditation": {
+    "score": 2,
+    "note": "Metta practice, not specifically about Eightfold Path"
+  },
+  "retreat_talks/S01E07_Bodycare_Meditation": {
+    "score": 2,
+    "note": "Metta to body practice, not Eightfold Path focused"
+  },
+  "retreat_talks/S02E01_Eating_meditation": {
+    "score": 3,
+    "note": "Mindful eating relates to Right Mindfulness component"
+  },
+  "retreat_talks/S02E02_Morning_Chant_with_Refuges_and_Precepts": {
+    "score": 3,
+    "note": "Precepts relate to Right Action/Speech/Livelihood components"
+  },
+  "retreat_talks/S02E03_Evening_Metta_Chant": {
+    "score": 2,
+    "note": "Metta chanting, not specifically Eightfold Path teaching"
+  },
+  "retreat_talks/S03E01_The_Technique": {
+    "score": 4,
+    "note": "Meditation technique relates to Right Mindfulness and Concentration"
+  },
+  "retreat_talks/S03E02_The_Hindrances": {
+    "score": 5,
+    "note": "Hindrances directly relate to Right Effort component"
+  },
+  "retreat_talks/S03E03_The_Factors_of_Enlightenment": {
+    "score": 6,
+    "note": "Seven factors complement and relate to Eightfold Path"
+  },
+  "retreat_talks/S03E04_The_Pleasure_Syndrome_dukkha": {
+    "score": 4,
+    "note": "Understanding suffering relates to Right Understanding component"
+  },
+  "retreat_talks/S03E05_The_Characteristic_of_Impermanence": {
+    "score": 4,
+    "note": "Impermanence understanding relates to Right Understanding component"
+  },
+  "retreat_talks/S03E06_Anatta_Not_self": {
+    "score": 4,
+    "note": "Not-self understanding relates to Right Understanding component"
+  },
+  "retreat_talks/S03E07_Living_Life_according_to_the_Dhamma": {
+    "score": 9,
+    "note": "Explicitly covers Noble Eightfold Path and daily practice"
+  },
+  "retreat_talks/S03E08_Mahasi_Talk": {
+    "score": 4,
+    "note": "Meditation instructions relate to Right Mindfulness component"
+  },
+  "retreat_talks/S03E09_Vedana_Feeling": {
+    "score": 4,
+    "note": "Understanding feelings relates to Right Understanding component"
+  },
+  "retreat_talks/S03E10_Is_Awareness_Enough": {
+    "score": 5,
+    "note": "Discusses Right Mindfulness and other necessary factors"
+  },
+  "retreat_talks/S03E11_Eroticism_Romance_Love_Distraction_and_Boredom": {
+    "score": 3,
+    "note": "Working with hindrances relates to Right Effort"
+  },
+  "retreat_talks/S03E12_The_Perfections_Turned_Inward": {
+    "score": 3,
+    "note": "Perfections relate to but distinct from Eightfold Path"
+  },
+  "retreat_talks/S03E13_Faith": {
+    "score": 3,
+    "note": "Faith as spiritual faculty relates to Path practice"
+  },
+  "retreat_talks/S03E14_Revising_the_principles_of_vipassana": {
+    "score": 7,
+    "note": "Discusses Four Noble Truths, core foundation of Eightfold Path"
+  },
+  "retreat_talks/S03E15_Fear": {
+    "score": 4,
+    "note": "Meditation guidance relevant to Right Mindfulness and Concentration"
+  },
+  "retreat_talks/S03E16_Foregiveness": {
+    "score": 3,
+    "note": "Touches on dependent origination, peripheral to Path teaching"
+  },
+  "retreat_talks/S03E17_The_Gratification_the_Danger_and_the_Escape": {
+    "score": 5,
+    "note": "Buddha's framework for understanding, relates to Right Understanding"
+  },
+  "retreat_talks/S03E18_Karma": {
+    "score": 4,
+    "note": "Discusses will and intention, relevant to Right Intention"
+  },
+  "retreat_talks/S03E19_Rebirth": {
+    "score": 2,
+    "note": "Background doctrine, minimal connection to Eightfold Path practice"
+  },
+  "retreat_talks/S03E20_The_Illimitables": {
+    "score": 5,
+    "note": "Heart practices complement Path, relates to Right Intention"
+  },
+  "retreat_talks/S04E01_The_Ten_Fetters": {
+    "score": 6,
+    "note": "Discusses four stages of awakening through Path practice"
+  },
+  "retreat_talks/S04E02_The_Awakening": {
+    "score": 7,
+    "note": "Buddha's insights and Four Noble Truths foundation of Path"
+  },
+  "retreat_talks/S04E03_The_Years_of_Teaching_and_Parinibbana": {
+    "score": 6,
+    "note": "Wisdom expressing as compassion through the Eightfold Path"
+  },
+  "retreat_talks/S04E04_Ethical_Behaviour_and_the_Awakening_are_one": {
+    "score": 8,
+    "note": "Unity of wisdom and ethics, core Path teaching"
+  },
+  "retreat_talks/S04E05_The_Buddha_as_Exemplar_and_Archetype": {
+    "score": 4,
+    "note": "Buddha's journey as spiritual example, background to Path"
+  },
+  "retreat_talks/S04E06_Meditation_and_Ordinary_Daily_Life": {
+    "score": 8,
+    "note": "Integration of practice with Right Speech, Action, Livelihood"
+  },
+  "retreat_talks/S04E07_Free_Will": {
+    "score": 3,
+    "note": "Philosophical exploration, mentions dependent origination peripherally"
+  },
+  "retreat_talks/S04E08_Karma_Specific_Conditionality_the_Five_Laws_ethical_behaviou": {
+    "score": 5,
+    "note": "Discusses ethical behavior and conditionality, relates to Path"
+  },
+  "retreat_talks/S04E09_Right_Livelihood": {
+    "score": 9,
+    "note": "Directly teaches fifth factor of Noble Eightfold Path"
+  },
+  "retreat_talks/S04E10_Chi_Gong_min_guidance": {
+    "score": 2,
+    "note": "Movement practice, minimal connection to Path teaching"
   }
 }

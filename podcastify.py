@@ -803,12 +803,16 @@ def pass_catalog():
     print("CATALOG SUMMARY")
     print("=" * 60)
     for feed_id, feed_data in catalog.items():
-        print(f"\n  {feed_data['name']}")
-        print(f"    {feed_data['season_count']} seasons, "
-              f"{feed_data['episode_count']} episodes")
-        for season in feed_data['seasons']:
-            print(f"      S{season['number']:02d}: {season['name']} "
-                  f"({season['episode_count']} ep)")
+        print(f"\n  {feed_data.get('name', feed_id)}")
+        if 'seasons' in feed_data:
+            print(f"    {feed_data.get('season_count', len(feed_data['seasons']))} seasons, "
+                  f"{feed_data.get('episode_count', '?')} episodes")
+            for season in feed_data['seasons']:
+                print(f"      S{season['number']:02d}: {season['name']} "
+                      f"({season.get('episode_count', len(season.get('episodes', [])))} ep)")
+        else:
+            ep_count = feed_data.get('episode_count', len(feed_data.get('episodes', [])))
+            print(f"    {ep_count} episodes (text collection)")
     print(f"\n  TOTAL: {total_episodes} episodes across {len(FEEDS)} feeds")
     print(f"  Saved to: {CATALOG_PATH}")
 
@@ -832,7 +836,7 @@ def pass_probe():
     with open(CATALOG_PATH, 'r') as f:
         catalog = json.load(f)
 
-    total = sum(fd['episode_count'] for fd in catalog.values())
+    total = sum(fd.get('episode_count', 0) for fd in catalog.values() if 'seasons' in fd)
     probed = 0
     skipped = 0
 
@@ -890,9 +894,11 @@ def pass_probe():
 
     save_every = 50
     for feed_id, feed_data in catalog.items():
+        if 'seasons' not in feed_data:
+            continue  # text collections — no audio to probe
         for season in feed_data['seasons']:
             for ep in season['episodes']:
-                if ep['duration_seconds'] > 0:
+                if ep.get('duration_seconds', 0) > 0:
                     skipped += 1
                     continue
 
@@ -971,10 +977,12 @@ def pass_transcribe():
     model = whisperx.load_model("large-v3", device,
                                 compute_type=compute_type)
 
-    total = sum(fd['episode_count'] for fd in catalog.values())
+    total = sum(fd.get('episode_count', 0) for fd in catalog.values() if 'seasons' in fd)
     done = 0
 
     for feed_id, feed_data in catalog.items():
+        if 'seasons' not in feed_data:
+            continue
         feed_slug = feed_data['slug']
         feed_transcript_dir = TRANSCRIPTS_DIR / feed_slug
         feed_transcript_dir.mkdir(exist_ok=True)
@@ -1173,7 +1181,7 @@ def _format_srt_time(seconds: float) -> str:
 # Pass 4: Describe (Claude AI)
 # ============================================================
 
-CLAUDE_MODEL = "claude-sonnet-4-20250514"
+CLAUDE_MODEL = "claude-opus-4-5"
 CLAUDE_MAX_TOKENS = 4096
 DESCRIPTION_DISCLAIMER = "\n\n(This description was generated automatically, inaccuracies may happen in the process.)"
 DESCRIPTION_MAX_CHARS = 3800  # iTunes <description> recommended max ~4000, leave room for disclaimer
@@ -1241,11 +1249,13 @@ def pass_describe():
     with open(CATALOG_PATH, 'r') as f:
         catalog = json.load(f)
 
-    total = sum(fd['episode_count'] for fd in catalog.values())
+    total = sum(fd.get('episode_count', 0) for fd in catalog.values() if 'seasons' in fd)
     done = 0
     api_calls = 0
 
     for feed_id, feed_data in catalog.items():
+        if 'seasons' not in feed_data:
+            continue
         feed_slug = feed_data['slug']
         feed_meta_dir = METADATA_DIR / feed_slug
         feed_meta_dir.mkdir(exist_ok=True)
@@ -1664,6 +1674,8 @@ def pass_feeds():
     CONTENT_NS = "http://purl.org/rss/1.0/modules/content/"
 
     for feed_id, feed_data in catalog.items():
+        if 'seasons' not in feed_data:
+            continue  # text collections — no RSS feed
         feed_path = FEEDS_DIR / f"{feed_data['slug']}.xml"
         print(f"  Generating: {feed_data['slug']}.xml ...")
 
@@ -1775,7 +1787,7 @@ def pass_feeds():
         tree.write(feed_path, encoding='unicode', xml_declaration=True)
 
         included = ep_global_idx
-        msg = f"    {included} episodes, {feed_data['season_count']} seasons → {feed_path.name}"
+        msg = f"    {included} episodes, {feed_data.get('season_count', len(feed_data.get('seasons', [])))} seasons → {feed_path.name}"
         if skipped_dead:
             msg += f" ({skipped_dead} dead links excluded)"
         print(msg)
@@ -1892,13 +1904,15 @@ def pass_beautify():
     with open(CATALOG_PATH, 'r') as f:
         catalog = json.load(f)
 
-    total = sum(fd['episode_count'] for fd in catalog.values())
+    total = sum(fd.get('episode_count', 0) for fd in catalog.values() if 'seasons' in fd)
     done = 0
     api_calls = 0
     total_input_tokens = 0
     total_output_tokens = 0
 
     for feed_id, feed_data in catalog.items():
+        if 'seasons' not in feed_data:
+            continue
         feed_slug = feed_data['slug']
         feed_article_dir = BEAUTIFY_DIR / feed_slug
         feed_article_dir.mkdir(exist_ok=True)
