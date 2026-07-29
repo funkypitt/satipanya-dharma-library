@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <title>Satipanya — Guided Meditations</title>
     <description>Guided Vipassana meditation practices and Pali chanting from Satipanya Buddhist Retreat, in the tradition of Mahasi Sayadaw.</description>
@@ -18,5 +18,205 @@
       <itunes:category text="Buddhism" />
     </itunes:category>
     <itunes:image href="covers/guided-meditations.png" />
+    <item>
+      <title>Introducing Vipassana Insight Meditation</title>
+      <description>This introductory guided meditation offers a comprehensive foundation in vipassanā (insight meditation) practice according to the Mahāsi Sayadaw tradition. Bhante Bodhidhamma guides practitioners through the essential elements of noting practice, beginning with establishing awareness of rising and falling breath sensations at the abdomen using simple noting words.
+
+The session systematically introduces key aspects of vipassanā: maintaining upright posture, dealing skillfully with wandering mind through gentle acknowledgment, and expanding awareness to include sounds, bodily sensations, and mental states as they arise. Practitioners learn to note experiences such as "thinking," "hearing," "pain," or emotional states like "anxiety" and "excitement," observing how all phenomena arise and pass away naturally.
+
+The meditation culminates in recognizing the three characteristics (tilakkhana) of existence: impermanence (anicca), unsatisfactoriness (dukkha), and not-self (anattā). Bhante emphasizes developing the capacity to observe the distinction between the knower and what is known, fostering the clear comprehension essential to insight practice. The session concludes with guidance for reflective review, encouraging practitioners to assess their diligence, skillfulness, and awareness of the fundamental characteristics of experience.
+
+(This description was generated automatically, inaccuracies may happen in the process.)</description>
+      <content:encoded>&lt;p&gt;This introductory guided meditation offers a comprehensive foundation in vipassanā (insight meditation) practice according to the Mahāsi Sayadaw tradition. Bhante Bodhidhamma guides practitioners through the essential elements of noting practice, beginning with establishing awareness of rising and falling breath sensations at the abdomen using simple noting words.
+
+The session systematically introduces key aspects of vipassanā: maintaining upright posture, dealing skillfully with wandering mind through gentle acknowledgment, and expanding awareness to include sounds, bodily sensations, and mental states as they arise. Practitioners learn to note experiences such as "thinking," "hearing," "pain," or emotional states like "anxiety" and "excitement," observing how all phenomena arise and pass away naturally.
+
+The meditation culminates in recognizing the three characteristics (tilakkhana) of existence: impermanence (anicca), unsatisfactoriness (dukkha), and not-self (anattā). Bhante emphasizes developing the capacity to observe the distinction between the knower and what is known, fostering the clear comprehension essential to insight practice. The session concludes with guidance for reflective review, encouraging practitioners to assess their diligence, skillfulness, and awareness of the fundamental characteristics of experience.
+
+(This description was generated automatically, inaccuracies may happen in the process.)&lt;/p&gt;</content:encoded>
+      <enclosure url="https://www.satipanya.org.uk/audio/guided/Introducing Vipassana Insight Meditation.mp3" type="audio/mpeg" length="16708517" />
+      <guid isPermaLink="true">https://www.satipanya.org.uk/audio/guided/Introducing Vipassana Insight Meditation.mp3</guid>
+      <pubDate>Sun, 02 Jan 2005 12:00:00 +0000</pubDate>
+      <itunes:author>Bhante Bodhidhamma</itunes:author>
+      <itunes:summary>A foundational guided meditation introducing the Mahāsi method of vipassanā practice, focusing on noting breath sensations and developing clear awareness.</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:39:46</itunes:duration>
+      <podcast:transcript url="transcripts/guided-meditations/S01E01_Introducing_Vipassana_Insight_Meditation.srt" type="application/srt" />
+    </item>
+    <item>
+      <title>Vipassana Guidelines</title>
+      <description>Bhante Bodhidhamma provides comprehensive guidelines for vipassanā insight meditation practice. Beginning with proper posture—an energized spine, relaxed body, and poised head—the instructions focus on observing abdominal sensations during natural breathing, using simple noting words like 'rising' and 'falling' to anchor attention.
+
+As stability develops, practitioners learn to extend awareness to whatever arises—sensations, feelings, emotions, thoughts, and mental images—observing each phenomenon with bare attention and noting words. This choiceless awareness, free from control or judgment, cultivates satipaññā (right awareness with intuitive intelligence).
+
+The talk explains how this impartial observation leads to direct insight into the three characteristics of existence: anicca (impermanence), dukkha (unsatisfactoriness), and anattā (not-self). Through intimate experience of these universal truths, practitioners realize that identification with or attachment to any phenomenon brings dissatisfaction. This vipassanā insight ultimately leads to complete liberation from suffering and the realization of Nibbāna—described as the unborn, unbecome, undying, uncreated, and unconditioned. The instruction concludes with the profound teaching that 'those who are mindful are in the presence of Nibbāna.'
+
+(This description was generated automatically, inaccuracies may happen in the process.)</description>
+      <content:encoded>&lt;p&gt;Bhante Bodhidhamma provides comprehensive guidelines for vipassanā insight meditation practice. Beginning with proper posture—an energized spine, relaxed body, and poised head—the instructions focus on observing abdominal sensations during natural breathing, using simple noting words like 'rising' and 'falling' to anchor attention.
+
+As stability develops, practitioners learn to extend awareness to whatever arises—sensations, feelings, emotions, thoughts, and mental images—observing each phenomenon with bare attention and noting words. This choiceless awareness, free from control or judgment, cultivates satipaññā (right awareness with intuitive intelligence).
+
+The talk explains how this impartial observation leads to direct insight into the three characteristics of existence: anicca (impermanence), dukkha (unsatisfactoriness), and anattā (not-self). Through intimate experience of these universal truths, practitioners realize that identification with or attachment to any phenomenon brings dissatisfaction. This vipassanā insight ultimately leads to complete liberation from suffering and the realization of Nibbāna—described as the unborn, unbecome, undying, uncreated, and unconditioned. The instruction concludes with the profound teaching that 'those who are mindful are in the presence of Nibbāna.'
+
+(This description was generated automatically, inaccuracies may happen in the process.)&lt;/p&gt;</content:encoded>
+      <enclosure url="https://www.satipanya.org.uk/wp-content/uploads/2023/09/Vipassana-Guidelines-read-by-Jim-Tibby.mp3" type="audio/mpeg" length="2329792" />
+      <guid isPermaLink="true">https://www.satipanya.org.uk/wp-content/uploads/2023/09/Vipassana-Guidelines-read-by-Jim-Tibby.mp3</guid>
+      <pubDate>Mon, 03 Jan 2005 12:00:00 +0000</pubDate>
+      <itunes:author>Bhante Bodhidhamma</itunes:author>
+      <itunes:summary>Essential instructions for vipassanā meditation, covering posture, breath awareness, noting practice, and the cultivation of right awareness leading to insight into the three characteristics.</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:03:14</itunes:duration>
+      <podcast:transcript url="transcripts/guided-meditations/S01E02_Vipassana_Guidelines.srt" type="application/srt" />
+    </item>
+    <item>
+      <title>45 minute Detailed Guided Meditation</title>
+      <description>This guided meditation provides detailed instructions for practicing vipassanā bhāvanā (insight meditation) according to the Mahasi Sayadaw tradition of Burma. Bhante Bodhidhamma guides practitioners through the complete process, beginning with establishing proper meditative posture and deep relaxation techniques.
+
+The session covers the fundamental elements of the practice: using the breath at the abdomen as the primary meditation object, employing noting techniques ("rising, falling, touching") to maintain concentrated awareness, and skillfully working with wandering thoughts and physical sensations. The guidance extends beyond basic concentration to the heart of insight practice—developing satipaññā (mindful awareness) that observes all arising mental and physical phenomena without attachment or aversion.
+
+Bhante explains how to work with challenging experiences like pain, emotions, and restlessness as opportunities for deeper understanding. The meditation culminates in pointing toward the three characteristics of existence: impermanence (anicca), not-self (anattā), and unsatisfactoriness (dukkha). This practice develops the choiceless awareness that leads to liberation from suffering and the realization of nibbāna.
+
+Suitable for both beginners seeking comprehensive instruction and experienced practitioners wanting to deepen their understanding of traditional vipassanā technique.
+
+(This description was generated automatically, inaccuracies may happen in the process.)</description>
+      <content:encoded>&lt;p&gt;This guided meditation provides detailed instructions for practicing vipassanā bhāvanā (insight meditation) according to the Mahasi Sayadaw tradition of Burma. Bhante Bodhidhamma guides practitioners through the complete process, beginning with establishing proper meditative posture and deep relaxation techniques.
+
+The session covers the fundamental elements of the practice: using the breath at the abdomen as the primary meditation object, employing noting techniques ("rising, falling, touching") to maintain concentrated awareness, and skillfully working with wandering thoughts and physical sensations. The guidance extends beyond basic concentration to the heart of insight practice—developing satipaññā (mindful awareness) that observes all arising mental and physical phenomena without attachment or aversion.
+
+Bhante explains how to work with challenging experiences like pain, emotions, and restlessness as opportunities for deeper understanding. The meditation culminates in pointing toward the three characteristics of existence: impermanence (anicca), not-self (anattā), and unsatisfactoriness (dukkha). This practice develops the choiceless awareness that leads to liberation from suffering and the realization of nibbāna.
+
+Suitable for both beginners seeking comprehensive instruction and experienced practitioners wanting to deepen their understanding of traditional vipassanā technique.
+
+(This description was generated automatically, inaccuracies may happen in the process.)&lt;/p&gt;</content:encoded>
+      <enclosure url="https://www.satipanya.org.uk/audio/guided/01 Detailed Guided Meditation.mp3" type="audio/mpeg" length="18901759" />
+      <guid isPermaLink="true">https://www.satipanya.org.uk/audio/guided/01 Detailed Guided Meditation.mp3</guid>
+      <pubDate>Tue, 04 Jan 2005 12:00:00 +0000</pubDate>
+      <itunes:author>Bhante Bodhidhamma</itunes:author>
+      <itunes:summary>Complete guided vipassanā meditation following the Mahasi Sayadaw method, covering posture, breath awareness, and mindful observation of arising phenomena.</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:45:00</itunes:duration>
+      <podcast:transcript url="transcripts/guided-meditations/S01E03_45_minute_Detailed_Guided_Meditation.srt" type="application/srt" />
+    </item>
+    <item>
+      <title>45 minute Assisted Meditation</title>
+      <description>This 45-minute guided meditation provides structured instruction in the Mahasi Sayadaw tradition of Vipassanā insight meditation. Bhante Bodhidhamma begins with establishing proper posture and body relaxation, then guides practitioners through breath awareness using the traditional 'rising, falling, sitting' noting technique.
+
+The session progresses from concentrated attention on breathing sensations to the broader practice of open awareness, where practitioners learn to note and observe all arising phenomena - bodily sensations, sounds, emotions, and mental formations - as they appear and dissolve. The guidance emphasizes the natural recognition of the three characteristics of existence (anicca, dukkha, anattā) through direct observation rather than intellectual analysis.
+
+With bell signals approximately every five minutes and a double bell at the halfway point, this meditation teaches the essential skill of returning attention to the breath whenever the mind wanders. The instruction concludes with encouragement to extend practice sessions and incorporate mettā bhāvanā (loving-kindness meditation) into daily routine. Perfect for developing consistent sitting practice and understanding the fundamental mechanics of insight meditation.
+
+(This description was generated automatically, inaccuracies may happen in the process.)</description>
+      <content:encoded>&lt;p&gt;This 45-minute guided meditation provides structured instruction in the Mahasi Sayadaw tradition of Vipassanā insight meditation. Bhante Bodhidhamma begins with establishing proper posture and body relaxation, then guides practitioners through breath awareness using the traditional 'rising, falling, sitting' noting technique.
+
+The session progresses from concentrated attention on breathing sensations to the broader practice of open awareness, where practitioners learn to note and observe all arising phenomena - bodily sensations, sounds, emotions, and mental formations - as they appear and dissolve. The guidance emphasizes the natural recognition of the three characteristics of existence (anicca, dukkha, anattā) through direct observation rather than intellectual analysis.
+
+With bell signals approximately every five minutes and a double bell at the halfway point, this meditation teaches the essential skill of returning attention to the breath whenever the mind wanders. The instruction concludes with encouragement to extend practice sessions and incorporate mettā bhāvanā (loving-kindness meditation) into daily routine. Perfect for developing consistent sitting practice and understanding the fundamental mechanics of insight meditation.
+
+(This description was generated automatically, inaccuracies may happen in the process.)&lt;/p&gt;</content:encoded>
+      <enclosure url="https://www.satipanya.org.uk/audio/guided/02 Assisted Meditation.mp3" type="audio/mpeg" length="17502537" />
+      <guid isPermaLink="true">https://www.satipanya.org.uk/audio/guided/02 Assisted Meditation.mp3</guid>
+      <pubDate>Wed, 05 Jan 2005 12:00:00 +0000</pubDate>
+      <itunes:author>Bhante Bodhidhamma</itunes:author>
+      <itunes:summary>A comprehensive guided Vipassanā meditation with bell signals every five minutes, teaching the fundamental noting technique and open awareness practice.</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:41:40</itunes:duration>
+      <podcast:transcript url="transcripts/guided-meditations/S01E04_45_minute_Assisted_Meditation.srt" type="application/srt" />
+    </item>
+    <item>
+      <title>30 minute Bodycare Meditation</title>
+      <description>This guided meditation by Bhante Bodhidhamma transforms our relationship with the body through the practice of mettā (loving-kindness). Drawing upon the Buddha's own teachings, the session begins by examining our unhealthy attachments to the body - our aversion to what we find disgusting, our vanity about appearance, and our clinging to sensual pleasures. The meditation incorporates the three contemplations that inspired the Buddha's spiritual quest: recognizing the body's susceptibility to sickness, aging, and death.
+
+After undermining wrong relationship patterns, Bhante guides us toward appreciation of this precious human birth. We apologize to our body for past mistreatment and systematically offer loving-kindness blessings from head to toe. The practice concludes with a visualization adapted from Tibetan Medicine Buddha tradition, drawing golden healing light through the body, before extending mettā to all beings everywhere.
+
+This meditation beautifully integrates classical Buddhist body contemplation with practical healing visualization, making it accessible for both newcomers to mettā practice and experienced meditators seeking to deepen their relationship with embodied spiritual life. Perfect for anyone struggling with body image, chronic illness, or simply wishing to cultivate greater appreciation for this temporary but precious vessel.
+
+(This description was generated automatically, inaccuracies may happen in the process.)</description>
+      <content:encoded>&lt;p&gt;This guided meditation by Bhante Bodhidhamma transforms our relationship with the body through the practice of mettā (loving-kindness). Drawing upon the Buddha's own teachings, the session begins by examining our unhealthy attachments to the body - our aversion to what we find disgusting, our vanity about appearance, and our clinging to sensual pleasures. The meditation incorporates the three contemplations that inspired the Buddha's spiritual quest: recognizing the body's susceptibility to sickness, aging, and death.
+
+After undermining wrong relationship patterns, Bhante guides us toward appreciation of this precious human birth. We apologize to our body for past mistreatment and systematically offer loving-kindness blessings from head to toe. The practice concludes with a visualization adapted from Tibetan Medicine Buddha tradition, drawing golden healing light through the body, before extending mettā to all beings everywhere.
+
+This meditation beautifully integrates classical Buddhist body contemplation with practical healing visualization, making it accessible for both newcomers to mettā practice and experienced meditators seeking to deepen their relationship with embodied spiritual life. Perfect for anyone struggling with body image, chronic illness, or simply wishing to cultivate greater appreciation for this temporary but precious vessel.
+
+(This description was generated automatically, inaccuracies may happen in the process.)&lt;/p&gt;</content:encoded>
+      <enclosure url="https://www.satipanya.org.uk/audio/guided/03 Bodycare Meditation.mp3" type="audio/mpeg" length="12468269" />
+      <guid isPermaLink="true">https://www.satipanya.org.uk/audio/guided/03 Bodycare Meditation.mp3</guid>
+      <pubDate>Thu, 06 Jan 2005 12:00:00 +0000</pubDate>
+      <itunes:author>Bhante Bodhidhamma</itunes:author>
+      <itunes:summary>A guided meditation offering mettā (loving-kindness) to the body, healing our relationship with this precious form through Buddhist contemplation and blessing.</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:29:40</itunes:duration>
+      <podcast:transcript url="transcripts/guided-meditations/S01E05_30_minute_Bodycare_Meditation.srt" type="application/srt" />
+    </item>
+    <item>
+      <title>Investigative Eating</title>
+      <description>In this guided meditation, Bhante Bodhidhamma explores the practice of investigative eating as a path to understanding pleasure without attachment. Drawing on the Buddha's teachings on yoniso manasikāra (right attention), he guides practitioners through a detailed examination of the eating process, from the initial intention to eat through the final moments of reflection.
+
+The talk emphasizes approaching food as medicine for the body rather than seeking ultimate happiness through sensory pleasure. Bhante Bodhidhamma breaks down the eating experience into its component parts: bodily sensations at the tongue, emotional responses in the heart, mental attention, and the will or intention behind our actions. This deconstruction helps practitioners understand the difference between gratification (which leads to continued craving) and contentment (the mind without desire).
+
+Practical guidance includes maintaining close attention to sense bases, using simple noting like 'tasting' rather than conceptual labels, and recognizing the body's natural signals for satiation. The meditation concludes with instruction on quiet abiding after meals, cultivating the three factors leading to awakening: calmness of body and heart, steadiness of attention, and receptive awareness that allows insights to arise naturally.
+
+(This description was generated automatically, inaccuracies may happen in the process.)</description>
+      <content:encoded>&lt;p&gt;In this guided meditation, Bhante Bodhidhamma explores the practice of investigative eating as a path to understanding pleasure without attachment. Drawing on the Buddha's teachings on yoniso manasikāra (right attention), he guides practitioners through a detailed examination of the eating process, from the initial intention to eat through the final moments of reflection.
+
+The talk emphasizes approaching food as medicine for the body rather than seeking ultimate happiness through sensory pleasure. Bhante Bodhidhamma breaks down the eating experience into its component parts: bodily sensations at the tongue, emotional responses in the heart, mental attention, and the will or intention behind our actions. This deconstruction helps practitioners understand the difference between gratification (which leads to continued craving) and contentment (the mind without desire).
+
+Practical guidance includes maintaining close attention to sense bases, using simple noting like 'tasting' rather than conceptual labels, and recognizing the body's natural signals for satiation. The meditation concludes with instruction on quiet abiding after meals, cultivating the three factors leading to awakening: calmness of body and heart, steadiness of attention, and receptive awareness that allows insights to arise naturally.
+
+(This description was generated automatically, inaccuracies may happen in the process.)&lt;/p&gt;</content:encoded>
+      <enclosure url="https://www.satipanya.org.uk/wp-content/uploads/2016/11/Investigative-Eating-meditation-13-min.mp3" type="audio/mpeg" length="5246117" />
+      <guid isPermaLink="true">https://www.satipanya.org.uk/wp-content/uploads/2016/11/Investigative-Eating-meditation-13-min.mp3</guid>
+      <pubDate>Fri, 07 Jan 2005 12:00:00 +0000</pubDate>
+      <itunes:author>Bhante Bodhidhamma</itunes:author>
+      <itunes:summary>A guided meditation on mindful eating, exploring how to engage with food and pleasure without attachment while deconstructing the components of experience.</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:12:29</itunes:duration>
+      <podcast:transcript url="transcripts/guided-meditations/S01E09_Investigative_Eating.srt" type="application/srt" />
+    </item>
+    <item>
+      <title>Why Chant</title>
+      <description>In this instructional talk, Bhante Bodhidhamma explores the role of chanting and ritual in establishing a meditation practice. He explains how simple ceremonies—bowing, lighting candles and incense, and reciting traditional formulas—can help set the proper tone and intention for practice, though emphasizes these are not strictly necessary.
+
+The talk provides detailed pronunciation guidance for essential Pāli chants, including the threefold recitation of taking refuge in the Buddha, Dhamma, and Saṅgha (Buddhaṃ saraṇaṃ gacchāmi), and the five training rules (pañca-sīla). Bhante carefully explains the meaning of each precept: refraining from harming living beings, taking what is not given, sexual misconduct, wrong speech, and intoxicants that cloud awareness.
+
+The episode concludes with guidance on closing practice with gratitude and the traditional final bow, along with making a daily determination to cultivate Right Awareness with a caring heart. This practical instruction serves both newcomers learning these foundational elements and experienced practitioners seeking to deepen their understanding of Buddhist ritual and its psychological benefits for establishing mindful presence.
+
+(This description was generated automatically, inaccuracies may happen in the process.)</description>
+      <content:encoded>&lt;p&gt;In this instructional talk, Bhante Bodhidhamma explores the role of chanting and ritual in establishing a meditation practice. He explains how simple ceremonies—bowing, lighting candles and incense, and reciting traditional formulas—can help set the proper tone and intention for practice, though emphasizes these are not strictly necessary.
+
+The talk provides detailed pronunciation guidance for essential Pāli chants, including the threefold recitation of taking refuge in the Buddha, Dhamma, and Saṅgha (Buddhaṃ saraṇaṃ gacchāmi), and the five training rules (pañca-sīla). Bhante carefully explains the meaning of each precept: refraining from harming living beings, taking what is not given, sexual misconduct, wrong speech, and intoxicants that cloud awareness.
+
+The episode concludes with guidance on closing practice with gratitude and the traditional final bow, along with making a daily determination to cultivate Right Awareness with a caring heart. This practical instruction serves both newcomers learning these foundational elements and experienced practitioners seeking to deepen their understanding of Buddhist ritual and its psychological benefits for establishing mindful presence.
+
+(This description was generated automatically, inaccuracies may happen in the process.)&lt;/p&gt;</content:encoded>
+      <enclosure url="https://www.satipanya.org.uk/wp-content/uploads/2015/09/Why-Chant.mp3" type="audio/mpeg" length="0" />
+      <guid isPermaLink="true">https://www.satipanya.org.uk/wp-content/uploads/2015/09/Why-Chant.mp3</guid>
+      <pubDate>Sat, 08 Jan 2005 12:00:00 +0000</pubDate>
+      <itunes:author>Bhante Bodhidhamma</itunes:author>
+      <itunes:summary>Bhante Bodhidhamma explains the purpose of chanting in Buddhist practice and teaches the pronunciation of traditional Pāli chants for taking refuge and precepts.</itunes:summary>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>00:03:40</itunes:duration>
+      <podcast:transcript url="transcripts/guided-meditations/S02E01_Why_Chant.srt" type="application/srt" />
+    </item>
   </channel>
 </rss>
