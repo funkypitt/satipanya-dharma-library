@@ -2,6 +2,7 @@
 """Génère le site statique pour la bibliothèque de talks Satipanya."""
 
 import hashlib
+from podcastify import url_valide as _url_valide
 import json
 import re
 import shutil
@@ -1532,7 +1533,12 @@ def build_episode_page(slug, ep, prev_ep, next_ep, feed_name):
     keywords = meta.get("keywords", [])
     speaker = ep.get("speaker", "")
     dur = ep.get("duration_seconds", 0)
-    audio_url = ep.get("url", "")
+    # Passe par la MEME fonction que les enclosures RSS (podcastify.url_valide) : beaucoup
+    # d'URL satipanya.org.uk contiennent des espaces non encodes, invalides pour un <audio src>
+    # comme pour un lecteur de podcast. Importee plutot que recopiee — la duplication est
+    # precisement ce qui avait laisse le lecteur du site casse alors que le RSS etait repare,
+    # dans le projet notable-dhamma-teachers (8 aout 2026).
+    audio_url = _url_valide(ep.get("url", ""))
     clean_feed = feed_name.replace("Satipanya — ", "")
 
     # Meta bar: reading time for text, duration for audio

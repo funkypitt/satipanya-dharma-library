@@ -27,7 +27,7 @@ import json, os, re, sys, time, subprocess
 from dataclasses import dataclass, field, asdict
 from typing import Optional, List, Dict, Tuple
 from pathlib import Path
-from urllib.parse import urljoin, unquote, quote
+from urllib.parse import urljoin, unquote, quote, urlsplit
 
 import requests
 from bs4 import BeautifulSoup, Tag
@@ -1645,6 +1645,29 @@ def _season_sort_key(season):
     return best
 
 
+def url_valide(url: str) -> str:
+    """Encode le CHEMIN d'une URL distante.
+
+    Beaucoup d'enclosures pointent sur satipanya.org.uk avec des espaces non encodes
+    (« /30 Why Meditate.mp3 ») : une URL invalide, que curl refuse (HTTP 000) et qu'un
+    lecteur de podcast ne peut pas suivre. Encodee, la meme ressource repond en 206.
+
+    urlSPLIT et non urlparse : urlparse detache en `params` tout ce qui suit un « ; » dans
+    le dernier segment (RFC 1808), et les espaces d'apres n'etaient pas encodes.
+    `safe` = les caracteres LEGAUX dans un chemin selon la RFC 3986 ; le « ; » en fait
+    partie (l'encoder en %3B fait repondre 401 au serveur satipanya), et « % » y figure
+    pour ne pas re-encoder ce qui l'est deja.
+
+    Correctif reporte depuis notable-dhamma-teachers (8 aout 2026).
+    """
+    if not url or not url.startswith('http'):
+        return url
+    p = urlsplit(url)
+    if not p.path:
+        return url
+    return p._replace(path=quote(p.path, safe="/%:@&=+$,;~!*'()")).geturl()
+
+
 def pass_feeds():
     """Generate RSS 2.0 podcast feeds with iTunes extensions."""
     print("=" * 60)
@@ -1747,7 +1770,7 @@ def pass_feeds():
                 if ep['file_format'] == 'mp4':
                     mime = 'video/mp4'
                 SubElement(item, 'enclosure', {
-                    'url': ep['url'],
+                    'url': url_valide(ep['url']),
                     'type': mime,
                     'length': str(ep.get('file_size_bytes', 0)),
                 })
