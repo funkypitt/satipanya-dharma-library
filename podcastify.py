@@ -379,10 +379,25 @@ def find_nearest_heading(element: Tag, heading_tags=None) -> str:
     return ""
 
 
+GENERIC_LINK_TEXTS = {'video', 'audio', 'listen', 'play', 'watch', 'mp3', 'mp4', 'recording',
+                      'talk', 'here', 'link'}
+
+
 def find_link_title(a_tag: Tag) -> str:
     """Extract the best title for an audio link from its context."""
     # 1. Direct text content of the link
     text = a_tag.get_text(strip=True)
+    # Un texte de lien generique (« Video » sur la page Full Moon Observance Day) n'est pas
+    # un titre : le nom de fichier l'est davantage (Faith.mp3 -> « Faith »). Sans cela, tous
+    # les episodes de la saison « Most Recent » s'appelaient « Video », leurs fichiers
+    # S21E0N_Video.srt se partageaient le meme nom, et chaque nouvelle causerie placee en tete
+    # decalait la numerotation : 7 causeries sur 8 portaient le transcript d'une autre
+    # (constate le 7 octobre 2026, la premiere depuis mars).
+    if text and text.lower().strip(' .:-') in GENERIC_LINK_TEXTS:
+        from_url = title_from_url(a_tag.get('href', '') or '')
+        if from_url:
+            return from_url
+        text = ''
     if text and len(text) > 3 and not text.lower().startswith(('download', 'stream', 'click')):
         return clean_title(text)
 
@@ -397,16 +412,43 @@ def find_link_title(a_tag: Tag) -> str:
     if prev and prev.parent == a_tag.parent:
         return clean_title(prev.get_text(strip=True))
 
-    # 4. Parent <li> or <p> text (minus the link itself)
+    # 4. Parent <li> or <p> text (minus the link itself and any generic sibling link)
     parent = a_tag.parent
     if parent and parent.name in ('li', 'p', 'td'):
         parent_text = parent.get_text(strip=True)
         link_text = a_tag.get_text(strip=True)
         remaining = parent_text.replace(link_text, '').strip(' -–—:•')
+        # Page « Full Moon Observance Day » : le paragraphe du lien ne contient que
+        # « Video » (lien YouTube voisin) + « Stream/Download » ; le titre est dans le
+        # <strong> du paragraphe precedent (« 2026 September 06 Faith »).
+        if remaining.lower().strip(' .:-') in GENERIC_LINK_TEXTS or remaining.lower().startswith('video'):
+            titre = find_preceding_strong_title(parent)
+            if titre:
+                return titre
+            remaining = ''
         if remaining and len(remaining) > 3:
             return clean_title(remaining)
 
     # 5. Fall back to URL-derived title
+    return ""
+
+
+def find_preceding_strong_title(paragraph: Tag, max_back: int = 4) -> str:
+    """Titre en gras dans l'un des quelques paragraphes qui precedent celui du lien,
+    sans le prefixe de date « 2026 September 06 » / « 06 September 2026 »."""
+    node = paragraph
+    for _ in range(max_back):
+        node = node.find_previous_sibling()
+        if node is None or node.name in ('h1', 'h2', 'h3', 'h4'):
+            return ""
+        strong = node.find(['strong', 'b']) if isinstance(node, Tag) else None
+        if strong:
+            text = strong.get_text(' ', strip=True)
+            text = re.sub(r'^\d{4}\s+[A-Za-z]+(\s+\d{1,2})?\s*[-–—:]?\s*', '', text)
+            text = re.sub(r'^(\d{1,2}\s+)?[A-Za-z]+\s+\d{4}\s*[-–—:]?\s*', '', text)
+            text = clean_title(text).rstrip('.')
+            if text and len(text) > 2:
+                return text
     return ""
 
 
@@ -713,6 +755,10 @@ def pass_catalog():
     MERGE_FIELDS = [
         'duration_seconds', 'file_size_bytes', 'transcript_path',
         'description_short', 'description_long',
+        # Note litteraire (score_literary.py) — sans ces deux champs, chaque re-scraping
+        # effacait les notes et la passe 6c rescorait TOUTE la bibliotheque (~640 appels
+        # Claude a chaque mise a jour : 547 le 26 juillet, 639 le 28, 642 le 7 octobre 2026).
+        'lite_score', 'lite_reason',
     ]
     existing_by_url = {}
     if CATALOG_PATH.exists():
@@ -863,7 +909,7 @@ def pass_probe():
                     result = subprocess.run(
                         ['ffprobe', '-v', 'error',
                          '-show_entries', 'format=duration',
-                         '-of', 'csv=p=0', url],
+                         '-of', 'csv=p=0', url_valide(url)],
                         capture_output=True, text=True, timeout=60
                     )
                     if result.returncode == 0 and result.stdout.strip():
