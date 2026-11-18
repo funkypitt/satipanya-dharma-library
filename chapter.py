@@ -34,6 +34,12 @@ Variables d'environnement requises :
 Environnement conda recommandé : interview
 """
 
+# Claude passe par Claude Code (abonnement), avec le module claude_code.py du
+# toolkit traduction ; CLAUDE_VIA=api pour l'API Anthropic.
+import os as _os, sys as _sys
+_sys.path.insert(0, _os.environ.get("TRADUCTION_DIR") or _os.path.expanduser("~/code/traduction"))
+import claude_code
+
 import argparse
 import json
 import os
@@ -1521,7 +1527,7 @@ def main():
                         help="Force le rescoring de pertinence (pass 1)")
     args = parser.parse_args()
 
-    if not os.environ.get("ANTHROPIC_API_KEY"):
+    if not claude_code.api_key():
         print("❌ ANTHROPIC_API_KEY non défini", file=sys.stderr)
         sys.exit(1)
 
@@ -1539,7 +1545,7 @@ def main():
     text = sum(1 for e in episodes if e.content_type == "text")
     print(f"   ({audio} audio + {text} texte)\n")
 
-    client = anthropic.Anthropic()
+    client = claude_code.client()
 
     cand_path = out_dir / "candidates.json"
     base_path = out_dir / "base.json"

@@ -23,6 +23,12 @@ Usage:
     python podcastify.py all
 """
 
+# Claude passe par Claude Code (abonnement), avec le module claude_code.py du
+# toolkit traduction ; CLAUDE_VIA=api pour l'API Anthropic.
+import os as _os, sys as _sys
+_sys.path.insert(0, _os.environ.get("TRADUCTION_DIR") or _os.path.expanduser("~/code/traduction"))
+import claude_code
+
 import json, os, re, sys, time, subprocess
 from dataclasses import dataclass, field, asdict
 from typing import Optional, List, Dict, Tuple
@@ -1238,12 +1244,12 @@ def pass_describe():
         print("ERROR: anthropic not installed. pip install anthropic")
         return
 
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    api_key = claude_code.api_key()
     if not api_key:
         print("ERROR: ANTHROPIC_API_KEY not set")
         return
 
-    client = anthropic.Anthropic(api_key=api_key)
+    client = claude_code.client(api_key=api_key)
     METADATA_DIR.mkdir(exist_ok=True)
 
     with open(CATALOG_PATH, 'r') as f:
@@ -1893,12 +1899,12 @@ def pass_beautify():
         print("ERROR: anthropic not installed. pip install anthropic")
         return
 
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    api_key = claude_code.api_key()
     if not api_key:
         print("ERROR: ANTHROPIC_API_KEY not set")
         return
 
-    client = anthropic.Anthropic(api_key=api_key)
+    client = claude_code.client(api_key=api_key)
     BEAUTIFY_DIR.mkdir(exist_ok=True)
 
     with open(CATALOG_PATH, 'r') as f:

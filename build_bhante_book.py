@@ -19,6 +19,12 @@ Usage :
     conda run -n newspapers python build_bhante_book.py generate
 """
 
+# Claude passe par Claude Code (abonnement), avec le module claude_code.py du
+# toolkit traduction ; CLAUDE_VIA=api pour l'API Anthropic.
+import os as _os, sys as _sys
+_sys.path.insert(0, _os.environ.get("TRADUCTION_DIR") or _os.path.expanduser("~/code/traduction"))
+import claude_code
+
 import json
 import sys
 import os
@@ -314,7 +320,7 @@ def pass_analyze():
         print("  ✓ Tous les articles sont déjà analysés.")
         return
 
-    client = anthropic.Anthropic()
+    client = claude_code.client()
     themes_list = "\n".join(f"  {i+1}. {t}" for i, t in enumerate(THEMES))
 
     system_prompt = f"""You are a scholar of Theravāda Buddhism, specializing in the Mahasi tradition.
@@ -472,7 +478,7 @@ def pass_select():
     # ── Étape 2b : Sélection Claude par cluster ──
     print("\n  Étape 2b : Sélection Claude par cluster thématique...")
 
-    client = anthropic.Anthropic()
+    client = claude_code.client()
     selected_stems = set()
     selection_rationale = {}
 
@@ -684,7 +690,7 @@ def pass_organize():
     talks = selection["selections"]
     print(f"\n  {len(talks)} talks à organiser")
 
-    client = anthropic.Anthropic()
+    client = claude_code.client()
 
     system_prompt = """You are a senior book editor organizing a collection of Buddhist dharma talks
 into a beautifully structured book that reads as a coherent spiritual journey.

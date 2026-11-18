@@ -19,6 +19,12 @@ Usage:
     python score_and_rank_docx.py --dry-run        # compter sans appeler l'API
 """
 
+# Claude passe par Claude Code (abonnement), avec le module claude_code.py du
+# toolkit traduction ; CLAUDE_VIA=api pour l'API Anthropic.
+import os as _os, sys as _sys
+_sys.path.insert(0, _os.environ.get("TRADUCTION_DIR") or _os.path.expanduser("~/code/traduction"))
+import claude_code
+
 import json
 import os
 import re
@@ -346,9 +352,9 @@ def main():
     if not todo:
         build_docx(catalog, scores); return
 
-    if not os.environ.get("ANTHROPIC_API_KEY"):
+    if not claude_code.api_key():
         print("ERREUR : ANTHROPIC_API_KEY non définie"); sys.exit(1)
-    client = anthropic.Anthropic()
+    client = claude_code.client()
 
     done = errs = 0
     for j, (eid, slug, ep, need) in enumerate(todo):
