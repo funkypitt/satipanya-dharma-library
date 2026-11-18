@@ -78,8 +78,8 @@ ARTICLES_DIR  = PROJECT_DIR / "articles"
 CHAPTERS_DIR  = PROJECT_DIR / "chapters"
 LOGO_PATH     = PROJECT_DIR / "assets" / "logo-left.png"
 
-OPUS_MODEL    = "claude-opus-4-5"         # substantive reasoning
-SONNET_MODEL  = "claude-sonnet-4-6"  # bulk relevance screening
+OPUS_MODEL    = "claude-opus-5"         # substantive reasoning
+SONNET_MODEL  = "claude-sonnet-5-5"  # bulk relevance screening
 
 # Collections dont l'auteur est Bhante Bodhidhamma
 BHANTE_COLLECTIONS = [
@@ -227,7 +227,8 @@ def load_content(ep: Episode, max_chars: int = MAX_CONTENT_CHARS) -> Optional[st
 
 def claude_call(client, model: str, system: str, user: str,
                 max_tokens: int = 4096, temperature: float = 0.3):
-    """Appel Claude avec retry. Utilise le streaming pour les requêtes longues."""
+    """Appel Claude avec retry. Utilise le streaming pour les requêtes longues.
+    `temperature` n'est plus transmis : Opus 5 et Sonnet 5.5 le refusent."""
     use_stream = max_tokens > 16000
     for attempt in range(4):
         try:
@@ -236,7 +237,6 @@ def claude_call(client, model: str, system: str, user: str,
                 with client.messages.stream(
                     model=model,
                     max_tokens=max_tokens,
-                    temperature=temperature,
                     system=system,
                     messages=[{"role": "user", "content": user}],
                 ) as stream:
@@ -247,7 +247,6 @@ def claude_call(client, model: str, system: str, user: str,
                 resp = client.messages.create(
                     model=model,
                     max_tokens=max_tokens,
-                    temperature=temperature,
                     system=system,
                     messages=[{"role": "user", "content": user}],
                 )
