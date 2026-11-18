@@ -14,7 +14,14 @@ Lance le pipeline complet en séquence :
 
 Chaque passe est incrémentale : elle saute les épisodes déjà traités.
 
-Prérequis : yt-dlp (pour le channel YouTube), ffmpeg, ANTHROPIC_API_KEY
+GARDE-FOU : garde_maj.py fait un état des lieux avant la première passe et le
+compare après la dernière. Si quoi que ce soit de déjà produit a disparu ou a été
+réécrit (fichier, épisode, titre, transcript, description, note), le script finit
+en erreur et dit quoi : NE PAS envoyer le site avant d'avoir compris. Lire le
+docstring de garde_maj.py avant de toucher à ce pipeline.
+
+Prérequis : yt-dlp (pour le channel YouTube), ffmpeg. Claude passe par Claude Code
+(abonnement) ; CLAUDE_VIA=api pour l'API (ANTHROPIC_API_KEY).
 
 Usage:
     python update-all.py              # tout
@@ -75,6 +82,8 @@ def main():
     print("║       Satipanya Dharma Library — Full Update            ║")
     print("╚══════════════════════════════════════════════════════════╝")
 
+    run("Pass 0: État des lieux (garde-fou)", [PYTHON, "garde_maj.py", "avant"])
+
     # Passes toujours exécutées
     run("Pass 1: Scraping catalog (site + YouTube)", [PYTHON, "podcastify.py", "catalog"])
     run("Pass 1b: Scanning local retreat files", [PYTHON, "ingest_local.py", "catalog"])
@@ -111,6 +120,7 @@ def main():
     )
     run("Pass 7: Building books (PDF + EPUB)", [NEWSPAPERS_PYTHON, "build_books.py"])
     run("Pass 8: Building website + PDFs", [PYTHON, "build_site.py"])
+    run("Pass 9: Rien de perdu ? (garde-fou)", [PYTHON, "garde_maj.py", "apres"])
 
     print("\n╔══════════════════════════════════════════════════════════╗")
     print("║                    Update complete                      ║")

@@ -765,6 +765,11 @@ def pass_catalog():
         # effacait les notes et la passe 6c rescorait TOUTE la bibliotheque (~640 appels
         # Claude a chaque mise a jour : 547 le 26 juillet, 639 le 28, 642 le 7 octobre 2026).
         'lite_score', 'lite_reason',
+        # Titre : un episode deja au catalogue garde le sien. Le 18 novembre 2026, six
+        # titres soignes de la saison « Most Recent » (« Faith (Saddhā) », « Restraint
+        # (Saṃvara) »...) ont ete remplaces par ceux de la page source (« Faith »,
+        # « Restraint! »). Pour reprendre le titre de la source, vider le champ a la main.
+        'title',
     ]
     existing_by_url = {}
     if CATALOG_PATH.exists():

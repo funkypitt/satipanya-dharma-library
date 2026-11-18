@@ -470,9 +470,27 @@ def pass_merge():
             continue
 
         if feed_key in catalog:
-            # Mise à jour : remplacer entièrement (la source de vérité est retreat_catalog)
+            # Mise à jour : retreat_catalog fait foi, MAIS ce que d'autres passes ont
+            # ajouté dans catalog.json (lite_score et lite_reason de score_literary.py)
+            # est repris. Sans cela les 40 causeries de retraite étaient renotées à
+            # chaque mise à jour, et leurs notes changeaient (constaté le 18 novembre 2026).
+            acquis = {
+                ep.get("url"): ep
+                for s in catalog[feed_key].get("seasons", [])
+                for ep in s.get("episodes", [])
+            }
+            repris = 0
+            for s in fdata.get("seasons", []):
+                for ep in s.get("episodes", []):
+                    ancien = acquis.get(ep.get("url"))
+                    if not ancien:
+                        continue
+                    for champ, valeur in ancien.items():
+                        if valeur not in (None, "", [], {}) and ep.get(champ) in (None, "", [], {}):
+                            ep[champ] = valeur
+                            repris += 1
             catalog[feed_key] = fdata
-            print(f"  ✓ Updated {feed_key}: {ep_count} episodes")
+            print(f"  ✓ Updated {feed_key}: {ep_count} episodes ({repris} champs acquis repris)")
         else:
             catalog[feed_key] = fdata
             print(f"  ✓ Added {feed_key}: {ep_count} episodes")

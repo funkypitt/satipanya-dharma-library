@@ -5,3 +5,5 @@ __pycache__/
 transcrire.py
 local_mp3_files/
 firebase-debug.log
+.garde-maj/
+catalog.json.bak-*
