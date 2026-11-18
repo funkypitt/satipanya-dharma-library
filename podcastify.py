@@ -26,6 +26,7 @@ Usage:
 # Claude passe par Claude Code (abonnement), avec le module claude_code.py du
 # toolkit traduction ; CLAUDE_VIA=api pour l'API Anthropic.
 import os as _os, sys as _sys
+from ytdlp_auto import ytdlp
 _sys.path.insert(0, _os.environ.get("TRADUCTION_DIR") or _os.path.expanduser("~/code/traduction"))
 import claude_code
 
@@ -608,7 +609,7 @@ def fetch_youtube_videos():
     print("\n  Fetching YouTube channel metadata via yt-dlp...")
     try:
         result = subprocess.run(
-            ['yt-dlp', '--flat-playlist', '--dump-json',
+            [ytdlp(), '--flat-playlist', '--dump-json',
              f'https://www.youtube.com/channel/{YOUTUBE_CHANNEL_ID}/videos'],
             capture_output=True, text=True, timeout=120
         )
@@ -939,7 +940,7 @@ def pass_probe():
         """Probe une URL YouTube via yt-dlp pour obtenir la durée."""
         try:
             result = subprocess.run(
-                ['yt-dlp', '--dump-json', '--no-download', url],
+                [ytdlp(), '--dump-json', '--no-download', url],
                 capture_output=True, text=True, timeout=30
             )
             if result.returncode == 0:
@@ -1074,7 +1075,7 @@ def pass_transcribe():
                     # Télécharger l'audio YouTube via yt-dlp
                     yt_tmp = PROJECT_DIR / "_tmp_yt_audio"
                     result = subprocess.run(
-                        ['yt-dlp', '-f', 'bestaudio/best',
+                        [ytdlp(), '-f', 'bestaudio/best',
                          '-x', '--audio-format', 'wav',
                          '--postprocessor-args', 'ffmpeg:-ar 16000 -ac 1',
                          '-o', str(yt_tmp) + '.%(ext)s',
