@@ -15,6 +15,12 @@ Usage :
     conda run -n interview python refine_articles.py --selection book_selection_v3.json
 """
 
+# Claude passe par Claude Code (abonnement), avec le module claude_code.py du
+# toolkit traduction ; CLAUDE_VIA=api pour l'API Anthropic.
+import os as _os, sys as _sys
+_sys.path.insert(0, _os.environ.get("TRADUCTION_DIR") or _os.path.expanduser("~/code/traduction"))
+import claude_code
+
 import argparse
 import json
 import os
@@ -119,7 +125,7 @@ def main():
                         help="Nombre max d'articles à traiter (0 = tous).")
     args = parser.parse_args()
 
-    if not os.environ.get("ANTHROPIC_API_KEY") and not args.dry_run:
+    if not claude_code.api_key() and not args.dry_run:
         print("❌ ANTHROPIC_API_KEY non défini", file=sys.stderr)
         sys.exit(1)
 
@@ -160,7 +166,7 @@ def main():
         return
 
     catalog_path = PROJECT_DIR / "catalog.json"
-    client = anthropic.Anthropic()
+    client = claude_code.client()
 
     successes = []
     failures = []

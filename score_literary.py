@@ -10,6 +10,12 @@ Usage:
 Le script est résumable : il sauvegarde catalog.json après chaque épisode scoré.
 """
 
+# Claude passe par Claude Code (abonnement), avec le module claude_code.py du
+# toolkit traduction ; CLAUDE_VIA=api pour l'API Anthropic.
+import os as _os, sys as _sys
+_sys.path.insert(0, _os.environ.get("TRADUCTION_DIR") or _os.path.expanduser("~/code/traduction"))
+import claude_code
+
 import json
 import os
 import re
@@ -30,7 +36,7 @@ PROJECT_DIR = Path(__file__).parent
 CATALOG_PATH = PROJECT_DIR / "catalog.json"
 ARTICLES_DIR = PROJECT_DIR / "articles"
 
-CLAUDE_MODEL = "claude-sonnet-4-6"
+CLAUDE_MODEL = "claude-sonnet-5-5"
 MAX_TRANSCRIPT_CHARS = 80_000  # Tronquer les transcripts très longs (garde début + fin)
 
 RUBRIC = """You are an expert literary critic evaluating the quality of a spoken dharma talk transcript.
@@ -116,11 +122,11 @@ def main():
     args = parser.parse_args()
 
     # Vérifier la clé API
-    if not args.dry_run and not os.environ.get("ANTHROPIC_API_KEY"):
+    if not args.dry_run and not claude_code.api_key():
         print("ERREUR : ANTHROPIC_API_KEY non définie")
         sys.exit(1)
 
-    client = None if args.dry_run else anthropic.Anthropic()
+    client = None if args.dry_run else claude_code.client()
 
     # Charger le catalogue
     with open(CATALOG_PATH, encoding="utf-8") as f:

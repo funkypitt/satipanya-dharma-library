@@ -18,6 +18,12 @@ Usage:
     python scrape_essays.py all
 """
 
+# Claude passe par Claude Code (abonnement), avec le module claude_code.py du
+# toolkit traduction ; CLAUDE_VIA=api pour l'API Anthropic.
+import os as _os, sys as _sys
+_sys.path.insert(0, _os.environ.get("TRADUCTION_DIR") or _os.path.expanduser("~/code/traduction"))
+import claude_code
+
 import json, os, re, sys, time
 from pathlib import Path
 from urllib.parse import urljoin, unquote
@@ -41,7 +47,7 @@ REQUEST_HEADERS = {
 }
 REQUEST_DELAY = 1.0
 
-CLAUDE_MODEL = "claude-sonnet-4-6"
+CLAUDE_MODEL = "claude-sonnet-5-5"
 CLAUDE_MAX_TOKENS = 4096
 DESCRIPTION_DISCLAIMER = "\n\n(This description was generated automatically, inaccuracies may happen in the process.)"
 DESCRIPTION_MAX_CHARS = 3800
@@ -728,12 +734,12 @@ def pass_describe():
         print("ERROR: pip install anthropic")
         return
 
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    api_key = claude_code.api_key()
     if not api_key:
         print("ERROR: ANTHROPIC_API_KEY not set")
         return
 
-    client = anthropic.Anthropic(api_key=api_key)
+    client = claude_code.client(api_key=api_key)
 
     with open(TEXT_CATALOG_PATH, encoding="utf-8") as f:
         text_catalog = json.load(f)
@@ -886,12 +892,12 @@ def pass_score():
         print("ERROR: pip install anthropic")
         return
 
-    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    api_key = claude_code.api_key()
     if not api_key:
         print("ERROR: ANTHROPIC_API_KEY not set")
         return
 
-    client = anthropic.Anthropic(api_key=api_key)
+    client = claude_code.client(api_key=api_key)
 
     with open(TEXT_CATALOG_PATH, encoding="utf-8") as f:
         text_catalog = json.load(f)

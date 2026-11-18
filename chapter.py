@@ -34,6 +34,12 @@ Variables d'environnement requises :
 Environnement conda recommandé : interview
 """
 
+# Claude passe par Claude Code (abonnement), avec le module claude_code.py du
+# toolkit traduction ; CLAUDE_VIA=api pour l'API Anthropic.
+import os as _os, sys as _sys
+_sys.path.insert(0, _os.environ.get("TRADUCTION_DIR") or _os.path.expanduser("~/code/traduction"))
+import claude_code
+
 import argparse
 import json
 import os
@@ -72,8 +78,8 @@ ARTICLES_DIR  = PROJECT_DIR / "articles"
 CHAPTERS_DIR  = PROJECT_DIR / "chapters"
 LOGO_PATH     = PROJECT_DIR / "assets" / "logo-left.png"
 
-OPUS_MODEL    = "claude-opus-4-5"         # substantive reasoning
-SONNET_MODEL  = "claude-sonnet-4-6"  # bulk relevance screening
+OPUS_MODEL    = "claude-opus-5"         # substantive reasoning
+SONNET_MODEL  = "claude-sonnet-5-5"  # bulk relevance screening
 
 # Collections dont l'auteur est Bhante Bodhidhamma
 BHANTE_COLLECTIONS = [
@@ -221,7 +227,8 @@ def load_content(ep: Episode, max_chars: int = MAX_CONTENT_CHARS) -> Optional[st
 
 def claude_call(client, model: str, system: str, user: str,
                 max_tokens: int = 4096, temperature: float = 0.3):
-    """Appel Claude avec retry. Utilise le streaming pour les requêtes longues."""
+    """Appel Claude avec retry. Utilise le streaming pour les requêtes longues.
+    `temperature` n'est plus transmis : Opus 5 et Sonnet 5.5 le refusent."""
     use_stream = max_tokens > 16000
     for attempt in range(4):
         try:
@@ -230,7 +237,6 @@ def claude_call(client, model: str, system: str, user: str,
                 with client.messages.stream(
                     model=model,
                     max_tokens=max_tokens,
-                    temperature=temperature,
                     system=system,
                     messages=[{"role": "user", "content": user}],
                 ) as stream:
@@ -241,7 +247,6 @@ def claude_call(client, model: str, system: str, user: str,
                 resp = client.messages.create(
                     model=model,
                     max_tokens=max_tokens,
-                    temperature=temperature,
                     system=system,
                     messages=[{"role": "user", "content": user}],
                 )
@@ -1521,7 +1526,7 @@ def main():
                         help="Force le rescoring de pertinence (pass 1)")
     args = parser.parse_args()
 
-    if not os.environ.get("ANTHROPIC_API_KEY"):
+    if not claude_code.api_key():
         print("❌ ANTHROPIC_API_KEY non défini", file=sys.stderr)
         sys.exit(1)
 
@@ -1539,7 +1544,7 @@ def main():
     text = sum(1 for e in episodes if e.content_type == "text")
     print(f"   ({audio} audio + {text} texte)\n")
 
-    client = anthropic.Anthropic()
+    client = claude_code.client()
 
     cand_path = out_dir / "candidates.json"
     base_path = out_dir / "base.json"
