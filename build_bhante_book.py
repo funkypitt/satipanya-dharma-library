@@ -56,7 +56,7 @@ SELECTION_PATH  = PROJECT_DIR / "book_selection.json"
 STRUCTURE_PATH  = PROJECT_DIR / "book_structure.json"
 BOOK_BASENAME   = "bhante-bodhidhamma"
 
-CLAUDE_MODEL = "claude-opus-4-5"
+CLAUDE_MODEL = "claude-opus-5"
 
 # Séries à inclure dans le livre curé
 TARGET_FEEDS = ["dharma-talks", "youtube-talks", "dhammabytes"]

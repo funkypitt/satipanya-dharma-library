@@ -1187,7 +1187,7 @@ def _format_srt_time(seconds: float) -> str:
 # Pass 4: Describe (Claude AI)
 # ============================================================
 
-CLAUDE_MODEL = "claude-opus-4-5"
+CLAUDE_MODEL = "claude-opus-5"
 CLAUDE_MAX_TOKENS = 4096
 DESCRIPTION_DISCLAIMER = "\n\n(This description was generated automatically, inaccuracies may happen in the process.)"
 DESCRIPTION_MAX_CHARS = 3800  # iTunes <description> recommended max ~4000, leave room for disclaimer

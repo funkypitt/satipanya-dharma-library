@@ -45,7 +45,7 @@ TRANSCRIPTS_DIR = PROJECT_DIR / "transcripts"
 SCORES_PATH = PROJECT_DIR / "rankings_scores.json"      # annexe (pas catalog.json)
 DOCX_PATH = PROJECT_DIR / "Satipanya_Talk_Rankings.docx"
 
-CLAUDE_MODEL = "claude-sonnet-4-6"
+CLAUDE_MODEL = "claude-sonnet-5-5"
 MAX_TRANSCRIPT_CHARS = 80_000
 
 # Collections de talks PARLÉS dans le scope (exclut méditations guidées + essais texte + tips).
